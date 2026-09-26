@@ -1,0 +1,499 @@
+{
+  "id": "fty",
+  "latinName": "Fe-Te-Ye",
+  "lettersArabic": "ف ت ي",
+  "meanings": [
+    "genç/civan olmak; ergin, cesur, cömert, erkeksi nitelikler, gözüpek, cesur, iyi arkadaş, genç yoldaş, genç köle, hizmetkar.",
+    "fetva kelimesi sözlükte “bir olayın hükmünü açıklayan veya hükmünü koyan, güçlükleri çözen kuvvetli cevap, hukuki görüş” anlamındadır."
+  ],
+  "derivativeNotes": [
+    "efta - tavsiyede bulunmak, görüş bildirmek, talimat vermek, karar vermek, bir hukuk meselesinde yargıda bulunmak/karar vermek, yasal bir kararname vermek, yasal bir karar ilan etmek, ilahi bir karar vermek veya kutsal bir yasa çıkarmak, anlamını açıklamak, duyurmak, açıklama yapmak."
+  ],
+  "turkishDerivatives": [
+    "fetva",
+    "müftü"
+  ],
+  "cognates": [],
+  "totalOccurrencesInQuran": 21,
+  "lemmas": [
+    {
+      "formArabic": "فَتًى",
+      "count": 1
+    },
+    {
+      "formArabic": "فَتَيَان",
+      "count": 1
+    },
+    {
+      "formArabic": "فِتْيَة",
+      "count": 3
+    },
+    {
+      "formArabic": "فَتَىٰ",
+      "count": 3
+    },
+    {
+      "formArabic": "فَتَيَٰت",
+      "count": 2
+    },
+    {
+      "formArabic": "يَسْتَفْتُ",
+      "count": 6
+    },
+    {
+      "formArabic": "يُفْتِي",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتًى",
+      "sura": 21,
+      "ayah": 60,
+      "formInAyah": "فَتًى",
+      "transliteration": "feten",
+      "gloss": "bir genç",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ",
+      "verseTransliteration": "Kâlû semi’nâ feten yezkuruhum yukâlu lehû ibrâhîm(ibrâhîmu).",
+      "verseMeaning": "Dediler: \"Onları diline dolayan bir genç duymuştuk. Kendisine ´İbrahim´ deniyor.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَيَان",
+      "sura": 12,
+      "ayah": 36,
+      "formInAyah": "فَتَيَانِ",
+      "transliteration": "feteyāni",
+      "gloss": "iki genç daha",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا ۖ وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+      "verseTransliteration": "Ve dehale meahus sicne feteyân(feteyâni), kâle ehaduhumâ innî erânî a’sıru hamrâ(hamren), ve kâlel âharu innî erânî ahmilu fevka re’sî hubzen te’kulut tayru minh(minhu), nebbi’nâ bi te’vîlih(te’vîlihî), innâ nerâke minel muhsinîn(muhsinîne).",
+      "verseMeaning": "Onunla birlikte zındana iki genç daha girmişti. Bir tanesi dedi ki: \"Rüyada gördüm, şarap sıkıyordum.\" Öteki de şöyle dedi: \"Ben de gördüm ki, başımın üstünde ekmek taşıyorum, kuşlar ondan yiyor. Bunun yorumunu bize bildir. Biz senin, güzel düşünüp güzel davrananlardan olduğun kanısındayız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْيَة",
+      "sura": 12,
+      "ayah": 62,
+      "formInAyah": "لِفِتْيَانِهِ",
+      "transliteration": "lifityānihi",
+      "gloss": "uşaklarına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+      "verseTransliteration": "Ve kâle li fityânihic’alû bidâatehum fî rihâlihim leallehum ya’rifûnehâ izenkalebû ilâ ehlihim leallehum yerci’ûn(yerci’ûne).",
+      "verseMeaning": "Yûsuf muhafızlarına dedi ki: \"Onların sermayelerini yüklerinin içine koyun. Bakarsın ailelerine döndüklerinde onu fark eder de tekrar gelirler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْيَة",
+      "sura": 18,
+      "ayah": 10,
+      "formInAyah": "الْفِتْيَةُ",
+      "transliteration": "l-fityetu",
+      "gloss": "o gençler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+      "verseTransliteration": "İz evel fityetu ilel kehfi fe kâlû rabbenâ âtinâ min ledunke rahmeten ve heyyi´ lenâ min emrinâ reşedâ(reşeden).",
+      "verseMeaning": "Hani, o yiğit gençler o mağaraya sığındılar da şöyle dediler: \"Ey Rabbimiz, katından bir rahmet ver bize ve bizim için bir çıkış yolu lütfet işimize.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْيَة",
+      "sura": 18,
+      "ayah": 13,
+      "formInAyah": "فِتْيَةٌ",
+      "transliteration": "fityetun",
+      "gloss": "gençlerdi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُمْ بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+      "verseTransliteration": "Nahnu nakussu aleyke nebeehum bil hakk(hakkı), innehum fityetun âmenû bi rabbihim ve zidnâhum hudâ(huden).",
+      "verseMeaning": "Biz onların haberlerini sana doğru bir şekilde anlatacağız. Şu bir gerçek ki onlar, Rablerine iman etmiş bir yiğitler grubuydu. Ve biz de onların hidayetini artırdık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَىٰ",
+      "sura": 12,
+      "ayah": 30,
+      "formInAyah": "فَتَاهَا",
+      "transliteration": "fetāhā",
+      "gloss": "uşağının",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ",
+      "verseTransliteration": "Ve kâle nisvetun fîl medînetimre’etul azîzi turâvidu fetâhâ an nefsih(nefsihî), kad şegafehâ hubbâ(hubben), innâ le nerâhâ fî dalâlin mubîn(mubînin).",
+      "verseMeaning": "Şehirde bazı kadınlar şöyle konuştular: \"Azîz´in karısı genç uşağının nefsinden gönlünü eğlendirmek istemiş. Aşktan yüreğinin zarı delinmiş. Öyle anlıyoruz ki, kadın tam bir çılgınlığa düşmüş.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَىٰ",
+      "sura": 18,
+      "ayah": 60,
+      "formInAyah": "لِفَتَاهُ",
+      "transliteration": "lifetāhu",
+      "gloss": "uşağına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا",
+      "verseTransliteration": "Ve iz kâle mûsâ li fetâhu lâ ebrehu hattâ ebluga mecmeal bahreyni ev emdıye hukubâ(hukuben).",
+      "verseMeaning": "Bir zaman Mûsa, genç dostuna şöyle demişti: \"İki denizin birleştiği yere kadar hiç durmadan yürüyeceğim yahut da seneler ve seneler harcayacağım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَىٰ",
+      "sura": 18,
+      "ayah": 62,
+      "formInAyah": "لِفَتَاهُ",
+      "transliteration": "lifetāhu",
+      "gloss": "uşağına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِنْ سَفَرِنَا هَٰذَا نَصَبًا",
+      "verseTransliteration": "Fe lemmâ câvezâ kâle li fetâhu âtinâ gadâenâ lekad lekînâ min seferinâ hâzâ nasabâ(nasaben).",
+      "verseMeaning": "Orayı geçtiklerinde Mûsa, genç arkadaşına dedi ki: \"Hadi, getir şu sabah yemeğimizi. Vallahi bu yolculuğumuz yüzünden epey çektik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَيَٰت",
+      "sura": 4,
+      "ayah": 25,
+      "formInAyah": "فَتَيَاتِكُمُ",
+      "transliteration": "feteyātikumu",
+      "gloss": "genç kızlarınız-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَنْ لَمْ يَسْتَطِعْ مِنْكُمْ طَوْلًا أَنْ يَنْكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ فَتَيَاتِكُمُ الْمُؤْمِنَاتِ ۚ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُمْ ۚ بَعْضُكُمْ مِنْ بَعْضٍ ۚ فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ ۚ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنْكُمْ ۚ وَأَنْ تَصْبِرُوا خَيْرٌ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Ve men lem yestetı’ minkum tavlen en yenkıhal muhsanâtil mu’minâti fe min mâ meleket eymânukum min feteyâtikumul mu’minât(mu’minâti) vallâhu a’lemu bi îmânikum ba’dukum min ba’d(ba’dın), fenkihûhunne bi izni ehlihinne ve âtûhunne ucûrehunne bil ma’rûfi muhsanâtin gayre musâfihâtin ve lâ muttehızâti ehdân(ehdânin), fe izâ uhsinne fe in eteyne bi fâhışetin fe aleyhinne nısfu mâ alel muhsanâti minel azâb(azâbi), zâlike li men haşiyel anete minkum ve en tasbirû hayrun lekum vallâhu gafûrun rahîm(rahîmun).",
+      "verseMeaning": "İnanmış hür kadınları nikâhlama genişliğine gücü yetmeyeniniz, ellerinizin altındaki genç, mümin köle kızlarından biriyle evlensin. Allah sizin imanınızı daha iyi bilir. Hep birbirinizdensiniz. O halde onları, ailelerinin izniyle nikâhlayın. Gizli dost edinmeyerek, zinadan uzak kalarak, iffetli hanımlar olmaları şartıyla onların mehirlerini örfe uygun bir biçimde verin. Evliliğe geçtikten sonra bir fuhuş yaparlarsa onlara, hür kadınlara uygulanan cezasının yarısı uygulanacaktır. Bu, köle ile evlenme yolu, günaha ve sıkıntıya girmekten korkanınız içindir. Sabretmeniz sizin için daha hayırlıdır. Allah çok affedici, çok merhametlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَيَٰت",
+      "sura": 24,
+      "ayah": 33,
+      "formInAyah": "فَتَيَاتِكُمْ",
+      "transliteration": "feteyātikum",
+      "gloss": "cariyelerinizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَالَّذِينَ يَبْتَغُونَ الْكِتَابَ مِمَّا مَلَكَتْ أَيْمَانُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَآتُوهُمْ مِنْ مَالِ اللَّهِ الَّذِي آتَاكُمْ ۚ وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ تَحَصُّنًا لِتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا ۚ وَمَنْ يُكْرِهْهُنَّ فَإِنَّ اللَّهَ مِنْ بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Velyesta’fifillezîne lâ yecidûne nikâhan hattâ yugniyehumullâhu min fadlih(fadlihi), vellezîne yebtegûnel kitâbe mimmâ meleket eymânukum fe kâtibûhum in alimtum fîhim hayren, ve âtûhum min mâlillâhillezî âtâkum, ve lâ tukrihû feteyâtikum alel bigâi in eradne tehassunen li tebtegû aradal hayâtid dunyâ ve men yukrıhhunne fe innellâhe min ba’di ikrâhihinne gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Nikâh imkânı bulamayanlar, Allah kendilerini lütfundan zenginleştirinceye kadar iffetlerini korusunlar. Size bağımlı olanlardan, hürriyetini satın almak isteyenlerin, kendilerinde iyi hal görürseniz, onlarla yazılı anlaşma yapın. Allah´a size verdiği malından siz de onlara verin. Hizmetinizdeki genç kızları, iffetli kalmak isteyip dururlarken, iğreti dünya hayatının basit menfaatini elde etmek için fuhşa zorlamayın. Kim onları baskı altında tutarsa Allah, fuhşa zorlanmalarından sonra onları affedici, esirgeyicidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَفْتُ",
+      "sura": 4,
+      "ayah": 127,
+      "formInAyah": "وَيَسْتَفْتُونَكَ",
+      "transliteration": "ve yesteftūneke",
+      "gloss": "senden fetva istiyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+      "verseTransliteration": "Ve yesteftûneke fîn nisâi kulillâhu yuftîkum fîhinne, ve mâ yutlâ aleykum fîl kitâbi fî yetâmen nisâillâtî lâ tu’tûnehunne mâ kutibe lehunne ve tergabûne en tenkihûhunne vel mustad’afîne minel vildâni, ve en tekûmû lil yetâmâ bil kıst(kıstı) ve mâ tef’alû min hayrin fe innallâhe kâne bihî alîmâ(alîmen).",
+      "verseMeaning": "Senden kadınlar hakkında fetva soruyorlar. De ki: \"Onlar hakkında fetvayı size Allah veriyor.\" Yazılmış hakları olanı kendilerine vermeyip de kendileriyle nikâhlanmak istediğiniz kadınların yetimleri hakkında, ezilip horlanan çocuklar hakkında, yetimler için adaleti yerine getirmeniz hakkında. Kitap´ta olup da yüzünüze karşı okunan şeyler var. Hayır olarak yaptığınız her şeyi Allah, hakkıyla bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَفْتُ",
+      "sura": 4,
+      "ayah": 176,
+      "formInAyah": "يَسْتَفْتُونَكَ",
+      "transliteration": "yesteftūneke",
+      "gloss": "senden fetva istiyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yesteftûnek(yesteftûneke), kulillâhu yuftîkum fîl kelâleh(kelâleti) inimruun heleke leyse lehû veled(veledun), ve lehû uhtun fe lehâ nısfu mâ terak(terake), ve huve yerisuhâ in lem yekun lehâ veled(veledun), fe in kânetesneteyni fe le humes sulusâni mimmâ terak(terake) ve in kânû ıhveten ricâlen ve nisâen fe liz zekeri mislu hazzıl unseyeyn(unseyeyni), yubeyyinullâhu lekum en tadıllû vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Fetva istiyorlar senden. De ki: \"Allah size, ana-babasız ve çocuksuz kişi hakkında şöyle fetva veriyor: ´Çocuğu olmayan, bir kızkardeşi bulunan kişi öldüğünde, onun terekesinin yarısı kızkardeşindir. Böyle bir kişi, çocuğu olmayan kızkardeşi öldüğünde, onun terekesinin tamamına mirasçı olur. Eğer ölenin iki kızkardeşi varsa terekenin üçte ikisi onlarındır. Eğer mirasçılar, kadın-erkek, birçok kardeşlerse bu durumda erkek kardeşe, iki kızkardeşin payı kadar verilir.´ Allah size açık-seçik bildiriyor ki sapmayasınız. Allah, her şeyi gereğince bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَفْتُ",
+      "sura": 12,
+      "ayah": 41,
+      "formInAyah": "تَسْتَفْتِيَانِ",
+      "transliteration": "testeftiyāni",
+      "gloss": "sorduğunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, İkil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ",
+      "verseTransliteration": "Yâ sâhıbeyis sicni emmâ ehadukumâ fe yeskî rabbehu hamrâ(hamren), ve emmel âharu fe yuslebu fe te’kulut tayru min re’sih(re’sihî), kudiyel emrullezî fîhi testeftiyân(testeftiyâni).",
+      "verseMeaning": "\"Ey benim zından arkadaşlarım! Rüyanıza gelince: Bir taneniz rab edindiği kişiye şarap sunacak. Ötekiniz ise asılacak da kuşlar başından yiyecek. Hakkında fetva sorduğunuz iş, böyle hükme bağlanmıştır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَفْتُ",
+      "sura": 18,
+      "ayah": 22,
+      "formInAyah": "تَسْتَفْتِ",
+      "transliteration": "testefti",
+      "gloss": "bir şey sorma",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُلْ رَبِّي أَعْلَمُ بِعِدَّتِهِمْ مَا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا",
+      "verseTransliteration": "Se yekûlûne selâsetun râbiuhum kelbuhum, ve yekûlûne hamsetun sâdisuhum kelbuhum recmen bil gayb(gaybi), ve yekûlûne seb´atun ve sâminuhum kelbuhum, kul rabbî a´lemu bi ıddetihim mâ ya´lemuhum illâ kalîl(kalîlun), fe lâ tumâri fîhim illâ mirâen zâhirâ(zâhiren), ve lâ testefti fîhim minhum ehâdâ(ehâden).",
+      "verseMeaning": "\"Üç kişiydiler, dördüncüleri köpekleriydi.\" diyecekler. Şunu da diyecekler: \"Beş kişiydiler, altıncıları köpekleriydi.\" Gaybı taşlamaktır/bilinmeyen şey hakkında atıp tutmaktır bu. Şöyle de derler: \"Yedi kişidirler, sekizincileri de köpekleridir.\" De ki: \"Onların sayısını Rabbim daha iyi bilir. Onlar hakkında bilgisi olan, çok azdır.\" O halde, onlar hakkında yüzeysel bir tartışma dışında hiçbir çekişmeye girme. Onlar hakkında, konuşup duranlardan hiç kimseye bir şey sorma."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَفْتُ",
+      "sura": 37,
+      "ayah": 11,
+      "formInAyah": "فَاسْتَفْتِهِمْ",
+      "transliteration": "festeftihim",
+      "gloss": "şimdi onlara sor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَمْ مَنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ",
+      "verseTransliteration": "Festeftihim e hum eşeddu halkan em men halaknâ, innâ halaknâhum min tînin lâzib(lâzibin).",
+      "verseMeaning": "Şimdi sor onlara: Yaratış ve yaratılış bakımından onlar mı daha güçlüdür, yoksa bizim yarattığımız şuurlular mı? Gerçek şu ki, biz onları bir cıvık çamurdan yarattık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَفْتُ",
+      "sura": 37,
+      "ayah": 149,
+      "formInAyah": "فَاسْتَفْتِهِمْ",
+      "transliteration": "festeftihim",
+      "gloss": "şimdi onlara sor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ",
+      "verseTransliteration": "Festeftihim e li rabbikel benâtu ve lehumul benûn(benûne).",
+      "verseMeaning": "Şimdi sor şunlara: \"Kızlar Rabbinin de oğlanlar onların mı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُفْتِي",
+      "sura": 4,
+      "ayah": 127,
+      "formInAyah": "يُفْتِيكُمْ",
+      "transliteration": "yuftīkum",
+      "gloss": "size hükmünü açıklıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+      "verseTransliteration": "Ve yesteftûneke fîn nisâi kulillâhu yuftîkum fîhinne, ve mâ yutlâ aleykum fîl kitâbi fî yetâmen nisâillâtî lâ tu’tûnehunne mâ kutibe lehunne ve tergabûne en tenkihûhunne vel mustad’afîne minel vildâni, ve en tekûmû lil yetâmâ bil kıst(kıstı) ve mâ tef’alû min hayrin fe innallâhe kâne bihî alîmâ(alîmen).",
+      "verseMeaning": "Senden kadınlar hakkında fetva soruyorlar. De ki: \"Onlar hakkında fetvayı size Allah veriyor.\" Yazılmış hakları olanı kendilerine vermeyip de kendileriyle nikâhlanmak istediğiniz kadınların yetimleri hakkında, ezilip horlanan çocuklar hakkında, yetimler için adaleti yerine getirmeniz hakkında. Kitap´ta olup da yüzünüze karşı okunan şeyler var. Hayır olarak yaptığınız her şeyi Allah, hakkıyla bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُفْتِي",
+      "sura": 4,
+      "ayah": 176,
+      "formInAyah": "يُفْتِيكُمْ",
+      "transliteration": "yuftīkum",
+      "gloss": "size şöyle açıklıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yesteftûnek(yesteftûneke), kulillâhu yuftîkum fîl kelâleh(kelâleti) inimruun heleke leyse lehû veled(veledun), ve lehû uhtun fe lehâ nısfu mâ terak(terake), ve huve yerisuhâ in lem yekun lehâ veled(veledun), fe in kânetesneteyni fe le humes sulusâni mimmâ terak(terake) ve in kânû ıhveten ricâlen ve nisâen fe liz zekeri mislu hazzıl unseyeyn(unseyeyni), yubeyyinullâhu lekum en tadıllû vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Fetva istiyorlar senden. De ki: \"Allah size, ana-babasız ve çocuksuz kişi hakkında şöyle fetva veriyor: ´Çocuğu olmayan, bir kızkardeşi bulunan kişi öldüğünde, onun terekesinin yarısı kızkardeşindir. Böyle bir kişi, çocuğu olmayan kızkardeşi öldüğünde, onun terekesinin tamamına mirasçı olur. Eğer ölenin iki kızkardeşi varsa terekenin üçte ikisi onlarındır. Eğer mirasçılar, kadın-erkek, birçok kardeşlerse bu durumda erkek kardeşe, iki kızkardeşin payı kadar verilir.´ Allah size açık-seçik bildiriyor ki sapmayasınız. Allah, her şeyi gereğince bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُفْتِي",
+      "sura": 12,
+      "ayah": 43,
+      "formInAyah": "أَفْتُونِي",
+      "transliteration": "eftūnī",
+      "gloss": "bana anlatın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالَ الْمَلِكُ إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ ۖ يَا أَيُّهَا الْمَلَأُ أَفْتُونِي فِي رُؤْيَايَ إِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ",
+      "verseTransliteration": "Ve kâlel meliku innî erâ seb’a bakarâtin simânin ye’kuluhunne seb’un icâfun ve seb’a sunbulâtin hudrin ve uhara yâbisât (yâbisâtin), yâ eyyuhel meleu eftûnî fî ru’yâye in kuntum lir ru’yâ ta’burûn(ta’burûne).",
+      "verseMeaning": "Kral dedi ki: \"Düşümde yedi semiz inek görüyorum. Bunları yedi cılız inek yiyor. Ayrıca yedi yeşil başak, yedi de kuru başak görüyorum. Ey bendelerim! Eğer rüya tabir ediyorsanız, bu rüyam hakkında bana bir fetva verin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُفْتِي",
+      "sura": 12,
+      "ayah": 46,
+      "formInAyah": "أَفْتِنَا",
+      "transliteration": "eftinā",
+      "gloss": "bize bilgi ver",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ لَعَلِّي أَرْجِعُ إِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+      "verseTransliteration": "Yûsufu eyyuhes sıddîku eftinâ fî seb’ı bakarâtin simânin ye’kuluhunne seb’un icâfun ve seb’ı sunbulâtin hudrin ve uhare yâbisâtin, leallî erciu ilen nâsi leallehum ya’lemûn(ya’lemûne).",
+      "verseMeaning": "\"Yûsuf, ey özü sözü doğru insan! Şu rüyayı yorumla bize. Yedi semiz inek var, yedi cılız inek bunları yiyor; yedi yeşil başak, bir yedi tane de kuru başak. Umarım buradan insanların yanına giderim, onlar da öğrenirler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُفْتِي",
+      "sura": 27,
+      "ayah": 32,
+      "formInAyah": "أَفْتُونِي",
+      "transliteration": "eftūnī",
+      "gloss": "bana bir fikir verin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَتْ يَا أَيُّهَا الْمَلَأُ أَفْتُونِي فِي أَمْرِي مَا كُنْتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ",
+      "verseTransliteration": "Kâlet yâ eyyuhel meleu eftûnî fî emrî, mâ kuntu kâtıaten emren hattâ teşhedûn(teşhedûni).",
+      "verseMeaning": "Melike dedi: \"Ey danışmanlarım, bu meselem konusunda bana fikir verin. Siz onaylamadıkça, hiçbir işe kesin karar vermem.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fty"
+}

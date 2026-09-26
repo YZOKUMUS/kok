@@ -1,0 +1,70 @@
+{
+  "id": "qyl",
+  "latinName": "Kaf-Ye-Lam",
+  "lettersArabic": "ق ي ل",
+  "meanings": [
+    "to make a siesta at noon, sleep in the middle of the day. qailun - one who takes siesta at midday. maqil - place of repose at noon, resting place."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "قَائِلُون",
+      "count": 1
+    },
+    {
+      "formArabic": "مَقِيل",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَائِلُون",
+      "sura": 7,
+      "ayah": 4,
+      "formInAyah": "قَائِلُونَ",
+      "transliteration": "ḳāilūne",
+      "gloss": "gündüz uyurlarken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءَهَا بَأْسُنَا بَيَاتًا أَوْ هُمْ قَائِلُونَ",
+      "verseTransliteration": "Ve kem min karyetin ehleknâhâ fe câehâ be’sunâ beyâten ev hum kâilûn(kâilûne).",
+      "verseMeaning": "Nice yurtları ve medeniyetleri yere batırdık biz. Öyle ki, geceleyin yahut öğle uykusu uyumakta oldukları bir sırada azabımız tepelerine iniverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَقِيل",
+      "sura": 25,
+      "ayah": 24,
+      "formInAyah": "مَقِيلًا",
+      "transliteration": "meḳīlen",
+      "gloss": "dinlenecekleri yer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
+      "verseTransliteration": "Ashâbul cenneti yevme izin hayrun mustekarran ve ahsenu makîlâ(makîlen).",
+      "verseMeaning": "O gün, konakladıkları yer çok hayırlı, dinlenip eğlendikleri yer çok güzel olanlar, cennet halkıdır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qyl"
+}

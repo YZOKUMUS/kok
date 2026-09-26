@@ -1,0 +1,94 @@
+{
+  "id": "xpl",
+  "latinName": "Kh-Zal-Lam",
+  "lettersArabic": "خ ذ ل",
+  "meanings": [
+    "Yüzüstü bırakmak, yardım etmemek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "خَذُول",
+      "count": 1
+    },
+    {
+      "formArabic": "مَّخْذُول",
+      "count": 1
+    },
+    {
+      "formArabic": "يَخْذُلْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَذُول",
+      "sura": 25,
+      "ayah": 29,
+      "formInAyah": "خَذُولًا",
+      "transliteration": "ḣaƶūlen",
+      "gloss": "yüzüstü bırakandır",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي ۗ وَكَانَ الشَّيْطَانُ لِلْإِنْسَانِ خَذُولًا",
+      "verseTransliteration": "Lekad edallenî aniz zikri ba’de iz câenî, ve kâneş şeytânu lil insâni hazûlâ(hazûlen).",
+      "verseMeaning": "\"Zikir/Kur´an bana geldikten sonra, o saptırdı beni ondan. Şeytan, insan için bir rezil edicidir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّخْذُول",
+      "sura": 17,
+      "ayah": 22,
+      "formInAyah": "مَخْذُولًا",
+      "transliteration": "meḣƶūlen",
+      "gloss": "ve yalnız başına bırakılmış olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَا تَجْعَلْ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتَقْعُدَ مَذْمُومًا مَخْذُولًا",
+      "verseTransliteration": "Lâ tec’al meallâhi ilâhen âhare fe tak’ude mezmûmen mahzûlâ(mahzûlen).",
+      "verseMeaning": "Allah´ın yanına başka bir ilah koyma ki, yapayalnız ve horlanmış olarak oturup kalmayasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَخْذُلْ",
+      "sura": 3,
+      "ayah": 160,
+      "formInAyah": "يَخْذُلْكُمْ",
+      "transliteration": "yeḣƶulkum",
+      "gloss": "sizi yüz üstü bırakırsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِنْ يَخْذُلْكُمْ فَمَنْ ذَا الَّذِي يَنْصُرُكُمْ مِنْ بَعْدِهِ ۗ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+      "verseTransliteration": "İn yansurkumullâhu fe lâ gâlibe lekum, ve in yahzulkum fe menzellezî yansurukum min ba’dih(ba’dihi), ve alâllâhi fel yetevekkelil mu’minûn(mu’minûne).",
+      "verseMeaning": "Allah size yardım ederse hiç kimse size galip gelemez. Eğer sizi yüzüstü bırakırsa O´ndan başka size kim yardım edebilir? Artık müminler yalnız Allah´a güvenip dayansınlar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xpl"
+}

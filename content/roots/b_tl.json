@@ -1,0 +1,823 @@
+{
+  "id": "bTl",
+  "latinName": "Be-Ta-Lam",
+  "lettersArabic": "ب ط ل",
+  "meanings": [
+    "Batıl olmak, boş olmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 36,
+  "lemmas": [
+    {
+      "formArabic": "بَطَلَ",
+      "count": 1
+    },
+    {
+      "formArabic": "بَٰطِل",
+      "count": 26
+    },
+    {
+      "formArabic": "مُبْطِلُون",
+      "count": 5
+    },
+    {
+      "formArabic": "يُبْطِلَ",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَطَلَ",
+      "sura": 7,
+      "ayah": 118,
+      "formInAyah": "وَبَطَلَ",
+      "transliteration": "ve beTale",
+      "gloss": "ve batıl oldu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Fe vakaal hakku ve batale mâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "Böylece hak ortaya çıktı, onların yapıp ettikleri, işe yaramaz hale geldi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 2,
+      "ayah": 42,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "batılla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ve lâ telbisûl hakka bil bâtılı ve tektumûl hakka ve entum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Hakkı batılla/saçmalık ve tutarsızlıkla kirletmeyin. Bilip durduğunuz halde gerçeği gizliyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 2,
+      "ayah": 188,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "batıl (sebepler) ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ وَتُدْلُوا بِهَا إِلَى الْحُكَّامِ لِتَأْكُلُوا فَرِيقًا مِنْ أَمْوَالِ النَّاسِ بِالْإِثْمِ وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ve lâ te’kulû emvâlekum beynekum bil bâtılı ve tudlû bihâ ilel hukkâmi li te’kulû ferîkan min emvâlin nâsi bil ismi ve entum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Mallarınızı aranızda haksız ve uydurma yollara baş vurarak yemeyin; bilip durduğunuz halde insanların mallarından bir kısmını günaha saparak yemek için onları yargıçlara aktarmayın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 3,
+      "ayah": 71,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "batılla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُونَ الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ya ehlel kitâbi lime telbisûnel hakka bil bâtılı ve tektumûnel hakka ve entum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Ey Ehlikitap! Neden hakkı batılla kirletiyorsunuz ve bilip durduğunuz halde gerçeği gizliyorsunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 3,
+      "ayah": 191,
+      "formInAyah": "بَاطِلًا",
+      "transliteration": "bāTilen",
+      "gloss": "boş yere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+      "verseTransliteration": "Ellezîne yezkurûnallâhe kıyâmen ve kuûden ve alâ cunûbihim ve yetefekkerûne fî halkıs semâvâti vel ard(ardı), rabbenâ mâ halakte hâzâ bâtılâ(bâtılan), subhâneke fekınâ azâben nâr(nârı).",
+      "verseMeaning": "Aklı ve gönlü işletenler o kişilerdir ki, ayakta, otururken, yan yatarken hep Allah´ı zikrederler; göklerin ve yerin yaratılışı hakkında derin derin düşünürler: \"Ey Rabbimiz! Sen bunu boşuna yaratmadın. Şanın yücedir senin. Ateş azabından koru bizi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 4,
+      "ayah": 29,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "batılla (haksız yere)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ te’kulû emvâlekum beynekum bil bâtılı, illâ en tekûne ticâreten an terâdın minkum, ve lâ taktulû enfusekum, innallâhe kâne bikum rahîmâ(rahîmen).",
+      "verseMeaning": "Ey inananlar! Mallarınızı aranızda bâtıl bir yolla/tutarsız bahanelerle yemeyin. Kendi hoşnutluğunuzla gerçekleşmiş bir ticaret olursa başka. Kendi canlarınıza kıymayın/intihar etmeyin. Hiç kuşkusuz, Allah, size karşı çok merhametlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 4,
+      "ayah": 161,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "haksız yere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "verseTransliteration": "Ve ahzihimur ribâ ve kad nuhû anhu ve eklihim emvâlen nâsi bil bâtıl(bâtılı) ve a’tednâ lil kâfirîne minhum azâben elîmâ(elîmen).",
+      "verseMeaning": "Ve ribayı almaları yüzünden -oysaki ondan yasaklanmışlardı- ve haksız yollarla insanların mallarını yemeleri yüzünden onların küfre sapanlarına korkunç bir azap hazırladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 7,
+      "ayah": 139,
+      "formInAyah": "وَبَاطِلٌ",
+      "transliteration": "ve bāTilun",
+      "gloss": "ve boşa çıkmıştır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ هَٰؤُلَاءِ مُتَبَّرٌ مَا هُمْ فِيهِ وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "İnne hâulâi mutebberun mâ hum fîhi ve bâtılun mâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "\"Şu gördüklerinizin, içinde bulundukları din çökmüştür. Yapmakta oldukları da boşa çıkacaktır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 8,
+      "ayah": 8,
+      "formInAyah": "الْبَاطِلَ",
+      "transliteration": "l-bāTile",
+      "gloss": "batılı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ",
+      "verseTransliteration": "Li yuhıkkal hakka ve yubtılel bâtıle ve lev kerihel mucrimûn(mucrimûne).",
+      "verseMeaning": "Diliyordu ki, kötülüğü temsil edenler istemese de hakkı ayan-beyan gözler önüne koysun, saçma ve tutarsız olanı hükümsüz kılsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 9,
+      "ayah": 34,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "haksızlıkla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ كَثِيرًا مِنَ الْأَحْبَارِ وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ ۗ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû inne kesîren minel ahbâri ver ruhbâni le ye´kulûne emvâlen nâsi bil bâtıli ve yasuddûne an sebîlillâh(sebîlillâhi), vellezîne yeknizûnez zehebe vel fıddate ve lâ yunfikûnehâ fî sebîlillâhi fe beşşirhum bi azâbin elîm(elîmin).",
+      "verseMeaning": "Ey iman sahipleri! Şu bir gerçek ki, hahamlardan ve rahiplerden birçoğu halkın mallarını uydurma yollarla tıkabasa yerler ve Allah´ın yolundan geri çevirirler. Altını ve gümüşü depolayıp da onları Allah yolunda harcamayanlara korkunç bir azap muştula."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 11,
+      "ayah": 16,
+      "formInAyah": "وَبَاطِلٌ",
+      "transliteration": "ve bāTilun",
+      "gloss": "ve geçersizdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ ۖ وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Ulâikellezîne leyse lehum fil âhıreti illen nâr(nâru) ve habita mâ sanaû fîhâ ve bâtılun mâ kânû ya´melûn(ya´melûne).",
+      "verseMeaning": "Öyleleridir ki bunlar, âhirette kendileri için ateşten başkası yoktur. Sanayi olarak ürettikleri, orada işe yaramaz olmuştur. Yapıp ettikleri de bâtıl hale gelmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 13,
+      "ayah": 17,
+      "formInAyah": "وَالْبَاطِلَ",
+      "transliteration": "velbāTile",
+      "gloss": "ve batılı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ ابْتِغَاءَ حِلْيَةٍ أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ الْحَقَّ وَالْبَاطِلَ ۚ فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً ۖ وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ الْأَمْثَالَ",
+      "verseTransliteration": "Enzele mines semâi mâen fe sâlet evdiyetun bi kaderihâ fahtemeles seylu zebeden râbiyâ(râbiyen), ve mimmâ yûkıdûne aleyhi fîn nâribtigâe hılyetin ev metâın zebedun misluh(misluhu), kezâlike yadribullâhul hakka vel bâtıl(bâtıle), fe emmez zebedu fe yezhebu cufâ’(cufâen), ve emmâ mâ yenfaun nâse fe yemkusufîl ard(ardı), kezâlike yadrıbullâhul emsâl(emsâle).",
+      "verseMeaning": "Gökten bir su indirdi de vadiler, kendi ölçülerince/kaderlerine göre sel oldu, ardından da sel, üste çıkan köpüğü taşır hale geldi. Bir süs eşyası veya âlet yapmak isteğiyle ateşte körükledikleri şeylerde de benzeri bir köpük vardır. Allah hakla bâtılı işte böyle örneklendiriyor: Köpük, atılır gider; insanlara yararlı olansa toprakta kalır. Allah, işte bu şekilde örnekler verir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 16,
+      "ayah": 72,
+      "formInAyah": "أَفَبِالْبَاطِلِ",
+      "transliteration": "efebil-bāTili",
+      "gloss": "hâlâ batıla mı?",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا وَجَعَلَ لَكُمْ مِنْ أَزْوَاجِكُمْ بَنِينَ وَحَفَدَةً وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللَّهِ هُمْ يَكْفُرُونَ",
+      "verseTransliteration": "Vallâhu ceale lekum min enfusikum ezvâcen ve ceale lekum min ezvâcikum benîne ve hafedeten ve rezakakum minet tayyibât(tayyibâti), e fe bil bâtıli yu’minûne ve bi ni’metillâhi hum yekfurûn(yekfurûne).",
+      "verseMeaning": "Allah size, kendi benliklerinizden eşler nasip etti. Eşlerinizden de sizin için oğullar ve torunlar oluşturdu. Ve sizleri güzel ve temiz nimetlerle rızıklandırdı. Şimdi bunlar, bâtıla mı inanıyorlar? Ve bunlar, evet bunlar, Allah´ın nimetine nankörlük mü ediyorlar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 17,
+      "ayah": 81,
+      "formInAyah": "الْبَاطِلُ",
+      "transliteration": "l-bāTilu",
+      "gloss": "batıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+      "verseTransliteration": "Ve kul câel hakku ve zehekal bâtıl(bâtılu), innel bâtıle kâne zehûkâ(zehûkan).",
+      "verseMeaning": "Ve de ki: \"Hak geldi bâtıl yıkılıp gitti. Bâtıl, yok olmaya zaten mahkûmdu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 17,
+      "ayah": 81,
+      "formInAyah": "الْبَاطِلَ",
+      "transliteration": "l-bāTile",
+      "gloss": "batıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+      "verseTransliteration": "Ve kul câel hakku ve zehekal bâtıl(bâtılu), innel bâtıle kâne zehûkâ(zehûkan).",
+      "verseMeaning": "Ve de ki: \"Hak geldi bâtıl yıkılıp gitti. Bâtıl, yok olmaya zaten mahkûmdu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 18,
+      "ayah": 56,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "batılla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۚ وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ ۖ وَاتَّخَذُوا آيَاتِي وَمَا أُنْذِرُوا هُزُوًا",
+      "verseTransliteration": "Ve mâ nursilul murselîne illâ mubeşşirîne ve munzirîn(munzirîne), ve yucâdilullezîne keferû bil bâtılı li yudhıdû bihil hakka vettehazû âyâtî ve mâ unzirû huzuvâ(huzuven).",
+      "verseMeaning": "Biz, elçileri sadece müjdeleyiciler ve uyarıcılar olarak göndeririz. Küfre sapanlar ise bâtıla yapışarak onunla hakkı kaydırmak için uğraşıyorlar. Onlar, ayetlerimi ve uyarıldıkları şeyleri eğlence edindiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 21,
+      "ayah": 18,
+      "formInAyah": "الْبَاطِلِ",
+      "transliteration": "l-bāTili",
+      "gloss": "batılın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ",
+      "verseTransliteration": "Bel nakzifu bil hakkı alel bâtıli fe yedmeguhu fe izâ huve zâhik(zâhikun), ve lekumul veylu mimmâ tasıfûn(tasıfûne).",
+      "verseMeaning": "Hayır, biz hakkı, bâtılın üzerine fırlatırız da o, onun beynini parçalar. Bir de bakarsın o yok olup gitmiştir. Yakıştırdığınız niteliklerden ötürü yazıklar olsun size!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 22,
+      "ayah": 62,
+      "formInAyah": "الْبَاطِلُ",
+      "transliteration": "l-bāTilu",
+      "gloss": "batıldır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ",
+      "verseTransliteration": "Zâlike bi ennallâhe huvel hakku ve enne mâ yed’ûne min dûnihî huvel bâtılu ve ennallâhe huvel aliyyul kebîr(kebîru).",
+      "verseMeaning": "Evet böyledir! Çünkü Allah Hakk´ın ta kendisidir. O´nun berisinden yalvarıp çağırdıkları ise bâtılın ta kendisidir. Hiç kuşkusuz, Allah Aliyy´dir, Kebîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 29,
+      "ayah": 52,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "batıla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ كَفَىٰ بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Kul kefâ billâhi beynî ve beynekum şehîdâ(şehîden), ya’lemu mâ fîs semâvâti vel ard(ardı), vellezîne âmenû bil bâtılı ve keferû billâhi ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "De ki: \"Sizinle benim aramda tanık olarak Allah yeter. Göklerde ne var, yerde ne var biliyor O. Bâtıla iman edip Allah´ı inkâr edenlere gelince, işte onlar hüsrana uğramışların ta kendileridir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 29,
+      "ayah": 67,
+      "formInAyah": "أَفَبِالْبَاطِلِ",
+      "transliteration": "efebil-bāTili",
+      "gloss": "hâlâ batıla mı?",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَمًا آمِنًا وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ اللَّهِ يَكْفُرُونَ",
+      "verseTransliteration": "E ve lem yerev ennâ cealnâ haramen âminen ve yutehattafun nâsu min havlihim, e fe bil bâtılı yu’minûne ve bi ni’metillâhi yekfurûn(yekfurûne).",
+      "verseMeaning": "Görmediler mi ki, çevrelerinde insanlar çarpılıp götürülürken Harem´i güven içinde tuttuk. Hâlâ bâtıla inanıp Allah´ın nimetine nankörlük mü ediyorlar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 31,
+      "ayah": 30,
+      "formInAyah": "الْبَاطِلُ",
+      "transliteration": "l-bāTilu",
+      "gloss": "batıldır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ",
+      "verseTransliteration": "Zâlike bi ennellâhe huvel hakku ve enne mâ yed’ûne min dûnihil bâtılu ve ennallâhe huvel aliyyul kebîr(kebîru).",
+      "verseMeaning": "Bu böyledir; çünkü Allah, Hakk´ın ta kendisidir. O´nun berisinde yalvarıp yakardıkları ise bâtıldır. Ve Allah Aliyy´dir, yüceliğine sınır yoktur; Kebîr´dir, büyüklüğüne sınır yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 34,
+      "ayah": 49,
+      "formInAyah": "الْبَاطِلُ",
+      "transliteration": "l-bāTilu",
+      "gloss": "batıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ جَاءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ",
+      "verseTransliteration": "Kul câel hakku ve mâ yubdiûl bâtılu ve mâ yuîd(yuîdu).",
+      "verseMeaning": "De ki: \"Hak geldi, artık bâtıl ortaya yeni bir şey çıkaramaz; eskiyi de geri getiremez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 38,
+      "ayah": 27,
+      "formInAyah": "بَاطِلًا",
+      "transliteration": "bāTilen",
+      "gloss": "boş yere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُوا ۚ فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنَ النَّارِ",
+      "verseTransliteration": "Ve mâ halaknes semâe vel arda ve mâ beynehumâ bâtıla(bâtılen), zâlike zannullezîne keferû, fe veylun lillezîne keferû minen nâr(nâri).",
+      "verseMeaning": "Biz şu göğü ve yeri ve ikisi arasındakileri boşuna yaratmadık. Böyle düşünmek, küfre sapanların sanısıdır. Vay hallerine o inkârcıların, ateş yüzünden!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 40,
+      "ayah": 5,
+      "formInAyah": "بِالْبَاطِلِ",
+      "transliteration": "bil-bāTili",
+      "gloss": "boş şeyler ileri sürerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَالْأَحْزَابُ مِنْ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَادَلُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+      "verseTransliteration": "Kezzebet kablehum kavmu nûhın vel ahzâbu min ba’dıhım ve hemmet kullu ummetin bi resûlihim li ye’huzûhu ve câdelû bil bâtılı li yudhıdû bihil hakka fe ehaztuhum, fe keyfe kâne ıkâb(ıkâbi).",
+      "verseMeaning": "Onlardan önce Nûh kavmi yalanlamıştı. Onlardan sonra gelen oymaklar da. Her ümmet kendilerine gelen elçiyi yakalasınlar diye uğraştı. Ve hakkı işlemez kılmak için yanlışı/tutarsızlığı esas alarak mücadele ettiler; nihayet onları yakaladım. Nasıl olmuştu azabım?!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 41,
+      "ayah": 42,
+      "formInAyah": "الْبَاطِلُ",
+      "transliteration": "l-bāTilu",
+      "gloss": "boşa çıkaracak bir söz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ",
+      "verseTransliteration": "Lâ ye’tîhil bâtılu min beyni yedeyhi ve lâ min halfih(halfihî), tenzîlun min hakîmin hamîd(hamîdin).",
+      "verseMeaning": "Bâtıl ona, ne önünden gelebilir ne de arkasından. Hakîm ve Hamîd Allah´tan bir indirmedir o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 42,
+      "ayah": 24,
+      "formInAyah": "الْبَاطِلَ",
+      "transliteration": "l-bāTile",
+      "gloss": "batılı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۖ فَإِنْ يَشَإِ اللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Em yekûlûnefterâ alâllâhi kezibâ(keziben), fe in yeşeillâhu yahtim alâ kalbik(kalbike), ve yemhullâhul bâtıla ve yuhıkkul hakka bi kelimâtih(kelimâtihî), innehu alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Yoksa, \"yalan düzüp Allah´a iftira etti\" mi diyorlar? Allah dilerse senin kalbini mühürler; bâtılı mahveder ve hakkı kendi sözleriyle gerçekleştirir. Kuşkusuz O, göğüslerin özündekini çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَٰطِل",
+      "sura": 47,
+      "ayah": 3,
+      "formInAyah": "الْبَاطِلَ",
+      "transliteration": "l-bāTile",
+      "gloss": "batıla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِنْ رَبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَالَهُمْ",
+      "verseTransliteration": "Zâlike bi ennellezîne keferûttebeûl bâtıle ve ennellezîne âmenûttebeûl hakka min rabbihim, kezâlike yadribullâhu lin nâsi emsâlehum.",
+      "verseMeaning": "Bu böyledir; çünkü küfre batanlar boş ve tutarsıza uymuşlardır. İman edenler ise Rablerinden gelen hakka uymuşlardır. İşte Allah, insanlara kendi durumlarını bu şekilde örnekleyerek anlatır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُبْطِلُون",
+      "sura": 7,
+      "ayah": 173,
+      "formInAyah": "الْمُبْطِلُونَ",
+      "transliteration": "l-mubTilūne",
+      "gloss": "iptal edenlerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَوْ تَقُولُوا إِنَّمَا أَشْرَكَ آبَاؤُنَا مِنْ قَبْلُ وَكُنَّا ذُرِّيَّةً مِنْ بَعْدِهِمْ ۖ أَفَتُهْلِكُنَا بِمَا فَعَلَ الْمُبْطِلُونَ",
+      "verseTransliteration": "Ev tekûlû innemâ eşreke âbâunâ min kablu ve kunnâ zurriyyeten min ba’dihim, e fe tuhlikunâ bimâ fealel mubtilûn(mubtilûne).",
+      "verseMeaning": "Şöyle de demeyesiniz: \"Daha önce atalarımız şirke batmıştı. Biz de onların ardından gelen bir soyuz. Gerçeği çiğneyenler yüzünden bizi helak mı edeceksin?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُبْطِلُون",
+      "sura": 29,
+      "ayah": 48,
+      "formInAyah": "الْمُبْطِلُونَ",
+      "transliteration": "l-mubTilūne",
+      "gloss": "batılda olanlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَمِينِكَ ۖ إِذًا لَارْتَابَ الْمُبْطِلُونَ",
+      "verseTransliteration": "Ve mâ kunte tetlû min kablihî min kitâbin ve lâ tehuttuhu bi yemînike izen lertâbel mubtılûn(mubtılûne).",
+      "verseMeaning": "Sen bundan önce herhangi bir kitap okumuyordun; onu sağ elinle de yazmıyorsun. Eğer öyle olsaydı bâtıla saplananlar mutlaka kuşku duyacaklardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُبْطِلُون",
+      "sura": 30,
+      "ayah": 58,
+      "formInAyah": "مُبْطِلُونَ",
+      "transliteration": "mubTilūne",
+      "gloss": "iptal edenler(den)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ ۚ وَلَئِنْ جِئْتَهُمْ بِآيَةٍ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ أَنْتُمْ إِلَّا مُبْطِلُونَ",
+      "verseTransliteration": "Ve lekad darebnâ lin nâsi fî hâzel kur’âni min kulli mesel(meselin), ve le in ci’tehum bi âyetin le yekûlennellezîne keferû in entum illâ mubtılûn(mubtılûne).",
+      "verseMeaning": "Yemin olsun ki, biz bu Kur´an´da insanlar için her türlü örneği verdik. Sen onlara bir mucize getirsen, o inkâr edenler mutlaka şöyle diyeceklerdir: \"Siz, eskiyi hükümsüz kılanlardan başkası değilsiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُبْطِلُون",
+      "sura": 40,
+      "ayah": 78,
+      "formInAyah": "الْمُبْطِلُونَ",
+      "transliteration": "l-mubTilūne",
+      "gloss": "boşa çıkarmağa uğraşanlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ مِنْهُمْ مَنْ قَصَصْنَا عَلَيْكَ وَمِنْهُمْ مَنْ لَمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ ۚ فَإِذَا جَاءَ أَمْرُ اللَّهِ قُضِيَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ",
+      "verseTransliteration": "Ve lekad erselnâ rusulen min kablike minhum men kasasnâ aleyke ve minhum men lem naksus aleyk(aleyke), ve mâ kâne li resûlin en ye’tiye bi âyetin illâ bi iznillâh(iznillâhi), fe izâ câe emrullâhi kudıye bil hakkı ve hasire hunâlikel mubtılûn(mubtılûne).",
+      "verseMeaning": "Yemin olsun, biz senden önce de resuller gönderdik. Onların bir kısmının hayat ve hatırasını sana anlattık, bir kısmının hayat ve hatırasından sana bahsetmedik. Hiçbir resulün, Allah´ın izni olmaksızın herhangi bir mucize getirmesi söz konusu olamaz. Allah´ın emri geldiğinde, hakla hükmedilir ve gerçeği hükümsüz kılmaya çalışanlar orada hüsrana uğrarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُبْطِلُون",
+      "sura": 45,
+      "ayah": 27,
+      "formInAyah": "الْمُبْطِلُونَ",
+      "transliteration": "l-mubTilūne",
+      "gloss": "iptalciler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ",
+      "verseTransliteration": "Ve lillâhi mulkus semâvâti vel ard(ardı), ve yevme tekûmus sâatu yevme izin yahserul mubtılûn(mubtılûne).",
+      "verseMeaning": "Göklerin ve yerin mülkü/saltanatı Allah´ındır. Kıyamet kopunca, işte o gün, gerçekleri hükümsüz kılanlar hüsrana uğrayacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُبْطِلَ",
+      "sura": 2,
+      "ayah": 264,
+      "formInAyah": "تُبْطِلُوا",
+      "transliteration": "tubTilū",
+      "gloss": "boşa çıkarmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُمْ بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا ۖ لَا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِمَّا كَسَبُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tubtılû sadakâtikum bil menni vel ezâ, kellezî yunfiku mâlehu riâen nâsi ve lâ yu’minu billâhi vel yevmil âhır(âhıri), fe meseluhu ke meseli safvânin aleyhi turâbun fe esâbehu vâbilun fe terakehu saldâ(salden), lâ yakdirûne alâ şey’in mimmâ kesebû vallâhu lâ yehdîl kavmel kâfirîn(kâfirîne).",
+      "verseMeaning": "Ey iman sahipleri! Allah´a ve âhıret gününe inanmadığı halde, insanlara riya için malını infak eden kişi gibi, sadakalarınızı başa kakmak ve eza etmek suretiyle boşa çıkarmayın. Böylesinin durumu, üzerinde biraz toprak varken tepesine şiddetli bir yağmur inip kendisini cascavlak bırakmış yalçın bir kayanın haline benzer. Böyleleri, kazandıklarından hiç bir şey elde edemezler. Allah, küfre sapan bir topluluğu doğruya ve güzele kılavuzlamaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُبْطِلَ",
+      "sura": 8,
+      "ayah": 8,
+      "formInAyah": "وَيُبْطِلَ",
+      "transliteration": "ve yubTile",
+      "gloss": "ve ortadan kaldırsın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ",
+      "verseTransliteration": "Li yuhıkkal hakka ve yubtılel bâtıle ve lev kerihel mucrimûn(mucrimûne).",
+      "verseMeaning": "Diliyordu ki, kötülüğü temsil edenler istemese de hakkı ayan-beyan gözler önüne koysun, saçma ve tutarsız olanı hükümsüz kılsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُبْطِلَ",
+      "sura": 10,
+      "ayah": 81,
+      "formInAyah": "سَيُبْطِلُهُ",
+      "transliteration": "seyubTiluhu",
+      "gloss": "onu boşa çıkaracaktır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُمْ بِهِ السِّحْرُ ۖ إِنَّ اللَّهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ",
+      "verseTransliteration": "Fe lemmâ elkav kâle mûsâ mâ ci’tum bihis sihr(sihru), innallâhe se yubtiluh(yubtiluhu), innallâhe lâ yuslihu amelel mufsidîn(mufsidîne).",
+      "verseMeaning": "Onlar hünerlerini ortaya koyunca Mûsa dedi ki: \"Sergilediğiniz şey büyüdür. Allah onu mutlaka hükümsüz kılacaktır. Çünkü Allah, bozguncuların işini düzgün yürütmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُبْطِلَ",
+      "sura": 47,
+      "ayah": 33,
+      "formInAyah": "تُبْطِلُوا",
+      "transliteration": "tubTilū",
+      "gloss": "boşa çıkarmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû etîûllâhe ve etîûr resûle ve lâ tubtılû a’mâlekum.",
+      "verseMeaning": "Ey iman edenler! Allah´a itaat edin; resule de itaat edin! Amellerinizi işe yaramaz hale getirmeyin."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=bTl"
+}

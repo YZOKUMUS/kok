@@ -1,0 +1,92 @@
+{
+  "id": "nvr",
+  "latinName": "Nun-Se-Ra",
+  "lettersArabic": "ن ث ر",
+  "meanings": [
+    "to scatter/disperse/sprinkle a thing, to hasten or be quick???????????????"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "مَّنثُور",
+      "count": 2
+    },
+    {
+      "formArabic": "ٱنتَثَرَتْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّنثُور",
+      "sura": 76,
+      "ayah": 19,
+      "formInAyah": "مَنْثُورًا",
+      "transliteration": "menṧūran",
+      "gloss": "saçılmış",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَنْثُورًا",
+      "verseTransliteration": "Ve yetûfu aleyhim vildânun muhalledûn(muhalledûne), izâ reeytehum hasibtehum lu’luen mensûrâ(mensûren).",
+      "verseMeaning": "Dolaşır çevrelerinde, sürekli görevlendirilmiş gençler. Görseydin onları, dizilmiş inciler sanırdın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّنثُور",
+      "sura": 25,
+      "ayah": 23,
+      "formInAyah": "مَنْثُورًا",
+      "transliteration": "menṧūran",
+      "gloss": "saçılmış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا",
+      "verseTransliteration": "Ve kadimnâ ilâ mâ amilû min amelin fe cealnâhu hebâen mensûrâ(mensûran).",
+      "verseMeaning": "Yaptıkları her işin önüne geçmiş, onu un ufak hale getirip silmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنتَثَرَتْ",
+      "sura": 82,
+      "ayah": 2,
+      "formInAyah": "انْتَثَرَتْ",
+      "transliteration": "nteṧerat",
+      "gloss": "saçıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ",
+      "verseTransliteration": "Ve izel kevâkibunteseret.",
+      "verseMeaning": "Yıldızlar dökülüp saçıldığı zaman,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nvr"
+}

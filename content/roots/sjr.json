@@ -1,0 +1,96 @@
+{
+  "id": "sjr",
+  "latinName": "Sin-Cim-Ra",
+  "lettersArabic": "س ج ر",
+  "meanings": [
+    "Yakmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "سُجِّرَتْ",
+      "count": 1
+    },
+    {
+      "formArabic": "مَسْجُور",
+      "count": 1
+    },
+    {
+      "formArabic": "يُسْجَرُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُجِّرَتْ",
+      "sura": 81,
+      "ayah": 6,
+      "formInAyah": "سُجِّرَتْ",
+      "transliteration": "succirat",
+      "gloss": "kaynatıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+      "verseTransliteration": "Ve izel bihâru succiret.",
+      "verseMeaning": "Denizler kaynatıldığında,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَسْجُور",
+      "sura": 52,
+      "ayah": 6,
+      "formInAyah": "الْمَسْجُورِ",
+      "transliteration": "l-mescūri",
+      "gloss": "kaynatılmış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْبَحْرِ الْمَسْجُورِ",
+      "verseTransliteration": "Vel bahril mescûri.",
+      "verseMeaning": "Yemin olsun o alevlerle kaynatılıp köpürtülmüş denize,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُسْجَرُ",
+      "sura": 40,
+      "ayah": 72,
+      "formInAyah": "يُسْجَرُونَ",
+      "transliteration": "yuscerūne",
+      "gloss": "yakılacaklardır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فِي الْحَمِيمِ ثُمَّ فِي النَّارِ يُسْجَرُونَ",
+      "verseTransliteration": "Fîl hamîmi summe fîn nâri yuscerûn(yuscerûne).",
+      "verseMeaning": "Kaynar suyun içine. Sonra da ateşte yakılacaklar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sjr"
+}

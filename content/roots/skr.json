@@ -1,0 +1,182 @@
+{
+  "id": "skr",
+  "latinName": "Sin-Kef-Ra",
+  "lettersArabic": "س ك ر",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 7,
+  "lemmas": [
+    {
+      "formArabic": "سَكَر",
+      "count": 1
+    },
+    {
+      "formArabic": "سَكْرَة",
+      "count": 2
+    },
+    {
+      "formArabic": "سُكِّرَتْ",
+      "count": 1
+    },
+    {
+      "formArabic": "سُكَٰرَىٰ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَكَر",
+      "sura": 16,
+      "ayah": 67,
+      "formInAyah": "سَكَرًا",
+      "transliteration": "sekeran",
+      "gloss": "sarhoşluk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنْ ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "Ve min semerâtin nahîli vel a’nâbi tettehîzûne minhu sekeren ve rızkan hasenâ(hasenen), inne fî zâlike le âyeten li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Hurmalıkların meyvalarından, üzümlerden de sarhoş edici bir içecek ve güzel bir rızık elde edersiniz. İşte bunda, aklını işleten bir topluluk için kesin bir mucize vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَكْرَة",
+      "sura": 15,
+      "ayah": 72,
+      "formInAyah": "سَكْرَتِهِمْ",
+      "transliteration": "sekratihim",
+      "gloss": "sarhoşlukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Le amruke innehum le fî sekretihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Senin ömrüne yemin olsun ki onlar, kendi sersemlikleri içinde bocalıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَكْرَة",
+      "sura": 50,
+      "ayah": 19,
+      "formInAyah": "سَكْرَةُ",
+      "transliteration": "sekratu",
+      "gloss": "sarhoşluğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ",
+      "verseTransliteration": "Ve câet sekretul mevti bil hakk(hakkı), zâlike mâ kunte minhu tehîdu.",
+      "verseMeaning": "Ölüm sarhoşluğu hak olarak geldi. İşte bu, senin kaçıp durduğun şeydir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُكِّرَتْ",
+      "sura": 15,
+      "ayah": 15,
+      "formInAyah": "سُكِّرَتْ",
+      "transliteration": "sukkirat",
+      "gloss": "döndürüldü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ",
+      "verseTransliteration": "Le kâlû innemâ sukkiret ebsârunâ bel nahnu kavmun meshûrûn(meshûrûne).",
+      "verseMeaning": "Kesinlikle şöyle diyeceklerdi: \"Bizim gözlerimiz döndürüldü, bakışlarımız sarhoş edildi. Belki de biz büyüye çarptırılmış bir toplumuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُكَٰرَىٰ",
+      "sura": 4,
+      "ayah": 43,
+      "formInAyah": "سُكَارَىٰ",
+      "transliteration": "sukārā",
+      "gloss": "sarhoşken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ takrabûs salâte ve entum sukârâ hattâ ta’lemû mâ tekûlûne ve lâ cunuben illâ âbirî sebîlin hattâ tagtesilû ve in kuntum merdâ ev alâ seferin ev câe ehadun minkum minel gâiti ev lâmestumun nisâe fe lem tecidû mâen fe teyemmemû saîden tayyiben femsehû bi vucûhikum ve eydîkum innallâhe kâne afuvven gafûrâ(gafûran).",
+      "verseMeaning": "Ey iman edenler! Sarhoşken, ne söylediğinizi bilinceye kadar, cünüpken de -yolculuk halinde olmanız müstesna- boy abdesti alıncaya kadar namaza yaklaşmayın. Eğer hastalanırsanız yahut yolculuk halinde bulunursanız yahut biriniz tuvaletten gelmişse yahut kadınlara dokunmuşsanız, bütün bu durumlarda su da bulamamışsanız, temiz bir toprakla teyemmüm edin. Yani yüzlerinizi ve ellerinizi meshedin. Allah Afüvv´dür, günahları affeder, Gafûr´dur, hataları bağışlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُكَٰرَىٰ",
+      "sura": 22,
+      "ayah": 2,
+      "formInAyah": "سُكَارَىٰ",
+      "transliteration": "sukārā",
+      "gloss": "sarhoş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَىٰ وَمَا هُمْ بِسُكَارَىٰ وَلَٰكِنَّ عَذَابَ اللَّهِ شَدِيدٌ",
+      "verseTransliteration": "Yevme teravnehâ tezhelu kullu murdıatin ammâ erdaat ve tedau kullu zâti hamlin hamlehâ ve teren nâse sukârâ ve mâ hum bi sukârâ ve lâkinne azâballâhi şedîd(şedîdun).",
+      "verseMeaning": "Onu göreceğiniz gün, her emzikli kadın, emzirdiğinden vazgeçer ve her gebe kadın, taşıdığını düşürür. Sen o gün insanları sarhoşlar halinde görürsün; oysaki onlar sarhoş değillerdir, ama Allah´ın azabı çok şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُكَٰرَىٰ",
+      "sura": 22,
+      "ayah": 2,
+      "formInAyah": "بِسُكَارَىٰ",
+      "transliteration": "bisukārā",
+      "gloss": "sarhoş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَىٰ وَمَا هُمْ بِسُكَارَىٰ وَلَٰكِنَّ عَذَابَ اللَّهِ شَدِيدٌ",
+      "verseTransliteration": "Yevme teravnehâ tezhelu kullu murdıatin ammâ erdaat ve tedau kullu zâti hamlin hamlehâ ve teren nâse sukârâ ve mâ hum bi sukârâ ve lâkinne azâballâhi şedîd(şedîdun).",
+      "verseMeaning": "Onu göreceğiniz gün, her emzikli kadın, emzirdiğinden vazgeçer ve her gebe kadın, taşıdığını düşürür. Sen o gün insanları sarhoşlar halinde görürsün; oysaki onlar sarhoş değillerdir, ama Allah´ın azabı çok şiddetlidir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=skr"
+}

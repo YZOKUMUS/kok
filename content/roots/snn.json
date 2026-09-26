@@ -1,0 +1,473 @@
+{
+  "id": "snn",
+  "latinName": "Sin-Nun-Nun",
+  "lettersArabic": "س ن ن",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 21,
+  "lemmas": [
+    {
+      "formArabic": "سِّنّ",
+      "count": 2
+    },
+    {
+      "formArabic": "سُنَّة",
+      "count": 16
+    },
+    {
+      "formArabic": "مَّسْنُون",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِّنّ",
+      "sura": 5,
+      "ayah": 45,
+      "formInAyah": "وَالسِّنَّ",
+      "transliteration": "ve ssinne",
+      "gloss": "ve dişe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "Ve ketebnâ aleyhim fîhâ ennen nefse bin nefsi vel ayne bil ayni vel enfe bil enfi vel uzune bil uzuni ves sinne bis sinni vel curûha kısâs(kısâsun) fe men tesaddeka bihî fe huve keffâretun leh(lehu) ve men lem yahkum bimâ enzelallâhu fe ulâike humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "O Kitap´ta onlar üzerine şöyle yazmıştık: Cana can, göze göz, buruna burun, kulağa kulak, dişe diş... Yaralamalar karşılığında da kısas. Kim kısası bağışlarsa, bu bağışlaması kendisi için günahlara bir perde olur. Allah´ın indirdiğiyle hükmetmeyenler zalimlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِّنّ",
+      "sura": 5,
+      "ayah": 45,
+      "formInAyah": "بِالسِّنِّ",
+      "transliteration": "bis-sinni",
+      "gloss": "diş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "Ve ketebnâ aleyhim fîhâ ennen nefse bin nefsi vel ayne bil ayni vel enfe bil enfi vel uzune bil uzuni ves sinne bis sinni vel curûha kısâs(kısâsun) fe men tesaddeka bihî fe huve keffâretun leh(lehu) ve men lem yahkum bimâ enzelallâhu fe ulâike humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "O Kitap´ta onlar üzerine şöyle yazmıştık: Cana can, göze göz, buruna burun, kulağa kulak, dişe diş... Yaralamalar karşılığında da kısas. Kim kısası bağışlarsa, bu bağışlaması kendisi için günahlara bir perde olur. Allah´ın indirdiğiyle hükmetmeyenler zalimlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 3,
+      "ayah": 137,
+      "formInAyah": "سُنَنٌ",
+      "transliteration": "sunenun",
+      "gloss": "yasalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَدْ خَلَتْ مِنْ قَبْلِكُمْ سُنَنٌ فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+      "verseTransliteration": "Kad halet min kablikum sunenun, fe sîrû fîl ardı fenzurû keyfe kâne âkıbetul mukezzibîn(mukezzibîne).",
+      "verseMeaning": "Sizden önce de yollar-yöntemler gelip geçmiştir. O halde yeryüzünde dolaşın da yalanlayanların sonu nice olmuştur görün."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 4,
+      "ayah": 26,
+      "formInAyah": "سُنَنَ",
+      "transliteration": "sunene",
+      "gloss": "yasalarına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يُرِيدُ اللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذِينَ مِنْ قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Yurîdullâhu li yubeyyine lekum ve yehdîyekum sunenellezîne min kablikum ve yetûbe aleykum vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Allah size açık-seçik bildirmek istiyor. Sizi, sizden öncekilerin yol ve yöntemlerinden haberdar ediyor. Size tövbe nasip ediyor. Allah her şeyi bilir, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 8,
+      "ayah": 38,
+      "formInAyah": "سُنَّتُ",
+      "transliteration": "sunnetu",
+      "gloss": "kanunu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "قُلْ لِلَّذِينَ كَفَرُوا إِنْ يَنْتَهُوا يُغْفَرْ لَهُمْ مَا قَدْ سَلَفَ وَإِنْ يَعُودُوا فَقَدْ مَضَتْ سُنَّتُ الْأَوَّلِينَ",
+      "verseTransliteration": "Kul lillezîne keferû in yentehû yugfer lehum mâ kad selef(selefe), ve in yeûdû fe kad madat sunnetul evvelîn(evvelîne).",
+      "verseMeaning": "Küfre sapanlara söyle: \"Eğer son verirlerse eskide kalmış olan, kendileri için affedilir. Eğer yeniden başlarlarsa, daha öncekilere uygulanan yol ve yöntem, eskisi gibi devam etmiş olacaktır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 15,
+      "ayah": 13,
+      "formInAyah": "سُنَّةُ",
+      "transliteration": "sunnetu",
+      "gloss": "sünneti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَا يُؤْمِنُونَ بِهِ ۖ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ",
+      "verseTransliteration": "Lâ yu’minûne bihî ve kad halet sunnetul evvelîn(evvelîne).",
+      "verseMeaning": "Ona inanmazlar. Oysaki, öncekilerin yol ve yöntemleri gözlerinin önünden geçmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 17,
+      "ayah": 77,
+      "formInAyah": "سُنَّةَ",
+      "transliteration": "sunnete",
+      "gloss": "yasası (budur)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا ۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+      "verseTransliteration": "Sunnete men kad erselnâ kableke min rusulinâ ve lâ tecidu li sunnetinâ tahvîlâ(tahvîlen).",
+      "verseMeaning": "Senden önce gönderdiğimiz resullerimize uygulanan yöntem de buydu. Sen bizim yol ve yöntemimizde değişme bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 17,
+      "ayah": 77,
+      "formInAyah": "لِسُنَّتِنَا",
+      "transliteration": "lisunnetinā",
+      "gloss": "bizim yasamızda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا ۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+      "verseTransliteration": "Sunnete men kad erselnâ kableke min rusulinâ ve lâ tecidu li sunnetinâ tahvîlâ(tahvîlen).",
+      "verseMeaning": "Senden önce gönderdiğimiz resullerimize uygulanan yöntem de buydu. Sen bizim yol ve yöntemimizde değişme bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 18,
+      "ayah": 55,
+      "formInAyah": "سُنَّةُ",
+      "transliteration": "sunnetu",
+      "gloss": "yasasının",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمَا مَنَعَ النَّاسَ أَنْ يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَىٰ وَيَسْتَغْفِرُوا رَبَّهُمْ إِلَّا أَنْ تَأْتِيَهُمْ سُنَّةُ الْأَوَّلِينَ أَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلًا",
+      "verseTransliteration": "Ve mâ menean nâse en yu’minû iz câe humul hudâ ve yestagfirû rabbehum illâ en te’tiyehum sunnetul evvelîne ev ye’tiyehumul azâbu kubulâ(kubulen).",
+      "verseMeaning": "Kendilerine hidayet geldikten sonra, insanları iman etmekten, Rablerinden af dilemekten alıkoyan şey şundan başkası değildir: Evvelkilerin yol ve yöntemlerinin kendilerine de gelmesini yahut bizzat azabın karşılarına dikilivermesini beklemek."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 33,
+      "ayah": 38,
+      "formInAyah": "سُنَّةَ",
+      "transliteration": "sunnete",
+      "gloss": "yasasıdır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَا كَانَ عَلَى النَّبِيِّ مِنْ حَرَجٍ فِيمَا فَرَضَ اللَّهُ لَهُ ۖ سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۚ وَكَانَ أَمْرُ اللَّهِ قَدَرًا مَقْدُورًا",
+      "verseTransliteration": "Mâ kâne alen nebiyyi min harecin fîmâ faradallâhu leh, sunnetallâhi fîllezîne halev min kabl(kablu), ve kâne emrullâhi kaderen makdûrâ(makdûran).",
+      "verseMeaning": "Allah´ın kendisine farz kıldığı şeyde peygambere hiçbir vebal yoktur. Daha önce gelip geçmişlerde de Allah´ın yolu, yöntemi buydu. Allah´ın emri, belirlenmiş bir kaderdir/ölçüdür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 33,
+      "ayah": 62,
+      "formInAyah": "سُنَّةَ",
+      "transliteration": "sunnete",
+      "gloss": "sünneti (yasası) budur",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "verseTransliteration": "Sunnetallâhi fîllezîne halev min kabl(kablu), ve len tecide li sunnetillâhi tebdîlâ(tebdîlen).",
+      "verseMeaning": "Bu, Allah´ın daha önce gelip geçmişlere işleyen tavrı, tarzıdır. Allah´ın tavrında herhangi bir değişiklik asla bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 33,
+      "ayah": 62,
+      "formInAyah": "لِسُنَّةِ",
+      "transliteration": "lisunneti",
+      "gloss": "sünnetini (yasasını)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "verseTransliteration": "Sunnetallâhi fîllezîne halev min kabl(kablu), ve len tecide li sunnetillâhi tebdîlâ(tebdîlen).",
+      "verseMeaning": "Bu, Allah´ın daha önce gelip geçmişlere işleyen tavrı, tarzıdır. Allah´ın tavrında herhangi bir değişiklik asla bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 35,
+      "ayah": 43,
+      "formInAyah": "سُنَّتَ",
+      "transliteration": "sunnete",
+      "gloss": "yasasından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اسْتِكْبَارًا فِي الْأَرْضِ وَمَكْرَ السَّيِّئِ ۚ وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ ۚ فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَحْوِيلًا",
+      "verseTransliteration": "İstikbâren fîl ardı ve mekres seyyii, ve lâ yahîkul mekrus seyyiu illâ bi ehlih(ehlihî), fe hel yenzurûne illâ sunnetel evvelîn(evvelîne), fe len tecide li sunnetillâhi tebdîlâ(tebdîlen), ve len tecide li sunnetillâhi tahvîlâ(tahvîlen).",
+      "verseMeaning": "Yeryüzünde kibirlendi ve kötülük tezgâhladılar. Oysaki tezgâhlanan kötülük, sahibinden başkasını kuşatmaz. Öncekilerin başına gelenlerden başkasını mı bekliyorlar? Allah´ın yol ve yönteminde değişme asla bulamazsın! Allah´ın yol ve yönteminde döneklik de bulamazsın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 35,
+      "ayah": 43,
+      "formInAyah": "لِسُنَّتِ",
+      "transliteration": "lisunneti",
+      "gloss": "yasasında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اسْتِكْبَارًا فِي الْأَرْضِ وَمَكْرَ السَّيِّئِ ۚ وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ ۚ فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَحْوِيلًا",
+      "verseTransliteration": "İstikbâren fîl ardı ve mekres seyyii, ve lâ yahîkul mekrus seyyiu illâ bi ehlih(ehlihî), fe hel yenzurûne illâ sunnetel evvelîn(evvelîne), fe len tecide li sunnetillâhi tebdîlâ(tebdîlen), ve len tecide li sunnetillâhi tahvîlâ(tahvîlen).",
+      "verseMeaning": "Yeryüzünde kibirlendi ve kötülük tezgâhladılar. Oysaki tezgâhlanan kötülük, sahibinden başkasını kuşatmaz. Öncekilerin başına gelenlerden başkasını mı bekliyorlar? Allah´ın yol ve yönteminde değişme asla bulamazsın! Allah´ın yol ve yönteminde döneklik de bulamazsın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 35,
+      "ayah": 43,
+      "formInAyah": "لِسُنَّتِ",
+      "transliteration": "lisunneti",
+      "gloss": "yasasında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اسْتِكْبَارًا فِي الْأَرْضِ وَمَكْرَ السَّيِّئِ ۚ وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ ۚ فَهَلْ يَنْظُرُونَ إِلَّا سُنَّتَ الْأَوَّلِينَ ۚ فَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَبْدِيلًا ۖ وَلَنْ تَجِدَ لِسُنَّتِ اللَّهِ تَحْوِيلًا",
+      "verseTransliteration": "İstikbâren fîl ardı ve mekres seyyii, ve lâ yahîkul mekrus seyyiu illâ bi ehlih(ehlihî), fe hel yenzurûne illâ sunnetel evvelîn(evvelîne), fe len tecide li sunnetillâhi tebdîlâ(tebdîlen), ve len tecide li sunnetillâhi tahvîlâ(tahvîlen).",
+      "verseMeaning": "Yeryüzünde kibirlendi ve kötülük tezgâhladılar. Oysaki tezgâhlanan kötülük, sahibinden başkasını kuşatmaz. Öncekilerin başına gelenlerden başkasını mı bekliyorlar? Allah´ın yol ve yönteminde değişme asla bulamazsın! Allah´ın yol ve yönteminde döneklik de bulamazsın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 40,
+      "ayah": 85,
+      "formInAyah": "سُنَّتَ",
+      "transliteration": "sunnete",
+      "gloss": "yasası budur",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَمْ يَكُ يَنْفَعُهُمْ إِيمَانُهُمْ لَمَّا رَأَوْا بَأْسَنَا ۖ سُنَّتَ اللَّهِ الَّتِي قَدْ خَلَتْ فِي عِبَادِهِ ۖ وَخَسِرَ هُنَالِكَ الْكَافِرُونَ",
+      "verseTransliteration": "Fe lem yeku yenfeuhum îmânuhum lemmâ reev be’senâ, sunnetâllahilletî kad halet fî ibâdih(ibâdihî), ve hasire hunâlikel kâfirûn(kâfirûne).",
+      "verseMeaning": "Ne var ki, şiddetimizi gördüklerinde, ettikleri iman kendilerine yarar sağlamadı. Allah´ın, kulları hakkında işleyip duran yolu yöntemidir bu. İnkârcılar orada hüsrana uğradılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 48,
+      "ayah": 23,
+      "formInAyah": "سُنَّةَ",
+      "transliteration": "sunnete",
+      "gloss": "sünnetidir (yasasadır)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "verseTransliteration": "Sunnetellâhilletî kad halet min kabl(kablu), ve len tecide li sunnetillâhi tebdîlâ(tebdîlen).",
+      "verseMeaning": "Bu, Allah´ın öteden beri işleyip duran yolu yöntemidir. Allah´ın yol ve yönteminde hiçbir değişme bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُنَّة",
+      "sura": 48,
+      "ayah": 23,
+      "formInAyah": "لِسُنَّةِ",
+      "transliteration": "lisunneti",
+      "gloss": "yasasında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+      "verseTransliteration": "Sunnetellâhilletî kad halet min kabl(kablu), ve len tecide li sunnetillâhi tebdîlâ(tebdîlen).",
+      "verseMeaning": "Bu, Allah´ın öteden beri işleyip duran yolu yöntemidir. Allah´ın yol ve yönteminde hiçbir değişme bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّسْنُون",
+      "sura": 15,
+      "ayah": 26,
+      "formInAyah": "مَسْنُونٍ",
+      "transliteration": "mesnūnin",
+      "gloss": "değişmiş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "verseTransliteration": "Ve le kad halaknel insâne min salsâlin min hamein mesnûn(mesnûnin).",
+      "verseMeaning": "Yemin olsun, biz insanı; kuru çamurdan, değişken, cıvık bir balçıktan yarattık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّسْنُون",
+      "sura": 15,
+      "ayah": 28,
+      "formInAyah": "مَسْنُونٍ",
+      "transliteration": "mesnūnin",
+      "gloss": "değişken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "verseTransliteration": "Ve iz kâle rabbuke lil melâiketi innî hâlikun beşeren min salsâlin min hamein mesnûn(mesnûnin).",
+      "verseMeaning": "Hatırla o zamanı ki Rabbin meleklere, \"Ben, kupkuru bir çamurdan, değişken, cıvık balçıktan bir insan yaratacağım.\" demişti."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّسْنُون",
+      "sura": 15,
+      "ayah": 33,
+      "formInAyah": "مَسْنُونٍ",
+      "transliteration": "mesnūnin",
+      "gloss": "değişken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ لَمْ أَكُنْ لِأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "verseTransliteration": "Kâle lem ekun li escude li beşerin halaktehu min salsâlin min hamein mesnûn(mesnûnin).",
+      "verseMeaning": "Dedi: \"Kuru bir çamurdan, değişken, cıvık bir balçıktan yarattığın bir insana secde etmek için var olmadım.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=snn"
+}

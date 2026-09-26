@@ -1,0 +1,373 @@
+{
+  "id": "xbv",
+  "latinName": "Kh-Be-Se",
+  "lettersArabic": "خ ب ث",
+  "meanings": [
+    "Kötü olmak, pis olmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 16,
+  "lemmas": [
+    {
+      "formArabic": "خَبُثَ",
+      "count": 1
+    },
+    {
+      "formArabic": "خَبِيث",
+      "count": 9
+    },
+    {
+      "formArabic": "خَبِيثَة",
+      "count": 4
+    },
+    {
+      "formArabic": "خَبِيثَٰت",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبُثَ",
+      "sura": 7,
+      "ayah": 58,
+      "formInAyah": "خَبُثَ",
+      "transliteration": "ḣabuṧe",
+      "gloss": "kötü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ ۖ وَالَّذِي خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ الْآيَاتِ لِقَوْمٍ يَشْكُرُونَ",
+      "verseTransliteration": "Vel beledut tayyibu yahrucu nebâtuhu bi izni rabbih(rabbihi), vellezî habuse lâ yahrucu illâ nekidâ(nekiden), kezâlike nusarriful âyâti li kavmin yeşkurûn(yeşkurûne).",
+      "verseMeaning": "Güzel ve temiz beldenin bitkisi Rabbinin izniyle çıkar. Pis ve çorak beldeden ise zararlı bitkiden başkası çıkmaz. Şükreden bir topluluk için ayetleri işte böyle çeşitli şekillerde sergiliyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 2,
+      "ayah": 267,
+      "formInAyah": "الْخَبِيثَ",
+      "transliteration": "l-ḣabīṧe",
+      "gloss": "kötü şeyleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِنْ طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُمْ مِنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ وَلَسْتُمْ بِآخِذِيهِ إِلَّا أَنْ تُغْمِضُوا فِيهِ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû enfikû min tayyibâti mâ kesebtum ve mimmâ ahracnâ lekum minel ard(ardı), ve lâ teyemmemûl habîse minhu tunfikûne ve lestum bi âhızîhı illâ en tugmidû fîh(fîhî), va’lemû ennallâhe ganiyyun hamîd(hamîdun).",
+      "verseMeaning": "Ey iman sahipleri! Kazandıklarınızın ve yerden sizin için çıkarmış olduklarımızın temiz ve güzellerinden infak edin. Kendinizin göz yummadan alıcısı olmadığınız pis/bayağı şeyleri vermeye kalkmayın. Bilin ki Allah Ganî´dir, cömertliğine sınır yoktur; Hamîd´dir, bütün övgülerin sahibidir/övgüye layık olanları gereğince över."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 3,
+      "ayah": 179,
+      "formInAyah": "الْخَبِيثَ",
+      "transliteration": "l-ḣabīṧe",
+      "gloss": "pis olanı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَا كَانَ اللَّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَىٰ مَا أَنْتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ ۗ وَمَا كَانَ اللَّهُ لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلَٰكِنَّ اللَّهَ يَجْتَبِي مِنْ رُسُلِهِ مَنْ يَشَاءُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۚ وَإِنْ تُؤْمِنُوا وَتَتَّقُوا فَلَكُمْ أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "Mâ kânallâhu li yezerel mu’minîne alâ mâ entum aleyhi hattâ yemîzel habîse minet tayyib(tayyibi), ve mâ kânallâhu li yutliakum alel gaybi ve lâkinnallâhe yectebî min rusulihî men yeşâu fe âminû billâhi ve rusulih(rusulihî), ve in tu’minû ve tettekû fe lekum ecrun azîm(azîmun).”",
+      "verseMeaning": "Allah, müminleri şu üzerinde bulunduğunuz halde bırakmayacaktır. Sonuçta pisi temizden ayıracaktır. Allah sizi gaybı bilir duruma da getirmeyecektir. Şu var ki Allah, resullerinden dilediğini seçer. O halde Allah´a ve resullerine inanın. Eğer inanır, korunursanız sizin için büyük bir ödül vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 4,
+      "ayah": 2,
+      "formInAyah": "الْخَبِيثَ",
+      "transliteration": "l-ḣabīṧe",
+      "gloss": "pis olanı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ ۚ إِنَّهُ كَانَ حُوبًا كَبِيرًا",
+      "verseTransliteration": "Ve âtûl yetâmâ emvâlehum ve lâ tetebeddelûl habîse bit tayyîb(tayyîbi), ve lâ te’kulû emvâlehum ilâ emvâlikum innehu kâne hûben kebîrâ(kebîran).",
+      "verseMeaning": "Yetimlere mallarını verin. Temizi pise değişmeyin. Yetimlerin mallarını kendi mallarınıza katarak yemeyin. Bunu yapmak gerçekten büyük bir vebaldir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 5,
+      "ayah": 100,
+      "formInAyah": "الْخَبِيثُ",
+      "transliteration": "l-ḣabīṧu",
+      "gloss": "murdar ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Kul lâ yestevîl habîsu vet tayyibu ve lev a’cebeke kesretul habîs(habîsi), fettekullâhe yâ ulîl elbâbi leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "De ki: \"Pisin çokluğu seni hayrete düşürse de pisle temiz bir olmaz. O halde, ey akıl ve gönül sahipleri! Allah´tan korkun ki kurtuluşa erebilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 5,
+      "ayah": 100,
+      "formInAyah": "الْخَبِيثِ",
+      "transliteration": "l-ḣabīṧi",
+      "gloss": "murdarın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Kul lâ yestevîl habîsu vet tayyibu ve lev a’cebeke kesretul habîs(habîsi), fettekullâhe yâ ulîl elbâbi leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "De ki: \"Pisin çokluğu seni hayrete düşürse de pisle temiz bir olmaz. O halde, ey akıl ve gönül sahipleri! Allah´tan korkun ki kurtuluşa erebilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 8,
+      "ayah": 37,
+      "formInAyah": "الْخَبِيثَ",
+      "transliteration": "l-ḣabīṧe",
+      "gloss": "murdarı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ وَيَجْعَلَ الْخَبِيثَ بَعْضَهُ عَلَىٰ بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي جَهَنَّمَ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Li yemîzallâhul habîse minet tayyibi ve yec´alel habîse ba´dahu alâ ba´dın fe yerkumehu cemîan fe yec´alehu fî cehennem(cehenneme), ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "Böylece Allah, pisi temizden ayıracak, pis kısmı birbirleri üstüne yığıp hepsini bir yerde toplayarak tümünü cehenneme sokacak. Hüsrana uğrayanların da kendileridir bunlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 8,
+      "ayah": 37,
+      "formInAyah": "الْخَبِيثَ",
+      "transliteration": "l-ḣabīṧe",
+      "gloss": "bütün murdarları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ وَيَجْعَلَ الْخَبِيثَ بَعْضَهُ عَلَىٰ بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي جَهَنَّمَ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Li yemîzallâhul habîse minet tayyibi ve yec´alel habîse ba´dahu alâ ba´dın fe yerkumehu cemîan fe yec´alehu fî cehennem(cehenneme), ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "Böylece Allah, pisi temizden ayıracak, pis kısmı birbirleri üstüne yığıp hepsini bir yerde toplayarak tümünü cehenneme sokacak. Hüsrana uğrayanların da kendileridir bunlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 24,
+      "ayah": 26,
+      "formInAyah": "لِلْخَبِيثِينَ",
+      "transliteration": "lilḣabīṧīne",
+      "gloss": "kötü erkeklere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "verseTransliteration": "El habîsâtu lil habîsîne vel habîsûne lil habîsât(habîsâti), vet tayyibâtu lit tayyibîne vet tayyibûne lit tayyibât(tayyibâti), ulâike muberraûne mimmâ yekûlûn(yekûlûne), lehum magfiretun ve rızkun kerîm(kerîmun).",
+      "verseMeaning": "Murdar karılar murdar erkeklere, murdar erkekler de murdar karılara... Temiz kadınlar temiz erkeklere, temiz erkekler de temiz kadınlara... Bunlar, ötekilerin söylediklerinden arınmışlardır. Bunlar için bir bağışlanma ve bol bir rızık vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيث",
+      "sura": 24,
+      "ayah": 26,
+      "formInAyah": "وَالْخَبِيثُونَ",
+      "transliteration": "velḣabīṧūne",
+      "gloss": "kötü erkekler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "verseTransliteration": "El habîsâtu lil habîsîne vel habîsûne lil habîsât(habîsâti), vet tayyibâtu lit tayyibîne vet tayyibûne lit tayyibât(tayyibâti), ulâike muberraûne mimmâ yekûlûn(yekûlûne), lehum magfiretun ve rızkun kerîm(kerîmun).",
+      "verseMeaning": "Murdar karılar murdar erkeklere, murdar erkekler de murdar karılara... Temiz kadınlar temiz erkeklere, temiz erkekler de temiz kadınlara... Bunlar, ötekilerin söylediklerinden arınmışlardır. Bunlar için bir bağışlanma ve bol bir rızık vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيثَة",
+      "sura": 7,
+      "ayah": 157,
+      "formInAyah": "الْخَبَائِثَ",
+      "transliteration": "l-ḣabāiṧe",
+      "gloss": "çirkin şeyleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنْجِيلِ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ عَلَيْهِمْ ۚ فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Ellezîne yettebiûner resûlen nebiyyel ummiyyellezî yecidûnehu mektûben indehum fît tevrâti vel incîli ye’muruhum bil ma’rûfi ve yenhâhum anil munkeri ve yuhıllu lehumut tayyibâti ve yuharrimu aleyhimul habâise ve yedau anhum ısrahum vel aglâlelletî kânet aleyhim, fellezîne âmenû bihî ve azzerûhu ve nasarûhu vettebeûn nûrellezî unzile meahu ulâike humul muflihûn(muflihûne).",
+      "verseMeaning": "Onlar ki, yanlarındaki Tevrat ve İncil´de yazılmış bulacakları ümmi peygambere uyarlar; o onlara iyiliği emreder, kötü ve çirkinden onları alıkoyar. Güzel şeyleri onlara helal kılar, pis şeyleri onlara yasaklar. Sırtlarından ağırlıklarını indirir, üzerlerindeki zincirleri, bağları söküp atar. Ona inanan, onu destekleyen, ona yardım eden, onunla indirilen ışığa uyan kişiler, kurtuluşa erenlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيثَة",
+      "sura": 14,
+      "ayah": 26,
+      "formInAyah": "خَبِيثَةٍ",
+      "transliteration": "ḣabīṧetin",
+      "gloss": "kötü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ",
+      "verseTransliteration": "Ve meselu kelimetin habîsetin ke şeceretin habîsetinictusset min fevkıl ardı mâ lehâ min karâr(karârin).",
+      "verseMeaning": "Pis bir söz de gövdesi toprağın üstünde destek bulmuş bir ağaca benzer, dayanağı yoktur onun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيثَة",
+      "sura": 14,
+      "ayah": 26,
+      "formInAyah": "خَبِيثَةٍ",
+      "transliteration": "ḣabīṧetin",
+      "gloss": "kötü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ",
+      "verseTransliteration": "Ve meselu kelimetin habîsetin ke şeceretin habîsetinictusset min fevkıl ardı mâ lehâ min karâr(karârin).",
+      "verseMeaning": "Pis bir söz de gövdesi toprağın üstünde destek bulmuş bir ağaca benzer, dayanağı yoktur onun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيثَة",
+      "sura": 21,
+      "ayah": 74,
+      "formInAyah": "الْخَبَائِثَ",
+      "transliteration": "l-ḣabāiṧe",
+      "gloss": "çirkin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلُوطًا آتَيْنَاهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَاهُ مِنَ الْقَرْيَةِ الَّتِي كَانَتْ تَعْمَلُ الْخَبَائِثَ ۗ إِنَّهُمْ كَانُوا قَوْمَ سَوْءٍ فَاسِقِينَ",
+      "verseTransliteration": "Ve lûtan âteynâhu hukmen ve ılmen ve necceynâhu minel karyetilletî kânet ta’melul habâis(habâise), innehum kânû kavme sev’in fâsikîn(fâsikîne).",
+      "verseMeaning": "Lût´a da hükümranlık ve ilim verdik. Onu, pislikler üretip duran bir kentten kurtardık. O kent halkı yoldan çıkmış kötü bir kavimdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيثَٰت",
+      "sura": 24,
+      "ayah": 26,
+      "formInAyah": "الْخَبِيثَاتُ",
+      "transliteration": "El-ḣabīṧātu",
+      "gloss": "kötü kadınlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "verseTransliteration": "El habîsâtu lil habîsîne vel habîsûne lil habîsât(habîsâti), vet tayyibâtu lit tayyibîne vet tayyibûne lit tayyibât(tayyibâti), ulâike muberraûne mimmâ yekûlûn(yekûlûne), lehum magfiretun ve rızkun kerîm(kerîmun).",
+      "verseMeaning": "Murdar karılar murdar erkeklere, murdar erkekler de murdar karılara... Temiz kadınlar temiz erkeklere, temiz erkekler de temiz kadınlara... Bunlar, ötekilerin söylediklerinden arınmışlardır. Bunlar için bir bağışlanma ve bol bir rızık vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَبِيثَٰت",
+      "sura": 24,
+      "ayah": 26,
+      "formInAyah": "لِلْخَبِيثَاتِ",
+      "transliteration": "lilḣabīṧāti",
+      "gloss": "kötü kadınlara",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "verseTransliteration": "El habîsâtu lil habîsîne vel habîsûne lil habîsât(habîsâti), vet tayyibâtu lit tayyibîne vet tayyibûne lit tayyibât(tayyibâti), ulâike muberraûne mimmâ yekûlûn(yekûlûne), lehum magfiretun ve rızkun kerîm(kerîmun).",
+      "verseMeaning": "Murdar karılar murdar erkeklere, murdar erkekler de murdar karılara... Temiz kadınlar temiz erkeklere, temiz erkekler de temiz kadınlara... Bunlar, ötekilerin söylediklerinden arınmışlardır. Bunlar için bir bağışlanma ve bol bir rızık vardır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xbv"
+}

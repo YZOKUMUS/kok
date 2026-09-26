@@ -1,0 +1,64 @@
+{
+  "id": "dxn",
+  "latinName": "Dal-Kh-Nun",
+  "lettersArabic": "د خ ن",
+  "meanings": [
+    "To smoke, raise smoke or dust, become altered, be ill-natured, fumigate, grope clumsily, handle (a thing) clumsily, spoil, fail to handle properly."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "دُخَان",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دُخَان",
+      "sura": 41,
+      "ayah": 11,
+      "formInAyah": "دُخَانٌ",
+      "transliteration": "duḣānun",
+      "gloss": "duman halinde olan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ائْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ",
+      "verseTransliteration": "Summestevâ iles semâi ve hiye duhânun fe kâle lehâ ve lil ardı’tiyâ tav’an ev kerhâ(kerhen), kâletâ eteynâ tâiîn(tâiîne).",
+      "verseMeaning": "Sonra buhar/duman halindeki göğe yöneldi de ona ve yerküreye şöyle seslendi: \"İsteyerek veya istemeyerek gelin!\" Onlar şöyle dediler: \"İsteyerek geldik!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دُخَان",
+      "sura": 44,
+      "ayah": 10,
+      "formInAyah": "بِدُخَانٍ",
+      "transliteration": "biduḣānin",
+      "gloss": "bir duman",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ",
+      "verseTransliteration": "Fertekib yevme te’tîs semâu bi duhânin mubîn(mubînin).",
+      "verseMeaning": "Artık sen göğün açıkça izlenen bir duman getireceği günü gözle."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=dxn"
+}

@@ -1,0 +1,141 @@
+{
+  "id": "dhn",
+  "latinName": "Dal-he-Nun",
+  "lettersArabic": "د ه ن",
+  "meanings": [
+    "To anoint, strike (with a stick), moisten, blandish, pleasantly smooth, agreeable and suave, dissemble with, coax, be pliant, grease, dis-simulate."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "دِّهَان",
+      "count": 1
+    },
+    {
+      "formArabic": "دُّهْن",
+      "count": 1
+    },
+    {
+      "formArabic": "مُّدْهِنُون",
+      "count": 1
+    },
+    {
+      "formArabic": "يُدْهِنُ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِّهَان",
+      "sura": 55,
+      "ayah": 37,
+      "formInAyah": "كَالدِّهَانِ",
+      "transliteration": "kāddihāni",
+      "gloss": "erimiş yağ gibi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "verseTransliteration": "Fe îzen şakkatis semâu fe kânet verdeten keddihân(keddihâni).",
+      "verseMeaning": "Gök yarılarak, eriyip kızarmış yağ/kırmızıya boyanmış deri gibi bir gül haline geldiği zaman,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دُّهْن",
+      "sura": 23,
+      "ayah": 20,
+      "formInAyah": "بِالدُّهْنِ",
+      "transliteration": "bid-duhni",
+      "gloss": "yağlı olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَشَجَرَةً تَخْرُجُ مِنْ طُورِ سَيْنَاءَ تَنْبُتُ بِالدُّهْنِ وَصِبْغٍ لِلْآكِلِينَ",
+      "verseTransliteration": "Ve şecereten tahrucu min tûri seynâe tenbutu bid duhni ve sıbgın lil âkilîn(âkilîne).",
+      "verseMeaning": "Ve bir ağaç da yetiştirdik ki, Tûr-i Sina´dan çıkar, yağlı olarak biter; yiyenlere katıktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّدْهِنُون",
+      "sura": 56,
+      "ayah": 81,
+      "formInAyah": "مُدْهِنُونَ",
+      "transliteration": "mudhinūne",
+      "gloss": "küçümsüyorsunuz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَفَبِهَٰذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ",
+      "verseTransliteration": "E fe bi hâzel hadîsi entum mudhinûn(mudhinûne).",
+      "verseMeaning": "Şimdi siz, bu sözü mü kirletip küçümseyeceksiniz/bu sözle mi alttan alıp gevşek davranacaksınız/bu sözle mi yağcılık edeceksiniz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُدْهِنُ",
+      "sura": 68,
+      "ayah": 9,
+      "formInAyah": "تُدْهِنُ",
+      "transliteration": "tudhinu",
+      "gloss": "sen yağcılık yapasın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+      "verseTransliteration": "Veddû lev tudhinu fe yudhinûn(yudhinûne).",
+      "verseMeaning": "İstediler ki sen, alttan alıp gevşek davranasın/yağcılık edesin de onlar da yağcılık etsinler/yumuşaklık göstersinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُدْهِنُ",
+      "sura": 68,
+      "ayah": 9,
+      "formInAyah": "فَيُدْهِنُونَ",
+      "transliteration": "feyudhinūne",
+      "gloss": "onlar da yağcılık yapsınlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+      "verseTransliteration": "Veddû lev tudhinu fe yudhinûn(yudhinûne).",
+      "verseMeaning": "İstediler ki sen, alttan alıp gevşek davranasın/yağcılık edesin de onlar da yağcılık etsinler/yumuşaklık göstersinler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=dhn"
+}

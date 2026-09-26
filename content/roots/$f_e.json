@@ -1,0 +1,691 @@
+{
+  "id": "$fE",
+  "latinName": "Şin-Fe-Ayn",
+  "lettersArabic": "ش ف ع",
+  "meanings": [
+    "Şefaat etmek, aracılık yapmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 31,
+  "lemmas": [
+    {
+      "formArabic": "شَّفْع",
+      "count": 1
+    },
+    {
+      "formArabic": "شَفِيع",
+      "count": 10
+    },
+    {
+      "formArabic": "شَفَٰعَة",
+      "count": 13
+    },
+    {
+      "formArabic": "شَٰفِعِين",
+      "count": 2
+    },
+    {
+      "formArabic": "يَشْفَعُ",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَّفْع",
+      "sura": 89,
+      "ayah": 3,
+      "formInAyah": "وَالشَّفْعِ",
+      "transliteration": "ve şşef’ǐ",
+      "gloss": "ve çift’e",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالشَّفْعِ وَالْوَتْرِ",
+      "verseTransliteration": "Veş şef’ı vel vetr(vetri).",
+      "verseMeaning": "Çifte ve teke,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 39,
+      "ayah": 43,
+      "formInAyah": "شُفَعَاءَ",
+      "transliteration": "şufeǎā'e",
+      "gloss": "şefa’atçiler",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ ۚ قُلْ أَوَلَوْ كَانُوا لَا يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ",
+      "verseTransliteration": "Emittehazû min dûnillâhi şufeâe, kul e ve lev kânû lâ yemlikûne şey’en ve lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Yoksa Allah´tan başka şefaatçılar mı edindiler? De ki: \"Onlar hiçbir şeye sahip olmayan/hiçbir şeye gücü yetmeyen, aklını da işletmeyen varlıklar olsalar da mı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 6,
+      "ayah": 51,
+      "formInAyah": "شَفِيعٌ",
+      "transliteration": "şefīǔn",
+      "gloss": "destekçileri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَنْذِرْ بِهِ الَّذِينَ يَخَافُونَ أَنْ يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُمْ مِنْ دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَعَلَّهُمْ يَتَّقُونَ",
+      "verseTransliteration": "Ve enzir bihillezîne yehâfûne en yuhşerû ilâ rabbihimleyse lehum min dûnihî veliyyun ve lâ şefîun leallehum yettekûn(yettekûne).",
+      "verseMeaning": "Rablerinin huzurunda haşredileceklerinden korkanları, o vahiy ile uyar ki korunabilsinler. Onların O´ndan başka ne bir dostu vardır ne de şefaatçısı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 6,
+      "ayah": 70,
+      "formInAyah": "شَفِيعٌ",
+      "transliteration": "şefīǔn",
+      "gloss": "bir yardımcısı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseTransliteration": "Ve zerillezînettehazû dînehum leiben ve lehven ve garrethumul hayâtud dunyâ ve zekkir bihî en tubsele nefsun bimâ kesebet, leyse lehâ min dûnillâhi veliyyun ve lâ şefî’(şefîun), ve in ta’dil kulle adlin lâ yu’haz minhâ, ulâikellezîne ubsilû bimâ kesebû, lehum şarâbun min hamîmin ve azâbun elîmun bimâ kânû yekfurûn(yekfurûne).",
+      "verseMeaning": "Dinlerini oyun ve eğlence haline getirmiş, dünya hayatı kendilerini aldatmış olanları bırak da o Kur´an ile şunu hatırlat: Bir kişi, kendi elinin üretip kazandığına teslim edilirse onun, Allah dışında ne bir dostu kalır ne de şefaatçısı. Her türlü fidyeyi verse de ondan kabul edilmez. İşte bunlar, kazandıklarına teslim edilmişlerdir. Nankörlük ettiklerinden ötürü onlar için kaynar sudan bir içki ve korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 6,
+      "ayah": 94,
+      "formInAyah": "شُفَعَاءَكُمُ",
+      "transliteration": "şufeǎā'ekumu",
+      "gloss": "şefaatçilerinizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَقَدْ جِئْتُمُونَا فُرَادَىٰ كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُمْ مَا خَوَّلْنَاكُمْ وَرَاءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ ۚ لَقَدْ تَقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنْكُمْ مَا كُنْتُمْ تَزْعُمُونَ",
+      "verseTransliteration": "Ve lekad ci’timûnâ furâdâ kemâ halaknâkum evvele merretin ve terektum mâ havvelnâkum verâe zuhûrikum, ve mâ nerâ meakum şufeâekumullezîne zeamtum ennehum fîkum şurekâ’(şurekâû), lekad tekattaa beynekum ve dalle ankum mâ kuntum tez’umûn(tez’umûne).",
+      "verseMeaning": "Yemin olsun, sizi ilk yarattığımızdaki gibi yapayalnız/teker teker bize geldiniz. Size verip hayaline daldırdığımız şeyleri de sırtlarınızın arkasında bıraktınız. Sizinle ilgili hususlarda ortaklar olduklarını sandığınız şefaatçılarınızı da yanınızda görmüyorsunuz. Yemin olsun, koptu aranızdaki tüm bağlar ve uzaklaşıp kayboldu yanınızdan o bir şey sandıklarınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 7,
+      "ayah": 53,
+      "formInAyah": "شُفَعَاءَ",
+      "transliteration": "şufeǎā'e",
+      "gloss": "şefa’atçilerimiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هَلْ يَنْظُرُونَ إِلَّا تَأْوِيلَهُ ۚ يَوْمَ يَأْتِي تَأْوِيلُهُ يَقُولُ الَّذِينَ نَسُوهُ مِنْ قَبْلُ قَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ فَهَلْ لَنَا مِنْ شُفَعَاءَ فَيَشْفَعُوا لَنَا أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ قَدْ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Hel yanzurûne illâ te´vîleh(te´vîlehu), yevme ye´tî te´vîluhu yekûlullezîne nesûhu min kablu kad câet rusulu rabbinâ bil hakk(hakkı), fe hel lenâ min şufeâe fe yeşfeû lenâ ev nureddu fe na´mele gayrellezî kunnâ na´mel(na´melu), kad hasirû enfusehum ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Onun yalnız tevilini gözetirler. Onun tevili geldiği gün, daha önce onu unutanlar şöyle derler: \"İnan olsun, Rabbimizin resulleri gerçeği getirmişler. Acaba bizim için şefaatçılar var mı ki, bize şefaat etsinler; yahut daha önce yaptıklarımızdan başkasını yapalım diye geri gönderilebilir miyiz?\" Öz benliklerini hüsrana ittiler. İftiralarına alet ettikleri, onlardan uzaklaşıp kayboldu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 10,
+      "ayah": 3,
+      "formInAyah": "شَفِيعٍ",
+      "transliteration": "şefīǐn",
+      "gloss": "şefaat edecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ يُدَبِّرُ الْأَمْرَ ۖ مَا مِنْ شَفِيعٍ إِلَّا مِنْ بَعْدِ إِذْنِهِ ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ فَاعْبُدُوهُ ۚ أَفَلَا تَذَكَّرُونَ",
+      "verseTransliteration": "İnne rabbekumullâhullezî halakas semâvâti vel arda fî sitteti eyyâmin summestevâ alel arşi yudebbirul emr(emre), mâ min şefîin illâ min ba´di iznih(iznihî), zâlikumullâhu rabbukum fa´budûh(fa´budûhu), e fe lâ tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Şu bir gerçek ki, sizin Rabbiniz gökleri ve yeri altı günde yaratan, sonra arş üzerine egemenik kurup iş ve oluşu çekip çeviren Allah´tır. O´nun izni olmadıkça hiçbir şefaatçı devreye giremez. İşte bu Allah´tır sizin Rabbiniz. Artık O´na kulluk/ibadet edin. Düşünüp anlamıyor musunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 10,
+      "ayah": 18,
+      "formInAyah": "شُفَعَاؤُنَا",
+      "transliteration": "şufeǎā'unā",
+      "gloss": "bizim şefaatçilerimizdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ وَيَقُولُونَ هَٰؤُلَاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ ۚ قُلْ أَتُنَبِّئُونَ اللَّهَ بِمَا لَا يَعْلَمُ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Ve ya´budûne min dûnillâhi mâ lâ yedurruhum ve lâ yenfeuhum ve yekûlûne hâulâi şufeâunâ indallâh(indallâhi), kul e tunebbiûnâllâhe bimâ lâ ya´lemu fîs semâvâti ve lâ fîl ard(ardı), subhânehu ve teâlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Allah´ın yanında bir de kendilerine zarar veremeyen, yarar sağlayamayan şeylere kulluk ediyorlar ve şöyle diyorlar: \"Bunlar bizim Allah katındaki şefaatçılarımızdır.\" De onlara: \"Allah´a, göklerde ve yerde bilmediği şeyleri mi haber veriyorsunuz?\" Şanı yücedir O´nun, ortak koştuklarından arınmıştır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 30,
+      "ayah": 13,
+      "formInAyah": "شُفَعَاءُ",
+      "transliteration": "şufeǎā'u",
+      "gloss": "hiçbir şefa’atçi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَمْ يَكُنْ لَهُمْ مِنْ شُرَكَائِهِمْ شُفَعَاءُ وَكَانُوا بِشُرَكَائِهِمْ كَافِرِينَ",
+      "verseTransliteration": "Ve lem yekun lehum min şurekâihim şufeâû ve kânû bi şurekâihim kâfirîn(kâfirîne).",
+      "verseMeaning": "Allah´a ortak tuttukları arasından, kendileri için şefaatçılar çıkmayacaktır. Kendi yandaşlarına nankörlük etmektedir onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 32,
+      "ayah": 4,
+      "formInAyah": "شَفِيعٍ",
+      "transliteration": "şefīǐn",
+      "gloss": "şefa’atçiniz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُمْ مِنْ دُونِهِ مِنْ وَلِيٍّ وَلَا شَفِيعٍ ۚ أَفَلَا تَتَذَكَّرُونَ",
+      "verseTransliteration": "Allâhullezî halakas semâvâti vel arda ve mâ beynehumâ fî sitteti eyyâmin summestevâ alel arş(arşi), mâ lekum min dûnihî min veliyyin ve lâ şefîi(şefîin), e fe lâ tetezekkerûn(tetezekkerûne).",
+      "verseMeaning": "Allah´tır ki gökleri, yeri ve ikisi arasındakileri altı günde yaratmış, sonra arş üzerinde egemenlik kurmuştur. O´nun dışındakilerden size ne bir dost vardır ne de bir şefaatçı. Hâlâ düşünüp ibret almayacak mısınız?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفِيع",
+      "sura": 40,
+      "ayah": 18,
+      "formInAyah": "شَفِيعٍ",
+      "transliteration": "şefīǐn",
+      "gloss": "bir aracıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَنْذِرْهُمْ يَوْمَ الْآزِفَةِ إِذِ الْقُلُوبُ لَدَى الْحَنَاجِرِ كَاظِمِينَ ۚ مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ",
+      "verseTransliteration": "Ve enzirhum yevmel âzifeti izil kulûbu ledel hanâciri kâzımîn(kâzımîne), mâ liz zâlimîne min hamîmin ve lâ şefîin yutâu.",
+      "verseMeaning": "Onları, yaklaşan felaket günü hakkında uyar! Yürekler gırtlaklara dayanmıştır; habire yutkunurlar. Zalimlerin ne bir dostu vardır ne de sözü dinlenir bir şefaatçıları."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 2,
+      "ayah": 48,
+      "formInAyah": "شَفَاعَةٌ",
+      "transliteration": "şefāǎtun",
+      "gloss": "şefaat da",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
+      "verseTransliteration": "Vettekû yevmen lâ teczî nefsun an nefsin şey’en ve lâ yukbelu minhâ şefâatun ve lâ yu’hazu minhâ adlun ve lâ hum yunsarûn(yunsarûne).",
+      "verseMeaning": "Ve korkun o günden ki, hiç bir benlik bir başka benliğin herhangi bir şeyi için karşılık ödemez; hiç bir benlikten şefaat kabul edilmez, hiç bir benlikten fidye alınmaz. Ve onlara yardım da edilmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 2,
+      "ayah": 123,
+      "formInAyah": "شَفَاعَةٌ",
+      "transliteration": "şefāǎtun",
+      "gloss": "şefaat",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنْفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنْصَرُونَ",
+      "verseTransliteration": "Vettekû yevmen lâ teczî nefsun an nefsin şey’en ve lâ yukbelu minhâ adlun ve lâ tenfeuhâ şefâatun ve lâ hum yunsarûn(yunsarûne).",
+      "verseMeaning": "Kimsenin kimse yerine bir şey ödemeyeceği, kimseden fidye kabul edilmeyeceği, şefaatin hiç kimseye yarar sağlamayacağı ve onların hiç bir yardım göremeyecekleri o günden korkun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 2,
+      "ayah": 254,
+      "formInAyah": "شَفَاعَةٌ",
+      "transliteration": "şefāǎtun",
+      "gloss": "şefaatin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "Yâ eyyûhellezîne âmenû enfikû mimmâ razaknâkum min kabli en ye’tiye yevmun lâ bey’un fîhi ve lâ hulletun ve lâ şefâah(şefâatun), vel kâfirûne humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Ey iman edenler! Alış-verişin, dostluğun, şefaatin olmadığı o gün gelmeden önce size verdiğimiz rızktan infak edip dağıtın. Küfre sapanlar zalimlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 4,
+      "ayah": 85,
+      "formInAyah": "شَفَاعَةً",
+      "transliteration": "şefāǎten",
+      "gloss": "bir destekle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+      "verseTransliteration": "Men yeşfa’ şefâaten haseneten yekun lehû nasîbun minhâ ve men yeşfa’ şefâaten seyyieten yekun lehu kiflun minh(minhâ) ve kânallâhu alâ kulli şey’in mukîtâ(mukîten).",
+      "verseMeaning": "Kim güzel bir işe aracı olursa ondan ona bir pay vardır. Kim kötü bir şeye aracı olursa ondan da ona bir pay vardır. Allah herşeye, herkese gıda ulaştırır, Mukît´tir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 4,
+      "ayah": 85,
+      "formInAyah": "شَفَاعَةً",
+      "transliteration": "şefāǎten",
+      "gloss": "bir destekle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+      "verseTransliteration": "Men yeşfa’ şefâaten haseneten yekun lehû nasîbun minhâ ve men yeşfa’ şefâaten seyyieten yekun lehu kiflun minh(minhâ) ve kânallâhu alâ kulli şey’in mukîtâ(mukîten).",
+      "verseMeaning": "Kim güzel bir işe aracı olursa ondan ona bir pay vardır. Kim kötü bir şeye aracı olursa ondan da ona bir pay vardır. Allah herşeye, herkese gıda ulaştırır, Mukît´tir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 19,
+      "ayah": 87,
+      "formInAyah": "الشَّفَاعَةَ",
+      "transliteration": "ş-şefāǎte",
+      "gloss": "şefa’ate",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "verseTransliteration": "Lâ yemlikûneş şefâate illâ menittehaze inder rahmâni ahdâ(ahden).",
+      "verseMeaning": "Rahman katında söz almış olandan başkaları şefaat imkânı bulamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 20,
+      "ayah": 109,
+      "formInAyah": "الشَّفَاعَةُ",
+      "transliteration": "ş-şefāǎtu",
+      "gloss": "şefa’atinin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "يَوْمَئِذٍ لَا تَنْفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا",
+      "verseTransliteration": "Yevme izin lâ tenfauş şefâatu illâ men ezine lehur rahmânu ve radıye lehu kavlâ(kavlen).",
+      "verseMeaning": "O gün şefaat yarar sağlamaz. Ancak Rahman´ın izin verdiği ve sözünden hoşnut olduğu kimse müstesna..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 34,
+      "ayah": 23,
+      "formInAyah": "الشَّفَاعَةُ",
+      "transliteration": "ş-şefāǎtu",
+      "gloss": "şefa’ati",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ ۚ حَتَّىٰ إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا الْحَقَّ ۖ وَهُوَ الْعَلِيُّ الْكَبِيرُ",
+      "verseTransliteration": "Ve lâ tenfeuş şefâatu indehû illâ li men ezine leh(lehu), hattâ izâ fuzzia an kulûbihim kâlû mâzâ kâle rabbukum, kâlûl hakk(hakka), ve huvel aliyyul kebîr(kebîru).",
+      "verseMeaning": "O´nun katında, bizzat kendisinin izin verdiği kimseden başkasının şefaatı/kendisinin izin verdiği kimseden başkası için şefaat yarar sağlamaz. Sonunda, kalplerinden korku giderilince: \"Rabbimiz ne dedi?\" derler. \"Hakkı söyledi, O´dur Aliyy, O´dur Kebîr.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 36,
+      "ayah": 23,
+      "formInAyah": "شَفَاعَتُهُمْ",
+      "transliteration": "şefāǎtuhum",
+      "gloss": "onların şefa’ati",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "أَأَتَّخِذُ مِنْ دُونِهِ آلِهَةً إِنْ يُرِدْنِ الرَّحْمَٰنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ",
+      "verseTransliteration": "E ettehızu min dûnihî âliheten in yuridnir rahmânu bi durrin lâ tugni annî şefâatuhum şey’en ve lâ yunkızûn(yunkızûni).",
+      "verseMeaning": "\"O´ndan başka tanrılar mı edineyim ben? Eğer Rahman bana bir zorluk/zarar dilerse onların şefaati benden hiçbir şeyi savamaz; beni kurtaramazlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 39,
+      "ayah": 44,
+      "formInAyah": "الشَّفَاعَةُ",
+      "transliteration": "ş-şefāǎtu",
+      "gloss": "şefa’at",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعًا ۖ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+      "verseTransliteration": "Kul lillâhiş şefâatu cemîâ(cemîan), lehu mulkus semâvâti vel ard(ardı), summe ileyhi turceûn(turceûne).",
+      "verseMeaning": "De ki: \"Şefaat, tümden ve sadece Allah´ındır. Göklerin ve yerin mülkü/yönetimi O´nundur. Sonunda O´na döndürüleceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 43,
+      "ayah": 86,
+      "formInAyah": "الشَّفَاعَةَ",
+      "transliteration": "ş-şefāǎte",
+      "gloss": "şefa’at (yetkisin)e",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِنْ دُونِهِ الشَّفَاعَةَ إِلَّا مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ",
+      "verseTransliteration": "Ve lâ yemlikullezîne yed’ûne min dûnihiş şefâte illâ men şehide bil hakkı ve hum ya’lemûn(ya’lemûne).",
+      "verseMeaning": "O´nun berisinden yakardıkları, şefaate sahip olamaz! Hakka tanık olanlar müstesna. Onlar, ilimden nasiplenmekteler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 53,
+      "ayah": 26,
+      "formInAyah": "شَفَاعَتُهُمْ",
+      "transliteration": "şefāǎtuhum",
+      "gloss": "onların şefa’ati",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَكَمْ مِنْ مَلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَىٰ",
+      "verseTransliteration": "Ve kem min melekin fîs semâvâti lâ tugnî şefâatuhum şey’en illâ min ba’di en ye’zenallâhu limen yeşâu ve yerdâ.",
+      "verseMeaning": "Göklerde nice melekler var ki, şefaatler hiçbir işe yaramaz. Allah´ın, dilediği ve hoşnut olduğu kimseler için izin vermesinden sonraki durum müstesna."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَفَٰعَة",
+      "sura": 74,
+      "ayah": 48,
+      "formInAyah": "شَفَاعَةُ",
+      "transliteration": "şefāǎtu",
+      "gloss": "şefa’ati",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+      "verseTransliteration": "Fe mâ tenfeuhum şefâatuş şâfiîn(şâfiîne).",
+      "verseMeaning": "Artık yarar sağlamaz onlara şefaatçilerin şefaati."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَٰفِعِين",
+      "sura": 26,
+      "ayah": 100,
+      "formInAyah": "شَافِعِينَ",
+      "transliteration": "şāfiǐyne",
+      "gloss": "şefa’atçilerimiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَمَا لَنَا مِنْ شَافِعِينَ",
+      "verseTransliteration": "Fe mâ lenâ min şâfiîn(şâfiîne).",
+      "verseMeaning": "\"Artık ne şefaatçilerimiz var,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَٰفِعِين",
+      "sura": 74,
+      "ayah": 48,
+      "formInAyah": "الشَّافِعِينَ",
+      "transliteration": "ş-şāfiǐyne",
+      "gloss": "şefa’atçilerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+      "verseTransliteration": "Fe mâ tenfeuhum şefâatuş şâfiîn(şâfiîne).",
+      "verseMeaning": "Artık yarar sağlamaz onlara şefaatçilerin şefaati."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشْفَعُ",
+      "sura": 2,
+      "ayah": 255,
+      "formInAyah": "يَشْفَعُ",
+      "transliteration": "yeşfeǔ",
+      "gloss": "şefaat edebilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      "verseTransliteration": "Allâhu lâ ilâhe illâ huvel hayyul kayyûm(kayyûmu), lâ te’huzuhu sinetun ve lâ nevm(nevmun), lehu mâ fîs semâvâti ve mâ fil ard(ardı), menzellezî yeşfeu indehû illâ bi iznih(iznihî) ya’lemu mâ beyne eydîhim ve mâ halfehum, ve lâ yuhîtûne bi şey’in min ilmihî illâ bi mâ şâe, vesia kursiyyuhus semâvâti vel ard(arda), ve lâ yeûduhu hıfzuhumâ ve huvel aliyyul azîm(azîmu).",
+      "verseMeaning": "Allah´tan başka ilâh yok. Hayy´dır O, sürekli diridir; Kayyûm´dur O, kudretin kaynağıdır. Ne gaflet yaklaşır O´na ne kendinden geçme ne de uyku. Göklerde ne var, yerde ne varsa yalnız O´nun dur. O´nun huzurunda, bizzat O´nun izni olmadıkça, kim şefaat edebilir! O, insanların önden gönderdiklerini de bilir, arkada bıraktıklarını da!... İnsanlar O´nun bilgisinden, bizzat kendisinin dilediği dışında, hiç bir şeyi kavrayıp kuşatamazlar. O´nun kürsüsü, gökleri ve yeri çepeçevre kuşatmıştır. Göklerin ve yerin korunması O´na hiç de zor gelmez. Aliy´dir O, yüceliği sınırsızdır; Azîm´dir O, büyüklüğü sınırsızdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشْفَعُ",
+      "sura": 4,
+      "ayah": 85,
+      "formInAyah": "يَشْفَعْ",
+      "transliteration": "yeşfeǎ’",
+      "gloss": "destek olursa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+      "verseTransliteration": "Men yeşfa’ şefâaten haseneten yekun lehû nasîbun minhâ ve men yeşfa’ şefâaten seyyieten yekun lehu kiflun minh(minhâ) ve kânallâhu alâ kulli şey’in mukîtâ(mukîten).",
+      "verseMeaning": "Kim güzel bir işe aracı olursa ondan ona bir pay vardır. Kim kötü bir şeye aracı olursa ondan da ona bir pay vardır. Allah herşeye, herkese gıda ulaştırır, Mukît´tir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشْفَعُ",
+      "sura": 4,
+      "ayah": 85,
+      "formInAyah": "يَشْفَعْ",
+      "transliteration": "yeşfeǎ’",
+      "gloss": "destek olursa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+      "verseTransliteration": "Men yeşfa’ şefâaten haseneten yekun lehû nasîbun minhâ ve men yeşfa’ şefâaten seyyieten yekun lehu kiflun minh(minhâ) ve kânallâhu alâ kulli şey’in mukîtâ(mukîten).",
+      "verseMeaning": "Kim güzel bir işe aracı olursa ondan ona bir pay vardır. Kim kötü bir şeye aracı olursa ondan da ona bir pay vardır. Allah herşeye, herkese gıda ulaştırır, Mukît´tir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشْفَعُ",
+      "sura": 7,
+      "ayah": 53,
+      "formInAyah": "فَيَشْفَعُوا",
+      "transliteration": "feyeşfeǔ",
+      "gloss": "şefa’at etsinler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "هَلْ يَنْظُرُونَ إِلَّا تَأْوِيلَهُ ۚ يَوْمَ يَأْتِي تَأْوِيلُهُ يَقُولُ الَّذِينَ نَسُوهُ مِنْ قَبْلُ قَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ فَهَلْ لَنَا مِنْ شُفَعَاءَ فَيَشْفَعُوا لَنَا أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ قَدْ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Hel yanzurûne illâ te´vîleh(te´vîlehu), yevme ye´tî te´vîluhu yekûlullezîne nesûhu min kablu kad câet rusulu rabbinâ bil hakk(hakkı), fe hel lenâ min şufeâe fe yeşfeû lenâ ev nureddu fe na´mele gayrellezî kunnâ na´mel(na´melu), kad hasirû enfusehum ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Onun yalnız tevilini gözetirler. Onun tevili geldiği gün, daha önce onu unutanlar şöyle derler: \"İnan olsun, Rabbimizin resulleri gerçeği getirmişler. Acaba bizim için şefaatçılar var mı ki, bize şefaat etsinler; yahut daha önce yaptıklarımızdan başkasını yapalım diye geri gönderilebilir miyiz?\" Öz benliklerini hüsrana ittiler. İftiralarına alet ettikleri, onlardan uzaklaşıp kayboldu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشْفَعُ",
+      "sura": 21,
+      "ayah": 28,
+      "formInAyah": "يَشْفَعُونَ",
+      "transliteration": "yeşfeǔne",
+      "gloss": "şefa’at edemezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ وَهُمْ مِنْ خَشْيَتِهِ مُشْفِقُونَ",
+      "verseTransliteration": "Ya’lemu mâ beyne eydîhim ve mâ halfehum ve lâ yeşfeûne illâ li menirtedâ ve hum min haşyetihî muşfikûn(muşfikûne).",
+      "verseMeaning": "O, onların önlerindekini de arkalarındakini de bilir. Onlar, O´nun hoşnutluk verdiklerinden başkasına da şefaat etmezler. Ve onlar O´nun korkusundan titrerler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24fE"
+}

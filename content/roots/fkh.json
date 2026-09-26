@@ -1,0 +1,452 @@
+{
+  "id": "fkh",
+  "latinName": "Fe-Kef-he",
+  "lettersArabic": "ف ك ه",
+  "meanings": [
+    "became cheerful/happy, free from straitness/burden, enjoy, to jest/laugh/joke, be amused/pleased, entertain, fruit, wonderment, indulge in pleasantry, rejoice, admiration."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 19,
+  "lemmas": [
+    {
+      "formArabic": "تَفَكَّهُ",
+      "count": 1
+    },
+    {
+      "formArabic": "فَكِهِين",
+      "count": 1
+    },
+    {
+      "formArabic": "فَوَٰكِه",
+      "count": 3
+    },
+    {
+      "formArabic": "فَٰكِهَة",
+      "count": 11
+    },
+    {
+      "formArabic": "فَٰكِهِين",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفَكَّهُ",
+      "sura": 56,
+      "ayah": 65,
+      "formInAyah": "تَفَكَّهُونَ",
+      "transliteration": "tefekkehūne",
+      "gloss": "sızlanıp",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "verseTransliteration": "Lev neşâu le cealnâhu hutâmen fe zaltum tefekkehûn(tefekkehûne).",
+      "verseMeaning": "Dileseydik, onu kuru bir çöp haline getirirdik de başlardınız şu şekilde gevelemeye:"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَكِهِين",
+      "sura": 83,
+      "ayah": 31,
+      "formInAyah": "فَكِهِينَ",
+      "transliteration": "fekihīne",
+      "gloss": "eğlenerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+      "verseTransliteration": "Ve izenkalebû ilâ ehlihimunkalebû fekihîn(fekihîne).",
+      "verseMeaning": "Ailelerine döndüklerinde, gülüp eğlenmeye koyulurlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَوَٰكِه",
+      "sura": 23,
+      "ayah": 19,
+      "formInAyah": "فَوَاكِهُ",
+      "transliteration": "fevākihu",
+      "gloss": "meyvalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَنْشَأْنَا لَكُمْ بِهِ جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ لَكُمْ فِيهَا فَوَاكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "verseTransliteration": "Fe enşe’nâ lekum bihî cennâtin min nahîlin ve a’nâb(a’nâbin), lekum fîhâ fevâkihu kesîretun ve minhâ te’kulûn(te’kulûne).",
+      "verseMeaning": "Onunla size hurmalardan ve üzümlerden bahçeler yetiştirdik, onlarda sizin için birçok meyveler vardır; onlardan yiyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَوَٰكِه",
+      "sura": 37,
+      "ayah": 42,
+      "formInAyah": "فَوَاكِهُ",
+      "transliteration": "fevākihu",
+      "gloss": "(türlü) meyvalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَوَاكِهُ ۖ وَهُمْ مُكْرَمُونَ",
+      "verseTransliteration": "Fevâkih(fevâkihu), ve hum mukremûn(mukremûne).",
+      "verseMeaning": "Çeşit çeşit meyveler vardır. İkramla karşılanan kişilerdir onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَوَٰكِه",
+      "sura": 77,
+      "ayah": 42,
+      "formInAyah": "وَفَوَاكِهَ",
+      "transliteration": "ve fevākihe",
+      "gloss": "ve meyvalar (içindedirler)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+      "verseTransliteration": "Ve fevâkihe mimmâ yeştehûn(yeştehûne).",
+      "verseMeaning": "Canlarının çektiği meyvelerle yanyanadırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 36,
+      "ayah": 57,
+      "formInAyah": "فَاكِهَةٌ",
+      "transliteration": "fākihetun",
+      "gloss": "meyvalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُمْ مَا يَدَّعُونَ",
+      "verseTransliteration": "Lehum fîhâ fâkihetun ve lehum mâ yeddeûn(yeddeûne).",
+      "verseMeaning": "Orada kendileri için meyveler var. İstedikleri her şey kendilerinin olacak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 38,
+      "ayah": 51,
+      "formInAyah": "بِفَاكِهَةٍ",
+      "transliteration": "bifākihetin",
+      "gloss": "meyva",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مُتَّكِئِينَ فِيهَا يَدْعُونَ فِيهَا بِفَاكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+      "verseTransliteration": "Muttekîne fîhâ yed’ûne fîhâ bi fâkihetin kesîretin ve şerâb(şerâbin).",
+      "verseMeaning": "Orada, yaslanmış olarak birçok meyve ve içecek isterler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 43,
+      "ayah": 73,
+      "formInAyah": "فَاكِهَةٌ",
+      "transliteration": "fākihetun",
+      "gloss": "meyva",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِنْهَا تَأْكُلُونَ",
+      "verseTransliteration": "Lekum fîhâ fâkihetun kesîretun minhâ te’kulûn(te’kulûne).",
+      "verseMeaning": "Orada sizin için pek çok meyve var. Onlardan yiyeceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 44,
+      "ayah": 55,
+      "formInAyah": "فَاكِهَةٍ",
+      "transliteration": "fākihetin",
+      "gloss": "meyveyi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ",
+      "verseTransliteration": "Yed’ûne fîhâ bi kulli fâkihetin âminîn(âminîne).",
+      "verseMeaning": "Orada, güvenli bir biçimde her türlü meyveyi isterler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 52,
+      "ayah": 22,
+      "formInAyah": "بِفَاكِهَةٍ",
+      "transliteration": "bifākihetin",
+      "gloss": "meyvadan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ",
+      "verseTransliteration": "Ve emdednâhum bi fâkihetin ve lahmin mimmâ yeştehûn (yeştehûne).",
+      "verseMeaning": "Biz onlara canlarının çektiği meyveden ve etten ikram ettik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 55,
+      "ayah": 11,
+      "formInAyah": "فَاكِهَةٌ",
+      "transliteration": "fākihetun",
+      "gloss": "meyva(lar)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+      "verseTransliteration": "Fîhâ fâkihetun vennahlu zâtul ekmâm(ekmâmi).",
+      "verseMeaning": "Bir meyve var onda. Ve salkımlarla donatılmış hurma ağaçları."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 55,
+      "ayah": 52,
+      "formInAyah": "فَاكِهَةٍ",
+      "transliteration": "fākihetin",
+      "gloss": "meyvaların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+      "verseTransliteration": "Fîhi mâ min kulli fâtihetin zevcân(zevcâni).",
+      "verseMeaning": "O cennetlerde iki çift var her meyvadan."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 55,
+      "ayah": 68,
+      "formInAyah": "فَاكِهَةٌ",
+      "transliteration": "fākihetun",
+      "gloss": "meyvalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "verseTransliteration": "Fîhi mâ fâkihetun ve nahlun ve rummân(rummânun).",
+      "verseMeaning": "İkisinde de meyve, hurma ve nar var."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 56,
+      "ayah": 20,
+      "formInAyah": "وَفَاكِهَةٍ",
+      "transliteration": "ve fākihetin",
+      "gloss": "ve meyva(lar)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ",
+      "verseTransliteration": "Ve fâkihetin mimmâ yetehayyerûn(yetehayyerûne).",
+      "verseMeaning": "Ve meyveler, gönüllerince seçtiklerinden."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 56,
+      "ayah": 32,
+      "formInAyah": "وَفَاكِهَةٍ",
+      "transliteration": "ve fākihetin",
+      "gloss": "ve meyvalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَفَاكِهَةٍ كَثِيرَةٍ",
+      "verseTransliteration": "Ve fâkihetin kesîrah(kesîretin)",
+      "verseMeaning": "Birçok meyveler arasındadırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهَة",
+      "sura": 80,
+      "ayah": 31,
+      "formInAyah": "وَفَاكِهَةً",
+      "transliteration": "ve fākiheten",
+      "gloss": "ve meyva",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَفَاكِهَةً وَأَبًّا",
+      "verseTransliteration": "Ve fâkiheten ve ebbâ(ebben).",
+      "verseMeaning": "Meyve, otlak/sebze."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهِين",
+      "sura": 36,
+      "ayah": 55,
+      "formInAyah": "فَاكِهُونَ",
+      "transliteration": "fākihūne",
+      "gloss": "eğlenirler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ",
+      "verseTransliteration": "İnne ashâbel cennetil yevme fî şugulin fâkihûn(fâkihûne).",
+      "verseMeaning": "O gün cennet halkı bir uğraş içinde eğlenip ferahlamaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهِين",
+      "sura": 44,
+      "ayah": 27,
+      "formInAyah": "فَاكِهِينَ",
+      "transliteration": "fākihīne",
+      "gloss": "zevkü sefa sürüyorlardı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ",
+      "verseTransliteration": "Ve na’metin kânû fîhâ fâkihîn(fâkihîne).",
+      "verseMeaning": "İçinde zevk sürdükleri nice nimetler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰكِهِين",
+      "sura": 52,
+      "ayah": 18,
+      "formInAyah": "فَاكِهِينَ",
+      "transliteration": "fākihīne",
+      "gloss": "sefa sürerler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ",
+      "verseTransliteration": "Fâkihîne bi mâ âtâhum rabbuhum, ve vekâhum rabbuhum azâbel cahîm(cahîmi).",
+      "verseMeaning": "Rablerinin kendilerine verdikleriyle keyif çatarlar. Rableri onları cehennem azabından korumuştur."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fkh"
+}

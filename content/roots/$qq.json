@@ -1,0 +1,661 @@
+{
+  "id": "$qq",
+  "latinName": "Şin-Kaf-Kaf",
+  "lettersArabic": "ش ق ق",
+  "meanings": [
+    "Yarılmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 28,
+  "lemmas": [
+    {
+      "formArabic": "أَشَقّ",
+      "count": 1
+    },
+    {
+      "formArabic": "شَاقُّ",
+      "count": 7
+    },
+    {
+      "formArabic": "شُّقَّة",
+      "count": 1
+    },
+    {
+      "formArabic": "شِقَاق",
+      "count": 7
+    },
+    {
+      "formArabic": "شَقّ",
+      "count": 1
+    },
+    {
+      "formArabic": "شِقّ",
+      "count": 1
+    },
+    {
+      "formArabic": "شَقَقْ",
+      "count": 2
+    },
+    {
+      "formArabic": "يَشَّقَّقُ",
+      "count": 3
+    },
+    {
+      "formArabic": "ٱنشَقَّ",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَشَقّ",
+      "sura": 13,
+      "ayah": 34,
+      "formInAyah": "أَشَقُّ",
+      "transliteration": "eşeḳḳu",
+      "gloss": "daha zordur",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَهُمْ عَذَابٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَلَعَذَابُ الْآخِرَةِ أَشَقُّ ۖ وَمَا لَهُمْ مِنَ اللَّهِ مِنْ وَاقٍ",
+      "verseTransliteration": "Lehum azâbun fîl hayâtid dunyâ ve le azâbul âhıreti eşakk(eşakku), ve mâ lehum minallâhi min vâk(vâkın).",
+      "verseMeaning": "Dünya hayatında bir azap var onlar için; âhiret azabı ise çok daha şiddetlidir. Onları Allah´a karşı koruyacak kimse de yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 4,
+      "ayah": 115,
+      "formInAyah": "يُشَاقِقِ",
+      "transliteration": "yuşāḳiḳi",
+      "gloss": "karşı gelir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+      "verseTransliteration": "Ve men yuşâkıkır resûle min ba’di mâ tebeyyene lehul hudâ ve yettebi’ gayre sebîlil mu’minîne nuvellıhî mâ tevellâ ve nuslihî cehennem(cehenneme) ve sâet masîrâ(masîran).",
+      "verseMeaning": "Erdirici kılavuzluk kendisine ayan-beyan geldikten sonra, resulden kopup müminlerin yolunun dışını izleyeni biz, yöneldiğiyle kaynaştırır, sonra da cehenneme sallarız. Ne kötü bir dönüş yeridir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 8,
+      "ayah": 13,
+      "formInAyah": "شَاقُّوا",
+      "transliteration": "şāḳḳū",
+      "gloss": "karşı geldiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۚ وَمَنْ يُشَاقِقِ اللَّهَ وَرَسُولَهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Zâlike bi ennehum şâkkullâhe ve resûluh(resûlehu), ve men yuşâkıkıllâhe ve resûlehu fe innallâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Bu böyledir. Çünkü onlar Allah´a ve resulüne kafa tuttular. Kim Allah´a ve resulüne kafa tutarsa kuşkusuz ki, Allah´ın azabı şiddetli olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 8,
+      "ayah": 13,
+      "formInAyah": "يُشَاقِقِ",
+      "transliteration": "yuşāḳiḳi",
+      "gloss": "karşı gelirse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۚ وَمَنْ يُشَاقِقِ اللَّهَ وَرَسُولَهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Zâlike bi ennehum şâkkullâhe ve resûluh(resûlehu), ve men yuşâkıkıllâhe ve resûlehu fe innallâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Bu böyledir. Çünkü onlar Allah´a ve resulüne kafa tuttular. Kim Allah´a ve resulüne kafa tutarsa kuşkusuz ki, Allah´ın azabı şiddetli olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 16,
+      "ayah": 27,
+      "formInAyah": "تُشَاقُّونَ",
+      "transliteration": "tuşāḳḳūne",
+      "gloss": "düşmanlık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ يَوْمَ الْقِيَامَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تُشَاقُّونَ فِيهِمْ ۚ قَالَ الَّذِينَ أُوتُوا الْعِلْمَ إِنَّ الْخِزْيَ الْيَوْمَ وَالسُّوءَ عَلَى الْكَافِرِينَ",
+      "verseTransliteration": "Summe yevmel kıyâmeti yuhzîhim ve yekûlu eyne şurekâiyellezîne kuntum tuşâkkûne fîhim, kâlellezîne ûtul ilme innel hızyel yevme ves sûe alel kâfirîn(kâfirîne).",
+      "verseMeaning": "Sonra kıyamet günü onları rezil edecek ve diyecek: \"Kendileri için kavga çıkarıp ayrılığa düştüğünüz ortaklarım nerede?\" Kendilerine ilim verilmiş olanlar diyecekler ki: \"Bugün rezillik ve kötülük, gerçeği inkâr edenleredir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 47,
+      "ayah": 32,
+      "formInAyah": "وَشَاقُّوا",
+      "transliteration": "ve şāḳḳū",
+      "gloss": "ve incitenler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ وَشَاقُّوا الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَىٰ لَنْ يَضُرُّوا اللَّهَ شَيْئًا وَسَيُحْبِطُ أَعْمَالَهُمْ",
+      "verseTransliteration": "İnnellezîne keferû ve saddû an sebîlillâhi ve şâkkûr resûle min ba’di mâ tebeyyene lehumul hudâ len yedurrûllâhe şey’â(şey’en), ve seyuhbitu a’mâlehum.",
+      "verseMeaning": "Nankörlüğe sapıp Allah yolundan alıkoyanlar ve hidayet kendilerine tam bir şekilde belli olduktan sonra resule kafa tutanlar, Allah´a hiçbir şekilde zarar veremezler. O, onların amellerini işe yaramaz hale getirecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 59,
+      "ayah": 4,
+      "formInAyah": "شَاقُّوا",
+      "transliteration": "şāḳḳū",
+      "gloss": "karşı gelmeleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَنْ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Zâlike bi ennehum şâ akkûllâhe ve resûleh(resûlehu), ve men yuşâ akkıllâhe fe innallâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Çünkü onlar, Allah´a ve resulüne kafa tuttular. Kim Allah´a kafa tutarsa, bilsin ki Allah´ın azabı çok çetindir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاقُّ",
+      "sura": 59,
+      "ayah": 4,
+      "formInAyah": "يُشَاقِّ",
+      "transliteration": "yuşāḳḳi",
+      "gloss": "karşı gelirse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَنْ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Zâlike bi ennehum şâ akkûllâhe ve resûleh(resûlehu), ve men yuşâ akkıllâhe fe innallâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Çünkü onlar, Allah´a ve resulüne kafa tuttular. Kim Allah´a kafa tutarsa, bilsin ki Allah´ın azabı çok çetindir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شُّقَّة",
+      "sura": 9,
+      "ayah": 42,
+      "formInAyah": "الشُّقَّةُ",
+      "transliteration": "ş-şuḳḳatu",
+      "gloss": "aşılacak mesafe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَاتَّبَعُوكَ وَلَٰكِنْ بَعُدَتْ عَلَيْهِمُ الشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِاللَّهِ لَوِ اسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنْفُسَهُمْ وَاللَّهُ يَعْلَمُ إِنَّهُمْ لَكَاذِبُونَ",
+      "verseTransliteration": "Lev kâne aradan karîben ve seferen kâsıden lettebeûke ve lâkin beudet aleyhimuş şukkah(şukkatu), ve seyahlifûne billâhi levisteta´nâ leharecnâ meakum, yuhlikûne enfusehum, vallâhu ya´lemu innehum le kâzibûn(kâzibûne).",
+      "verseMeaning": "Eğer o, yakın bir dünya menfaati yahut orta bir yolculuk olsa idi, elbette seni izleyeceklerdi. Ama o zorluklarla dolu yolculuk kendilerine uzak geldi. \"Gücümüz yetseydi sizinle çıkacaktık\" diye Allah´a yemin de ederler. Kendilerini mahvediyorlar. Allah biliyor ki onlar, kesinlikle yalancıdırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 2,
+      "ayah": 137,
+      "formInAyah": "شِقَاقٍ",
+      "transliteration": "şiḳāḳin",
+      "gloss": "anlaşmazlık (düşerler)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا ۖ وَإِنْ تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ اللَّهُ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseTransliteration": "Fe in âmenû bi misli mâ âmentum bihî fe kadihtedev ve in tevellev fe innemâ hum fî şikâk(şikâkın) fe se yekfîke humullâh(humullâhu), ve huves semîul alîm(alîmu).",
+      "verseMeaning": "Eğer onlar da sizin inandığınız gibi inanırlarsa, hiç kuşkusuz iyiyi ve güzeli bulmuş olurlar; eğer sırt dönerlerse artık onlar şıkak içindedirler/parçalanmış olurlar. Onlara karşı sana Allah yeter. En iyi işiten, en güzel bilendir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 2,
+      "ayah": 176,
+      "formInAyah": "شِقَاقٍ",
+      "transliteration": "şiḳāḳin",
+      "gloss": "anlaşmazlık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَابَ بِالْحَقِّ ۗ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِي الْكِتَابِ لَفِي شِقَاقٍ بَعِيدٍ",
+      "verseTransliteration": "Zâlike bi ennellâhe nezzelel kitâbe bil hakk(hakkı), ve innellezînahtelefû fîl kitâbi le fî şikâkin baîd(baîdin).",
+      "verseMeaning": "Bu böyledir. Çünkü Allah, Kitap´ı hak olarak indirmiştir. Kitap´ta çekişmeye girenler, şıkak´a düşmüşlerdir/bütünden uzaklaştırıcı bir kopuşun tam içindedirler,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 4,
+      "ayah": 35,
+      "formInAyah": "شِقَاقَ",
+      "transliteration": "şiḳāḳa",
+      "gloss": "açılmasından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا",
+      "verseTransliteration": "Ve in hıftum şıkâka beynihimâ feb’asû hakemen min ehlihî ve hakemen min ehlihâ, in yurîdâ ıslâhan yuveffikıllâhu beynehumâ innallâhe kâne alîmen habîrâ(habîren).",
+      "verseMeaning": "Eğer karı-kocanın aralarının açılmasından endişe ederseniz, bir hakem erkek tarafından, bir hakem de kadın tarafından gönderin. Bunlar, barıştırmak isterlerse Allah, kadınla erkeğin aralarını düzeltmede onları başarılı kılacaktır. Allah Alîm´dir, her şeyi bilir; Habîr´dir, her şeyden haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 11,
+      "ayah": 89,
+      "formInAyah": "شِقَاقِي",
+      "transliteration": "şiḳāḳī",
+      "gloss": "bana karşı gelmeniz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim"
+      },
+      "verseArabic": "وَيَا قَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِي أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَالِحٍ ۚ وَمَا قَوْمُ لُوطٍ مِنْكُمْ بِبَعِيدٍ",
+      "verseTransliteration": "Ve yâ kavmi lâ yecrimennekum şikâkî en yusîbekum mislu mâ esâbe kavme nûhin ev kavme hûdin ev kavme sâlih(sâlihın), ve mâ kavmu lûtin minkum bi baîd(baîdin).",
+      "verseMeaning": "\"Ey toplumum! Bana kafa tutmanız, sakın sizi Nûh kavminin yahut Hûd kavminin yahut Sâlih kavminin başlarına gelen musibetle yüzyüze getirmesin. Lût kavmi de sizden pek uzak değil.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 22,
+      "ayah": 53,
+      "formInAyah": "شِقَاقٍ",
+      "transliteration": "şiḳāḳin",
+      "gloss": "bir ayrılık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لِيَجْعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْنَةً لِلَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ",
+      "verseTransliteration": "Li yec’ale mâ yulkış şeytânu fitneten lillezîne fî kulûbihim maradun vel kâsiyeti kulûbuhum, ve innez zâlimîne le fî şikâkın baîd(baîdin).",
+      "verseMeaning": "Bu, Allah´ın; şeytanın attığını, kalplerinde hastalık olanlara, gönülleri katılaşanlara bir fitne yapması içindir. Zalimler, geri dönülmez bir ayrılık ve kopuş içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 38,
+      "ayah": 2,
+      "formInAyah": "وَشِقَاقٍ",
+      "transliteration": "ve şiḳāḳin",
+      "gloss": "ve ayrılık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ",
+      "verseTransliteration": "Belillezîne keferû fî ızzetin ve şikâk(şikâkın).",
+      "verseMeaning": "İş hiç de onların sandığı gibi değil! O küfre sapanlar bir gurur, ayrılık ve bütünden kopuş içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقَاق",
+      "sura": 41,
+      "ayah": 52,
+      "formInAyah": "شِقَاقٍ",
+      "transliteration": "şiḳāḳin",
+      "gloss": "bir ayrılığa düşen",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ ثُمَّ كَفَرْتُمْ بِهِ مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ",
+      "verseTransliteration": "Kul e reeytum in kâne min indillâhi summe kefertum bihî men edallu mimmen huve fî şikâkın baîd(baîdin).",
+      "verseMeaning": "De ki: \"Söyleyin bakalım, o Kur´an Allah katından ise, siz de onun üstünü örttünüzse, o dönüşü olmayan kopukluğa düşenden daha sapık kim vardır?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَقّ",
+      "sura": 80,
+      "ayah": 26,
+      "formInAyah": "شَقًّا",
+      "transliteration": "şeḳḳan",
+      "gloss": "güzel bir yarışla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+      "verseTransliteration": "Summe şekaknel arda şakkâ(şakkan).",
+      "verseMeaning": "Sonra yeryüzünü yardık da yardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شِقّ",
+      "sura": 16,
+      "ayah": 7,
+      "formInAyah": "بِشِقِّ",
+      "transliteration": "bişiḳḳi",
+      "gloss": "zahmetler çekmek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنْفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَحِيمٌ",
+      "verseTransliteration": "Ve tahmilu eskâlekum ilâ beledin lem tekûnû bâlıgîhi illâ bi şıkkıl enfus(enfusi), inne rabbekum le raûfun rahîm(rahîmun).",
+      "verseMeaning": "Ve ağırlıklarınızı yüklenir, canlarınızın yarısını tüketmeden varamayacağınız beldelere kadar taşırlar. Hiç kuşkusuz, Rabbiniz gerçekten Raûf´tur, çok acıyıp esirger; Rahîm´dir, sınırsızca merhamet eder."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَقَقْ",
+      "sura": 28,
+      "ayah": 27,
+      "formInAyah": "أَشُقَّ",
+      "transliteration": "eşuḳḳa",
+      "gloss": "zahmet vermek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قَالَ إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ ۖ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِنْدِكَ ۖ وَمَا أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّالِحِينَ",
+      "verseTransliteration": "Kâle innî urîdu en unkihake ihdebneteyye hâteyni alâ en te’curenî semâniye hıcec(hıcecin), fe in etmemte aşran fe min indik(indike), ve mâ urîdu en eşukka aleyk(aleyke), setecidunî in şâallâhu mines sâlihîn(sâlihîne).",
+      "verseMeaning": "İhtiyar dedi ki: \"Bana sekiz yıl çalışman şartıyla şu iki kızımdan birini sana nikâhlamak istiyorum. Eğer on yıla tamamlarsan, o da senden. Seni zora sürmek gibi bir niyetim yok. Allah dilerse beni, barış ve iyilik sever insanlardan bulacaksın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَقَقْ",
+      "sura": 80,
+      "ayah": 26,
+      "formInAyah": "شَقَقْنَا",
+      "transliteration": "şeḳaḳnā",
+      "gloss": "yardık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+      "verseTransliteration": "Summe şekaknel arda şakkâ(şakkan).",
+      "verseMeaning": "Sonra yeryüzünü yardık da yardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشَّقَّقُ",
+      "sura": 2,
+      "ayah": 74,
+      "formInAyah": "يَشَّقَّقُ",
+      "transliteration": "yeşşeḳḳaḳu",
+      "gloss": "çatlayıverir de",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "verseTransliteration": "Summe kaset kulûbukum min ba’di zâlike fe hiye kel hıcâreti ev eşeddu kasveh(kasveten), ve inne minel hıcâreti lemâ yetefecceru minhul enhâr(enhâru), ve inne minhâ lemâ yeşşakkaku fe yahrucu minhul mâu, ve inne minhâ lemâyehbitu min haşyetillâh(haşyetillâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Sonra bunun ardından kalpleriniz yine kaskatı kesildi. Taş gibidir o. Belki daha da katıdır. Taşların bazıları var ki, ondan ırmaklar fışkırır. Bazıları var ki, çatır çatır yarılır da içinden su çıkar. Öylesi var ki, Allah korkusundan aşağılara düşer. Allah, yapıp durduklarınızdan gafil değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشَّقَّقُ",
+      "sura": 25,
+      "ayah": 25,
+      "formInAyah": "تَشَقَّقُ",
+      "transliteration": "teşeḳḳaḳu",
+      "gloss": "parçalandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "وَيَوْمَ تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ وَنُزِّلَ الْمَلَائِكَةُ تَنْزِيلًا",
+      "verseTransliteration": "Ve yevme teşakkakus semâu bil gamâmi ve nuzzilel melâiketu tenzîlâ(tenzîlen).",
+      "verseMeaning": "Gün olur, gök, bulutlarla yarılır ve melekler ardarda indirilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَشَّقَّقُ",
+      "sura": 50,
+      "ayah": 44,
+      "formInAyah": "تَشَقَّقُ",
+      "transliteration": "teşeḳḳaḳu",
+      "gloss": "yarılır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "يَوْمَ تَشَقَّقُ الْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+      "verseTransliteration": "Yevme teşakkakul ardu anhum sirââ(sirâan), zâlike haşrun aleynâ yesîrun.",
+      "verseMeaning": "O gün, yer çatır çatır yarılıp onlardan çabucak uzaklaşır. Bu yalnız bizim için kolay olan bir haşretmedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنشَقَّ",
+      "sura": 19,
+      "ayah": 90,
+      "formInAyah": "وَتَنْشَقُّ",
+      "transliteration": "ve tenşeḳḳu",
+      "gloss": "ve yarılacak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا",
+      "verseTransliteration": "Tekâdus semâvâtu yetefattarne minhu ve tenşakkul ardu ve tehırrul cibâlu heddâ(hedden).",
+      "verseMeaning": "Bu söz yüzünden neredeyse gökler çatlayacak, yer parçalanacak, dağlar yıkılıp çökecek;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنشَقَّ",
+      "sura": 54,
+      "ayah": 1,
+      "formInAyah": "وَانْشَقَّ",
+      "transliteration": "venşeḳḳa",
+      "gloss": "ve yarıldı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
+      "verseTransliteration": "İkterebetis sâatu ven şakkal kamer(kameru).",
+      "verseMeaning": "Saat yaklaştı, Ay yarıldı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنشَقَّ",
+      "sura": 55,
+      "ayah": 37,
+      "formInAyah": "انْشَقَّتِ",
+      "transliteration": "nşeḳḳati",
+      "gloss": "yarıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "verseTransliteration": "Fe îzen şakkatis semâu fe kânet verdeten keddihân(keddihâni).",
+      "verseMeaning": "Gök yarılarak, eriyip kızarmış yağ/kırmızıya boyanmış deri gibi bir gül haline geldiği zaman,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنشَقَّ",
+      "sura": 69,
+      "ayah": 16,
+      "formInAyah": "وَانْشَقَّتِ",
+      "transliteration": "venşeḳḳati",
+      "gloss": "yarılmıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ",
+      "verseTransliteration": "Ven şakkatis semâu fe hiye yevme izin vâhiyeh(vâhiyetun).",
+      "verseMeaning": "Gök yarılmıştır. O gün o, lime lime sarkmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنشَقَّ",
+      "sura": 84,
+      "ayah": 1,
+      "formInAyah": "انْشَقَّتْ",
+      "transliteration": "nşeḳḳat",
+      "gloss": "yarıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْشَقَّتْ",
+      "verseTransliteration": "İzes semâunşakkat.",
+      "verseMeaning": "Gök yarılıp parçalandığı,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24qq"
+}

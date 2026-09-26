@@ -1,0 +1,403 @@
+{
+  "id": "mll",
+  "latinName": "Mim-Lam-Lam",
+  "lettersArabic": "م ل ل",
+  "meanings": [
+    "to dictate, embrace a religion, creed/faith."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 18,
+  "lemmas": [
+    {
+      "formArabic": "مِلَّة",
+      "count": 15
+    },
+    {
+      "formArabic": "يُمِلَّ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 2,
+      "ayah": 120,
+      "formInAyah": "مِلَّتَهُمْ",
+      "transliteration": "milletehum",
+      "gloss": "onların milletine (dinine)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَنْ تَرْضَىٰ عَنْكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۗ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ ۙ مَا لَكَ مِنَ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+      "verseTransliteration": "Ve len terdâ ankel yahûdu ve len nasârâ hattâ tettebia milletehum kul inne hudâllâhi huvel hudâ ve leinitteba’te ehvâehum ba’dellezî câeke minel ilmi, mâ leke minallâhi min veliyyin ve lâ nasîr(nasîrin).",
+      "verseMeaning": "Sen onların öz milletlerine uymadıkça Yahudiler de Hıristiyanlar da senden asla hoşnut olmazlar. De ki: \"Allah´ın kılavuzluğu erdirici kılavuzluğun ta kendisidir.\" İlimden sana ulaşan nasipten sonra bunların boş ve iğreti arzularına uyarsan, Allah katından ne bir Velî´n olur ne de bir yardımcın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 2,
+      "ayah": 130,
+      "formInAyah": "مِلَّةِ",
+      "transliteration": "milleti",
+      "gloss": "milletinden (dininden)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَنْ يَرْغَبُ عَنْ مِلَّةِ إِبْرَاهِيمَ إِلَّا مَنْ سَفِهَ نَفْسَهُ ۚ وَلَقَدِ اصْطَفَيْنَاهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+      "verseTransliteration": "Ve men yergabu an milleti ibrâhîme illâ men sefihe nefseh(nefsehu), ve lekadistafeynâhufîd dunyâ, ve innehu fîlâhireti le mines sâlihîn(sâlihîne).",
+      "verseMeaning": "Öz benliğini beyinsizliğe itenden başka kim, İbrahim´in milletinden yüz çevirir? Yemin olsun ki biz onu dünyada seçip yüceltmiştik. Ve o, âhırette de barış ve iyilik sevenlerden biri olacaktır elbette..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 2,
+      "ayah": 135,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "milletine (dinine)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا كُونُوا هُودًا أَوْ نَصَارَىٰ تَهْتَدُوا ۗ قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Ve kâlû kûnû hûden ev nasârâ tehtedû kul bel millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "\"Yahudi yahut Hıristiyan olun ki doğruya kılavuzlanasınız.\" dediler. De ki: \"Hayır, öyle değil. Şirk ve yozlaşmadan uzak bir biçimde, İbrahim milletinden olalım. O, şirke bulaşanlardan değildi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 3,
+      "ayah": 95,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "dinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ صَدَقَ اللَّهُ ۗ فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Kul sadakallâhu fettebiû millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "De ki: \"Allah, doğrusunu söylemiştir/vaadinde sadıktır. Hadi artık hanîf olarak İbrahim´in milletine uyun! Müşriklerden değildi o.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 4,
+      "ayah": 125,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "dinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا",
+      "verseTransliteration": "Ve men ahsenu dînen mimmen esleme vechehu lillâhi ve huve muhsinun vettebea millete ibrâhîme hanîfâ(hanîfen), vettehazallâhu ibrâhîme halîlâ(halîlen).",
+      "verseMeaning": "Güzellikler sergileyerek ve özü-sözü doğru bir halde İbrahim´in milletine uyarak yüzünü Allah´a teslim edenden daha güzel dinli kim olabilir! Allah İbrahim´i dost edinmişti."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 6,
+      "ayah": 161,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "dinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Kul innenî hedânî rabbî ilâ sırâtın mustekîm(mustekîmin) dînen kıyamen millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "De ki: \"Beni, dosdoğru yola Rabbim iletmiştir. Güçlü, pürüzsüz bir dine, hanîf olan İbrahim´in milletine. Müşriklerden değildi o.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 7,
+      "ayah": 88,
+      "formInAyah": "مِلَّتِنَا",
+      "transliteration": "milletinā",
+      "gloss": "dinimize",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِنْ قَرْيَتِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَارِهِينَ",
+      "verseTransliteration": "Kâlel meleullezînestekberû min kavmihî le nuhricenneke yâ şuaybu vellezîne âmenû meake min karyetinâ ev le teûdunne fî milletinâ, kâle e ve lev kunnâ kârihîn(kârihîne).",
+      "verseMeaning": "Toplumunun büyüklük taslayan kodamanları dediler ki: \"Ey Şuayb! Ya kesinlikle milletimize dönersiniz yahutta seni ve seninle birlikte inananları kentimizden çıkarırız.\" Dedi ki: \"Ya istemiyorsak; zor ve baskıyla mı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 7,
+      "ayah": 89,
+      "formInAyah": "مِلَّتِكُمْ",
+      "transliteration": "milletikum",
+      "gloss": "sizin dininize",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَدِ افْتَرَيْنَا عَلَى اللَّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُمْ بَعْدَ إِذْ نَجَّانَا اللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَا أَنْ نَعُودَ فِيهَا إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًا ۚ عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ",
+      "verseTransliteration": "Kadiftereynâ alallâhi keziben in udnâ fî milletikum ba’de iz necceynallâhu minhâ, ve mâ yekûnu lenâ en neûde fîhâ illâ en yeşâallahu rabbunâ, vesia rabbunâ kulle şey’in ilmen, alallâhi tevekkelnâ, rabbeneftah beynenâ ve beyne kavminâ bil hakkı ve ente hayrul fâtihîn(fâtihîne).",
+      "verseMeaning": "\"Allah bizi, milletimizden kurtardıktan sonra tekrar ona dönersek yalan düzüp Allah´a iftira etmiş oluruz. Rabbimiz Allah istemediği sürece, sizin milletinize dönmemiz söz konusu edilemez. Rabbimiz, bilgice herşeyi kuşatmıştır. Allah´a dayanıp güvendik biz. Ey Rabbimiz! Toplumumuzla bizim aramızda hak ile hükmet. Sen, çözüm getirenlerin en hayırlısısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 12,
+      "ayah": 37,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "dinini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَنْ يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّي ۚ إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+      "verseTransliteration": "Kâle lâ ye’tikumâ taâmun turzekânihî illâ nebbe’tukumâ bi te’vîlihî kable en ye’tiyekumâ, zâlikumâ mimmâ allemenî rabbî, innî terektu millete kavmin lâ yu’minûne billâhi ve hum bil âhiretihum kâfirûn(kâfirûne).",
+      "verseMeaning": "Yûsuf dedi ki: \"Rızıklanacağınız herhangi bir yemek size gelmeden önce onun yorumunu ikinize mutlaka bildiririm.\" Bu, Rabbimin bana öğrettiği şeylerdendir. Ben, Allah´a inanmayan ve âhireti de tamamen inkâr eden bir toplumun milletini terk ettim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 12,
+      "ayah": 38,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "dinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا أَنْ نُشْرِكَ بِاللَّهِ مِنْ شَيْءٍ ۚ ذَٰلِكَ مِنْ فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+      "verseTransliteration": "Vetteba’tu millete âbâî ibrâhîme ve ishâka ve ya’kûb(ya’kûbe), mâ kâne lenâ en nuşrike billâhi min şey(şey’in), zâlike min fadlillâhi aleynâ ve alen nâsi ve lâkinne ekseren nâsi lâ yeşkurûn(yeşkurûne).",
+      "verseMeaning": "\"Ve atalarım İbrahim´in, İshak´ın, Yakub´un milletine uydum. Bizim herhangi birşeyi Allah´a ortak tutmamız söz konusu olamaz. İşte bu, Allah´ın bize ve diğer insanlara bir lütfudur. Ama insanların çokları şükretmiyorlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 14,
+      "ayah": 13,
+      "formInAyah": "مِلَّتِنَا",
+      "transliteration": "milletinā",
+      "gloss": "bizim dinimize",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا لِرُسُلِهِمْ لَنُخْرِجَنَّكُمْ مِنْ أَرْضِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا ۖ فَأَوْحَىٰ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ الظَّالِمِينَ",
+      "verseTransliteration": "Ve kâlellezîne keferû li rusulihim le nuhricennekum min ardınâ ev le teûdunne fî milletinâ, fe evhâ ileyhim rabbuhum le nuhlikennez zâlimîn(zâlimîne).",
+      "verseMeaning": "Küfre sapanlar kendi resullerine şöyle dediler: \"Ya tam bir biçimde bizim milletimize dönersiniz yahut da sizi yurdumuzdan mutlaka çıkarırız.\" Rableri de onlara şunu vahyetti: \"Zalimleri muhakkak helâk edeceğiz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 16,
+      "ayah": 123,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ أَوْحَيْنَا إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Summe evhaynâ ileyke enittebi’ millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "Daha sonra sana şunu vahyettik: Bir hanîf olarak İbrahim´in milletine uy! O, müşriklerden değildi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 18,
+      "ayah": 20,
+      "formInAyah": "مِلَّتِهِمْ",
+      "transliteration": "milletihim",
+      "gloss": "kendi dinlerine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّهُمْ إِنْ يَظْهَرُوا عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِي مِلَّتِهِمْ وَلَنْ تُفْلِحُوا إِذًا أَبَدًا",
+      "verseTransliteration": "İnnehum in yazherû aleykum yercumûkum ev yuîdûkum fî milletihim ve len tuflihû izen ebedâ(ebeden).",
+      "verseMeaning": "\"Çünkü onlar sizi ellerine geçirirlerse ya taşlayarak öldürürler yahut da sizi kendilerinin milletine döndürürler. O takdirde bir daha asla kurtulamazsınız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 22,
+      "ayah": 78,
+      "formInAyah": "مِلَّةَ",
+      "transliteration": "millete",
+      "gloss": "dinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ قَبْلُ وَفِي هَٰذَا لِيَكُونَ الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ ۚ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ ۖ فَنِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+      "verseTransliteration": "Ve câhidû fillâhi hakka cihâdih(cihâdihî), huvectebâkum ve mâ ceale aleykum fid dîni min harac(haracin), millete ebîkum ibrâhîm(ibrâhîme), huve semmakumul muslimîne min kablu ve fî hâzâ li yekûner resûlu şehîden aleykum ve tekûnû şuhedâe alen nâs(nâsi), fe ekîmûs salâte ve âtuz zekâte va’tesımû billâh(billâhi), huve mevlâkum, fe ni’mel mevlâ ve ni’men nasîr(nasîru).",
+      "verseMeaning": "Allah uğrunda O´na yaraşır bir gayretle didinin. O sizi seçmiş ve dinde size hiçbir güçlük çıkarmamıştır. Babanız İbrahim´in milletini esas alın. Allah sizi, önceden de şu Kitap´ta da \"Müslümanlar/Allah´a teslim olanlar\" diye adlandırdı ki, resul sizin üzerinize bir tanık olsun, siz de insanlar üzerine tanıklar olasınız. O halde namazı kılın, zekâtı verin ve Allah´a sarılın. O´dur sizin Mevlâ´nız. Ne güzel Mevlâ´dır O, ne güzel yardımcıdır O!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِلَّة",
+      "sura": 38,
+      "ayah": 7,
+      "formInAyah": "الْمِلَّةِ",
+      "transliteration": "l-milleti",
+      "gloss": "dinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا سَمِعْنَا بِهَٰذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ هَٰذَا إِلَّا اخْتِلَاقٌ",
+      "verseTransliteration": "Mâ semi’nâ bi hâzâ fîl milletil âhıreh(âhıreti), in hâzâ illâhtilâk(illâhtilâkun).",
+      "verseMeaning": "\"Öteki millette işitmedik böyle bir şey. Bu bir uydurmadan başka şey değildir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُمِلَّ",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "وَلْيُمْلِلِ",
+      "transliteration": "velyumlili",
+      "gloss": "yazdırsın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُمِلَّ",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "يُمِلَّ",
+      "transliteration": "yumille",
+      "gloss": "kendisi yazdırmaya",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُمِلَّ",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "فَلْيُمْلِلْ",
+      "transliteration": "felyumlil",
+      "gloss": "yazdırsın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=mll"
+}

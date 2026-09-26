@@ -1,0 +1,65 @@
+{
+  "id": "hbw",
+  "latinName": "he-Be-Vav",
+  "lettersArabic": "ه ب و",
+  "meanings": [
+    "to rise so as to float in the air (dust), be turned into ashes (embers)."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "هَبَاء",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَبَاء",
+      "sura": 25,
+      "ayah": 23,
+      "formInAyah": "هَبَاءً",
+      "transliteration": "hebā'en",
+      "gloss": "toz zerreleri haline",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا",
+      "verseTransliteration": "Ve kadimnâ ilâ mâ amilû min amelin fe cealnâhu hebâen mensûrâ(mensûran).",
+      "verseMeaning": "Yaptıkları her işin önüne geçmiş, onu un ufak hale getirip silmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَبَاء",
+      "sura": 56,
+      "ayah": 6,
+      "formInAyah": "هَبَاءً",
+      "transliteration": "hebā'en",
+      "gloss": "toz duman",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَكَانَتْ هَبَاءً مُنْبَثًّا",
+      "verseTransliteration": "Fe kânet hebâen mun bessâ(bessen).",
+      "verseMeaning": "Hepsi un ufak olup dağılmıştır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hbw"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fln",
+  "latinName": "Fe-Lam-Nun",
+  "lettersArabic": "ف ل ن",
+  "meanings": [
+    "so-and-so (reference to a nameless person), such a one, such a man/woman."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "فُلَان",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُلَان",
+      "sura": 25,
+      "ayah": 28,
+      "formInAyah": "فُلَانًا",
+      "transliteration": "fulānen",
+      "gloss": "falanı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا",
+      "verseTransliteration": "Yâ veyletâ leytenî lem ettehız fulânen halîlâ(halîlen).",
+      "verseMeaning": "\"Ah, ne olurdu, falancayı dost edinmeseydim.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fln"
+}

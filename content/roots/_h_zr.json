@@ -1,0 +1,71 @@
+{
+  "id": "HZr",
+  "latinName": "Ha-Zay-Ra",
+  "lettersArabic": "ح ظ ر",
+  "meanings": [
+    "To prevent, restrain, forbid, confine, limit, restrict, enclose, make a limit of seperation, protect or defend oneself by means of a person or thing."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "مُحْتَظِر",
+      "count": 1
+    },
+    {
+      "formArabic": "مَحْظُور",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُحْتَظِر",
+      "sura": 54,
+      "ayah": 31,
+      "formInAyah": "الْمُحْتَظِرِ",
+      "transliteration": "l-muHteZiri",
+      "gloss": "ağıldaki",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ",
+      "verseTransliteration": "İnnâ erselnâ aleyhim sayhaten vâhıdeten fe kânû ke heşîmil muhtezir(muhteziri).",
+      "verseMeaning": "Biz, onlar üzerine bir tek ses gönderdik de ağılcının serptiği kuru ot gibi kırılıp ufalandılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَحْظُور",
+      "sura": 17,
+      "ayah": 20,
+      "formInAyah": "مَحْظُورًا",
+      "transliteration": "meHZūran",
+      "gloss": "kısıtlanmış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كُلًّا نُمِدُّ هَٰؤُلَاءِ وَهَٰؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ ۚ وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا",
+      "verseTransliteration": "Kullen numiddu hâulâi ve hâulâi min atâi rabbik(rabbike), ve mâ kâne atâu rabbike mahzûrâ(mahzûren).",
+      "verseMeaning": "Rabbinin lütfundan nimetlerle hepsine uzanırız: Onlara da bunlara da. Rabbinin lütfu kimse tarafından engellenemez/kısıtlanamaz."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=HZr"
+}

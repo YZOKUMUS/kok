@@ -1,0 +1,150 @@
+{
+  "id": "drs",
+  "latinName": "Dal-Ra-Sin",
+  "lettersArabic": "د ر س",
+  "meanings": [
+    "Ders almak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 6,
+  "lemmas": [
+    {
+      "formArabic": "دِرَاسَت",
+      "count": 1
+    },
+    {
+      "formArabic": "دَرَسُ",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِرَاسَت",
+      "sura": 6,
+      "ayah": 156,
+      "formInAyah": "دِرَاسَتِهِمْ",
+      "transliteration": "dirāsetihim",
+      "gloss": "onların okumasından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَنْ تَقُولُوا إِنَّمَا أُنْزِلَ الْكِتَابُ عَلَىٰ طَائِفَتَيْنِ مِنْ قَبْلِنَا وَإِنْ كُنَّا عَنْ دِرَاسَتِهِمْ لَغَافِلِينَ",
+      "verseTransliteration": "En tekûlû innemâ unzilel kitâbu alâ tâifeteyni min kablinâ ve in kunnâ an dirâsetihim le gâfilîn(gâfilîne).",
+      "verseMeaning": "\"Kitap, bizden önce iki topluluğa indirildi. Biz onu okuyup araştırmaktan gerçekten habersizdik.\" demeyesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَرَسُ",
+      "sura": 3,
+      "ayah": 79,
+      "formInAyah": "تَدْرُسُونَ",
+      "transliteration": "tedrusūne",
+      "gloss": "öğretiyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا كَانَ لِبَشَرٍ أَنْ يُؤْتِيَهُ اللَّهُ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا عِبَادًا لِي مِنْ دُونِ اللَّهِ وَلَٰكِنْ كُونُوا رَبَّانِيِّينَ بِمَا كُنْتُمْ تُعَلِّمُونَ الْكِتَابَ وَبِمَا كُنْتُمْ تَدْرُسُونَ",
+      "verseTransliteration": "Mâ kâne li beşerin en yu’tiyehullâhul kitâbe vel hukme ven nubuvvete summe yekûle lin nâsi kûnû ıbâden lî min dûnillâhi ve lâkin kûnû rabbâniyyîne bi mâ kuntum tuallimûnel kitâbe ve bimâ kuntum tedrusûn(tedrusûne).",
+      "verseMeaning": "Hiçbir insana yakışmaz ki, Allah kendisine kitap, hüküm-hikmet ve peygamberlik versin de sonra o, insanlara \"Allah´ı bırakıp bana kullar olun\" desin. O ancak şöyle der: \"Öğrettiğiniz şu Kitap´a ve okuyup araştırdıklarınıza dayanarak benliklerini Allah´a adamış kullar/Rabbânîler olun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَرَسُ",
+      "sura": 6,
+      "ayah": 105,
+      "formInAyah": "دَرَسْتَ",
+      "transliteration": "deraste",
+      "gloss": "sen ders almışsın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَذَٰلِكَ نُصَرِّفُ الْآيَاتِ وَلِيَقُولُوا دَرَسْتَ وَلِنُبَيِّنَهُ لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Ve kezâlike nusarriful âyâti ve li yekûlû dereste ve li nubeyyinehu li kavmin ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Ayetleri bu şekilde, çeşitli başlıklarla veriyoruz ki, \"Sen ders aldın!\" desinler, biz de ilimden nasiplenen bir toplum için onu iyice açıklayalım."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَرَسُ",
+      "sura": 7,
+      "ayah": 169,
+      "formInAyah": "وَدَرَسُوا",
+      "transliteration": "vederasū",
+      "gloss": "ve öğrenmediler mi?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ وَرِثُوا الْكِتَابَ يَأْخُذُونَ عَرَضَ هَٰذَا الْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِنْ يَأْتِهِمْ عَرَضٌ مِثْلُهُ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِمْ مِيثَاقُ الْكِتَابِ أَنْ لَا يَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ وَدَرَسُوا مَا فِيهِ ۗ وَالدَّارُ الْآخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+      "verseTransliteration": "Fe halefe min ba’dihim halfun verisûl kitâbe ye’huzûne arada hâzel ednâ ve yekûlûne se yugferu lenâ ve in ye’tihim aradun misluhu ye’huzûh(ye’huzûhu), e lem yu’haz aleyhim mîsâkul kitâbi en lâ yekûlû alâllâhi illel hakka ve deresû mâ fîh(fîhî), ved dârul âhıretu hayrun lillezîne yettekûn(yettekûne), e fe lâ ta’kılûn(ta’kılûne).",
+      "verseMeaning": "Arkalarından, yerlerini alan halefler geldi. Bunlar, Kitap´a varis olmuşlardı. Şu basit dünyanın geçici menfaatini esas alıyorlar ve şöyle diyorlardı: \"Biz zaten bağışlanacağız!\" Kendilerine, bir menfaat daha gelse onu da alıyorlardı. Bunlardan, Allah hakkında, gerçek dışında birşey söylememelerine ilişkin Kitap misakı alınmamış mıydı? O Kitap´ın içindekileri okuyup incelemediler mi? Ahiret yurdu, takvaya sarılanlar için daha hayırlıdır. Hala aklınızı işletmeyecek misiniz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَرَسُ",
+      "sura": 34,
+      "ayah": 44,
+      "formInAyah": "يَدْرُسُونَهَا",
+      "transliteration": "yedrusūnehā",
+      "gloss": "okuyacakları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا آتَيْنَاهُمْ مِنْ كُتُبٍ يَدْرُسُونَهَا ۖ وَمَا أَرْسَلْنَا إِلَيْهِمْ قَبْلَكَ مِنْ نَذِيرٍ",
+      "verseTransliteration": "Ve mâ âteynâhum min kutubin yedrusûnehâ ve mâ erselnâ ileyhim kableke min nezîr(nezîrin).",
+      "verseMeaning": "Oysaki biz onlara, araştırıp ders alacakları kitaplar vermemiştik; daha önce kendilerine bir uyarıcı da göndermemiştik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَرَسُ",
+      "sura": 68,
+      "ayah": 37,
+      "formInAyah": "تَدْرُسُونَ",
+      "transliteration": "tedrusūne",
+      "gloss": "okuyorsunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ",
+      "verseTransliteration": "Em lekum kitâbun fîhi tedrusûn(tedrusûne).",
+      "verseMeaning": "Yoksa sizin bir kitabınız var da ondan ders mi görüyorsunuz?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=drs"
+}

@@ -1,0 +1,424 @@
+{
+  "id": "nfr",
+  "latinName": "Nun-Fe-Ra",
+  "lettersArabic": "ن ف ر",
+  "meanings": [
+    "Öne çıkmak, ileri gitmek, sefere çıkmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 18,
+  "lemmas": [
+    {
+      "formArabic": "مُّسْتَنفِرَة",
+      "count": 1
+    },
+    {
+      "formArabic": "نَفَر",
+      "count": 3
+    },
+    {
+      "formArabic": "نَفَرَ",
+      "count": 8
+    },
+    {
+      "formArabic": "نُفُور",
+      "count": 5
+    },
+    {
+      "formArabic": "نَفِير",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّسْتَنفِرَة",
+      "sura": 74,
+      "ayah": 50,
+      "formInAyah": "مُسْتَنْفِرَةٌ",
+      "transliteration": "mustenfiratun",
+      "gloss": "kaçan",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "İstif’al Kalıbı",
+          "Etken",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ",
+      "verseTransliteration": "Ke ennehum humurun mustenfireth(mustenfiretun).",
+      "verseMeaning": "Sağa sola kaçışan yaban eşekleri gibidirler,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَر",
+      "sura": 18,
+      "ayah": 34,
+      "formInAyah": "نَفَرًا",
+      "transliteration": "neferan",
+      "gloss": "adamca da",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَانَ لَهُ ثَمَرٌ فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا",
+      "verseTransliteration": "Ve kâne lehu semer(semerun), fe kâle li sâhıbihî ve huve yuhâviruhû ene ekseru minke mâlen ve eazzu neferâ(neferen).",
+      "verseMeaning": "Adamın başka bir geliri de vardı. Bu yüzden, arkadaşlarıyla konuştuğu bir sırada ona şöyle demişti: \"Ben, malca senden zengin, insan unsuru bakımından da güçlü ve onurluyum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَر",
+      "sura": 46,
+      "ayah": 29,
+      "formInAyah": "نَفَرًا",
+      "transliteration": "neferan",
+      "gloss": "bir topluluğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنْصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِمْ مُنْذِرِينَ",
+      "verseTransliteration": "Ve iz sarefnâ ileyke neferen minel cinni yestemiûnel kur’ân(kur’âne), fe lemmâ hadarûhu kâlû ensıtû, fe lemmâ kudıye vellev ilâ kavmihim munzirîn(munzirîne).",
+      "verseMeaning": "Bir zaman, cinlerden bir topluluğu, Kur´an´ı dinlemeleri için sana yöneltmiştik. Onu dinlemeye hazır hale geldiklerinde: \"Susup dinleyin!\" dediler. Dinleme bitirilince de uyarıcılar olarak kendi toplumlarına döndüler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَر",
+      "sura": 72,
+      "ayah": 1,
+      "formInAyah": "نَفَرٌ",
+      "transliteration": "neferun",
+      "gloss": "bir topluluğun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا",
+      "verseTransliteration": "Kul ûhıye ileyye ennehustemea neferun minel cinni fe kâlû innâ semi’nâ kur’ânen acebâ(aceben).",
+      "verseMeaning": "De ki: \"Cinlerden bir topluluğun dinleyip şunu söyledikleri bana vahyolundu: ´Gerçekten biz, hayranlık verici bir Kur´an dinledik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 4,
+      "ayah": 71,
+      "formInAyah": "فَانْفِرُوا",
+      "transliteration": "fenfirū",
+      "gloss": "savaşa gidin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû huzû hızrakum fenfirû subâtin evinfirû cemîâ(cemîan).",
+      "verseMeaning": "Ey inananlar! Savunma tedbirlerinizi alın. Gerektiğinde de bölükler halinde hareket geçin yahut toplu halde savaşa çıkın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 4,
+      "ayah": 71,
+      "formInAyah": "انْفِرُوا",
+      "transliteration": "nfirū",
+      "gloss": "savaşa gidin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû huzû hızrakum fenfirû subâtin evinfirû cemîâ(cemîan).",
+      "verseMeaning": "Ey inananlar! Savunma tedbirlerinizi alın. Gerektiğinde de bölükler halinde hareket geçin yahut toplu halde savaşa çıkın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 9,
+      "ayah": 38,
+      "formInAyah": "انْفِرُوا",
+      "transliteration": "nfirū",
+      "gloss": "savaşa çıkın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انْفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُمْ بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ ۚ فَمَا مَتَاعُ الْحَيَاةِ الدُّنْيَا فِي الْآخِرَةِ إِلَّا قَلِيلٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû mâ lekum izâ kîle lekumunfirû fî sebîlillâhissâkaltum ilel ard(ardi), e radîtum bil hayâtid dunyâ minel âhireh(âhireti), fe mâ metâul hayâtid dunyâ fîl âhireti illâ kalîl(kalîlun).",
+      "verseMeaning": "Ey iman sahipleri! Size ne oldu ki, \"Allah yolunda seferber olun\" denilince yere çakılıp kaldınız. Âhiretten vazgeçip iğreti hayata mı razı oldunuz? O iğeti hayatın nimeti âhiret yanında pek azdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 9,
+      "ayah": 39,
+      "formInAyah": "تَنْفِرُوا",
+      "transliteration": "tenfirū",
+      "gloss": "topluca (savaşa) çıkmazsanız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِلَّا تَنْفِرُوا يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْئًا ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "İllâ tenfirû yuazzibkum azâben elîmen ve yestebdil kavmen gayrekum ve lâ tedurrûhu şey´â (şeyen), vallâhu alâ kulli şey´in kadîr(kadîrun).",
+      "verseMeaning": "Eğer seferber olmazsanız Allah size korkunç bir azapla azap eder ve yerinize sizden başka bir topluluk getirir. Allah´a hiçbir şekilde zarar veremezsiniz. Allah herşeye Kadîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 9,
+      "ayah": 41,
+      "formInAyah": "انْفِرُوا",
+      "transliteration": "İnfirū",
+      "gloss": "savaşa çıkın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "انْفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ فِي سَبِيلِ اللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "İnfirû hıfâfen ve sikâlen ve câhidû bi emvâlikum ve enfusikum fî sebîlillâh(sebîlillâhi), zâlikum hayrun lekum in kuntum ta´lemûn(ta´lemûne).",
+      "verseMeaning": "Gerek hafif, gerek ağırlıklı olarak mutlaka seferber olun ve Allah yolunda mallarınızla, canlarınızla cihat edin. Eğer bilirseniz bu sizin için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 9,
+      "ayah": 81,
+      "formInAyah": "تَنْفِرُوا",
+      "transliteration": "tenfirū",
+      "gloss": "sefere çıkmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَرِحَ الْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَافَ رَسُولِ اللَّهِ وَكَرِهُوا أَنْ يُجَاهِدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ وَقَالُوا لَا تَنْفِرُوا فِي الْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَوْ كَانُوا يَفْقَهُونَ",
+      "verseTransliteration": "Ferihal muhallefûne bi mak’adihim hılâfe resûlillâhi ve kerihûen yucâhidû bi emvâlihim ve enfusihim fî sebîlillâhi ve kâlû lâ tenfirû fîl harr(harri), kul nâru cehennemeeşeddu harrâ(harren), lev kânû yefkahûn(yefkahûne).",
+      "verseMeaning": "Allah´ın resulüne ters düşmek için arkada kalanlar, çöküp oturdukları için sevindiler; Allah yolunda, mallarıyla canlarıyla didinmeyi tiksindirici bulup şöyle dediler: \"Bu sıcakta seferber olmayın.\" De ki: \"Hararet bakımından cehennem daha zorludur.\" Bir anlayabilselerdi!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 9,
+      "ayah": 122,
+      "formInAyah": "لِيَنْفِرُوا",
+      "transliteration": "liyenfirū",
+      "gloss": "sefere çıkacak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+      "verseTransliteration": "Ve mâ kânel mu’minûne li yenfirû kâffeh(kâffeten), fe lev lâ nefere min kulli firkatin minhum tâifetun li yetefekkahû fîd dîni ve li yunzirû kavmehum izâ receû ileyhim leallehum yahzerûn(yahzerûne).",
+      "verseMeaning": "İnananların hepsinin birden savaşa çıkmaları doğru değildir. Onların her kesiminden bir grubun dinde derin bilgiler edinmek ve sefere çıkan topluluk geri döndüğünde, korunmaları ümidiyle onları uyarmak için arkada kalmaları gerekmez mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَرَ",
+      "sura": 9,
+      "ayah": 122,
+      "formInAyah": "نَفَرَ",
+      "transliteration": "nefera",
+      "gloss": "geri kalmaları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+      "verseTransliteration": "Ve mâ kânel mu’minûne li yenfirû kâffeh(kâffeten), fe lev lâ nefere min kulli firkatin minhum tâifetun li yetefekkahû fîd dîni ve li yunzirû kavmehum izâ receû ileyhim leallehum yahzerûn(yahzerûne).",
+      "verseMeaning": "İnananların hepsinin birden savaşa çıkmaları doğru değildir. Onların her kesiminden bir grubun dinde derin bilgiler edinmek ve sefere çıkan topluluk geri döndüğünde, korunmaları ümidiyle onları uyarmak için arkada kalmaları gerekmez mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُفُور",
+      "sura": 17,
+      "ayah": 41,
+      "formInAyah": "نُفُورًا",
+      "transliteration": "nufūran",
+      "gloss": "nefretlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِيَذَّكَّرُوا وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
+      "verseTransliteration": "Ve lekad sarrafnâ fî hâzel kur’âni li yezzekkerû, ve mâ yezîduhum illâ nufûrâ(nufûren).",
+      "verseMeaning": "Biz, gerçeği, Kur´an´da türlü biçimlerde ifade ettik ki, düşünüp anlayabilsinler. Fakat bu onların sadece kaçışlarını artırıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُفُور",
+      "sura": 17,
+      "ayah": 46,
+      "formInAyah": "نُفُورًا",
+      "transliteration": "nufūran",
+      "gloss": "kaçarlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْآنِ وَحْدَهُ وَلَّوْا عَلَىٰ أَدْبَارِهِمْ نُفُورًا",
+      "verseTransliteration": "Ve cealnâ alâ kulûbihim ekinneten en yefkahûhu ve fî âzânihim vakrâ(vakran), ve izâ zekerte rabbeke fîl kur’âni vahdehu vellev alâ edbârihim nufûrâ(nufûren).",
+      "verseMeaning": "Kalpleri üzerine, onu anlamamaları için kabuklar geçiririz, kulaklarına da bir ağırlık koyarız. Rabbini yalnız Kur´an´da andığın zaman, nefretle geriye dönüp kaçarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُفُور",
+      "sura": 25,
+      "ayah": 60,
+      "formInAyah": "نُفُورًا",
+      "transliteration": "nufūran",
+      "gloss": "nefretini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا قِيلَ لَهُمُ اسْجُدُوا لِلرَّحْمَٰنِ قَالُوا وَمَا الرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا ۩",
+      "verseTransliteration": "Ve izâ kîle lehumuscudû lir rahmâni kâlû ve mer rahmânu e nescudu li mâ te’murunâ ve zâdehum nufûrâ(nufûren). (SECDE ÂYETİ)",
+      "verseMeaning": "Onlara, \"Rahman´a secde edin\" dendiğinde şöyle derler: \"Rahman da neymiş? Senin emrettiğin şeye secde eder miyiz hiç?\" Ve bu söz onların nefretini artırdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُفُور",
+      "sura": 35,
+      "ayah": 42,
+      "formInAyah": "نُفُورًا",
+      "transliteration": "nufūran",
+      "gloss": "nefretten",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَهُمْ نَذِيرٌ لَيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى الْأُمَمِ ۖ فَلَمَّا جَاءَهُمْ نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا",
+      "verseTransliteration": "Ve aksemû billâhi cehde eymânihim le in câehum nezîrun le yekûnunne ehdâ min ihdel umem(umemi), fe lemmâ câehum nezîrun mâ zâdehum illâ nufûrâ(nufûran).",
+      "verseMeaning": "Yeminlerinin tüm gücüyle Allah´a ant içmişlerdi ki, eğer kendilerine bir uyarıcı gelirse, ümmetlerin herhangi birinden çok daha doğru bir gidiş üzere olacaklar. Fakat uyarıcı onlara gelince, bu onlara nefretle kaçıştan başka bir katkı sağlamadı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُفُور",
+      "sura": 67,
+      "ayah": 21,
+      "formInAyah": "وَنُفُورٍ",
+      "transliteration": "ve nufūrin",
+      "gloss": "ve nefret",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ",
+      "verseTransliteration": "Emmen hâzellezî yerzukukum in emseke rızkah(rızkahu), bel leccû fî utuvvin ve nufûr(nufûrın).",
+      "verseMeaning": "Peki, O, rızkını tutarsa kim var sizi rızıklandıracak? Hayır, bir azgınlık ve nefret içinde inat etmekteler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفِير",
+      "sura": 17,
+      "ayah": 6,
+      "formInAyah": "نَفِيرًا",
+      "transliteration": "nefīran",
+      "gloss": "savaşçılarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُمْ بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا",
+      "verseTransliteration": "Summe redednâ lekumul kerrete aleyhim ve emdednâkum bi emvâlin ve benîne ve cealnâkum eksere nefîrâ(nefîren).",
+      "verseMeaning": "Sonra onlar üzerinde size tekrar egemenlik verdik, mallar ve oğullarla sizi güçlendirdik ve sizi toplum olarak çoğalttık."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nfr"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "grm",
+  "latinName": "Gayn-Ra-Mim",
+  "lettersArabic": "غ ر م",
+  "meanings": [
+    "paid, to be in debt, discharged, gave against will, taking upon oneself that which is not obligatory upon him; damage or loss that befalls a man in his property; lasting evil, perdition; shackled or burdened, anguish."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 6,
+  "lemmas": [
+    {
+      "formArabic": "غَرَام",
+      "count": 1
+    },
+    {
+      "formArabic": "غَٰرِمِين",
+      "count": 1
+    },
+    {
+      "formArabic": "مُغْرَمُون",
+      "count": 1
+    },
+    {
+      "formArabic": "مَّغْرَم",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَرَام",
+      "sura": 25,
+      "ayah": 65,
+      "formInAyah": "غَرَامًا",
+      "transliteration": "ğarāmen",
+      "gloss": "sargındır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالَّذِينَ يَقُولُونَ رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+      "verseTransliteration": "Vellezîne yekûlûne rabbenasrif annâ azâbe cehenneme inne azâbehâ kâne garâmâ(garâmen).",
+      "verseMeaning": "Ve şöyle yakarırlar: \"Rabbimiz, cehennem azabını bizden uzak tut. Doğrusu, onun azabı inatçı ve yapışkandır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَٰرِمِين",
+      "sura": 9,
+      "ayah": 60,
+      "formInAyah": "وَالْغَارِمِينَ",
+      "transliteration": "velğārimīne",
+      "gloss": "ve borçlulara",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "İnnemas sadakâtu lil fukarâi vel mesakîni vel âmilîne aleyhâ vel muellefeti kulûbuhum ve fîr rikâbi vel gârimîne ve fî sebîlillâhi vebnissebîl(vebnissebîli), farîdaten minallâh(minallâhi), vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Sadakalar/zekât malları Allah´tan bir farz olarak sadece şunlar içindir: Fakirler, düşkünler, sadakalarla ilgilenmeye memur edilenler, kalpleri yakınlaştırılıp ısındırılacak olanlar, özgürlüğünü yitirmiş olanlar, borçlular, Allah yolundakiler, yolda kalmış kişi. Allah Alîm´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُغْرَمُون",
+      "sura": 56,
+      "ayah": 66,
+      "formInAyah": "لَمُغْرَمُونَ",
+      "transliteration": "lemuğramūne",
+      "gloss": "borçlandık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Edilgen",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّا لَمُغْرَمُونَ",
+      "verseTransliteration": "İnnâ le mugremûn(mugremûne).",
+      "verseMeaning": "\"Vallahi, kayba uğrayıp borçlandık.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّغْرَم",
+      "sura": 9,
+      "ayah": 98,
+      "formInAyah": "مَغْرَمًا",
+      "transliteration": "meğramen",
+      "gloss": "angarya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنَ الْأَعْرَابِ مَنْ يَتَّخِذُ مَا يُنْفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ الدَّوَائِرَ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "Ve minel a´râbi men yettehızu mâ yunfiku magremen ve yeterabbesu bi kumud devâir(devâire), aleyhim dâiretussev’ (dâiretussev’i), vallâhu semîun alîm(alîmun).",
+      "verseMeaning": "Çöl Araplarından öylesi vardır ki, infak ettiğini bir angarya/bir ceza ödeme sayar ve sizin başınıza belaların gelmesini bekler durur. En kötü bela onların başına olsun! Allah çok iyi işitir, çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّغْرَم",
+      "sura": 52,
+      "ayah": 40,
+      "formInAyah": "مَغْرَمٍ",
+      "transliteration": "meğramin",
+      "gloss": "bir borç",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+      "verseTransliteration": "Em tes’eluhum ecren fe hum min magremin muskalûn(muskalûne).",
+      "verseMeaning": "Yoksa sen onlardan bir ücret istiyorsun da bir borç yüzünden onlar, yük altına mı giriyorlar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّغْرَم",
+      "sura": 68,
+      "ayah": 46,
+      "formInAyah": "مَغْرَمٍ",
+      "transliteration": "meğramin",
+      "gloss": "borç-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+      "verseTransliteration": "Em tes’eluhum ecren fe hum min magremin muskalûn(muskalûne).",
+      "verseMeaning": "Bir ücret mi istiyorsun kendilerinden de onlar, bir borç altında eziliyorlar!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=grm"
+}

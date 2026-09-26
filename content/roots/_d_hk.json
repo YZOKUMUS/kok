@@ -1,0 +1,245 @@
+{
+  "id": "DHk",
+  "latinName": "Dad-Ha-Kef",
+  "lettersArabic": "ض ح ك",
+  "meanings": [
+    "Gülmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 10,
+  "lemmas": [
+    {
+      "formArabic": "أَضْحَكَ",
+      "count": 1
+    },
+    {
+      "formArabic": "ضَاحِك",
+      "count": 1
+    },
+    {
+      "formArabic": "ضَاحِكَة",
+      "count": 1
+    },
+    {
+      "formArabic": "ضَحِكَتْ",
+      "count": 7
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَضْحَكَ",
+      "sura": 53,
+      "ayah": 43,
+      "formInAyah": "أَضْحَكَ",
+      "transliteration": "eDHake",
+      "gloss": "güldüren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+      "verseTransliteration": "Ve ennehu huve adhake ve ebkâ.",
+      "verseMeaning": "Hiç kuşkusuz, güldüren de O´dur, ağlatan da..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَاحِك",
+      "sura": 27,
+      "ayah": 19,
+      "formInAyah": "ضَاحِكًا",
+      "transliteration": "DāHiken",
+      "gloss": "gülümseyerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+      "verseTransliteration": "Fe tebesseme dâhıken min kavlihâ ve kâle rabbi evzı’nî en eşkure ni’metekelletî en’amte aleyye ve alâ vâlideyye ve en a’mele salihan terdâhu ve edhılnî bi rahmetike fî ibâdikes sâlihîn(sâlihîne).",
+      "verseMeaning": "Bunun üzerine Süleyman, karıncanın sözüne güldü ve dedi: \"Rabbim, bana ve ebeveynime lütfettiğin nimetine şükretmeme, hoşnut olacağın hayırlı ve barışçıl bir iş yapmama imkân ver. Ve rahmetinle beni iyilik ve barışı seven kullarının arasına sok.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَاحِكَة",
+      "sura": 80,
+      "ayah": 39,
+      "formInAyah": "ضَاحِكَةٌ",
+      "transliteration": "DāHiketun",
+      "gloss": "güleçtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+      "verseTransliteration": "Dâhıketun mustebşirah(mustebşiratun).",
+      "verseMeaning": "Gülen, müjdelerle parıldayan."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 9,
+      "ayah": 82,
+      "formInAyah": "فَلْيَضْحَكُوا",
+      "transliteration": "felyeDHakū",
+      "gloss": "artık gülsünler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا جَزَاءً بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Fel yadhakû kalîlen vel yebkû kesîrâ(kesîren), cezâen bi mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Kazanır oldukları yüzünden artık az gülsünler, çok ağlasınlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 11,
+      "ayah": 71,
+      "formInAyah": "فَضَحِكَتْ",
+      "transliteration": "fe DeHiket",
+      "gloss": "ve bunun üzerine güldü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ وَرَاءِ إِسْحَاقَ يَعْقُوبَ",
+      "verseTransliteration": "Vemreetuhu kâimetun fe dahıket fe beşşernâhâ bi ishâka ve min verâi ishâka ya´kûb(ya´kûbe).",
+      "verseMeaning": "Orada dikilmekte olan karısı güldü. Bunun üzerine ona İshak´ı müjdeledik, İshak´ın arkasından da Yakub´u."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 23,
+      "ayah": 110,
+      "formInAyah": "تَضْحَكُونَ",
+      "transliteration": "teDHakūne",
+      "gloss": "daima gülüyordunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰ أَنْسَوْكُمْ ذِكْرِي وَكُنْتُمْ مِنْهُمْ تَضْحَكُونَ",
+      "verseTransliteration": "Fettehaztumûhum sıhriyyen hattâ ensevkum zikrî ve kuntum minhum tadhakûn(tadhakûne).",
+      "verseMeaning": "Siz onları alaya aldınız. Öyle ki, zikrimi/Kur´anımı size unutturdular. Siz onlara hep gülüyordunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 43,
+      "ayah": 47,
+      "formInAyah": "يَضْحَكُونَ",
+      "transliteration": "yeDHakūne",
+      "gloss": "(alay edip) gülmeğe başladılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا جَاءَهُمْ بِآيَاتِنَا إِذَا هُمْ مِنْهَا يَضْحَكُونَ",
+      "verseTransliteration": "Fe lemmâ câehum bi âyâtinâ izâhum minhâ yadhakûn(yadhakûne).",
+      "verseMeaning": "Mûsa onlara ayetlerimizi getirdiğinde onlar bu ayetlere gülüyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 53,
+      "ayah": 60,
+      "formInAyah": "وَتَضْحَكُونَ",
+      "transliteration": "ve teDHakūne",
+      "gloss": "ve gülüyorsunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+      "verseTransliteration": "Ve tedhakûne ve lâ tebkûn(tebkûne).",
+      "verseMeaning": "Gülüyorsunuz, ağlamıyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 83,
+      "ayah": 29,
+      "formInAyah": "يَضْحَكُونَ",
+      "transliteration": "yeDHakūne",
+      "gloss": "gülüyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+      "verseTransliteration": "İnnellezîne ecremû kânû minellezîne âmenû yadhakûn(yadhakûne).",
+      "verseMeaning": "Şu bir gerçek ki, suça batmış olanlar, iman sahiplerine gülerlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ضَحِكَتْ",
+      "sura": 83,
+      "ayah": 34,
+      "formInAyah": "يَضْحَكُونَ",
+      "transliteration": "yeDHakūne",
+      "gloss": "gülerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+      "verseTransliteration": "Felyevmellezîne âmenû minel kuffârı yadhakûn(yadhakûne).",
+      "verseMeaning": "İşte bugün, iman sahipleri, küfre batmışlara gülüyorlar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=DHk"
+}

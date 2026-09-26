@@ -1,0 +1,94 @@
+{
+  "id": "rdf",
+  "latinName": "Ra-Dal-Fe",
+  "lettersArabic": "ر د ف",
+  "meanings": [
+    "Peşinden gelmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "رَدِفَ",
+      "count": 1
+    },
+    {
+      "formArabic": "رَّادِفَة",
+      "count": 1
+    },
+    {
+      "formArabic": "مُرْدِفِين",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَدِفَ",
+      "sura": 27,
+      "ayah": 72,
+      "formInAyah": "رَدِفَ",
+      "transliteration": "radife",
+      "gloss": "ardınıza takılmıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ عَسَىٰ أَنْ يَكُونَ رَدِفَ لَكُمْ بَعْضُ الَّذِي تَسْتَعْجِلُونَ",
+      "verseTransliteration": "Kul asâ en yekûne radife lekum ba’dullezî testa’cilûn(testa’cilûne).",
+      "verseMeaning": "De ki: \"Acele isteyip durduğunuzun bir kısmı belki de arkanıza takılmıştır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّادِفَة",
+      "sura": 79,
+      "ayah": 7,
+      "formInAyah": "الرَّادِفَةُ",
+      "transliteration": "r-rādifetu",
+      "gloss": "ardından (başka gürültü)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "تَتْبَعُهَا الرَّادِفَةُ",
+      "verseTransliteration": "Tetbeuher râdifeh(râdifetu).",
+      "verseMeaning": "Onu, ardısıra gelen izleyecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُرْدِفِين",
+      "sura": 8,
+      "ayah": 9,
+      "formInAyah": "مُرْدِفِينَ",
+      "transliteration": "murdifīne",
+      "gloss": "birbiri ardınca",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+      "verseTransliteration": "İz testegîsûne rabbekum festecâbe lekum ennî mumiddukum bi elfin minel melâiketi murdifîn(murdifîne).",
+      "verseMeaning": "Hani siz, Rabbinizden yardım ve destek diliyordunuz; O, sizin dileğinize şöyle cevap vermişti: \"Hiç kuşkunuz olmasın, ben size, meleklerden birbiri ardınca bin tanesiyle yardım ulaştıracağım.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rdf"
+}

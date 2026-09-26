@@ -1,0 +1,466 @@
+{
+  "id": "snw",
+  "latinName": "Sin-Nun-Vav",
+  "lettersArabic": "س ن و",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 20,
+  "lemmas": [
+    {
+      "formArabic": "سَنَا",
+      "count": 1
+    },
+    {
+      "formArabic": "سَنَة",
+      "count": 7
+    },
+    {
+      "formArabic": "سِنِين",
+      "count": 12
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَا",
+      "sura": 24,
+      "ayah": 43,
+      "formInAyah": "سَنَا",
+      "transliteration": "senā",
+      "gloss": "parıltısı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ وَيُنَزِّلُ مِنَ السَّمَاءِ مِنْ جِبَالٍ فِيهَا مِنْ بَرَدٍ فَيُصِيبُ بِهِ مَنْ يَشَاءُ وَيَصْرِفُهُ عَنْ مَنْ يَشَاءُ ۖ يَكَادُ سَنَا بَرْقِهِ يَذْهَبُ بِالْأَبْصَارِ",
+      "verseTransliteration": "E lem tera ennallâhe yuzcî sehâben summe yuellifu beynehu summe yec´aluhu rukâmen fe teral vedka yahrucu min hılâlih(hılâlihî), ve yunezzilu mines semâi min cibâlin fîhâ min beredin fe yusîbu bihî men yeşâu ve yasrifuhu an men yeşâu, yekâdu senâ berkıhî yezhebu bil ebsâr(ebsâri).",
+      "verseMeaning": "Görmedin mi, Allah, bulutları sürüyor, sonra onları kaynaştırıp iç içe sokuyor, sonra onları birbiri üstüne yığıyor. Nihayet, onların arasından yağmurun çıktığını görüyorsun. Gökten, ondaki dağlardan bir dolu indiriyor da onunla dilediğini çarpıyor, dilediğinden de onu yan geçiriyor. Onun şimşeğinin parıltısı, neredeyse gözleri alıp götürecek."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 2,
+      "ayah": 96,
+      "formInAyah": "سَنَةٍ",
+      "transliteration": "senetin",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ ۗ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+      "verseTransliteration": "Ve le tecidennehum ahrasan nâsi alâ hayâtin, ve minellezîne eşrakû yeveddu ehaduhum lev yuammeru elfe seneh(senetin), ve mâ huve bi muzahzihıhî minel azâbi en yuammer(yuammere), vallâhu basîrun bimâ ya’melûn(ya’melûne).",
+      "verseMeaning": "Sen onları, insanların yaşamaya en düşkünü olarak bulursun. Şirke batanlardan bile... Her biri bin yıl ömür sürsün ister. Oysa ki, uzun yaşaması onu azaptan uzaklaştıracak değildir. Allah, yapmakta olduklarını çok iyi görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 5,
+      "ayah": 26,
+      "formInAyah": "سَنَةً",
+      "transliteration": "seneten",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ ۚ فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ",
+      "verseTransliteration": "Kâle fe innehâ muharremetun aleyhim erbaîne senet(seneten), yetîhûne fîl ardı fe lâ te’se alel kavmil fâsikîn(fâsikîne).",
+      "verseMeaning": "Allah dedi ki: \"Orası onlara kırk yıl haram kılınmıştır. Yeryüzünde sersem sersem dolaşacaklar. Sen o sapıklar topluluğu için kederlenme.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 22,
+      "ayah": 47,
+      "formInAyah": "سَنَةٍ",
+      "transliteration": "senetin",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَنْ يُخْلِفَ اللَّهُ وَعْدَهُ ۚ وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ",
+      "verseTransliteration": "Ve yesta’cilûneke bil azâbi ve len yuhlifallâhu va’deh(va’dehu), ve inne yevmen inde rabbike ke elfi senetin mimmâ teuddûn(teuddûne).",
+      "verseMeaning": "Senden aceleyle azabı istiyorlar: Allah, vaadine asla ters düşmez. Şu da bir gerçek ki Rabbinin katındaki bir gün, sizin saymakta olduğunuzun bin yılı gibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 29,
+      "ayah": 14,
+      "formInAyah": "سَنَةٍ",
+      "transliteration": "senetin",
+      "gloss": "seneden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
+      "verseTransliteration": "Ve lekad erselnâ nûhan ilâ kavmihî, fe lebise fîhim elfe senetin illâ hamsîne âmâ(âmen), fe ehazehumut tûfânu ve hum zâlimûn(zâlimûne).",
+      "verseMeaning": "Yemin olsun, biz Nûh´u toplumuna gönderdik de o, onların arasında bin yıldan elli yıl eksik kaldı. Sonunda onları tufan yakaladı. Çünkü zalimlerdi onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 32,
+      "ayah": 5,
+      "formInAyah": "سَنَةٍ",
+      "transliteration": "senetin",
+      "gloss": "yıldır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ",
+      "verseTransliteration": "Yudebbirul emre mines semâi ilel ardı summe ya’rucu ileyhi fî yevmin kâne mıkdâruhu elfe senetin mimmâ teuddûn(teuddûne).",
+      "verseMeaning": "İş ve oluşu gökten yere doğru çekip çevirir; sonra o O´na yükselip çıkar: Bir günde ki, süresi, sizin saymakta olduğunuz günlerden bin yıla denktir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 46,
+      "ayah": 15,
+      "formInAyah": "سَنَةً",
+      "transliteration": "seneten",
+      "gloss": "yaşına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا ۖ حَمَلَتْهُ أُمُّهُ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا ۚ حَتَّىٰ إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyhi ihsânâ(ihsânen), hamelethu ummuhu kurhen ve vadaathu kurhâ(kurhan), ve hamluhu ve fisâluhu selâsûne şehrâ(şehren), hattâ izâ belega eşuddehu ve belega erbaîne seneten kâle rabbi evzı’nî en eşkure ni’metekelletî en’amte aleyye ve alâ vâlideyye ve en a’mele sâlihan terdâhu ve aslıh lî fî zurriyyetî, innî tubtu ileyke ve innî minel muslimîn(muslimîne).",
+      "verseMeaning": "Biz insana, anne babasına çok iyi davranmasını önerdik. Annesi onu zahmetle taşıdı, zahmetle doğurdu. Taşınması ve sütten kesilmesi otuz aydır. Nihayet, yiğitlik çağına gelip kırk yıla erdiğinde şöyle der: \"Rabbim; beni, bana ve ebeveynime verdiğin nimete şükretmeye, hoşnut olacağın iyi bir iş yapmaya yönelt! Soyum içinde, benim için barışı gerçekleştir. Sana yöneldim ben, sana teslim olanlardanım ben!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَنَة",
+      "sura": 70,
+      "ayah": 4,
+      "formInAyah": "سَنَةٍ",
+      "transliteration": "senetin",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "verseTransliteration": "Ta´rucul melâiketu ver rûhu ileyhi fî yevmin kâne mikdaruhu hamsîne elfe seneh(senetin).",
+      "verseMeaning": "Melekler ve Rûh, miktarı ellibin yıl olan bir günde yükselirler O´na."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 20,
+      "ayah": 40,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıllarca",
+      "grammar": {
+        "raw": [
+          "Zaman Zarfı",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+      "verseTransliteration": "İz temşî uhtuke fe tekûlu hel edullukum alâ men yekfuluh(yekfuluhu), fe reca’nâke ilâ ummike key takarre aynuhâ ve lâ tahzen(tahzene), ve katelte nefsen fe necceynâke minel gammi ve fetennâke futûnâ(futûnen), fe lebiste sinîne fî ehli medyene summe ci’te alâ kaderin yâ mûsâ.",
+      "verseMeaning": "\"Hani, kızkardeşin gidiyor, şöyle diyordu: ´Onun bakımını üstlenecek kişiyi size göstereyim mi?´ Nihayet, seni annene geri döndürdük ki, gözü aydın olsun, tasalanmasın. Sen bir de adam öldürmüştün. O zaman seni gamdan kurtarmıştık. Seni iyice bir imtihana çekmiştik. Bunun ardından sen Medyen halkı arasında yıllarca kaldın. Sonra, belirlenen bir vakitte/bir kadere göre geliverdin, ey Mûsa!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 7,
+      "ayah": 130,
+      "formInAyah": "بِالسِّنِينَ",
+      "transliteration": "bis-sinīne",
+      "gloss": "yıllarca",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنِينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+      "verseTransliteration": "Ve lekad ehaznâ âle fir’avne bis sinîne ve naksın mines semerâti leallehum yezzekkerûn(yezzekkerûne).",
+      "verseMeaning": "Yemin olsun ki biz, Firavun hanedanını yakalayıp ürün eksikliğiyle senelerce sıktık ki, düşünüp öğüt alabilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 10,
+      "ayah": 5,
+      "formInAyah": "السِّنِينَ",
+      "transliteration": "s-sinīne",
+      "gloss": "yılların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ لِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ مَا خَلَقَ اللَّهُ ذَٰلِكَ إِلَّا بِالْحَقِّ ۚ يُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Huvellezî cealeş şemse dıyâen vel kamere nûren ve kadderehu menâzile li ta´lemû adedes sinîne vel hisâb(hisâbe), mâ halakallâhu zâlike illâ bil hakk(hakkı), yufassılul âyâti li kavmin ya´lemûn(ya´lemûne).",
+      "verseMeaning": "Güneş´i ısı ve ışık kaynağı; Ay´ı, hesabı ve yılların sayısını bilesiniz diye bir nur yapıp ona evreler takdir eden O´dur. Allah bütün bunları rastgele değil, şaşmaz ölçülere bağlı olarak yaratmıştır. Bilgiyle donanmış bir topluluk için ayetleri ayrıntılı kılıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 12,
+      "ayah": 42,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ فَأَنْسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ",
+      "verseTransliteration": "Ve kâle lillezî zanne ennehu nâcin minhumazkurnî inde rabbike fe ensâhuş şeytânu zikre rabbihî fe lebise fîs sicni bid’a sinîn(sinîne).",
+      "verseMeaning": "Yûsuf o iki kişiden, kurtulacağını düşündüğüne şöyle dedi: \"Rab edindiğin kişi yanında beni an.\" Ama şeytan o adama, rab edindiği kişiye hatırlatmayı unutturdu. Böylece Yûsuf yıllarca zındanda kaldı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 12,
+      "ayah": 47,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدْتُمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ",
+      "verseTransliteration": "Kâle tezreûne seb’a sinîne de’ebâ(de’eben), fe mâ hasadtum fe zerûhu fî sunbulihî illâ kalîlen mimmâ te’kulûn(te’kulûne).",
+      "verseMeaning": "Yûsuf dedi: \"Alışılageldiği şekliyle yedi yıl ekin ekeceksiniz. Biçtiklerinizden yiyecek kadar az bir miktar alır, gerisini başağında bırakırsınız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 17,
+      "ayah": 12,
+      "formInAyah": "السِّنِينَ",
+      "transliteration": "s-sinīne",
+      "gloss": "yılların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً لِتَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ وَلِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلًا",
+      "verseTransliteration": "Ve cealnel leyle ven nehâre âyeteyni fe mehavnâ âyetel leyli ve cealnâ âyeten nehâri mubsıraten li tebtegû fadlen min rabbikum ve li ta’lemû adedes sinîne vel hisâb(hisâbe), ve kulle şey’in fassalnâhu tafsîlâ(tafsîlen).",
+      "verseMeaning": "Biz, geceyi ve gündüzü iki ayet yaptık; sonra gecenin ayetini silip gündüzün ayetini gösterici yaptık ki, Rabbinizden bir lütuf isteyesiniz, yılların sayısını ve hesabı bilesiniz. Biz her şeyi ayrıntılı bir biçimde açıkladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 18,
+      "ayah": 11,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıllar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَضَرَبْنَا عَلَىٰ آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا",
+      "verseTransliteration": "Fe darabnâ alâ âzânihim fîl kehfi sinîne adedâ(adeden).",
+      "verseMeaning": "Bunun üzerine birçok yıl boyunca mağarada onların kulakları üzerine ağırlık vurduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 18,
+      "ayah": 25,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+      "verseTransliteration": "Ve lebisû fî kehfihim selâse mietin sinîne vezdâdû tis´â(tis´an).",
+      "verseMeaning": "Onlar, mağaralarında üçyüz yıl kaldılar; dokuz da ilave ettiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 23,
+      "ayah": 112,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıllar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينَ",
+      "verseTransliteration": "Kâle kem lebistum fil ardı adede sinîn(sinîne).",
+      "verseMeaning": "Buyurur: \"Yeryüzünde yıllar sayısıyla ne kadar kaldınız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 26,
+      "ayah": 18,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "nice yıllar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "verseTransliteration": "Kâle e lem nurabbike fînâ velîden ve lebiste fînâ min umurike sinîn(sinîne).",
+      "verseMeaning": "Firavun dedi: \"Biz seni aramızda, bir çocuk olarak koruyup beslemedik mi? Ömrünün nice yıllarını aramızda geçirdin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 26,
+      "ayah": 205,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıllarca",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَرَأَيْتَ إِنْ مَتَّعْنَاهُمْ سِنِينَ",
+      "verseTransliteration": "E fe raeyte in metta’nâhum sinîn(sinîne).",
+      "verseMeaning": "Görmedin mi ki, biz onları yıllarca nimetlendirsek de,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِنِين",
+      "sura": 30,
+      "ayah": 4,
+      "formInAyah": "سِنِينَ",
+      "transliteration": "sinīne",
+      "gloss": "yıl",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِي بِضْعِ سِنِينَ ۗ لِلَّهِ الْأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ ۚ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ",
+      "verseTransliteration": "Fî bıd’ı sinîn(sinîne), lillâhil emru min kablu ve min ba’d(ba’du), ve yevme izin yefrahul mu’minûn(mu’minûne).",
+      "verseMeaning": "Birkaç yıl içinde. İş/oluş/hüküm, önünde de sonunda da Allah´ındır. Onların galibiyet gününde müminler ferahlayacaklar,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=snw"
+}

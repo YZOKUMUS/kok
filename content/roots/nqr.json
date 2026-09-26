@@ -1,0 +1,115 @@
+{
+  "id": "nqr",
+  "latinName": "Nun-Kaf-Ra",
+  "lettersArabic": "ن ق ر",
+  "meanings": [
+    "Üfürülmek, öttürülmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "نُقِرَ",
+      "count": 1
+    },
+    {
+      "formArabic": "نَقِير",
+      "count": 2
+    },
+    {
+      "formArabic": "نَّاقُور",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُقِرَ",
+      "sura": 74,
+      "ayah": 8,
+      "formInAyah": "نُقِرَ",
+      "transliteration": "nuḳira",
+      "gloss": "üflendiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+      "verseTransliteration": "Fe izâ nukıre fîn nâkû(nâkûri).",
+      "verseMeaning": "O boruya üfürüldüğünde,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَقِير",
+      "sura": 4,
+      "ayah": 53,
+      "formInAyah": "نَقِيرًا",
+      "transliteration": "neḳīran",
+      "gloss": "bir çekirdek zerresi bile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمْ لَهُمْ نَصِيبٌ مِنَ الْمُلْكِ فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا",
+      "verseTransliteration": "Em lehum nasîbun minel mulki fe izen lâ yu’tûnen nâse nekîrâ(nekîren).",
+      "verseMeaning": "Yoksa mülk ve yönetimden bir nasipleri mi var? Eğer öyle olsa, insanlara bir çekirdek bile vermezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَقِير",
+      "sura": 4,
+      "ayah": 124,
+      "formInAyah": "نَقِيرًا",
+      "transliteration": "neḳīran",
+      "gloss": "zerre kadar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا",
+      "verseTransliteration": "Ve men ya’mel mines sâlihâti min zekerin ev unsâ ve huve mu’minun fe ulâike yedhulûnel cennete ve lâ yuzlemûne nakîrâ(nakîren).",
+      "verseMeaning": "Erkek veya kadın, inanmış olarak hayra ve barışa yönelik işler yapanlar cennete gireceklerdir. Ve zerre kadar zulme uğratılmayacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَّاقُور",
+      "sura": 74,
+      "ayah": 8,
+      "formInAyah": "النَّاقُورِ",
+      "transliteration": "n-nāḳūri",
+      "gloss": "Sur’a (boruya)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+      "verseTransliteration": "Fe izâ nukıre fîn nâkû(nâkûri).",
+      "verseMeaning": "O boruya üfürüldüğünde,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nqr"
+}

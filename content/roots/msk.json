@@ -1,0 +1,634 @@
+{
+  "id": "msk",
+  "latinName": "Mim-Sin-Kef",
+  "lettersArabic": "م س ك",
+  "meanings": [
+    "To retain, withhold, maintain, be tenacious or niggardly, hold fast a thing, arrest a thing, restrain/detain/confine/imprison a person, restrain or abstain from a thing, grasp/clutch/seize a thing, take a thing with the hand, intelligent or sound in judgement."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 27,
+  "lemmas": [
+    {
+      "formArabic": "إِمْسَاك",
+      "count": 1
+    },
+    {
+      "formArabic": "أَمْسَكَ",
+      "count": 18
+    },
+    {
+      "formArabic": "مُسْتَمْسِكُون",
+      "count": 1
+    },
+    {
+      "formArabic": "مِسْك",
+      "count": 1
+    },
+    {
+      "formArabic": "مُمْسِك",
+      "count": 1
+    },
+    {
+      "formArabic": "مُمْسِكَٰت",
+      "count": 1
+    },
+    {
+      "formArabic": "يُمَسِّكُ",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱسْتَمْسَكَ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">إِمْسَاك",
+      "sura": 2,
+      "ayah": 229,
+      "formInAyah": "فَإِمْسَاكٌ",
+      "transliteration": "feimsākun",
+      "gloss": "ya tutmak (lazım)dır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "Et talâku merratân(merratâni), fe imsâkun bi ma’rûfin ev tesrîhun bi ihsân(ihsânin), ve lâ yahıllu lekum en te’huzû mimmâ âteytumûhunne şey’en illâ en yehâfâ ellâ yukîmâ hudûdallâh(hudûdallâhi), fe in hıftum ellâ yukîmâ hudûdallâhi, fe lâ cunâha aleyhimâ fî meftedet bih(bihî), tilke hudûdullâhi fe lâ ta’tedûhâ, ve men yeteadde hudûdallâhi fe ulâike humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Boşama iki kezdir. Bunun ardından ya iyilikle tutmak ya da güzelce serbest bırakmak gerekir. Onlara verdiğinizden bir şeyi geri almanız size helal olmaz. Erkekle kadının Allah´ın sınırlarını korumada endişe etmeleri hali başka. Erkek ve kadının Allah´ın sınırlarında duramayacaklarından endişe ederseniz, o zaman kadının verdiği fidyede ikisine de bir günah yoktur. İşte bunlar Allah´ın sınırlarıdır. Bunları aşmayın. Allah´ın sınırlarını aşanlar, işte onlar, zalimlerin ta kendileridirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 2,
+      "ayah": 231,
+      "formInAyah": "تُمْسِكُوهُنَّ",
+      "transliteration": "tumsikūhunne",
+      "gloss": "onları (yanınızda) tutmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Ve izâ tallaktumun nisâe fe belagne ecelehunne fe emsikûhunne bi ma’rûfin ev serrihûhunne bi ma’rûf(ma’rûfin), ve lâ tumsikûhunne dırâran li ta’tedû, ve men yef’al zâlike fe kad zaleme nefseh(nefsehu), ve lâ tettehızû âyâtillâhi huzuvâ(huzuven), vezkurû ni’metallâhi aleykum ve mâ enzele aleykum minel kitâbi vel hikmeti yeızukum bih(bihî), vettekûllâhe va’lemû ennallâhe bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Kadınları boşadığınızda, bekleme sürelerini tamamladılar mı ya onları örfe uygun olarak tutun yahut da örfe uygun olarak serbest bırakın. Onları, zulmetmeniz için, zararlarına bir biçimde, tutmayın. Bunu yapan, öz benliğine zulmetmiş olur. Allah´ın ayetlerini eğlence aracı yapmayın. Allah´ın üzerinizdeki nimetini ve kendisiyle size öğüt vermek için indirdiği Kitap´ı ve hikmeti hatırlayın. Allah´tan korkun ve bilin ki, Allah her şeyi çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 2,
+      "ayah": 231,
+      "formInAyah": "فَأَمْسِكُوهُنَّ",
+      "transliteration": "feemsikūhunne",
+      "gloss": "ya onları tutun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Ve izâ tallaktumun nisâe fe belagne ecelehunne fe emsikûhunne bi ma’rûfin ev serrihûhunne bi ma’rûf(ma’rûfin), ve lâ tumsikûhunne dırâran li ta’tedû, ve men yef’al zâlike fe kad zaleme nefseh(nefsehu), ve lâ tettehızû âyâtillâhi huzuvâ(huzuven), vezkurû ni’metallâhi aleykum ve mâ enzele aleykum minel kitâbi vel hikmeti yeızukum bih(bihî), vettekûllâhe va’lemû ennallâhe bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Kadınları boşadığınızda, bekleme sürelerini tamamladılar mı ya onları örfe uygun olarak tutun yahut da örfe uygun olarak serbest bırakın. Onları, zulmetmeniz için, zararlarına bir biçimde, tutmayın. Bunu yapan, öz benliğine zulmetmiş olur. Allah´ın ayetlerini eğlence aracı yapmayın. Allah´ın üzerinizdeki nimetini ve kendisiyle size öğüt vermek için indirdiği Kitap´ı ve hikmeti hatırlayın. Allah´tan korkun ve bilin ki, Allah her şeyi çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 4,
+      "ayah": 15,
+      "formInAyah": "فَأَمْسِكُوهُنَّ",
+      "transliteration": "feemsikūhunne",
+      "gloss": "tutun (dışarı çıkarmayın)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاللَّاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ ۖ فَإِنْ شَهِدُوا فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتَّىٰ يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ اللَّهُ لَهُنَّ سَبِيلًا",
+      "verseTransliteration": "Vellâtî ye’tînel fâhişete min nisâikum festeşhidû aleyhinne erbaaten minkum, fe in şehidû fe emsikûhunne fîl buyûti hattâ yeteveffâhunnel mevtu ev yec’alallâhu lehunne sebîlâ(sebîlen).",
+      "verseMeaning": "Kadınlarınızdan eşcinsellik/sevicilik yapanlara karşı içinizden dört tanık getirin; eğer tanıklık ederlerse o kadınları, ölüm canlarını alıncaya ya da Allah kendileri için bir yol açıncaya kadar evlerde tutun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 5,
+      "ayah": 4,
+      "formInAyah": "أَمْسَكْنَ",
+      "transliteration": "emsekne",
+      "gloss": "tuttukları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَسْأَلُونَكَ مَاذَا أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۙ وَمَا عَلَّمْتُمْ مِنَ الْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ اللَّهُ ۖ فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "Yes’elûneke mâ zâ uhılle lehum kul uhılle lekumut tayyibâtu ve mâ allemtum minel cevârihi mukellibîne tuallimûnehunne mimmâ allemekumullâhu fe kulû mimmâ emsekne aleykum vezkurûsmellâhi aleyhi vettekûllâh(vettekûllâhe) innallâhe serîul hısâb(hısâbi).",
+      "verseMeaning": "Sana soruyorlar, onlar için helal kılınan ne? Şöyle söyle: \"Sizin için bütün temiz nimetler helal kılınmıştır. Eğittiğiniz avcı kuşların tuttukları ile eğittiğiniz av köpeklerinin tuttukları da size helal kılındı. Siz bu hayvanlara, Allah´ın size öğrettiklerinden öğretiyorsunuz. O halde onların sizin için tuttuklarından da yiyin ve üzerine Allah´ın adını anın. Allah´tan sakının! Allah gerçekten hesabı çok çabuk görür.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 16,
+      "ayah": 59,
+      "formInAyah": "أَيُمْسِكُهُ",
+      "transliteration": "eyumsikuhu",
+      "gloss": "onu tutsun mu?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَتَوَارَىٰ مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ",
+      "verseTransliteration": "Yetevârâ minel kavmi min sûi mâ buşşire bih(bihî), e yumsikuhu alâ hûnin em yedussuhu fît turâb(turâbi), e lâ sâe mâ yahkumûn(yahkumûne).",
+      "verseMeaning": "Kendisine muştulananın utancından ötürü toplumdan gizlenir. Hakaret/eziklik üzere tutsun mu onu yoksa toprağın bağrına mı gömsün onu. Bakın ne kötü hüküm veriyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 16,
+      "ayah": 79,
+      "formInAyah": "يُمْسِكُهُنَّ",
+      "transliteration": "yumsikuhunne",
+      "gloss": "onları tutan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "E lem yerev ilet tayri musahharâtin fî cevvis semâ(semâi), mâ yumsikuhunne illallâh(illallâhu), inne fî zâlike le âyâtin li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Gök boşluğunda, bir emre boyun eğdirilmiş olan kuşlara bakmadılar mı? Onları Allah´tan başkası tutmuyor. Bunda, inanan bir topluluk için elbette ki izler, işaretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 17,
+      "ayah": 100,
+      "formInAyah": "لَأَمْسَكْتُمْ",
+      "transliteration": "leemsektum",
+      "gloss": "tutardınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لَوْ أَنْتُمْ تَمْلِكُونَ خَزَائِنَ رَحْمَةِ رَبِّي إِذًا لَأَمْسَكْتُمْ خَشْيَةَ الْإِنْفَاقِ ۚ وَكَانَ الْإِنْسَانُ قَتُورًا",
+      "verseTransliteration": "Kul lev entum temlikûne hazâine rahmeti rabbî izen le emsektum haşyetel infâk(infâkı), ve kânel insânu katûrâ(katûren).",
+      "verseMeaning": "De ki: \"Eğer Rabbimin rahmet hazinelerine sahip olsaydınız, o zaman da harcanır biter korkusuyla cimri davranırdınız.\" İnsan çok cimridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 22,
+      "ayah": 65,
+      "formInAyah": "وَيُمْسِكُ",
+      "transliteration": "ve yumsiku",
+      "gloss": "ve tutuyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي الْأَرْضِ وَالْفُلْكَ تَجْرِي فِي الْبَحْرِ بِأَمْرِهِ وَيُمْسِكُ السَّمَاءَ أَنْ تَقَعَ عَلَى الْأَرْضِ إِلَّا بِإِذْنِهِ ۗ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+      "verseTransliteration": "E lem tere ennallâhe sahhara lekum mâ fîl ardı vel fulke tecrî fîl bahri bi emrih(emrihî), ve yumsikus semâe en tekaa alel ardı illâ bi iznih(iznihî), innallâhe bin nâsi le raûfun rahîm(rahîmun).",
+      "verseMeaning": "Görmedin mi, Allah yeryüzündekileri ve denizde O´nun emriyle akıp giden gemileri sizin hizmetinize verdi. O´nun izni olmaksızın yerkürenin üstüne düşmemesi için göğü O tutuyor. Allah, insanlara karşı elbette Raûf, Rahîm´dir,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 33,
+      "ayah": 37,
+      "formInAyah": "أَمْسِكْ",
+      "transliteration": "emsik",
+      "gloss": "tut",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ أَنْ تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لَا يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ إِذَا قَضَوْا مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+      "verseTransliteration": "Ve iz tekûlu lillezî en’amallâhu aleyhi ve en’amte aleyhi emsik aleyke zevceke vettekıllâh ve tuhfî fî nefsike mallâhu mubdîhi ve tahşen nâs(nâse), vallâhu ehakku en tahşâh(tahşâhu), fe lemmâ kadâ zeydun minhâ vetaran zevvecnâ kehâ likey lâ yekûne alel mu’minîne haracun fî ezvâci ed’ıyâihim izâ kadav min hunne vetarâ(vetaran), ve kâne emrullâhi mef’ûlâ(mef’ûlen).",
+      "verseMeaning": "Hani sen Allah´ın nimetlendirdiği, senin de lütufta bulunduğun kişiye \"Eşini yanında tut, Allah´tan kork!\" diyordun ama, Allah´ın açıklayacağı birşeyi de içinde saklıyordun; insanlardan çekiniyordun. Oysaki kendisinden korkmana Allah daha layıktır. Zeyd o kadından ilişiğini kesince onu sana nikâhladık ki, evlatlıkları eşleriyle ilişkilerini kestiklerinde, müminler için o kadınlarla evlenmede bir güçlük olmasın. Zaten Allah´ın emri yerine getirilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 35,
+      "ayah": 2,
+      "formInAyah": "يُمْسِكْ",
+      "transliteration": "yumsik",
+      "gloss": "(Allah) tutar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Mâ yeftehillâhu lin nâsi min rahmetin fe lâ mumsike lehâ, ve mâ yumsik fe lâ mursile lehu min ba’dih(ba’dihî), ve huvel azîzul hakîm(hakîmu).",
+      "verseMeaning": "Allah´ın insanlar için açıp yaydığı rahmeti hiç kimse tutup kısamaz. Onun tutup kıstığını ise O´ndan sonra salıp açacak yoktur. Azîz´dir O, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 35,
+      "ayah": 41,
+      "formInAyah": "أَمْسَكَهُمَا",
+      "transliteration": "emsekehumā",
+      "gloss": "onları tutamaz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا ۚ وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ بَعْدِهِ ۚ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "İnnallâhe yumsikus semâvâti vel arda en tezûlâ, ve le in zâletâ in emsekehumâ min ehadin min ba’dih(ba’dihî), innehu kâne halîmen gafûrâ(gafûran).",
+      "verseMeaning": "Allah, gökleri ve yeri, yok olup gitmesinler diye tutuyor. Yemin olsun, eğer çöküp giderlerse, O´ndan başka hiç kimse onları tutamaz. Halîm´dir O, Gafûr´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 35,
+      "ayah": 41,
+      "formInAyah": "يُمْسِكُ",
+      "transliteration": "yumsiku",
+      "gloss": "tutmaktadır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا ۚ وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ بَعْدِهِ ۚ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "İnnallâhe yumsikus semâvâti vel arda en tezûlâ, ve le in zâletâ in emsekehumâ min ehadin min ba’dih(ba’dihî), innehu kâne halîmen gafûrâ(gafûran).",
+      "verseMeaning": "Allah, gökleri ve yeri, yok olup gitmesinler diye tutuyor. Yemin olsun, eğer çöküp giderlerse, O´ndan başka hiç kimse onları tutamaz. Halîm´dir O, Gafûr´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 38,
+      "ayah": 39,
+      "formInAyah": "أَمْسِكْ",
+      "transliteration": "emsik",
+      "gloss": "verme",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هَٰذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Hâzâ atâunâ femnun ev emsik bi gayri hisâb(hisâbin).",
+      "verseMeaning": "Bu, bizim lütfumuzdur; ister ver, ister elinde tut. Hesap yok..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 39,
+      "ayah": 42,
+      "formInAyah": "فَيُمْسِكُ",
+      "transliteration": "feyumsiku",
+      "gloss": "sonra yanında tutar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا ۖ فَيُمْسِكُ الَّتِي قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْأُخْرَىٰ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Allâhu yeteveffel enfuse hîne mevtihâ velletî lem temut fî menâmihâ, fe yumsikulletî kadâ aleyhel mevte ve yursilul uhrâ ilâ ecelin musemmâ(musemmen), inne fî zâlike le âyâtin li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Allah, canları, ölümleri sırasında alır, ölmeyenleri de uykuları sırasında. Sonra, haklarında ölüm hükmü verdiklerini alıkoyar; ötekileri, belirlenen bir süreye kadar salıverir. Bunda, iyice düşünen bir toplum için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 60,
+      "ayah": 10,
+      "formInAyah": "تُمْسِكُوا",
+      "transliteration": "tumsikū",
+      "gloss": "tutmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ ۖ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ ۖ لَا هُنَّ حِلٌّ لَهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَآتُوهُمْ مَا أَنْفَقُوا ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَنْ تَنْكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنْفَقْتُمْ وَلْيَسْأَلُوا مَا أَنْفَقُوا ۚ ذَٰلِكُمْ حُكْمُ اللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ câekumul mû’minâtu muhâcirâtin femtehınû hunn(hunne), allâhu a’lemu bi îmânihinn(îmânihinne), fe in alimtimû hunne mû’minâtin fe lâ terciû hunne ilel kuffâr(kuffâri), lâ hunne hıllun lehum ve lâ hum yehıllûne le hunn(hunne), ve âtûhum mâ enfekû, ve lâ cunâha aleykum en tenkıhû hunne izâ âteytumû hunne ucûrehunn(ucûrehunne), ve lâ tumsikû bi isamil kevâfiri ves’elû mâ enfaktum vel yes’elû mâ enfekû, zâlikum hukmullâh(hukmullâhi), yahkumu beynekum, vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Ey iman sahipleri! Mümin kadınlar hicret ederek size geldiklerinde onları imtihan edin. Allah onların imanlarını daha iyi bilir ya! Eğer onların mümin hanımlar olduklarını anlarsanız, onları kâfirlere döndürmeyin. Ne bu mümin kadınlar o kâfirlere helaldir ne de o kâfirler bunlara helaldir. Bu kadınlar için harcadıklarını o kâfirlere geri verin. Mehirlerini kendilerine verdiğiniz takdirde, bu kadınları nikâhlamanızda sizin için bir sakınca yoktur. Kâfirlerin iffet ve nikâhlarına yapışmayın. Kâfirlere gitmeyi yeğleyen kadınlar için harcadıklarınızı onlardan geri isteyin; onlar da size gelen mümin kadınlar için harcadıklarını geri istesinler. Bu, Allah´ın hepinize buyruğudur. Aranızda hüküm veriyor. Allah Alîm´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 65,
+      "ayah": 2,
+      "formInAyah": "فَأَمْسِكُوهُنَّ",
+      "transliteration": "feemsikūhunne",
+      "gloss": "onları (yanınızda) tutun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا",
+      "verseTransliteration": "Fe izâ belagne ecelehunne fe emsikûhunne bi ma’rûfin evfârikûhunne bi ma’rûfin ve eşhidû zevey adlin minkum ve ekîmûş şehâdete lillâh(lillâhi), zâlikum yûazu bihî men kâne yû’minu billâhi vel yevmil âhir(âhiri), ve men yettekıllâhe yec’al lehu mahrecâ(mahrecen).",
+      "verseMeaning": "Sürelerini doldurma noktasına geldiklerinde o kadınları ya örfün gerektirdiği biçimde tutun yahut da yine örfün gerektirdiği şartlarla onlardan ayrılın. İçinizden adalet sahibi iki kişiyi de tanık tutun. Tanıklığı Allah için tam bir biçimde yapın. Allah´a ve âhiret gününe inanan kişiye işte bu şekilde öğüt verilmektedir. Kim Allah´tan korkarsa, Allah ona bir çıkış yolu nasip eder."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 67,
+      "ayah": 19,
+      "formInAyah": "يُمْسِكُهُنَّ",
+      "transliteration": "yumsikuhunne",
+      "gloss": "onları (havada) tutmuyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ",
+      "verseTransliteration": "E ve lem yerev ilet tayri fevkahum sâffâtin ve yakbıdn(yakbıdne), mâ yumsikuhunne iller rahmân(rahmânu), innehu bi kulli şey’in basîr(basîrun).",
+      "verseMeaning": "Üstlerinde, kanatlarını açıp kapayarak uçun kuşları hiç görmediler mi? Onları Rahman´dan başkası tutmuyor. Kuşkusuz O, her şeyi görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْسَكَ",
+      "sura": 67,
+      "ayah": 21,
+      "formInAyah": "أَمْسَكَ",
+      "transliteration": "emseke",
+      "gloss": "tutacak olursa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ",
+      "verseTransliteration": "Emmen hâzellezî yerzukukum in emseke rızkah(rızkahu), bel leccû fî utuvvin ve nufûr(nufûrın).",
+      "verseMeaning": "Peki, O, rızkını tutarsa kim var sizi rızıklandıracak? Hayır, bir azgınlık ve nefret içinde inat etmekteler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْتَمْسِكُون",
+      "sura": 43,
+      "ayah": 21,
+      "formInAyah": "مُسْتَمْسِكُونَ",
+      "transliteration": "mustemsikūne",
+      "gloss": "sarılıyorlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İstif’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمْ آتَيْنَاهُمْ كِتَابًا مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ",
+      "verseTransliteration": "Em âteynâhum kitâben min kablihî fe hum bihî mustemsikûn(mustemsikûne).",
+      "verseMeaning": "Yoksa onlara bundan önce bir kitap verdik de ona mı yapışmaktadırlar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِسْك",
+      "sura": 83,
+      "ayah": 26,
+      "formInAyah": "مِسْكٌ",
+      "transliteration": "miskun",
+      "gloss": "misktir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+      "verseTransliteration": "Hitâmuhu misk(miskun). ve fî zâlike fel yetenâfesil mutenâfisûn(mutenâfisûne).",
+      "verseMeaning": "Ki sonu bir misktir. İşte, yarışanlar böyle bir şey için yarışsınlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُمْسِك",
+      "sura": 35,
+      "ayah": 2,
+      "formInAyah": "مُمْسِكَ",
+      "transliteration": "mumsike",
+      "gloss": "tutan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Mâ yeftehillâhu lin nâsi min rahmetin fe lâ mumsike lehâ, ve mâ yumsik fe lâ mursile lehu min ba’dih(ba’dihî), ve huvel azîzul hakîm(hakîmu).",
+      "verseMeaning": "Allah´ın insanlar için açıp yaydığı rahmeti hiç kimse tutup kısamaz. Onun tutup kıstığını ise O´ndan sonra salıp açacak yoktur. Azîz´dir O, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُمْسِكَٰت",
+      "sura": 39,
+      "ayah": 38,
+      "formInAyah": "مُمْسِكَاتُ",
+      "transliteration": "mumsikātu",
+      "gloss": "durduracaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ ۚ قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ ۚ قُلْ حَسْبِيَ اللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ",
+      "verseTransliteration": "Ve le in seeltehum men halakas semâvâti vel arda le yekûlunnallâh(yekûlunnallâhu), kul e fe raeytum mâ ted’ûne min dûnillâhi in erâdeniyallâhu bi durrin hel hunne kâşifâtu durrihi ev erâdenî bi rahmetin hel hunne mumsikâtu rahmetih(rahmetihi), kul hasbiyallâh(hasbiyallâhu), aleyhi yetevekkelul mutevekkılûn(mutevekkılûne).",
+      "verseMeaning": "Onlara, \"Gökleri ve yeri kim yarattı?\" diye sorsan, yemin olsun \"Allah!\" diyecekler. De onlara: \"Peki Allah dışındaki yakardıklarınız hakkında ne diyorsunuz? Allah bana bir zarar vermek istese, O´nun vereceği zararı uzaklaştırabilirler mi? Yahut bana bir rahmet dilese, O´nun rahmetini tutabilirler mi?\" De ki: \"Bana Allah yeter! Tevekkül edenler O´na dayanıp güvenirler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُمَسِّكُ",
+      "sura": 7,
+      "ayah": 170,
+      "formInAyah": "يُمَسِّكُونَ",
+      "transliteration": "yumessikūne",
+      "gloss": "sımsıkı sarılırlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَالَّذِينَ يُمَسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلَاةَ إِنَّا لَا نُضِيعُ أَجْرَ الْمُصْلِحِينَ",
+      "verseTransliteration": "Vellezîne yumessikûne bil kitâbi ve ekâmus salâte innâ lâ nudîu ecrel muslihîn(muslihîne).",
+      "verseMeaning": "Kitap´a sarılanlar ve namazı kılanlara gelince, biz, barışsever iyilerin ödülünü zayi etmeyiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَمْسَكَ",
+      "sura": 2,
+      "ayah": 256,
+      "formInAyah": "اسْتَمْسَكَ",
+      "transliteration": "stemseke",
+      "gloss": "yapışmıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انْفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "Lâ ikrâhe fîd dîni kad tebeyyener ruşdu minel gayy(gayyi), fe men yekfur bit tâgûti ve yu’min billâhi fe kadistemseke bil urvetil vuskâ, lenfisâme lehâ, vallâhu semîun alîm(alîmun).",
+      "verseMeaning": "Dinde baskı - zorlama - tiksindirme yoktur. Doğru ve güzel olan, çirkinlik ve sapıklıktan açık bir biçimde ayrılmıştır. Her kim tâğuta sırt dönüp Allah´a inanırsa hiç kuşkusuz sapasağlam bir kulpa yapışmış olur. Kopup parçalanması yoktur o kulpun. Allah, hakkıyla işiten, en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَمْسَكَ",
+      "sura": 31,
+      "ayah": 22,
+      "formInAyah": "اسْتَمْسَكَ",
+      "transliteration": "stemseke",
+      "gloss": "o yapışmıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَإِلَى اللَّهِ عَاقِبَةُ الْأُمُورِ",
+      "verseTransliteration": "Ve men yuslim vechehu ilâllâhi ve huve muhsinun fe kadistemseke bil urvetil vuskâ, ve ilâllâhi âkibetul umûr(umûri).",
+      "verseMeaning": "Güzel düşünüp güzel davranarak yüzünü Allah´a teslim eden, en sağlam kulpa yapışmıştır. İş ve oluşların sonu Allah´a varır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَمْسَكَ",
+      "sura": 43,
+      "ayah": 43,
+      "formInAyah": "فَاسْتَمْسِكْ",
+      "transliteration": "festemsik",
+      "gloss": "sen sımsıkı sarıl",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Festemsik billezî ûhıye ileyk(ileyke), inneke alâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "Sen, sana vahyedilene sımsıkı sarıl! Hiç kuşkusuz, sen, dosdoğru bir yol üzerindesin."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=msk"
+}

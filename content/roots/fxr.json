@@ -1,0 +1,160 @@
+{
+  "id": "fxr",
+  "latinName": "Fe-Kh-Ra",
+  "lettersArabic": "ف خ ر",
+  "meanings": [
+    "self-glorification/magnification, boast, to disdain/scorn, proud/haughty, long/tall/great, excellent quality, baked pottery/clay, earthen vessel."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 6,
+  "lemmas": [
+    {
+      "formArabic": "تَفَاخُر",
+      "count": 1
+    },
+    {
+      "formArabic": "فَخَّار",
+      "count": 1
+    },
+    {
+      "formArabic": "فَخُور",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفَاخُر",
+      "sura": 57,
+      "ayah": 20,
+      "formInAyah": "وَتَفَاخُرٌ",
+      "transliteration": "ve tefāḣurun",
+      "gloss": "ve övünmedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tefâ’ul Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِنَ اللَّهِ وَرِضْوَانٌ ۚ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ",
+      "verseTransliteration": "İ’lemû ennemel hayâtud dunyâ leibun ve lehvun ve zînetun ve tefâhurun beynekum ve tekâsurun fîl emvâli vel evlâd(evlâdi), ke meseli gaysin a’cebel kuffâre nebâtuhu summe yehîcu fe terâhu musferren summe yekûnu hutâmâ(hutâmen), ve fîl âhıreti azâbun şedîdun ve magfiretun minallâhi ve rıdvân(rıdvânun), ve mel hayâtud dunyâ illâ metâul gurûr(gurûri).",
+      "verseMeaning": "Bilin ki, şu iğreti dünya hayatı bir oyun ve eğlenceden, bir süsten, aranızda bir övünmeden, mallarda ve evlatlarda çoğalma yarışından başka şey değildir. Bir yağmur misali ki, çıkardığı bitkiler çiftçilerin hoşuna gider. Ama biraz sonra o ot kurur, sapsarı kesildiğini görürsün. Nihayet bir ot ufantısı haline gelir. Âhirette şiddetli bir azap var, Allah´tan bir af ve hoşnutluk da var. Dünya hayatı bir aldanış/gurur aracından başka şey değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَخَّار",
+      "sura": 55,
+      "ayah": 14,
+      "formInAyah": "كَالْفَخَّارِ",
+      "transliteration": "kālfeḣḣāri",
+      "gloss": "kiremit gibi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+      "verseTransliteration": "Halakal insâne min salsâlin kel fehhâr(fehhâri).",
+      "verseMeaning": "İnsanı, pişirilmiş çamur gibi kuru bir balçıktan yarattı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَخُور",
+      "sura": 4,
+      "ayah": 36,
+      "formInAyah": "فَخُورًا",
+      "transliteration": "feḣūran",
+      "gloss": "böbürlenen",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًا",
+      "verseTransliteration": "Va’budûllâhe ve lâ tuşrikû bihî şeyen ve bil vâlideyni ihsânen ve bizil kurbâ vel yetâmâ vel mesâkîni vel câri zil kurbâ vel câril cunubi ves sâhıbi bil cenbi vebnis sebîli ve mâ meleket eymânukum, innallâhe lâ yuhıbbu men kâne muhtâlen fehûrâ(fehûren).",
+      "verseMeaning": "Allah´a kulluk edin. O´na hiçbir şeyi ortak koşmayın. Ana-babaya, akrabaya, yetim ve öksüzlere, çaresizlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolda kalmışa, size bağımlı olanlara iyi ve güzel davranın. Allah, kasılıp böbürlenen şımarıkları sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَخُور",
+      "sura": 11,
+      "ayah": 10,
+      "formInAyah": "فَخُورٌ",
+      "transliteration": "feḣūrun",
+      "gloss": "ve böbürlenendir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَئِنْ أَذَقْنَاهُ نَعْمَاءَ بَعْدَ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ السَّيِّئَاتُ عَنِّي ۚ إِنَّهُ لَفَرِحٌ فَخُورٌ",
+      "verseTransliteration": "Ve le in ezaknâhu na´mâe ba´de darrâe messethu le yekûlenne zehebes seyyiâtu annî, innehu le ferihun fahûr(fahûrun).",
+      "verseMeaning": "Ve eğer ona, kendisine gelip çatan bir zorluk ve kederden sonra bolluk ve nimet tattırırsak, hiç kuşkusuz şöyle diyecektir: \"Tüm sıkıntı ve kötülükler benden uzaklaşmıştır.\" Bu durumda o, bir sevinç şımarığı, bir kendini beğenmiş olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَخُور",
+      "sura": 31,
+      "ayah": 18,
+      "formInAyah": "فَخُورٍ",
+      "transliteration": "feḣūrin",
+      "gloss": "övünenleri",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "verseTransliteration": "Ve lâ tusa’ir haddeke lin nâsi ve lâ temşi fîl ardı merahâ(merahan) innellâhe lâ yuhıbbu kulle muhtâlin fehûr(fehûrin).",
+      "verseMeaning": "\"Kibirlenerek insanlardan yüzünü çevirme, yeryüzünde kasılarak yürüme. Çünkü Allah, kurula kurula kendini övenlerin hiçbirini sevmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَخُور",
+      "sura": 57,
+      "ayah": 23,
+      "formInAyah": "فَخُورٍ",
+      "transliteration": "feḣūrin",
+      "gloss": "övünenleri",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لِكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا بِمَا آتَاكُمْ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "verseTransliteration": "Li keylâ te’sev alâ mâ fâtekum ve lâ tefrehû bi mâ âtâkum, vallâhu lâ yuhıbbu kulle muhtâlin fehûr(fehûrin).",
+      "verseMeaning": "Böyle yapılmıştır ki, elinizden çıkana üzülüp ümitsizliğe düşmeyesiniz ve Allah´ın size verdiğiyle sevinip şımarmayasınız. Çünkü Allah, kendini beğenip övünenlerin hiçbirini sevmez."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fxr"
+}

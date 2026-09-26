@@ -1,0 +1,45 @@
+{
+  "id": "msd",
+  "latinName": "Mim-Sin-Dal",
+  "lettersArabic": "م س د",
+  "meanings": [
+    "Bir ipi bükmek, bir şeyi iyice bükmek"
+  ],
+  "derivativeNotes": [
+    "Mesed - Hurma dalından eğirip yapılan ip, pek sağlam örülmüş ip"
+  ],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "مَّسَد",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّسَد",
+      "sura": 111,
+      "ayah": 5,
+      "formInAyah": "مَسَدٍ",
+      "transliteration": "mesedin",
+      "gloss": "hurma lifi-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+      "verseTransliteration": "Fî cîdihâ hablun min mesed(mesedin).",
+      "verseMeaning": "Gerdanında bir ip olacaktır onun, en sağlam fitillisinden..."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=msd"
+}

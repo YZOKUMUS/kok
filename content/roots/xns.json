@@ -1,0 +1,68 @@
+{
+  "id": "xns",
+  "latinName": "Kh-Nun-Sin",
+  "lettersArabic": "خ ن س",
+  "meanings": [
+    "gizlenmek, saklanmak, çekilmek, büzülmek, sıkılıp büzülmek, gerilemek, geri kalmak, sinip kaybolmak – hannas Çok sinsi, gizlenen, büzülüp geri kaçan."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "خَنَّاس",
+      "count": 1
+    },
+    {
+      "formArabic": "خُنَّس",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَنَّاس",
+      "sura": 114,
+      "ayah": 4,
+      "formInAyah": "الْخَنَّاسِ",
+      "transliteration": "l-ḣannāsi",
+      "gloss": "sinsi",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "verseTransliteration": "Min şerril vesvâsil hannâs(hannâsi).",
+      "verseMeaning": "Kıvrılıp kıvrılıp saklanan, sinip sinip gizlenen vesvesenin/o sinsi, o aldatıcı şeytanın şerrinden,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خُنَّس",
+      "sura": 81,
+      "ayah": 15,
+      "formInAyah": "بِالْخُنَّسِ",
+      "transliteration": "bil-ḣunnesi",
+      "gloss": "geri kalıp gizlenenlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+      "verseTransliteration": "Fe lâ uksimu bil hunnes(hunnesi).",
+      "verseMeaning": "Hayır, iş onların sandığı gibi değil! Yemin olsun o sinip gizlenenlere,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xns"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdd",
+  "latinName": "he-Dal-Dal",
+  "lettersArabic": "ه د د",
+  "meanings": [
+    "to break/crush, overthrow, crumble down, pull down, demolish, fall down into pieces."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "هَدّ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَدّ",
+      "sura": 19,
+      "ayah": 90,
+      "formInAyah": "هَدًّا",
+      "transliteration": "hedden",
+      "gloss": "yıkılıp",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا",
+      "verseTransliteration": "Tekâdus semâvâtu yetefattarne minhu ve tenşakkul ardu ve tehırrul cibâlu heddâ(hedden).",
+      "verseMeaning": "Bu söz yüzünden neredeyse gökler çatlayacak, yer parçalanacak, dağlar yıkılıp çökecek;"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hdd"
+}

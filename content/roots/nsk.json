@@ -1,0 +1,182 @@
+{
+  "id": "nsk",
+  "latinName": "Nun-Sin-Kef",
+  "lettersArabic": "ن س ك",
+  "meanings": [
+    "to lead a devout life, be pious, be godly, worship/serve God, sacrifice, slaughter an animal by way of sacrifice, act of worship/servitude, performers/observers of such acts, rite of devotion, to wash and purify, to apply oneself."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 7,
+  "lemmas": [
+    {
+      "formArabic": "مَنسَك",
+      "count": 4
+    },
+    {
+      "formArabic": "نَاسِكُو",
+      "count": 1
+    },
+    {
+      "formArabic": "نُسُك",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنسَك",
+      "sura": 2,
+      "ayah": 128,
+      "formInAyah": "مَنَاسِكَنَا",
+      "transliteration": "menāsikenā",
+      "gloss": "ibadet yollarımızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+      "verseTransliteration": "Rabbenâ vec’alnâ muslimeyni leke ve min zurriyyetinâ ummeten muslimeten leke ve erinâ menâsikenâ ve tub aleynâ, inneke entet tevvâbur rahîm(rahîmu).",
+      "verseMeaning": "\"Rabb´imiz! Bizi, sana teslim olmuş iki müslüman kıl. Soyumuzdan da sana teslim olan müslüman bir ümmet oluştur. Bize ibadet yerlerimizi göster, bizim tövbemizi kabul et. Sen, evet sen, Tevvâb´sın, tövbeleri cömertçe kabul edersin; Rahîm´sin, rahmetini cömertçe yayarsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنسَك",
+      "sura": 2,
+      "ayah": 200,
+      "formInAyah": "مَنَاسِكَكُمْ",
+      "transliteration": "menāsikekum",
+      "gloss": "ibadetlerinizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ",
+      "verseTransliteration": "Fe izâ kadaytum menâsikekum fezkurûllâhe ke zikrikum âbâekum ev eşedde zikrâ(zikren), fe minen nâsi men yekûlu rabbenâ âtinâ fîd dunyâ ve mâ lehu fîl ahirati min halâk(halâkın).",
+      "verseMeaning": "Gerekli ibadetlerinizi bitirdiğinizde yine Allah´ı anın. Tıpkı atalarınızı andığınız gibi, hatta daha kuvvetli bir anışla. İnsanlardan bazısı şöyle der: \"Ey Rabb´imiz, bize dünyada ver.\" Böylesi için âhırette bir nasip yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنسَك",
+      "sura": 22,
+      "ayah": 34,
+      "formInAyah": "مَنْسَكًا",
+      "transliteration": "menseken",
+      "gloss": "bir kurban ibadeti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا لِيَذْكُرُوا اسْمَ اللَّهِ عَلَىٰ مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ ۗ فَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَلَهُ أَسْلِمُوا ۗ وَبَشِّرِ الْمُخْبِتِينَ",
+      "verseTransliteration": "Ve li kulli ummetin cealnâ menseken li yezkurûsmallâhi alâ mâ razakahum min behîmetil en’âm(en’âmi), fe ilâhukum ilâhun vâhıdun fe lehû eslimû ve beşşiril muhbitîn(muhbitîne).",
+      "verseMeaning": "Biz her ümmet için bir kurbanlık hayvan kesme zamanı/kurbanlık hayvan kesme yeri/kurbanlık hayvan kesme tarzı belirledik ki, kendilerine rızık olarak verdiği kurbanlık hayvanların üstüne Allah´ın ismini ansınlar. Sizin tanrınız bir tek tanrıdır; o halde yalnız O´na teslim olun. Alçak gönüllü, saygılı kişileri muştula."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنسَك",
+      "sura": 22,
+      "ayah": 67,
+      "formInAyah": "مَنْسَكًا",
+      "transliteration": "menseken",
+      "gloss": "ibadet şekli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَازِعُنَّكَ فِي الْأَمْرِ ۚ وَادْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُسْتَقِيمٍ",
+      "verseTransliteration": "Li kulli ummetin cealnâ menseken hum nâsikûhu fe lâ yunâziunneke fîl emri ved’u ilâ rabbik(rabbike), inneke le alâ huden mustekîm(mustekîmin).",
+      "verseMeaning": "Her ümmet için biz, bir ibadet şekli/bir ibadet yeri belirledik; onlar, onu izlerler. Artık bu iş konusunda seninle çekişmesinler. Sen de Rabbine davet et/dua et. Sen, elbette ki şaşırtmadan yol aldıran bir kılavuzun ardındasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاسِكُو",
+      "sura": 22,
+      "ayah": 67,
+      "formInAyah": "نَاسِكُوهُ",
+      "transliteration": "nāsikūhu",
+      "gloss": "uydukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَازِعُنَّكَ فِي الْأَمْرِ ۚ وَادْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُسْتَقِيمٍ",
+      "verseTransliteration": "Li kulli ummetin cealnâ menseken hum nâsikûhu fe lâ yunâziunneke fîl emri ved’u ilâ rabbik(rabbike), inneke le alâ huden mustekîm(mustekîmin).",
+      "verseMeaning": "Her ümmet için biz, bir ibadet şekli/bir ibadet yeri belirledik; onlar, onu izlerler. Artık bu iş konusunda seninle çekişmesinler. Sen de Rabbine davet et/dua et. Sen, elbette ki şaşırtmadan yol aldıran bir kılavuzun ardındasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُسُك",
+      "sura": 2,
+      "ayah": 196,
+      "formInAyah": "نُسُكٍ",
+      "transliteration": "nusukin",
+      "gloss": "kurbandan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۖ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ۚ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَا أَمِنْتُمْ فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۚ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَنْ لَمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Ve etimmûl hacce vel umrete lillâh(lillâhi), fe in uhsirtum fe mesteysera minel hedyi ve lâ tahlikû ruûsekum hattâ yeblugal hedyu mahilleh(mahillehu), fe men kâne minkum marîdan ev bihî ezen min ra’sihî fe fidyetun min sıyâmin ev sadakatin ev nusuk(nusukin) fe izâ emintum, fe men temettea bil umreti ilel haccı fe mesteysera minel hedyi, fe men lem yecid fe sıyâmu selâseti eyyâmin fîl haccı ve seb’atin izâ reca’tum tilke aşaratun kâmileh(kâmiletun), zâlike li men lem yekun ehluhu hâdırıl mescidil harâm(harâmi), vettekûllâhe va’lemû ennellâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Haccı da umreyi de Allah için tamamlayın. Eğer engellenirseniz, kolayınıza gelen kurban yeterlidir. Kurban, yerine varıncaya kadar başlarınızı tıraş etmeyin. İçinizden hasta olan yahut başından rahatsızlığı bulunan oruç tutarak, sadaka vererek veya kurban keserek fidye yoluna gitsin. Güvene kavuştuğunuzda, hacca kadar umreden yararlanmak isteyen, kolayına gelen kurban kessin. Bunu bulamayan oruç tutsun. Üç günü hacda, yedi günü döndüğünüzde, tam on gündür bu. Bu, ailesi Mescid-i Haram´da oturmayan kişi içindir. Allah´tan korkun ve bilin ki, Allah´ın azabı çok şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُسُك",
+      "sura": 6,
+      "ayah": 162,
+      "formInAyah": "وَنُسُكِي",
+      "transliteration": "ve nusukī",
+      "gloss": "ve ibadetim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Kul inne salâtî ve nusukî ve mahyâye ve memâtî lillâhi rabbil âlemîn(âlemîne).",
+      "verseMeaning": "De ki: \"Benim namazım, kulluğum/bağışım, hayatım, ölümüm âlemlerin Rabbi olan Allah içindir.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nsk"
+}

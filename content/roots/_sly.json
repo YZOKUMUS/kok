@@ -1,0 +1,577 @@
+{
+  "id": "Sly",
+  "latinName": "Sad-Lam-Ye",
+  "lettersArabic": "ص ل ي",
+  "meanings": [
+    "Ateşe girmek, ateş ile tutuşturmak, yakmak, eti ateşte pişirmek, kızartmak, ısıtmak. Sıkıntı çekmek, yanmak."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 25,
+  "lemmas": [
+    {
+      "formArabic": "أُصْلِي",
+      "count": 4
+    },
+    {
+      "formArabic": "تَصْطَلُ",
+      "count": 2
+    },
+    {
+      "formArabic": "تَصْلِيَة",
+      "count": 1
+    },
+    {
+      "formArabic": "صَال",
+      "count": 1
+    },
+    {
+      "formArabic": "صَالُوا",
+      "count": 2
+    },
+    {
+      "formArabic": "صَلُّ",
+      "count": 1
+    },
+    {
+      "formArabic": "صِلِيّ",
+      "count": 1
+    },
+    {
+      "formArabic": "يَصْلَى",
+      "count": 13
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُصْلِي",
+      "sura": 4,
+      "ayah": 30,
+      "formInAyah": "نُصْلِيهِ",
+      "transliteration": "nuSlīhi",
+      "gloss": "onu sokacağız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+      "verseTransliteration": "Ve men yef’al zâlike udvânen ve zulmen fe sevfe nuslîhi nâra(nâren) ve kâne zâlike alallâhi yesîrâ(yesîran).",
+      "verseMeaning": "Kim düşmanlık ve zulümle intihar günahını işlerse onu ateşe sokacağız. Bu, Allah için çok da kolaydır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُصْلِي",
+      "sura": 4,
+      "ayah": 56,
+      "formInAyah": "نُصْلِيهِمْ",
+      "transliteration": "nuSlīhim",
+      "gloss": "sokacağız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُمْ بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَ ۗ إِنَّ اللَّهَ كَانَ عَزِيزًا حَكِيمًا",
+      "verseTransliteration": "İnnellezîne keferû bi âyâtinâ sevfe nuslîhim nâra(nâran), kullemâ nadicet culûduhum beddelnâhum culûden gayrehâ li yezûkûl azâb(azâbe) innallâhe kâne azîzen hakîmâ(hakîmen).",
+      "verseMeaning": "Ayetlerimizi inkâr edenleri yakında bir ateşe yaslayacağız. Derileri piştikçe, azabı tatsınlar diye, derilerini öncekinden başka derilerle değiştireceğiz. Allah Azîz ve Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُصْلِي",
+      "sura": 4,
+      "ayah": 115,
+      "formInAyah": "وَنُصْلِهِ",
+      "transliteration": "ve nuSlihi",
+      "gloss": "ve sokarız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+      "verseTransliteration": "Ve men yuşâkıkır resûle min ba’di mâ tebeyyene lehul hudâ ve yettebi’ gayre sebîlil mu’minîne nuvellıhî mâ tevellâ ve nuslihî cehennem(cehenneme) ve sâet masîrâ(masîran).",
+      "verseMeaning": "Erdirici kılavuzluk kendisine ayan-beyan geldikten sonra, resulden kopup müminlerin yolunun dışını izleyeni biz, yöneldiğiyle kaynaştırır, sonra da cehenneme sallarız. Ne kötü bir dönüş yeridir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُصْلِي",
+      "sura": 74,
+      "ayah": 26,
+      "formInAyah": "سَأُصْلِيهِ",
+      "transliteration": "seuSlīhi",
+      "gloss": "onu sokacağım",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "سَأُصْلِيهِ سَقَرَ",
+      "verseTransliteration": "Se uslîhi sekar(sekare).",
+      "verseMeaning": "Onu Sekar´a fırlatacağım."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَصْطَلُ",
+      "sura": 27,
+      "ayah": 7,
+      "formInAyah": "تَصْطَلُونَ",
+      "transliteration": "teSTalūne",
+      "gloss": "ısınırsınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِ إِنِّي آنَسْتُ نَارًا سَآتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ آتِيكُمْ بِشِهَابٍ قَبَسٍ لَعَلَّكُمْ تَصْطَلُونَ",
+      "verseTransliteration": "İz kâle mûsâ li ehlihî innî ânestu nârâ(nâren), se âtîkum minhâ bi haberin ev âtîkum bi şihâbin kabesin leallekum tastalûn(tastalûne).",
+      "verseMeaning": "Hatırla o zamanı; Mûsa, ailesine şöyle demişti: \"Ben bir ateş fark ettim. Ondan size bir haber getireceğim, yahut parlak bir kor getireceğim ki ateş yakıp ısınabilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَصْطَلُ",
+      "sura": 28,
+      "ayah": 29,
+      "formInAyah": "تَصْطَلُونَ",
+      "transliteration": "teSTalūne",
+      "gloss": "ısınırsınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ وَسَارَ بِأَهْلِهِ آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا قَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+      "verseTransliteration": "Fe lemmâ kadâ mûsel ecele ve sâre bi ehlihî ânese min cânibit tûri nârâ(nâren), kâle li ehlihimkusû innî ânestu nâren leallî âtîkum minhâ bi haberin ev cezvetin minen nâri leallekum testalûn(testalûne).",
+      "verseMeaning": "Mûsa süreyi bitirip ailesiyle yola çıkınca, Tûr tarafından bir ateş fark etti. Ailesine dedi ki: \"Bekleyin, bir ateş fark ettim. Belki ondan size bir haber getiririm, belki bir ateş koru getiririm de ısınırsınız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَصْلِيَة",
+      "sura": 56,
+      "ayah": 94,
+      "formInAyah": "وَتَصْلِيَةُ",
+      "transliteration": "ve teSliyetu",
+      "gloss": "ve atılma (vardır)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَتَصْلِيَةُ جَحِيمٍ",
+      "verseTransliteration": "Ve tasliyetu cahîm(cahîmin).",
+      "verseMeaning": "Ve cehenneme salıverilme var ona."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَال",
+      "sura": 37,
+      "ayah": 163,
+      "formInAyah": "صَالِ",
+      "transliteration": "Sāli",
+      "gloss": "girecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ",
+      "verseTransliteration": "İllâ men huve sâlil cahîm(cahîmi).",
+      "verseMeaning": "Cehenneme salınacak olan müstesna."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَالُوا",
+      "sura": 38,
+      "ayah": 59,
+      "formInAyah": "صَالُو",
+      "transliteration": "Sālū",
+      "gloss": "gireceklerdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "هَٰذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ ۖ لَا مَرْحَبًا بِهِمْ ۚ إِنَّهُمْ صَالُو النَّارِ",
+      "verseTransliteration": "Hâzâ fevcun muktehımun meakum, lâ merhaben bihim, innehum sâlûn nâr(nâri).",
+      "verseMeaning": "Şöyle denilir: \"İşte sizinle birlikte direnişe geçen bir grup. ´Merhaba´ yok onlara! Onlar ateşe salınıyorlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَالُوا",
+      "sura": 83,
+      "ayah": 16,
+      "formInAyah": "لَصَالُو",
+      "transliteration": "leSālū",
+      "gloss": "elbette gireceklerdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+      "verseTransliteration": "Summe innehum le sâlul cahîm(cahîmi).",
+      "verseMeaning": "Sonra onlar mutlaka cehenneme dalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَلُّ",
+      "sura": 69,
+      "ayah": 31,
+      "formInAyah": "صَلُّوهُ",
+      "transliteration": "Sallūhu",
+      "gloss": "sallayın onu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "ثُمَّ الْجَحِيمَ صَلُّوهُ",
+      "verseTransliteration": "Summel cahîme sallûh(sallûhu).",
+      "verseMeaning": "\"Sonra cehenneme sallayın onu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِلِيّ",
+      "sura": 19,
+      "ayah": 70,
+      "formInAyah": "صِلِيًّا",
+      "transliteration": "Siliyyen",
+      "gloss": "girmeğe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّا",
+      "verseTransliteration": "Summe le nahnu a’lemu billezîne hum evlâ bihâ sıliyyâ(sıliyyen).",
+      "verseMeaning": "Elbette ki biz, oraya girmeye daha layık olanların kimler olduğunu herkesten iyi biliriz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 4,
+      "ayah": 10,
+      "formInAyah": "وَسَيَصْلَوْنَ",
+      "transliteration": "ve seyeSlevne",
+      "gloss": "ve gireceklerdir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+      "verseTransliteration": "İnnellezîne ye’kulûne emvâlel yetâmâ zulmen innemâ ye’kulûne fî butûnihim nârâ(nâran) ve seyaslevne seîrâ(seîran).",
+      "verseMeaning": "Şunda kuşkunuz olmasın ki, zulme başvurarak yetimlerin mallarını yiyenler karınlarına doldurmak üzere bir ateş yemekten başka bir şey yapmazlar. Ve onlar yakın bir zamanda, korkunç acılar veren bir azaba dalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 14,
+      "ayah": 29,
+      "formInAyah": "يَصْلَوْنَهَا",
+      "transliteration": "yeSlevnehā",
+      "gloss": "yaslanacakları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ الْقَرَارُ",
+      "verseTransliteration": "Cehennem(cehenneme), yaslevnehâ, ve bi’sel karâr(karâru).",
+      "verseMeaning": "Yaslanacakları cehenneme kondurdular. Ne kötü bir duruş yeridir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 17,
+      "ayah": 18,
+      "formInAyah": "يَصْلَاهَا",
+      "transliteration": "yeSlāhā",
+      "gloss": "oraya girer",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَنْ كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَنْ نُرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا مَدْحُورًا",
+      "verseTransliteration": "Men kâne yurîdul âcilete accelnâ lehu fîhâ mâ neşâu li men nurîdu summe cealnâ lehu cehennem(cehenneme), yaslâhâ mezmûmen medhûrâ(medhûren).",
+      "verseMeaning": "Peşin isteyene dünyada peşin veririz: Dilediğimize dilediğimiz kadar. Sonra da ona cehennemi veririz; yaslanır ona, kınanmış ve kovulmuş olarak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 36,
+      "ayah": 64,
+      "formInAyah": "اصْلَوْهَا",
+      "transliteration": "İSlevhā",
+      "gloss": "oraya girin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+      "verseTransliteration": "Islevhel yevme bimâ kuntum tekfurûn(tekfurûne).",
+      "verseMeaning": "İnkâr edip durmanız yüzünden dalın oraya bugün!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 38,
+      "ayah": 56,
+      "formInAyah": "يَصْلَوْنَهَا",
+      "transliteration": "yeSlevnehā",
+      "gloss": "oraya girerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Cehennem(cehenneme), yaslevnehâ, fe bi’sel mihâd(mihâdu).",
+      "verseMeaning": "İçine dalacakları cehennem! Ne kötü döşektir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 52,
+      "ayah": 16,
+      "formInAyah": "اصْلَوْهَا",
+      "transliteration": "İSlevhā",
+      "gloss": "girin ona",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Islevhâ fasbirû ev lâ tasbirû sevâun aleykum, innemâ tuczevne mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "\"Dalın ona! Artık ister sabredin ister sabretmeyin. Sizin için hepsi birdir. Siz ancak yapıp ettiğiniz şeylerin karşılığıyla yüzyüze geleceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 58,
+      "ayah": 8,
+      "formInAyah": "يَصْلَوْنَهَا",
+      "transliteration": "yeSlevnehā",
+      "gloss": "oraya gireceklerdir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَلَمْ تَرَ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا عَنْهُ وَيَتَنَاجَوْنَ بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَإِذَا جَاءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللَّهُ وَيَقُولُونَ فِي أَنْفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
+      "verseTransliteration": "E lem tere ilellezîne nuhû aninnecvâ summe yeûdûne li mâ nuhû anhu ve yetenâcevne bil ismi vel udvâni ve ma’siyetir resûl(resûli), ve izâ câûke hayyevke bi mâ lem yuhayyike bihillâhu, ve yekûlûne fî enfusihim lev lâ yuazzibunâllâhu bi mâ nekûl(nekûlu), hasbuhum cehennem(cehennemu), yaslevnehâ, febi’sel masîr(masîru).",
+      "verseMeaning": "Görmedin mi şu fısıldaşmaktan yasaklananları ki, biraz sonra, yasaklanmış oldukları şeye dönüyorlar ve günah, düşmanlık, peygambere isyan konusunda fısıldaşıyorlar. Sana geldiklerinde, seni Allah´ın selamlamadığı biçimde selamlıyorlar. Kendi içlerinde ise şöyle diyorlar: \"Söylediğimiz şey yüzünden Allah bize azap etse ya!\" Cehennem yeter onlara. Girecekler oraya. Ne kötü dönüş yeridir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 82,
+      "ayah": 15,
+      "formInAyah": "يَصْلَوْنَهَا",
+      "transliteration": "yeSlevnehā",
+      "gloss": "oraya girerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "verseTransliteration": "Yaslevnehâ yevmed dîn(dîni).",
+      "verseMeaning": "Din günü girerler oraya."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 84,
+      "ayah": 12,
+      "formInAyah": "وَيَصْلَىٰ",
+      "transliteration": "ve yeSlā",
+      "gloss": "ve girecektir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَصْلَىٰ سَعِيرًا",
+      "verseTransliteration": "Ve yaslâ saîrâ(saîren).",
+      "verseMeaning": "Ve korkunç ateşe girecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 87,
+      "ayah": 12,
+      "formInAyah": "يَصْلَى",
+      "transliteration": "yeSlā",
+      "gloss": "girer",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+      "verseTransliteration": "Ellezî yaslen nârel kubrâ.",
+      "verseMeaning": "En büyük ateşe girer o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 88,
+      "ayah": 4,
+      "formInAyah": "تَصْلَىٰ",
+      "transliteration": "teSlā",
+      "gloss": "girerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "verseTransliteration": "Teslâ nâren hâmiyeh(hâmiyeten).",
+      "verseMeaning": "Kızışmış bir ateşe dalarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 92,
+      "ayah": 15,
+      "formInAyah": "يَصْلَاهَا",
+      "transliteration": "yeSlāhā",
+      "gloss": "ona girmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+      "verseTransliteration": "Lâ yaslâhâ illel eşkâ.",
+      "verseMeaning": "Şiddete çok düşkün bedbahttan başkası girmez ona."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْلَى",
+      "sura": 111,
+      "ayah": 3,
+      "formInAyah": "سَيَصْلَىٰ",
+      "transliteration": "seyeSlā",
+      "gloss": "girecektir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "verseTransliteration": "Se yaslâ nâren zâte leheb(lehebin).",
+      "verseMeaning": "Alevli bir ateşe yaslanacaktır o;"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Sly"
+}

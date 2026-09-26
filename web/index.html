@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#1b4336" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>Kök çalış</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icon.svg" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="sticky-head">
+    <header class="topbar">
+      <div>
+        <p class="mark">Kök çalış</p>
+        <p id="count" class="meta">Yükleniyor…</p>
+      </div>
+    </header>
+    <label class="search">
+      <span class="sr-only">Kök ara</span>
+      <input id="q" type="search" enterkeyhint="search" placeholder="Anlam, harf veya ad" autocomplete="off" />
+    </label>
+  </div>
+  <main id="panel"></main>
+  <p id="empty" class="empty hidden">Bu aramada kök yok.</p>
+  <p id="error" class="error hidden"></p>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

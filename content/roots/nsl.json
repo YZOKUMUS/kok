@@ -1,0 +1,109 @@
+{
+  "id": "nsl",
+  "latinName": "Nun-Sin-Lam",
+  "lettersArabic": "ن س ل",
+  "meanings": [
+    "Koşmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "نَسْل",
+      "count": 2
+    },
+    {
+      "formArabic": "يَنسِلُ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَسْل",
+      "sura": 2,
+      "ayah": 205,
+      "formInAyah": "وَالنَّسْلَ",
+      "transliteration": "ve nnesle",
+      "gloss": "ve nesli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ",
+      "verseTransliteration": "Ve izâ tevellâ seâ fîl ardı li yufside fîhâ ve yuhlikel harse ven nesl(nesle), vallâhu lâ yuhıbbul fesâd(fesâda).",
+      "verseMeaning": "Yanından ayrıldığında/işbaşına geçtiğinde yeryüzünde fesat çıkarmak, ekini ve nesli yok etmek için işe koyulur. Oysaki Allah, fesadı sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَسْل",
+      "sura": 32,
+      "ayah": 8,
+      "formInAyah": "نَسْلَهُ",
+      "transliteration": "neslehu",
+      "gloss": "onun neslini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ",
+      "verseTransliteration": "Summe ceale neslehu min sulâletin min mâin mehîn(mehînin).",
+      "verseMeaning": "Sonra onun neslini bir üsareden, hor görülen bir sudan oluşturdu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَنسِلُ",
+      "sura": 21,
+      "ayah": 96,
+      "formInAyah": "يَنْسِلُونَ",
+      "transliteration": "yensilūne",
+      "gloss": "akın etmeye başladıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ",
+      "verseTransliteration": "Hattâ izâ futihat ye’cûcu ve me’cûcu ve hum min kulli hadebin yensilûn(yensilûne).",
+      "verseMeaning": "Ye´cûc ve Me´cûc´ün önü açıldığı zaman onlar, her tepeden akın ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَنسِلُ",
+      "sura": 36,
+      "ayah": 51,
+      "formInAyah": "يَنْسِلُونَ",
+      "transliteration": "yensilūne",
+      "gloss": "koşuyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَنُفِخَ فِي الصُّورِ فَإِذَا هُمْ مِنَ الْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنْسِلُونَ",
+      "verseTransliteration": "Ve nufiha fîs sûri fe izâ hum minel ecdâsi ilâ rabbihim yensilûn(yensilûne).",
+      "verseMeaning": "Sûra üfürülmüştür! Bak, işte kabirlerden, Rablerine doğru akın akın gidiyorlar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nsl"
+}

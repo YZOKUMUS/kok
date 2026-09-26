@@ -1,0 +1,67 @@
+{
+  "id": "xdd",
+  "latinName": "Kh-Dal-Dal",
+  "lettersArabic": "خ د د",
+  "meanings": [
+    "To furrow/trench/clave, to mark or impress, to contract/shrink/wrinkle, to oppose, divide into distinct parties, to rank or class."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "أُخْدُود",
+      "count": 1
+    },
+    {
+      "formArabic": "خَدّ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُخْدُود",
+      "sura": 85,
+      "ayah": 4,
+      "formInAyah": "الْأُخْدُودِ",
+      "transliteration": "l-uḣdūdi",
+      "gloss": "hendeğin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+      "verseTransliteration": "Kutile ashâbul uhdûd(uhdûdi).",
+      "verseMeaning": "Ki gebertildi o hendekçi grup/o kamçıları hendek gibi iz bırakan herifler,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَدّ",
+      "sura": 31,
+      "ayah": 18,
+      "formInAyah": "خَدَّكَ",
+      "transliteration": "ḣaddeke",
+      "gloss": "yüzünü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "verseTransliteration": "Ve lâ tusa’ir haddeke lin nâsi ve lâ temşi fîl ardı merahâ(merahan) innellâhe lâ yuhıbbu kulle muhtâlin fehûr(fehûrin).",
+      "verseMeaning": "\"Kibirlenerek insanlardan yüzünü çevirme, yeryüzünde kasılarak yürüme. Çünkü Allah, kurula kurula kendini övenlerin hiçbirini sevmez.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xdd"
+}

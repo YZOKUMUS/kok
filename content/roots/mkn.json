@@ -1,0 +1,423 @@
+{
+  "id": "mkn",
+  "latinName": "Mim-Kef-Nun",
+  "lettersArabic": "م ك ن",
+  "meanings": [
+    "To give or assign someone a place, to establish or settle in an abode, to enable or empower someone to do a thing."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 18,
+  "lemmas": [
+    {
+      "formArabic": "أَمْكَنَ",
+      "count": 1
+    },
+    {
+      "formArabic": "مَكَّ",
+      "count": 13
+    },
+    {
+      "formArabic": "مَّكِين",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَمْكَنَ",
+      "sura": 8,
+      "ayah": 71,
+      "formInAyah": "فَأَمْكَنَ",
+      "transliteration": "feemkene",
+      "gloss": "bu yüzden imkan verdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنْ يُرِيدُوا خِيَانَتَكَ فَقَدْ خَانُوا اللَّهَ مِنْ قَبْلُ فَأَمْكَنَ مِنْهُمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Ve in yurîdû hıyâneteke fe kad hânullâhe min kablu fe emkene minhum, vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Sana hıyanet etmek isterlerse kesin olan şu ki, daha önce Allah´a hıyanet ettiler de Allah, aleyhlerine bir imkân yarattı. Allah herşeyi bilen, her hikmete sahip olandır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 6,
+      "ayah": 6,
+      "formInAyah": "نُمَكِّنْ",
+      "transliteration": "numekkin",
+      "gloss": "vermediğimiz imkanları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ مَكَّنَّاهُمْ فِي الْأَرْضِ مَا لَمْ نُمَكِّنْ لَكُمْ وَأَرْسَلْنَا السَّمَاءَ عَلَيْهِمْ مِدْرَارًا وَجَعَلْنَا الْأَنْهَارَ تَجْرِي مِنْ تَحْتِهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ",
+      "verseTransliteration": "E lem yerev kem ehleknâ min kablihim min karnin mekkennâhum fîl ardı mâ lem numekkin lekum ve erselnes semâe aleyhim midrâren ve cealnâl enhâre tecrî min tahtihim fe ehleknâhum bi zunûbihim ve enşe’nâ min ba’dihim karnen âharîn(âharîne).",
+      "verseMeaning": "Kendilerinden önce nice yurt ve medeniyeti yerle bir ettiğimizi görmediler mi? Biz o yurtlara yeryüzünde size vermediğimiz imkânları vermiş, üzerlerine gök bereketini bol bol indirmiş, nehirleri altlarından akar hale getirmiştik. Derken, onları kendi günahlarıyla helâk ettik ve arkalarından başka bir nesil oluşturduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 6,
+      "ayah": 6,
+      "formInAyah": "مَكَّنَّاهُمْ",
+      "transliteration": "mekkennāhum",
+      "gloss": "onlara imkanlar vermiştik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ مَكَّنَّاهُمْ فِي الْأَرْضِ مَا لَمْ نُمَكِّنْ لَكُمْ وَأَرْسَلْنَا السَّمَاءَ عَلَيْهِمْ مِدْرَارًا وَجَعَلْنَا الْأَنْهَارَ تَجْرِي مِنْ تَحْتِهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ",
+      "verseTransliteration": "E lem yerev kem ehleknâ min kablihim min karnin mekkennâhum fîl ardı mâ lem numekkin lekum ve erselnes semâe aleyhim midrâren ve cealnâl enhâre tecrî min tahtihim fe ehleknâhum bi zunûbihim ve enşe’nâ min ba’dihim karnen âharîn(âharîne).",
+      "verseMeaning": "Kendilerinden önce nice yurt ve medeniyeti yerle bir ettiğimizi görmediler mi? Biz o yurtlara yeryüzünde size vermediğimiz imkânları vermiş, üzerlerine gök bereketini bol bol indirmiş, nehirleri altlarından akar hale getirmiştik. Derken, onları kendi günahlarıyla helâk ettik ve arkalarından başka bir nesil oluşturduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 7,
+      "ayah": 10,
+      "formInAyah": "مَكَّنَّاكُمْ",
+      "transliteration": "mekkennākum",
+      "gloss": "biz sizi yerleştirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَقَدْ مَكَّنَّاكُمْ فِي الْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ ۗ قَلِيلًا مَا تَشْكُرُونَ",
+      "verseTransliteration": "Ve lekad mekkennâkum fîl ardı ve cealnâ lekum fîhâ maâyiş’(maâyişe), kalîlen mâ teşkurûn(teşkurûne).",
+      "verseMeaning": "Andolsun, sizi yeryüzünde yerleştirdik ve sizin için orada, geçiminize yarayacak nimet ve imkanlara vücut verdik. Ne de az şükrediyorsunuz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 12,
+      "ayah": 21,
+      "formInAyah": "مَكَّنَّا",
+      "transliteration": "mekkennā",
+      "gloss": "bir imkan verdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Ve kâlellezîşterâhu min mısra limre’etihî ekrimî mesvâhu asâ en yenfeanâ ev nettehizehu veledâ(veleden), ve kezâlike mekkennâ li yûsufe fîl ardı ve li nuallimehu min te’vîlil ehâdîs(ehâdîsi), vallâhu gâlibun alâ emrihî ve lâkinne ekseren nâsi lâ ya’lemun(ya’lemune).",
+      "verseMeaning": "Onu satın alan Mısırlı, karısına şöyle dedi: \"Ona iyi bak, kendisine güzel bir yer hazırla. Bize yararı dokunabilir. Belki de evlat ediniriz onu.\" İşte bu şekilde biz Yûsuf´a yeryüzünde imkân verip o toprağa yerleştirdik ki, ona olayların/haberlerin yorumunu öğretelim. Allah, kendi emrine Gâlib´dir/kendi emrine hükmeder. Ama insanların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 12,
+      "ayah": 56,
+      "formInAyah": "مَكَّنَّا",
+      "transliteration": "mekkennā",
+      "gloss": "biz iktidar verdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَاءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ ۖ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "verseTransliteration": "Ve kezâlike mekkennâ li yûsufe fîl ard(ardı), yetebevveu minhâ haysu yeşâ’(yeşâu), nusîbu bi rahmetinâ men neşâu ve lâ nudîu ecrel muhsinîn(muhsinîne).",
+      "verseMeaning": "İşte böylece biz Yûsuf´a yeryüzünde imkân ve mevki verdik. Ülkede, istediği yerde konaklayabiliyordu. Biz dilediğimiz kimseye rahmetimizi ulaştırırız; güzel düşünüp güzel davrananların ödülünü yitirmeyiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 18,
+      "ayah": 84,
+      "formInAyah": "مَكَّنَّا",
+      "transliteration": "mekkennā",
+      "gloss": "güçlü kıldık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَاهُ مِنْ كُلِّ شَيْءٍ سَبَبًا",
+      "verseTransliteration": "İnnâ mekkennâ lehu fîl ardı ve âteynâhu min kulli şey’in sebebâ(sebeben).",
+      "verseMeaning": "Biz onun için yeryüzünde güç ve saltanat hazırladık ve ona herşeyden bir sebep verdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 18,
+      "ayah": 95,
+      "formInAyah": "مَكَّنِّي",
+      "transliteration": "mekkennī",
+      "gloss": "beni bulundurduğu imkanlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+      "verseTransliteration": "Kâle mâ mekkennî fîhi rabbî hayrun fe eînûnî bi kuvvetin ec’al beynekum ve beynehum redmâ(redmen).",
+      "verseMeaning": "Dedi: \"Rabbimin beni içinde tuttuğu imkân ve güç daha üstündür. Siz bana bedensel gücünüzle destek verin de onlarla sizin aranıza çok muhkem bir engel çekeyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 22,
+      "ayah": 41,
+      "formInAyah": "مَكَّنَّاهُمْ",
+      "transliteration": "mekkennāhum",
+      "gloss": "onları iktidara getirirsek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنْكَرِ ۗ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ",
+      "verseTransliteration": "Ellezîne in mekkennâhum fîl ardı ekâmûs salâte ve âtevuz zekâte ve emerû bil ma’rûfi ve nehev anil munker(munkeri), ve lillâhi âkıbetul umûr(umûri).",
+      "verseMeaning": "Onlar o kişilerdir ki eğer kendilerini yeryüzünde imkân ve güç sahibi yapsak namazı kılarlar, zekâtı verirler, iyiliğe özendirirler, kötülükten sakındırırlar. Tüm iş ve oluşlar Allah´a varır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 24,
+      "ayah": 55,
+      "formInAyah": "وَلَيُمَكِّنَنَّ",
+      "transliteration": "veleyumekkinenne",
+      "gloss": "ve sağlamlaştıracaktır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا ۚ وَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+      "verseTransliteration": "Vaadallâhullezîne âmenû minkum ve amilûs sâlihâti leyestahlifennehum fil ardı kemestahlefellezîne min kablihim, ve leyumekkinenne lehum dînehumullezîrtedâ lehum ve le yubeddilennehum min ba’di havfihim emnâ(emnen), ya’budûnenî lâ yuşrikûne bî şey’â(şey’en), ve men kefere ba’de zâlike fe ulâike humul fâsikûn(fâsikûne).",
+      "verseMeaning": "Allah; sizin, iman edip hayra ve barışa yönelik iyilikler yapanlarınıza şu vaatte bulunmuştur: Onlardan öncekileri halef kıldığı gibi onları da yeryüzünde mutlaka halef kılacak. Onlar için beğenip seçtiği dinlerini yine onlar için güç kaynağı yapacak, onları korkularının arkasından mutlaka güvene ulaştıracak. Bana kulluk/ibadet edecekler, hiçbir şeyi bana ortak koşmayacaklar. Bundan sonra nankörlük edenlerse, yoldan sapanların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 28,
+      "ayah": 6,
+      "formInAyah": "وَنُمَكِّنَ",
+      "transliteration": "ve numekkine",
+      "gloss": "ve iktidara getirmeyi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُمْ مَا كَانُوا يَحْذَرُونَ",
+      "verseTransliteration": "Ve numekkine lehum fîl ardı ve nuriye fir’avne ve hâmâne ve cunûdehumâ minhum mâ kânû yahzerûn(yahzerûne).",
+      "verseMeaning": "Ve yeryüzünde onlara imkân ve kudret verelim. Firavun´a, Hâman´a ve onların ordularına da korkmakta oldukları şeyleri gösterelim."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 28,
+      "ayah": 57,
+      "formInAyah": "نُمَكِّنْ",
+      "transliteration": "numekkin",
+      "gloss": "biz bir mekan vermedik mi?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَقَالُوا إِنْ نَتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَا ۚ أَوَلَمْ نُمَكِّنْ لَهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ رِزْقًا مِنْ لَدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Ve kâlû in nettebiıl hudâ meake nutehattaf min ardınâ, e ve lem numekkin lehum haremen âminen yucbâ ileyhi semerâtu kulli şey’in rızkan min ledunnâ ve lâkinne ekserehum lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Dediler ki: \"Eğer seninle birlikte yol alırsak, yerimizden, yurdumuzdan oluruz.\" Biz onları, katımızdan rızık olarak gelen tüm ürünlerin derlenip toplandığı güvenli, saygıdeğer bir mekâna yerleştirmedik mi? Ama onların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 46,
+      "ayah": 26,
+      "formInAyah": "مَكَّنَّاهُمْ",
+      "transliteration": "mekkennāhum",
+      "gloss": "onlara imkan vermiştik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَقَدْ مَكَّنَّاهُمْ فِيمَا إِنْ مَكَّنَّاكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَارًا وَأَفْئِدَةً فَمَا أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَارُهُمْ وَلَا أَفْئِدَتُهُمْ مِنْ شَيْءٍ إِذْ كَانُوا يَجْحَدُونَ بِآيَاتِ اللَّهِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekad mekkennâ hum fî mâ in mekkennâkum fîhi ve cealnâ lehum sem’an ve ebsâren ve ef’ideten fe mâ agnâ anhum sem’uhum ve lâ ebsâruhum ve lâ ef’idetuhum min şey’in iz kânû yechadûne bi âyâtillâhi ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun, onlara, size vermediğimiz imkân ve kudreti vermiştik. Onlar için işitme gücü, gözler ve gönüller oluşturmuştuk. Fakat, işitme güçleri de gözleri de gönülleri de kendilerine hiçbir yarar sağlamadı/kendilerinden hiçbir şeyi uzaklaştıramadı; çünkü ayetlerimize karşı direniyorlardı. Ve alaya aldıkları şey, onları kuşatıp sardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَكَّ",
+      "sura": 46,
+      "ayah": 26,
+      "formInAyah": "مَكَّنَّاكُمْ",
+      "transliteration": "mekkennākum",
+      "gloss": "size vermediğimiz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَقَدْ مَكَّنَّاهُمْ فِيمَا إِنْ مَكَّنَّاكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَارًا وَأَفْئِدَةً فَمَا أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَارُهُمْ وَلَا أَفْئِدَتُهُمْ مِنْ شَيْءٍ إِذْ كَانُوا يَجْحَدُونَ بِآيَاتِ اللَّهِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekad mekkennâ hum fî mâ in mekkennâkum fîhi ve cealnâ lehum sem’an ve ebsâren ve ef’ideten fe mâ agnâ anhum sem’uhum ve lâ ebsâruhum ve lâ ef’idetuhum min şey’in iz kânû yechadûne bi âyâtillâhi ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun, onlara, size vermediğimiz imkân ve kudreti vermiştik. Onlar için işitme gücü, gözler ve gönüller oluşturmuştuk. Fakat, işitme güçleri de gözleri de gönülleri de kendilerine hiçbir yarar sağlamadı/kendilerinden hiçbir şeyi uzaklaştıramadı; çünkü ayetlerimize karşı direniyorlardı. Ve alaya aldıkları şey, onları kuşatıp sardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّكِين",
+      "sura": 23,
+      "ayah": 13,
+      "formInAyah": "مَكِينٍ",
+      "transliteration": "mekīnin",
+      "gloss": "sağlam",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَكِينٍ",
+      "verseTransliteration": "Summe cealnâhu nutfeten fî karârin mekîn(mekînin).",
+      "verseMeaning": "Sonra onu çok dayanaklı bir karargâhta bir damlacık yaptık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّكِين",
+      "sura": 77,
+      "ayah": 21,
+      "formInAyah": "مَكِينٍ",
+      "transliteration": "mekīnin",
+      "gloss": "sağlam",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ",
+      "verseTransliteration": "Fe cealnâhu fî karârin mekîn(mekînin).",
+      "verseMeaning": "Onu dayanıklı karargâhta tuttuk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّكِين",
+      "sura": 81,
+      "ayah": 20,
+      "formInAyah": "مَكِينٍ",
+      "transliteration": "mekīnin",
+      "gloss": "yücedir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+      "verseTransliteration": "Zî kuvvetin ınde zil arşi mekîn(mekînin).",
+      "verseMeaning": "Çok güçlüdür o elçi, Arş sahibinin katında saygındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّكِين",
+      "sura": 12,
+      "ayah": 54,
+      "formInAyah": "مَكِينٌ",
+      "transliteration": "mekīnun",
+      "gloss": "mevki sahibisin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي ۖ فَلَمَّا كَلَّمَهُ قَالَ إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+      "verseTransliteration": "Ve kâlel meliku’tûnî bihî estahlishu li nefsî, fe lemmâ kellemehu kâle innekel yevme ledeynâ mekînun emîn(emînun).",
+      "verseMeaning": "Kral dedi ki: \"Onu bana getirin, kendime özel dost edineyim.\" Yusuf´la konuşunca da şöyle dedi: \"Artık bugün yanımızda mevkii olan, güvenilir bir dostsun.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=mkn"
+}

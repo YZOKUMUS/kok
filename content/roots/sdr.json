@@ -1,0 +1,109 @@
+{
+  "id": "sdr",
+  "latinName": "Sin-Dal-Ra",
+  "lettersArabic": "س د ر",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "سِدْر",
+      "count": 2
+    },
+    {
+      "formArabic": "سِدْرَة",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِدْر",
+      "sura": 34,
+      "ayah": 16,
+      "formInAyah": "سِدْرٍ",
+      "transliteration": "sidrin",
+      "gloss": "sedir ağacı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَأَعْرَضُوا فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ الْعَرِمِ وَبَدَّلْنَاهُمْ بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَيْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَيْءٍ مِنْ سِدْرٍ قَلِيلٍ",
+      "verseTransliteration": "Fe a’radû fe erselnâ aleyhim seylel arimi ve beddelnâ-hum bi cenneteyhim cenneteyni zevâtey ukulin hamtın ve eslin ve şeyin min sidrin kalîl(kalîlin).",
+      "verseMeaning": "Ne var ki onlar yüz çevirdiler; biz de üzerlerine Arim selini gönderdik. Onların iki bahçesini, buruk yemişli, acı ılgınlı, birazcık da sedir ağacı bulunan iki bahçeye çevirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِدْر",
+      "sura": 56,
+      "ayah": 28,
+      "formInAyah": "سِدْرٍ",
+      "transliteration": "sidrin",
+      "gloss": "sedir ağaçları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِي سِدْرٍ مَخْضُودٍ",
+      "verseTransliteration": "Fî sidrin mahdûd(mahdûdin).",
+      "verseMeaning": "Dikensiz kirazlar,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِدْرَة",
+      "sura": 53,
+      "ayah": 14,
+      "formInAyah": "سِدْرَةِ",
+      "transliteration": "sidrati",
+      "gloss": "Sidretü’l",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ",
+      "verseTransliteration": "İnde sidretil muntehâ.",
+      "verseMeaning": "Son sınır ağacı, Sidretül Münteha yanında."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سِدْرَة",
+      "sura": 53,
+      "ayah": 16,
+      "formInAyah": "السِّدْرَةَ",
+      "transliteration": "s-sidrate",
+      "gloss": "Sidre’yi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ",
+      "verseTransliteration": "İz yagşes sidrete mâ yagşâ.",
+      "verseMeaning": "O vakit kuşatıp sarıyordu Sidre´yi kuşatıp saran,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sdr"
+}

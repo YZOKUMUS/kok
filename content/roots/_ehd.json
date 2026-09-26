@@ -1,0 +1,998 @@
+{
+  "id": "Ehd",
+  "latinName": "Ayn-he-Dal",
+  "lettersArabic": "ع ه د",
+  "meanings": [
+    "Ahit vermek, sözleşmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 46,
+  "lemmas": [
+    {
+      "formArabic": "عَهِدَ",
+      "count": 6
+    },
+    {
+      "formArabic": "عَهْد",
+      "count": 29
+    },
+    {
+      "formArabic": "عَٰهَدَ",
+      "count": 11
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهِدَ",
+      "sura": 2,
+      "ayah": 125,
+      "formInAyah": "وَعَهِدْنَا",
+      "transliteration": "ve ǎhidnā",
+      "gloss": "ve emretmiştik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ",
+      "verseTransliteration": "Ve iz cealnâl beyte mesâbeten lin nâsi ve emnâ(emnen), vettehizû min makâmı ibrâhîme musallâ(musallen) ve ahidnâ ilâ ibrâhîme ve ismâîle en tahhirâ beytiye lit tâifîne vel âkifîne ver rukkais sucûd(sucûdi).",
+      "verseMeaning": "Hatırla o zamanı ki, biz Beytullah´ı insanlar için sevap kazanmaya yönelik bir toplantı yeri ve güvenli bir sığınak yaptık. Siz de İbrahim´in makamından bir dua yeri edinin. İbrahim ve İsmail´e şu sözü ulaştırmıştık; \"Tavaf edenler, kendini ibadete verenler, rükû-secde edenler için evimi temizleyin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهِدَ",
+      "sura": 3,
+      "ayah": 183,
+      "formInAyah": "عَهِدَ",
+      "transliteration": "ǎhide",
+      "gloss": "and verdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ قَالُوا إِنَّ اللَّهَ عَهِدَ إِلَيْنَا أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ النَّارُ ۗ قُلْ قَدْ جَاءَكُمْ رُسُلٌ مِنْ قَبْلِي بِالْبَيِّنَاتِ وَبِالَّذِي قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseTransliteration": "Ellezîne kâlû innallâhe ahide ileynâ ellâ nu’mine li resûlin hattâ ye’tiyenâ bi kurbânin te’kuluhun nâr(nâru), kul kad câekum rusulun min kablî bil beyyinâti ve billezî kultum fe lime kateltumûhum in kuntum sâdıkîn(sâdıkîne).",
+      "verseMeaning": "Onlar şöyle demişlerdi: \"Allah bize ant verdi, kendisi bize ateşin yiyeceği bir kurban getirmedikçe hiçbir resule inanmayacağız.\" Söyle onlara: \"Size benden önce o dediğinizle birlikte açık deliller getiren resuller gelmişti. Peki, madem doğru sözlülerdiniz neden onları katlettiniz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهِدَ",
+      "sura": 7,
+      "ayah": 134,
+      "formInAyah": "عَهِدَ",
+      "transliteration": "ǎhide",
+      "gloss": "verdiği söz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَمَّا وَقَعَ عَلَيْهِمُ الرِّجْزُ قَالُوا يَا مُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ ۖ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِي إِسْرَائِيلَ",
+      "verseTransliteration": "Ve lemmâ vakaa aleyhimur riczu kâlû yâ mûsed’u lenâ rabbeke bi mâ ahide indek(indeke), le in keşefte anner ricze le nu’minenne leke ve le nursilenne meake benî isrâîl(isrâîle).",
+      "verseMeaning": "Pislik üzerlerine çökünce şöyle dediler: \"Ey Musa! Sana verdiği söze dayanarak Rabbine dua et. Şu pisliği üzerimizden kaldırırsa, sana kesinlikle inanacağız ve İsrailoğullarını seninle birlikte mutlaka göndereceğiz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهِدَ",
+      "sura": 20,
+      "ayah": 115,
+      "formInAyah": "عَهِدْنَا",
+      "transliteration": "ǎhidnā",
+      "gloss": "biz emretmiştik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا",
+      "verseTransliteration": "Ve lekad ahidnâ ilâ âdeme min kablu fe nesîye ve lem necid lehu azmâ(azmen).",
+      "verseMeaning": "Yemin olsun, biz daha önce Âdem´e ahit verdik de unuttu; biz onda bir kararlılık bulamadık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهِدَ",
+      "sura": 36,
+      "ayah": 60,
+      "formInAyah": "أَعْهَدْ",
+      "transliteration": "eǎ’hed",
+      "gloss": "ben and vermedim mi?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+      "verseTransliteration": "E lem a’had ileykum yâ benî âdeme en lâ ta’budûş şeytân(şeytâne), innehu lekum aduvvun mubîn(mubinun).",
+      "verseMeaning": "Ey âdemoğulları! Ben size, \"Şeytana kulluk etmeyin, o sizin için açık bir düşmandır!\" demedim mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهِدَ",
+      "sura": 43,
+      "ayah": 49,
+      "formInAyah": "عَهِدَ",
+      "transliteration": "ǎhide",
+      "gloss": "söz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالُوا يَا أَيُّهَ السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ إِنَّنَا لَمُهْتَدُونَ",
+      "verseTransliteration": "Ve kâlû yâ eyyuhes sâhırud’u lenâ rabbeke bimâ ahide ındeke innenâ le muhtedûn(muhtedûne).",
+      "verseMeaning": "Dediler ki: \"Ey büyücü! Sana verdiği söz aşkına, Rabbine bizim için bir yakarıver; biz artık doğru yola gireceğiz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 27,
+      "formInAyah": "عَهْدَ",
+      "transliteration": "ǎhde",
+      "gloss": "(verdikleri) sözü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Ellezîne yenkudûne ahdallâhi min ba’di mîsâkıh(mîsâkıhî), ve yaktaûne mâ emerallâhu bihî en yûsale ve yufsidûne fîl ard(ardı) ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "O fâsıklar ki Allah´a verdikleri ahdi, onunla anlaşıp bağlandıktan sonra bozar, Allah´ın birleştirilmesini emrettiği şeyi keser ve yeryüzünde bozgun çıkarırlar. İşte bunlardır hüsrana uğrayanlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 40,
+      "formInAyah": "بِعَهْدِكُمْ",
+      "transliteration": "biǎhdikum",
+      "gloss": "size verdiğim sözü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ",
+      "verseTransliteration": "Yâ benî isrâîlezkurû ni’metiyelletî en’amtu aleykum ve evfû bi ahdî ûfi bi ahdikum ve iyyâye ferhebûn(ferhebûne).",
+      "verseMeaning": "Ey İsrail oğulları! Size lütfettiğim nimetimi hatırlayın; bana verdiğiniz söze vefalı olun ki, ben de size ahdimde vefalı olayım. Ve yalnız benden korkun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 40,
+      "formInAyah": "بِعَهْدِي",
+      "transliteration": "biǎhdī",
+      "gloss": "bana verdiğiniz sözü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ",
+      "verseTransliteration": "Yâ benî isrâîlezkurû ni’metiyelletî en’amtu aleykum ve evfû bi ahdî ûfi bi ahdikum ve iyyâye ferhebûn(ferhebûne).",
+      "verseMeaning": "Ey İsrail oğulları! Size lütfettiğim nimetimi hatırlayın; bana verdiğiniz söze vefalı olun ki, ben de size ahdimde vefalı olayım. Ve yalnız benden korkun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 80,
+      "formInAyah": "عَهْدًا",
+      "transliteration": "ǎhden",
+      "gloss": "bir söz (bu hususta)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Ve kâlû len temessenen nâru illâ eyyâmen ma’dûdeh(ma’dûdete), kul ettehaztum indallâhi ahden fe len yuhlifallâhu ahdehu(ahdehû) em tekûlûne alâllâhi mâ lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Dediler ki: \"Sayılı birkaç gün dışında ateş bize asla dokunmayacaktır.\" De ki: \"Allah´tan bir ahit mi aldınız! Allah, ahdine asla ters düşmez. Yoksa siz Allah´a isnat ederek, bilmediğiniz şeyleri mi söylüyorsunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 80,
+      "formInAyah": "عَهْدَهُ",
+      "transliteration": "ǎhdehu",
+      "gloss": "sözünden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Ve kâlû len temessenen nâru illâ eyyâmen ma’dûdeh(ma’dûdete), kul ettehaztum indallâhi ahden fe len yuhlifallâhu ahdehu(ahdehû) em tekûlûne alâllâhi mâ lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Dediler ki: \"Sayılı birkaç gün dışında ateş bize asla dokunmayacaktır.\" De ki: \"Allah´tan bir ahit mi aldınız! Allah, ahdine asla ters düşmez. Yoksa siz Allah´a isnat ederek, bilmediğiniz şeyleri mi söylüyorsunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 100,
+      "formInAyah": "عَهْدًا",
+      "transliteration": "ǎhden",
+      "gloss": "ahitle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ مِنْهُمْ ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+      "verseTransliteration": "E ve kullemâ âhedû ahden nebezehu ferîkun minhum bel ekseruhum lâ yu’minûn(yu’minûne).",
+      "verseMeaning": "Bir ahitle söz verdikleri her seferinde, içlerinden bir fırka ahdi kaldırıp atmadı mı? Doğrusu şu ki, onların çokları iman etmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 124,
+      "formInAyah": "عَهْدِي",
+      "transliteration": "ǎhdī",
+      "gloss": "ahdim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِنْ ذُرِّيَّتِي ۖ قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ",
+      "verseTransliteration": "Ve izibtelâ ibrâhîme rabbuhu bi kelimâtin fe etemmehun(etemmehunne), kâle innî câiluke lin nâsi imâmâ(imâmen), kâle ve min zurriyyetî kâle lâ yenâlu ahdiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Hani Rabb´i, İbrahim´i bazı kelimelerle imtihana çekmiş, o da onların hakkını vermişti de Rab şöyle demişti: \"Seni insanlara önder yapacağım.\" İbrahim, \"soyumdan birilerini de\" deyince Allah: \"Benim ahdime zalimler eremezler.\" buyurdu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 2,
+      "ayah": 177,
+      "formInAyah": "بِعَهْدِهِمْ",
+      "transliteration": "biǎhdihim",
+      "gloss": "andlaşmalarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا ۖ وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ ۗ أُولَٰئِكَ الَّذِينَ صَدَقُوا ۖ وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ",
+      "verseTransliteration": "Leysel birre en tuvellû vucûhekum kıbelel maşrıkı vel magrıbi ve lâkinnel birre men âmene billâhi vel yevmil âhırı vel melâiketi vel kitâbi ven nebiyyîn(nebiyyîne), ve âtel mâle alâ hubbihî zevil kurbâ vel yetâmâ vel mesâkîne vebnes sebîli, ves sâilîne ve fîr rıkâb(rıkâbi), ve ekâmes salâte ve âtez zekât(zekâte), vel mûfûne bi ahdihim izâ âhed(âhedû), ves sâbirîne fîl be’sâi ved darrâi ve hînel be’s(be’si) ulâikellezîne sadakû, ve ulâike humul muttekûn(muttekûne).",
+      "verseMeaning": "Yüzlerinizi doğu ve batı yönüne çevirmeniz zafer ve mutluluğa ermek değildir. Zafer ve mutluluğa ermek o kişinin hakkıdır ki, Allah´a, âhıret gününe, meleklere, kitaplara, peygamberlere inanır; akrabaya, yetimlere, çaresizlere, yolda kalmışa, yoksullara, özgürlüğüne kavuşmak gayretinde olanlara malı seve seve verir, namazı kılar, zekatı öder. Böyleleri söz verdiklerinde ahitlerine vefalıdırlar; bolluk ve bereket zamanı kadar, zorluk, sıkıntı ve şiddet zamanında da sabırlıdırlar. İşte bunlardır özüyle sözü bir olanlar. Ve işte bunlardır korunan takva sahipleri."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 3,
+      "ayah": 76,
+      "formInAyah": "بِعَهْدِهِ",
+      "transliteration": "biǎhdihi",
+      "gloss": "sözünü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَىٰ فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "verseTransliteration": "Belâ men evfâ bi ahdihî vettekâ fe innallâhe yuhibbul muttekîn(muttekîne).",
+      "verseMeaning": "İş öyle değil! Kim ahdine vefa eder, takvaya sarılırsa hiç kuşkusuz, Allah takvaya sarılanları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 3,
+      "ayah": 77,
+      "formInAyah": "بِعَهْدِ",
+      "transliteration": "biǎhdi",
+      "gloss": "verdikleri sözü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ وَلَا يُكَلِّمُهُمُ اللَّهُ وَلَا يَنْظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "İnnellezîne yeşterûne bi ahdillâhi ve eymânihim semenen kalîlen ulâike lâ halaka lehum fîl âhırati ve lâ yukellimuhumullâhu ve lâ yenzuru ileyhim yevmel kıyâmeti ve lâ yuzekkîhim ve lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Allah´a verdikleri sözü ve yeminlerini basit bir bedel karşılığı satanlar var ya, işte onlar için âhirette hiçbir nasip yoktur. Allah onlarla konuşmayacaktır, kıyamet günü onlara bakmayacaktır, onları temizleyip arıtmayacaktır. Onlar için korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 6,
+      "ayah": 152,
+      "formInAyah": "وَبِعَهْدِ",
+      "transliteration": "ve biǎhdi",
+      "gloss": "ve tutun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfûl keyle vel mîzâne bil kıst(kıstı), lâ nukellifu nefsen illâ vus’ahâ ve izâ kultum fa’dilû ve lev kâne zâ kurbâ, ve bi ahdillâhi evfû, zâlikum vassâkum bihî leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "\"Yetimin malına yaklaşmayın! Ancak rüştüne erişinceye kadar en güzel yolla ilgilenme hali müstesna. Ölçme ve tartmayı tam bir dürüstlükle yerine getirin. Hiç kimseye yaratılış kapasitesinin üstünde yükümlülük getirmiyoruz. Konuştuğunuz zaman, yakınlarınız/aleyhine de olsa, adaleti gözetin. Ve Allah´a verdiğiniz söze sadık kalın. Düşünüp öğüt alasınız diye O size bunları önerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 7,
+      "ayah": 102,
+      "formInAyah": "عَهْدٍ",
+      "transliteration": "ǎhdin",
+      "gloss": "sözünde durma",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا وَجَدْنَا لِأَكْثَرِهِمْ مِنْ عَهْدٍ ۖ وَإِنْ وَجَدْنَا أَكْثَرَهُمْ لَفَاسِقِينَ",
+      "verseTransliteration": "Ve mâ vecednâ li ekserihim min ahdin, ve in vecednâ ekserehum le fâsikîn(fâsikîne).",
+      "verseMeaning": "Onların birçoğunda ahde vefadan eser bulamadık. Onların birçoğunu, tam fasıklar olarak bulduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 8,
+      "ayah": 56,
+      "formInAyah": "عَهْدَهُمْ",
+      "transliteration": "ǎhdehum",
+      "gloss": "andlaşmalarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ",
+      "verseTransliteration": "Ellezîne âhedte minhum summe yenkudûne ahdehum fî kulli merretin ve hum lâ yettekûn(yettekûne).",
+      "verseMeaning": "Bunlar, kendileriyle antlaşma yaptığın kişilerdir. Ama her defasında antlaşmalarını bozarlar. Hiç çekinmez ki bunlar..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 9,
+      "ayah": 4,
+      "formInAyah": "عَهْدَهُمْ",
+      "transliteration": "ǎhdehum",
+      "gloss": "andlaşmalarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِلَّا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "verseTransliteration": "İllellezîne âhedtum minel muşrikîne summe lem yankusûkum şey´en ve lem yuzâhirû aleykum ehaden fe etimmû ileyhim ahdehum ilâ muddetihim, innallâhe yuhıbbul muttekîn (muttekîne).",
+      "verseMeaning": "Antlaşma yapmış olduğunuz müşriklerden size karşı bir eksiklik sergilemeyen ve aleyhinizde başka birine yardım etmeyenler müstesnadır. Artık, onlara verdiğiniz sözü belirlenen süreye kadar tam bir şekilde koruyun. Şu bir gerçek ki Allah, sakınanları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 9,
+      "ayah": 7,
+      "formInAyah": "عَهْدٌ",
+      "transliteration": "ǎhdun",
+      "gloss": "andlaşması",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِنْدَ اللَّهِ وَعِنْدَ رَسُولِهِ إِلَّا الَّذِينَ عَاهَدْتُمْ عِنْدَ الْمَسْجِدِ الْحَرَامِ ۖ فَمَا اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "verseTransliteration": "Keyfe yekûnu lil muşrikîne ahdun ındallâhi ve ınde resûlihî illellezîne âhedtum ındel mescidil harâm(harâmi), fe mestekâmû lekum festekîmû lehum, innallâhe yuhıbbul muttekîn(muttekîne).",
+      "verseMeaning": "Müşriklerin Allah katında, onun resulü katında ahitleri nasıl olabilir! Mescid-i Haram yanında antlaşma yaptıklarınız müstesna. Bu şekilde antlaşması olanlara, onlar size doğru dürüst davrandıkça, siz de doğru dürüst davranın. Allah, sakınanları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 9,
+      "ayah": 12,
+      "formInAyah": "عَهْدِهِمْ",
+      "transliteration": "ǎhdihim",
+      "gloss": "andlaşma yaptıktan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنْ نَكَثُوا أَيْمَانَهُمْ مِنْ بَعْدِ عَهْدِهِمْ وَطَعَنُوا فِي دِينِكُمْ فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ ۙ إِنَّهُمْ لَا أَيْمَانَ لَهُمْ لَعَلَّهُمْ يَنْتَهُونَ",
+      "verseTransliteration": "Ve in nekesû eymânehum min ba´di ahdihim ve ta´anû fî dînikum fe kâtilû eimmetel kufri innehum lâ eymâne lehum leallehum yentehûn(yentehûne).",
+      "verseMeaning": "Eğer verdikleri ahitten sonra yeminlerini bozar, dininize saldırırlarsa, o zaman küfrün elebaşlarını öldürün. Çünkü onların yeminleri yoktur. Böyle yaparsanız hal ve gidişlerine son verebilirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 9,
+      "ayah": 111,
+      "formInAyah": "بِعَهْدِهِ",
+      "transliteration": "biǎhdihi",
+      "gloss": "sözünde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ وَالْإِنْجِيلِ وَالْقُرْآنِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِ مِنَ اللَّهِ ۚ فَاسْتَبْشِرُوا بِبَيْعِكُمُ الَّذِي بَايَعْتُمْ بِهِ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "İnnallâheşterâ minel mu’minîne enfusehum ve emvâlehum bi enne lehumul cenneh(cennete), yukâtilûne fî sebîlillâhi fe yaktulûne ve yuktelûne va’den aleyhi hakkan fît tevrâti vel incîli vel kur’ân(kur’âni), ve men evfâ bi ahdihî minallâhi, festebşirû bi bey’ıkumullezî bâya’tum bih (bihî), ve zâlike huvel fevzul azîm(azîmu).",
+      "verseMeaning": "Allah, müminlerin canlarını ve mallarını, karşılığında kendilerine cennet vermek üzere satın almıştır. Allah yolunda çarpışırlar da öldürürler, öldürülürler. Allah´ın; Tevrat´ta, İncil´de ve Kur´an´da kendi üzerine hak olarak yazdığı bir vaattır bu. Ahdine, Allah´tan daha vefalı kim var? Perçinlediğiniz bu antlaşmanızdan ötürü müjdeler olsun size. İşte budur o büyük başarının ta kendisi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 13,
+      "ayah": 20,
+      "formInAyah": "بِعَهْدِ",
+      "transliteration": "biǎhdi",
+      "gloss": "ahdini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنْقُضُونَ الْمِيثَاقَ",
+      "verseTransliteration": "Ellezîne yûfûne bi ahdillâhi ve lâ yenkudûnel misâk(misâka).",
+      "verseMeaning": "İşte bunlardır, Allah´a verdikleri söze sadık kalanlar ve antlaşmayı bozmayanlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 13,
+      "ayah": 25,
+      "formInAyah": "عَهْدَ",
+      "transliteration": "ǎhde",
+      "gloss": "verdikleri sözü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۙ أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ",
+      "verseTransliteration": "Vellezîne yankudûne ahdallâhi min ba’di mîsâkıhi ve yaktaûne mâ emerallâhu bihi en yûsale ve yufsidûne fîl ardı ulâike lehumul la’netu ve lehum sûud dâr(dâri).",
+      "verseMeaning": "Allah´a verdikleri sözü, onu antlaşma haline getirdikten sonra bozanlar, Allah´ın birleştirilmesini emrettiği şeyi parçalayanlar ve yeryüzünde bozgun çıkaranlara gelince, böyleleri için lanet var. Yurdun en kötüsü de onların olacak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 16,
+      "ayah": 91,
+      "formInAyah": "بِعَهْدِ",
+      "transliteration": "biǎhdi",
+      "gloss": "ahdini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "verseTransliteration": "Ve evfû bi ahdillâhi izâ ahedtum ve lâ tenkudûl eymâne ba’de tevkîdihâ ve kad cealtumullâhe aleykum kefîlâ(kefîlen), innallâhe ya’lemu mâ tef’alûn(tef’alûne).",
+      "verseMeaning": "Antlaşma yaptığınızda, Allah´a verdiğiniz söze vefa gösterin. Bağlayıp pekiştirdikten sonra yeminlerinizi bozmayın. Çünkü, kendinize Allah´ı kefil yapmış durumdasınız. Allah, yaptıklarınızı biliyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 16,
+      "ayah": 95,
+      "formInAyah": "بِعَهْدِ",
+      "transliteration": "biǎhdi",
+      "gloss": "verdiğiniz sözü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا ۚ إِنَّمَا عِنْدَ اللَّهِ هُوَ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ve lâ teşterû bi ahdillâhi semenen kalîlâ(kalîlen), innemâ indallâhi huve hayrun lekum in kuntum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Allah´a verdiğiniz sözü basit bir ücret karşılığı satmayın. Eğer bilirseniz, Allah katında olan, sizin için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 17,
+      "ayah": 34,
+      "formInAyah": "بِالْعَهْدِ",
+      "transliteration": "bil-ǎhdi",
+      "gloss": "ahdi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۚ وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfû bil ahd(ahdi), innel ahde kâne mes’ûlâ(mes’ûlen).",
+      "verseMeaning": "Yetimin malına yaklaşmayın. Ancak rüştüne erişinceye kadar, güzel bir yolla ilgilenebilirsiniz. Ahdinize vefalı olun çünkü verilen söz sorumluluk gerektirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 17,
+      "ayah": 34,
+      "formInAyah": "الْعَهْدَ",
+      "transliteration": "l-ǎhde",
+      "gloss": "ahd’den",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۚ وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfû bil ahd(ahdi), innel ahde kâne mes’ûlâ(mes’ûlen).",
+      "verseMeaning": "Yetimin malına yaklaşmayın. Ancak rüştüne erişinceye kadar, güzel bir yolla ilgilenebilirsiniz. Ahdinize vefalı olun çünkü verilen söz sorumluluk gerektirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 19,
+      "ayah": 78,
+      "formInAyah": "عَهْدًا",
+      "transliteration": "ǎhden",
+      "gloss": "bir söz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "verseTransliteration": "Ettalaal gaybe emittehaze inder rahmâni ahdâ(ahden).",
+      "verseMeaning": "Bu adam gaybı mı öğrendi, yoksa Rahman katında bir söz mü aldı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 19,
+      "ayah": 87,
+      "formInAyah": "عَهْدًا",
+      "transliteration": "ǎhden",
+      "gloss": "söz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "verseTransliteration": "Lâ yemlikûneş şefâate illâ menittehaze inder rahmâni ahdâ(ahden).",
+      "verseMeaning": "Rahman katında söz almış olandan başkaları şefaat imkânı bulamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 20,
+      "ayah": 86,
+      "formInAyah": "الْعَهْدُ",
+      "transliteration": "l-ǎhdu",
+      "gloss": "süre",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَرَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا ۚ قَالَ يَا قَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ الْعَهْدُ أَمْ أَرَدْتُمْ أَنْ يَحِلَّ عَلَيْكُمْ غَضَبٌ مِنْ رَبِّكُمْ فَأَخْلَفْتُمْ مَوْعِدِي",
+      "verseTransliteration": "Fe recea mûsâ ilâ kavmihî gadbâne esifâ(esifen), kâle yâ kavmi e lem yaıdkum rabbukum va’den hasenâ(hasenen), e fe tâle aleykumul ahdu em eredtum en yahılle aleykum gadabun min rabbikum fe ahleftum mev’ıdî.",
+      "verseMeaning": "Bunun üzerine Mûsa, öfkeli ve ümidi kırık bir halde kavmine döndü. Dedi: \"Ey toplumum! Rabbiniz size güzel bir vaatte bulunmadı mı? Süre mi size uzun geldi yoksa Rabbinizden üzerinize bir gazabın inmesini mi istediniz de bana verdiğiniz söze ters davrandınız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 23,
+      "ayah": 8,
+      "formInAyah": "وَعَهْدِهِمْ",
+      "transliteration": "ve ǎhdihim",
+      "gloss": "ve ahidlerine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+      "verseTransliteration": "Vellezîne hum li emânâtihim ve ahdihim râûn(râûne).",
+      "verseMeaning": "O müminler, emanetlerine, ahitlerine saygı duyup sahip çıkanlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 33,
+      "ayah": 15,
+      "formInAyah": "عَهْدُ",
+      "transliteration": "ǎhdu",
+      "gloss": "verilen sözden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِنْ قَبْلُ لَا يُوَلُّونَ الْأَدْبَارَ ۚ وَكَانَ عَهْدُ اللَّهِ مَسْئُولًا",
+      "verseTransliteration": "Ve lekad kânû âhedûllâhe min kablu lâ yuvellûnel edbâr(edbâre), ve kâne ahdullâhi mes’ûlâ(mes’ûlen).",
+      "verseMeaning": "Yemin olsun ki, onlar daha önce, geri dönüp kaçmayacaklarına ilişkin Allah´a söz vermişlerdi. Ve Allah´a verilen söz sorumluluk gerektirirdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَهْد",
+      "sura": 70,
+      "ayah": 32,
+      "formInAyah": "وَعَهْدِهِمْ",
+      "transliteration": "ve ǎhdihim",
+      "gloss": "ve ahidlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+      "verseTransliteration": "Vellezîne hum li emânâtihim ve ahdihim râûn(râûne).",
+      "verseMeaning": "Bunlar, kendilerindeki emanetlere ve ahitlerine sadık kalırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 2,
+      "ayah": 100,
+      "formInAyah": "عَاهَدُوا",
+      "transliteration": "ǎāhedū",
+      "gloss": "anlaştılarsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ مِنْهُمْ ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+      "verseTransliteration": "E ve kullemâ âhedû ahden nebezehu ferîkun minhum bel ekseruhum lâ yu’minûn(yu’minûne).",
+      "verseMeaning": "Bir ahitle söz verdikleri her seferinde, içlerinden bir fırka ahdi kaldırıp atmadı mı? Doğrusu şu ki, onların çokları iman etmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 2,
+      "ayah": 177,
+      "formInAyah": "عَاهَدُوا",
+      "transliteration": "ǎāhedū",
+      "gloss": "andlaşma yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا ۖ وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ ۗ أُولَٰئِكَ الَّذِينَ صَدَقُوا ۖ وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ",
+      "verseTransliteration": "Leysel birre en tuvellû vucûhekum kıbelel maşrıkı vel magrıbi ve lâkinnel birre men âmene billâhi vel yevmil âhırı vel melâiketi vel kitâbi ven nebiyyîn(nebiyyîne), ve âtel mâle alâ hubbihî zevil kurbâ vel yetâmâ vel mesâkîne vebnes sebîli, ves sâilîne ve fîr rıkâb(rıkâbi), ve ekâmes salâte ve âtez zekât(zekâte), vel mûfûne bi ahdihim izâ âhed(âhedû), ves sâbirîne fîl be’sâi ved darrâi ve hînel be’s(be’si) ulâikellezîne sadakû, ve ulâike humul muttekûn(muttekûne).",
+      "verseMeaning": "Yüzlerinizi doğu ve batı yönüne çevirmeniz zafer ve mutluluğa ermek değildir. Zafer ve mutluluğa ermek o kişinin hakkıdır ki, Allah´a, âhıret gününe, meleklere, kitaplara, peygamberlere inanır; akrabaya, yetimlere, çaresizlere, yolda kalmışa, yoksullara, özgürlüğüne kavuşmak gayretinde olanlara malı seve seve verir, namazı kılar, zekatı öder. Böyleleri söz verdiklerinde ahitlerine vefalıdırlar; bolluk ve bereket zamanı kadar, zorluk, sıkıntı ve şiddet zamanında da sabırlıdırlar. İşte bunlardır özüyle sözü bir olanlar. Ve işte bunlardır korunan takva sahipleri."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 8,
+      "ayah": 56,
+      "formInAyah": "عَاهَدْتَ",
+      "transliteration": "ǎāhedte",
+      "gloss": "sen andlaşma yaptığın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ",
+      "verseTransliteration": "Ellezîne âhedte minhum summe yenkudûne ahdehum fî kulli merretin ve hum lâ yettekûn(yettekûne).",
+      "verseMeaning": "Bunlar, kendileriyle antlaşma yaptığın kişilerdir. Ama her defasında antlaşmalarını bozarlar. Hiç çekinmez ki bunlar..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 9,
+      "ayah": 1,
+      "formInAyah": "عَاهَدْتُمْ",
+      "transliteration": "ǎāhedtum",
+      "gloss": "andlaşma yaptığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Berâetun minallâhi ve resûlihî ilellezîne âhedtum minel muşrikîn (muşrikîne).",
+      "verseMeaning": "Allah ve resulünden, kendileriyle antlaşma yapmış bulunduğunuz müşriklere bir ültimatomdur bu;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 9,
+      "ayah": 4,
+      "formInAyah": "عَاهَدْتُمْ",
+      "transliteration": "ǎāhedtum",
+      "gloss": "andlaşma yaptığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِلَّا الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ ثُمَّ لَمْ يَنْقُصُوكُمْ شَيْئًا وَلَمْ يُظَاهِرُوا عَلَيْكُمْ أَحَدًا فَأَتِمُّوا إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "verseTransliteration": "İllellezîne âhedtum minel muşrikîne summe lem yankusûkum şey´en ve lem yuzâhirû aleykum ehaden fe etimmû ileyhim ahdehum ilâ muddetihim, innallâhe yuhıbbul muttekîn (muttekîne).",
+      "verseMeaning": "Antlaşma yapmış olduğunuz müşriklerden size karşı bir eksiklik sergilemeyen ve aleyhinizde başka birine yardım etmeyenler müstesnadır. Artık, onlara verdiğiniz sözü belirlenen süreye kadar tam bir şekilde koruyun. Şu bir gerçek ki Allah, sakınanları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 9,
+      "ayah": 7,
+      "formInAyah": "عَاهَدْتُمْ",
+      "transliteration": "ǎāhedtum",
+      "gloss": "andlaştıklarınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِنْدَ اللَّهِ وَعِنْدَ رَسُولِهِ إِلَّا الَّذِينَ عَاهَدْتُمْ عِنْدَ الْمَسْجِدِ الْحَرَامِ ۖ فَمَا اسْتَقَامُوا لَكُمْ فَاسْتَقِيمُوا لَهُمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "verseTransliteration": "Keyfe yekûnu lil muşrikîne ahdun ındallâhi ve ınde resûlihî illellezîne âhedtum ındel mescidil harâm(harâmi), fe mestekâmû lekum festekîmû lehum, innallâhe yuhıbbul muttekîn(muttekîne).",
+      "verseMeaning": "Müşriklerin Allah katında, onun resulü katında ahitleri nasıl olabilir! Mescid-i Haram yanında antlaşma yaptıklarınız müstesna. Bu şekilde antlaşması olanlara, onlar size doğru dürüst davrandıkça, siz de doğru dürüst davranın. Allah, sakınanları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 9,
+      "ayah": 75,
+      "formInAyah": "عَاهَدَ",
+      "transliteration": "ǎāhede",
+      "gloss": "and içtiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمِنْهُمْ مَنْ عَاهَدَ اللَّهَ لَئِنْ آتَانَا مِنْ فَضْلِهِ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ الصَّالِحِينَ",
+      "verseTransliteration": "Ve minhum men âhedallâhe le in âtânâ min fadlihî Le nessaddekanne ve le nekûnenne mines sâlihîn(sâlihîne).",
+      "verseMeaning": "İçlerinden bazıları da Allah´a şöyle ant içti: \"Eğer Allah, lütfundan bize verirse, elbette sadaka dağıtacağız ve elbette iyilik ve barış için çalışanlardan olacağız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 16,
+      "ayah": 91,
+      "formInAyah": "عَاهَدْتُمْ",
+      "transliteration": "ǎāhedtum",
+      "gloss": "andlaşma yaptığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "verseTransliteration": "Ve evfû bi ahdillâhi izâ ahedtum ve lâ tenkudûl eymâne ba’de tevkîdihâ ve kad cealtumullâhe aleykum kefîlâ(kefîlen), innallâhe ya’lemu mâ tef’alûn(tef’alûne).",
+      "verseMeaning": "Antlaşma yaptığınızda, Allah´a verdiğiniz söze vefa gösterin. Bağlayıp pekiştirdikten sonra yeminlerinizi bozmayın. Çünkü, kendinize Allah´ı kefil yapmış durumdasınız. Allah, yaptıklarınızı biliyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 33,
+      "ayah": 15,
+      "formInAyah": "عَاهَدُوا",
+      "transliteration": "ǎāhedū",
+      "gloss": "söz vermişler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ كَانُوا عَاهَدُوا اللَّهَ مِنْ قَبْلُ لَا يُوَلُّونَ الْأَدْبَارَ ۚ وَكَانَ عَهْدُ اللَّهِ مَسْئُولًا",
+      "verseTransliteration": "Ve lekad kânû âhedûllâhe min kablu lâ yuvellûnel edbâr(edbâre), ve kâne ahdullâhi mes’ûlâ(mes’ûlen).",
+      "verseMeaning": "Yemin olsun ki, onlar daha önce, geri dönüp kaçmayacaklarına ilişkin Allah´a söz vermişlerdi. Ve Allah´a verilen söz sorumluluk gerektirirdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 33,
+      "ayah": 23,
+      "formInAyah": "عَاهَدُوا",
+      "transliteration": "ǎāhedū",
+      "gloss": "verdikleri sözde",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا",
+      "verseTransliteration": "Minel mu’minîne ricâlun sadakû mâ âhedûllahe aleyh(aleyhi), fe minhum men kadâ nahbehu ve minhum men yentezırû ve mâ beddelû tebdîlâ(tebdîlan).",
+      "verseMeaning": "İnananlardan öyle erler vardır ki, Allah´a verdikleri sözde sadakatle dururlar. Onlardan bazısı adadığını yerine getirdi, bazısı da bekliyor. Sözlerini asla değişmediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَٰهَدَ",
+      "sura": 48,
+      "ayah": 10,
+      "formInAyah": "عَاهَدَ",
+      "transliteration": "ǎāhede",
+      "gloss": "verdiği sözü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "verseTransliteration": "İnnellezîne yubâyiûneke innemâ yubâyiûnallâh(yubâyiûnallâhe), yedullâhi fevka eydîhim, fe men nekese fe innemâ yenkusu alâ nefsih(nefsihî), ve men evfâ bi mâ âhede aleyhullâhe fe se yu’tîhi ecren azîmâ(azîmen).",
+      "verseMeaning": "O seninle el tutuşup sözleşenler var ya, onlar gerçekte Allah ile bey´atleşiyorlar. Allah´ın eli onların ellerinin üstündedir. Kim ahdi bozar, döneklik ederse kendi aleyhine döneklik etmiş olur. Ve kim Allah´a verdiği sözde vefalı davranırsa, Allah ona büyük bir ödül verecektir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Ehd"
+}

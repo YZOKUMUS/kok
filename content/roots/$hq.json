@@ -1,0 +1,64 @@
+{
+  "id": "$hq",
+  "latinName": "Şin-he-Kaf",
+  "lettersArabic": "ش ه ق",
+  "meanings": [
+    "to draw in the breath while sighing, sigh, roaring."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "شَهِيق",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَهِيق",
+      "sura": 11,
+      "ayah": 106,
+      "formInAyah": "وَشَهِيقٌ",
+      "transliteration": "ve şehīḳun",
+      "gloss": "ve inlemeleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ",
+      "verseTransliteration": "Fe emmellezîne şekû fe fîn nâri lehum fîhâ zefîrun ve şehîk(şehîkun).",
+      "verseMeaning": "Bahtsızlığa düşenler ateş içindedir. Çok ıstıraplı bir soluyuş ve hıçkırışları vardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَهِيق",
+      "sura": 67,
+      "ayah": 7,
+      "formInAyah": "شَهِيقًا",
+      "transliteration": "şehīḳan",
+      "gloss": "homurtusunu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ",
+      "verseTransliteration": "İzâ ulkû fîhâ semiû lehâ şehîkan ve hiye tefûr(tefûru).",
+      "verseMeaning": "Onun içine atıldıklarında, onun derinden gelen sesini işitirler. Feveran etmektedir o."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24hq"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "frr",
+  "latinName": "Fe-Ra-Ra",
+  "lettersArabic": "ف ر ر",
+  "meanings": [
+    "Kaçmak, firar etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 11,
+  "lemmas": [
+    {
+      "formArabic": "فِرَار",
+      "count": 4
+    },
+    {
+      "formArabic": "فَرَّتْ",
+      "count": 6
+    },
+    {
+      "formArabic": "مَفَرّ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَار",
+      "sura": 18,
+      "ayah": 18,
+      "formInAyah": "فِرَارًا",
+      "transliteration": "firāran",
+      "gloss": "kaçardın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ ۖ وَكَلْبُهُمْ بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ ۚ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+      "verseTransliteration": "Ve tahsebuhum eykâzan ve hum rukûd(rukûdun), ve nukallibuhum zâtel yemîni ve zâteş şimâl(şimâli), ve kelbuhum bâsitun zirâayhi bil vasîd(vasîdi), levittala´te aleyhim le velleyte minhum firâren ve le muli´te minhum ru´bâ(ru´ben).",
+      "verseMeaning": "Sen onları uyanıktırlar sanırsın; oysaki onlar uykudadırlar. Onları sağ tarafa da sol tarafa da çeviririz. Köpekleri de iki kolunu girişe uzatıp yaymıştır. Onların durumunu görseydin kesinlikle onlardan yüz çevirip kaçırdın. Ve onlardan içinde mutlaka korku doldurulurdu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَار",
+      "sura": 33,
+      "ayah": 13,
+      "formInAyah": "فِرَارًا",
+      "transliteration": "firāran",
+      "gloss": "kaçmak(tan)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَتْ طَائِفَةٌ مِنْهُمْ يَا أَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُوا ۚ وَيَسْتَأْذِنُ فَرِيقٌ مِنْهُمُ النَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِيَ بِعَوْرَةٍ ۖ إِنْ يُرِيدُونَ إِلَّا فِرَارًا",
+      "verseTransliteration": "Ve iz kâlet tâifetun minhum yâ ehle yesribe lâ mukâme lekum ferciû, ve yeste’zinu ferîkun minhumun nebiyye yekûlûne inne buyûtenâ avretun ve mâ hiye bi avreh(avretin), in yurîdûne illâ firârâ(firâran).",
+      "verseMeaning": "Hani, onlardan bir grup şöyle demişti: \"Ey Yesrib halkı, duracak yeriniz yok, hemen geri dönün!\" İçlerinden bir grup da Peygamber´den izin istiyor: \"İnan olsun, evlerimiz kaygı duyulacak durumda.\" diyorlardı. Oysaki evleri kaygı duyulacak durumda değildi; sadece kaçmak istiyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَار",
+      "sura": 33,
+      "ayah": 16,
+      "formInAyah": "الْفِرَارُ",
+      "transliteration": "l-firāru",
+      "gloss": "kaçmak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ لَنْ يَنْفَعَكُمُ الْفِرَارُ إِنْ فَرَرْتُمْ مِنَ الْمَوْتِ أَوِ الْقَتْلِ وَإِذًا لَا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "verseTransliteration": "Kul len yenfeakumul firâru in ferertum minel mevti evil katli ve izen lâ tumetteûne illâ kalîlâ(kalîlen).",
+      "verseMeaning": "De ki: \"Eğer ölümden yahut öldürülmekten kaçıyorsanız, kaçmak size hiçbir yarar sağlamaz. Böyle bir durumda sadece azıcık/az bir süre nimetlendirilirsiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَار",
+      "sura": 71,
+      "ayah": 6,
+      "formInAyah": "فِرَارًا",
+      "transliteration": "firāran",
+      "gloss": "kaçışlarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+      "verseTransliteration": "Fe lem yezidhum duâî illâ firârâ(firâran).",
+      "verseMeaning": "\"Fakat çağrım, onların kaçışlarını artırmaktan başka bir işe yaramadı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَّتْ",
+      "sura": 26,
+      "ayah": 21,
+      "formInAyah": "فَفَرَرْتُ",
+      "transliteration": "feferartu",
+      "gloss": "kaçtım",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ",
+      "verseTransliteration": "Fe ferartu minkum lemmâ hıftukum fe vehebe lî rabbî hukmen ve cealenî minel murselîn(murselîne).",
+      "verseMeaning": "\"Sizden korkunca aranızdan kaçtım. Daha sonra Rabbim bana hükmetme gücü bağışladı ve beni peygamberlerden biri yaptı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَّتْ",
+      "sura": 33,
+      "ayah": 16,
+      "formInAyah": "فَرَرْتُمْ",
+      "transliteration": "ferartum",
+      "gloss": "kaçıyorsanız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لَنْ يَنْفَعَكُمُ الْفِرَارُ إِنْ فَرَرْتُمْ مِنَ الْمَوْتِ أَوِ الْقَتْلِ وَإِذًا لَا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "verseTransliteration": "Kul len yenfeakumul firâru in ferertum minel mevti evil katli ve izen lâ tumetteûne illâ kalîlâ(kalîlen).",
+      "verseMeaning": "De ki: \"Eğer ölümden yahut öldürülmekten kaçıyorsanız, kaçmak size hiçbir yarar sağlamaz. Böyle bir durumda sadece azıcık/az bir süre nimetlendirilirsiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَّتْ",
+      "sura": 51,
+      "ayah": 50,
+      "formInAyah": "فَفِرُّوا",
+      "transliteration": "fefirrū",
+      "gloss": "o halde kaçın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+      "verseTransliteration": "Fe firrû ilâllâh(ilâllâhi), innî lekum minhu nezîrun mubîn(mubînun).",
+      "verseMeaning": "O halde Allah´a kaçın/sığının! Ben size O´ndan gelmiş açıklayıcı bir uyarıcıyım."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَّتْ",
+      "sura": 62,
+      "ayah": 8,
+      "formInAyah": "تَفِرُّونَ",
+      "transliteration": "tefirrūne",
+      "gloss": "sizin kaçtığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Kul innel mevtellezî tefirrûne minhu fe innehu mulâkîkum summe tureddûne ilâ âlimil gaybi veş şehâdeti fe yunebbiukum bi mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "Şunu da söyle: \"O kaçmakta olduğunuz ölüm, işte o, size mutlaka ulaşacaktır. Sonra, görülmeyeni de görüleni de bilene döndürüleceksiniz. O, size yapıp etmiş olduklarınızı haber verecektir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَّتْ",
+      "sura": 74,
+      "ayah": 51,
+      "formInAyah": "فَرَّتْ",
+      "transliteration": "ferrat",
+      "gloss": "ürkmüş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَرَّتْ مِنْ قَسْوَرَةٍ",
+      "verseTransliteration": "Ferret min kasvereh(kasveretin).",
+      "verseMeaning": "Arslandan ürkmüşlerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَّتْ",
+      "sura": 80,
+      "ayah": 34,
+      "formInAyah": "يَفِرُّ",
+      "transliteration": "yefirru",
+      "gloss": "kaçar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+      "verseTransliteration": "Yevme yefirrul mer’u min ehîh(ehîhi).",
+      "verseMeaning": "Bir gün ki o, kişi öz kardeşinden kaçar,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَفَرّ",
+      "sura": 75,
+      "ayah": 10,
+      "formInAyah": "الْمَفَرُّ",
+      "transliteration": "l-meferru",
+      "gloss": "kaçacak yer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+      "verseTransliteration": "Yekûlul insânu yevme izin eynel meferr(meferru).",
+      "verseMeaning": "Der ki insan o gün: \"Kaçılacak yer nerede?\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=frr"
+}

@@ -1,0 +1,388 @@
+{
+  "id": "sTr",
+  "latinName": "Sin-Ta-Ra",
+  "lettersArabic": "س ط ر",
+  "meanings": [
+    "Yazmak, satırlara yazmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 16,
+  "lemmas": [
+    {
+      "formArabic": "أَسَٰطِير",
+      "count": 9
+    },
+    {
+      "formArabic": "مَسْطُور",
+      "count": 3
+    },
+    {
+      "formArabic": "مُصَيْطِر",
+      "count": 2
+    },
+    {
+      "formArabic": "مُّسْتَطَر",
+      "count": 1
+    },
+    {
+      "formArabic": "يَسْطُرُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 6,
+      "ayah": 25,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masallarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِنْ يَرَوْا كُلَّ آيَةٍ لَا يُؤْمِنُوا بِهَا ۚ حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Ve minhum men yestemiu ileyk(ileyke), ve cealnâ alâ kulûbihim ekinneten en yefkahûhu ve fî âzânihim vakrâ(vakran), ve in yerev kulle âyetin lâ yu’minû bihâ, hattâ izâ câuke yucâdilûneke yekûlullezîne keferû in hâzâ illâ esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "İçlerinden sana kulak verenler vardır; ama biz onu gereğince anlamamaları için kalplerine kılıflar geçirmiş, kulaklarına bir ağırlık koymuşuzdur. Tüm mucizeleri görseler de onlara inanmazlar. Nihayet sana gelip seninle çekişerek söyle derler küfre sapanlar: \"Bu, eskilerin masallarından başka bir şey değildir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 8,
+      "ayah": 31,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masallarındandır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ نَشَاءُ لَقُلْنَا مِثْلَ هَٰذَا ۙ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Ve iza tutlâ aleyhim âyâtunâ kâlû kad semi´nâ lev neşâu le kulnâ misle hâzâ in hâzâ illâ esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "Ayetlerimiz onlara okunduğunda şöyle derler: \"Tamam, işittik. İstersek bunun gibisini elbette ki söyleriz; öncekilerin masallarından başka şey değil ki bu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 16,
+      "ayah": 24,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masalları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا قِيلَ لَهُمْ مَاذَا أَنْزَلَ رَبُّكُمْ ۙ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Ve izâ kîle lehum mâ zâ enzele rabbukum kâlû esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "Onlara, \"Rabbiniz ne indirdi\" dendiğinde şöyle dediler: \"Öncekilerin masallarını.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 23,
+      "ayah": 83,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masallarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَقَدْ وُعِدْنَا نَحْنُ وَآبَاؤُنَا هَٰذَا مِنْ قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Lekad vuıdnâ nahnu ve âbâunâ hâzâ min kablu in hâzâ illâ esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "\"Yemin olsun, biz de bizden önce atalarımız da bununla tehdit edildik. Öncekilerin masallarından başka bir şey değil bu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 25,
+      "ayah": 5,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masalları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالُوا أَسَاطِيرُ الْأَوَّلِينَ اكْتَتَبَهَا فَهِيَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا",
+      "verseTransliteration": "Ve kâlû esâtîrul evvelînektetebehâ fe hiye tumlâ aleyhi bukreten ve asîlâ(asîlen).",
+      "verseMeaning": "Dediler ki: \"Öncekilerin masallarıdır bu. Birilerine yazdırdı onu. O ona sabah akşam birileri tarafından yazdırılıyor.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 27,
+      "ayah": 68,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masallarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَقَدْ وُعِدْنَا هَٰذَا نَحْنُ وَآبَاؤُنَا مِنْ قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Lekad vuıdnâ hâzâ nahnu ve âbâunâ min kablu in hâzâ illâ esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "\"Yemin olsun, bununla şimdi biz, önceden de atalarımız tehdit edildi. Bu, öncekilerin masallarından başka bir şey değil.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 46,
+      "ayah": 17,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masallarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَكُمَا أَتَعِدَانِنِي أَنْ أُخْرَجَ وَقَدْ خَلَتِ الْقُرُونُ مِنْ قَبْلِي وَهُمَا يَسْتَغِيثَانِ اللَّهَ وَيْلَكَ آمِنْ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَيَقُولُ مَا هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Vellezî kâle li vâlideyhi uffın lekumâ e teidâninî en uhrece ve kad haletil kurûnu min kablî ve humâ yestegîsânillâhe veyleke âmin, inne va’dallâhi hakk(hakkun), fe yekûlu mâ hâzâ illâ esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "Birisi de ana babasına: \"Yazık size, benden önce bir yığın nesil gelip geçtiği halde, siz bana, benim diriltileceğimi mi söylüyorsunuz?\" dedi. Onlarsa; Allah´a sığınarak, \"Yazıklar olsun; inansana, Allah´ın vaadi haktır\" diye vahlanınca o şöyle dedi: \"Bu, öncekilerin masallarından başkası değil!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 68,
+      "ayah": 15,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masallarıdır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "İzâ tutlâ aleyhi âyâtunâ kâle esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "Ayetlerimiz ona okunduğunda şöyle der: \"Daha öncekilerin masalları!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَٰطِير",
+      "sura": 83,
+      "ayah": 13,
+      "formInAyah": "أَسَاطِيرُ",
+      "transliteration": "esāTīru",
+      "gloss": "masalları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "İzâ tutlâ aleyhi âyâtunâ kâle esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "Ayetlerimiz ona okunduğunda, \"Daha öncekilerin efsaneleri!\" deyiverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَسْطُور",
+      "sura": 17,
+      "ayah": 58,
+      "formInAyah": "مَسْطُورًا",
+      "transliteration": "mesTūran",
+      "gloss": "yazılmıştır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنْ مِنْ قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَامَةِ أَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًا ۚ كَانَ ذَٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+      "verseTransliteration": "Ve in min karyetin illâ nahnu muhlikûhâ kable yevmil kıyâmeti ev muazzibûhâ azâben şedîdâ(şedîden), kâne zâlike fîl kitâbi mestûrâ(mestûran).",
+      "verseMeaning": "Hiçbir kent/medeniyet dışta kalmamak üzere, kıyamet gününden önce hepsini ya helâk edeceğiz yahut da şiddetli bir azapla azaplandıracağız. İşte bu, Kitap´ta satır satır yazılmış bulunuyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَسْطُور",
+      "sura": 33,
+      "ayah": 6,
+      "formInAyah": "مَسْطُورًا",
+      "transliteration": "mesTūran",
+      "gloss": "yazılmıştır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ۖ وَأَزْوَاجُهُ أُمَّهَاتُهُمْ ۗ وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِي كِتَابِ اللَّهِ مِنَ الْمُؤْمِنِينَ وَالْمُهَاجِرِينَ إِلَّا أَنْ تَفْعَلُوا إِلَىٰ أَوْلِيَائِكُمْ مَعْرُوفًا ۚ كَانَ ذَٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+      "verseTransliteration": "En nebiyyu evlâ bil mu’minîne min enfusihim ve ezvâcuhu ummehâtuhum, ve ûlûl erhâmi ba’duhum evlâ bi ba’dın fî kitâbillâhi minel mu’minîne vel muhâcirîne illâ en tef’alû ilâ evliyâikum ma’rûfâ(ma’rûfen), kâne zâlike fîl kitâbi mestûra(mestûren).",
+      "verseMeaning": "O peygamber, müminlere öz benliklerinden daha dost, daha yakındır. Onun eşleri de o müminlerin anneleridir. Anne tarafından akraba olanlar da Allah´ın Kitabı´nda, birbirlerine diğer müminlerden ve muhacirlerden daha yakındırlar. Ancak yakın dostlarınız için örfe uygun bir vasiyette bulunmanız müstesnadır. Bu, Kitap´ta satırlara geçirilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَسْطُور",
+      "sura": 52,
+      "ayah": 2,
+      "formInAyah": "مَسْطُورٍ",
+      "transliteration": "mesTūrin",
+      "gloss": "satır satır yazılmış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكِتَابٍ مَسْطُورٍ",
+      "verseTransliteration": "Ve kitâbin mesTURin.",
+      "verseMeaning": "Satır satır yazılmış Kitap´a,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُصَيْطِر",
+      "sura": 52,
+      "ayah": 37,
+      "formInAyah": "الْمُصَيْطِرُونَ",
+      "transliteration": "l-muSayTirūne",
+      "gloss": "hakim olan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أَمْ عِنْدَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ",
+      "verseTransliteration": "Em indehum hazâinu rabbike em humul musaytırûn(musaytırûne).",
+      "verseMeaning": "Yoksa Rabbinin hazineleri onların yanında mı? Yoksa güç ve egemenlik sahibi onlar mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُصَيْطِر",
+      "sura": 88,
+      "ayah": 22,
+      "formInAyah": "بِمُصَيْطِرٍ",
+      "transliteration": "bimuSayTirin",
+      "gloss": "zorlayıcı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+      "verseTransliteration": "Leste aleyhim bi musaytır(musaytırın).",
+      "verseMeaning": "Üzerlerine musallat bir despot değilsin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّسْتَطَر",
+      "sura": 54,
+      "ayah": 53,
+      "formInAyah": "مُسْتَطَرٌ",
+      "transliteration": "musteTarun",
+      "gloss": "satır satır yazılmıştır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُسْتَطَرٌ",
+      "verseTransliteration": "Ve kullu sagîrin ve kebîrin mustetar(mustetarun).",
+      "verseMeaning": "Küçük büyük tümü, satır satır yazılmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْطُرُ",
+      "sura": 68,
+      "ayah": 1,
+      "formInAyah": "يَسْطُرُونَ",
+      "transliteration": "yesTurūne",
+      "gloss": "yazdıklarına",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ",
+      "verseTransliteration": "Nûn vel kalemi ve mâ yesturûn(yesturûne).",
+      "verseMeaning": "Nûn! Yemin olsun kaleme ve satır satır yazdıklarına"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sTr"
+}

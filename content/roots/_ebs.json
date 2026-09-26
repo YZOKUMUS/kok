@@ -1,0 +1,87 @@
+{
+  "id": "Ebs",
+  "latinName": "Ayn-Be-Sin",
+  "lettersArabic": "ع ب س",
+  "meanings": [
+    "Kaş çatmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "عَبَسَ",
+      "count": 2
+    },
+    {
+      "formArabic": "عَبُوس",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَبَسَ",
+      "sura": 74,
+      "ayah": 22,
+      "formInAyah": "عَبَسَ",
+      "transliteration": "ǎbese",
+      "gloss": "surat astı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "verseTransliteration": "Summe abese ve beser(besere).",
+      "verseMeaning": "Sonra yüzünü buruşturdu, kaşlarını çattı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَبَسَ",
+      "sura": 80,
+      "ayah": 1,
+      "formInAyah": "عَبَسَ",
+      "transliteration": "ǎbese",
+      "gloss": "surat astı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ عَبَسَ وَتَوَلَّىٰ",
+      "verseTransliteration": "Abese ve tevellâ.",
+      "verseMeaning": "Yüzünü ekşitti ve öteye döndü;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَبُوس",
+      "sura": 76,
+      "ayah": 10,
+      "formInAyah": "عَبُوسًا",
+      "transliteration": "ǎbūsen",
+      "gloss": "suratsız",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا نَخَافُ مِنْ رَبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+      "verseTransliteration": "İnnâ nehâfu min rabbinâ yevmen abûsen kamtarîrâ(kamtarîren).",
+      "verseMeaning": "Çünkü biz, asık suratlı, sert bir gün yüzünden Rabbimizden korkarız.\" derler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Ebs"
+}

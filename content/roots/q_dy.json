@@ -1,0 +1,1331 @@
+{
+  "id": "qDy",
+  "latinName": "Kaf-Dad-Ye",
+  "lettersArabic": "ق ض ي",
+  "meanings": [
+    "Karar vermek, icra etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 63,
+  "lemmas": [
+    {
+      "formArabic": "قَاض",
+      "count": 1
+    },
+    {
+      "formArabic": "قَاضِيَة",
+      "count": 1
+    },
+    {
+      "formArabic": "قَضَىٰ",
+      "count": 59
+    },
+    {
+      "formArabic": "مَّقْضِيّ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَاض",
+      "sura": 20,
+      "ayah": 72,
+      "formInAyah": "قَاضٍ",
+      "transliteration": "ḳāDin",
+      "gloss": "yapacağın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالُوا لَنْ نُؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا ۖ فَاقْضِ مَا أَنْتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَٰذِهِ الْحَيَاةَ الدُّنْيَا",
+      "verseTransliteration": "Kâlû len nu’sireke alâ mâ câenâ minel beyyinâti vellezî fataranâ fakdi mâ ente kâd(kâdin), innemâ takdî hâzihil hayâted dunyâ.",
+      "verseMeaning": "Dediler: \"Biz seni, bize gelen açık seçik kanıtlara ve bizi yaratmış olana asla tercih etmeyeceğiz. Verdiğin hükmü uygula. Senin hükmün olsa olsa bu dünya hayatında geçer.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَاضِيَة",
+      "sura": 69,
+      "ayah": 27,
+      "formInAyah": "الْقَاضِيَةَ",
+      "transliteration": "l-ḳāDiyete",
+      "gloss": "işimi bitirmiş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ",
+      "verseTransliteration": "Yâ leytehâ kânetil kâdiyeh(kâdiyete).",
+      "verseMeaning": "\"Ah, ne olurdu, iş bitmiş olsaydı!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 2,
+      "ayah": 117,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "hükmettiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Bedîus semâvâti vel ard(ardı), ve izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Gökleri ve yeri, güzelliklerle donatarak yaratan Bedî, O´dur. Bir şeyin olmasına karar verdi mi ona sadece \"Ol´\" der. Artık o, oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 2,
+      "ayah": 200,
+      "formInAyah": "قَضَيْتُمْ",
+      "transliteration": "ḳaDeytum",
+      "gloss": "bitirince",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ",
+      "verseTransliteration": "Fe izâ kadaytum menâsikekum fezkurûllâhe ke zikrikum âbâekum ev eşedde zikrâ(zikren), fe minen nâsi men yekûlu rabbenâ âtinâ fîd dunyâ ve mâ lehu fîl ahirati min halâk(halâkın).",
+      "verseMeaning": "Gerekli ibadetlerinizi bitirdiğinizde yine Allah´ı anın. Tıpkı atalarınızı andığınız gibi, hatta daha kuvvetli bir anışla. İnsanlardan bazısı şöyle der: \"Ey Rabb´imiz, bize dünyada ver.\" Böylesi için âhırette bir nasip yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 2,
+      "ayah": 210,
+      "formInAyah": "وَقُضِيَ",
+      "transliteration": "ve ḳuDiye",
+      "gloss": "ve bitirilmesini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هَلْ يَنْظُرُونَ إِلَّا أَنْ يَأْتِيَهُمُ اللَّهُ فِي ظُلَلٍ مِنَ الْغَمَامِ وَالْمَلَائِكَةُ وَقُضِيَ الْأَمْرُ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+      "verseTransliteration": "Hel yenzurûne illâ en ye’tiyehumullâhu fî zulelin minel gamâmi vel melâiketu ve kudiyel emr(emru), ve ilâllâhi turceul umûr(umûru).",
+      "verseMeaning": "Onlar, Allah´ın ve meleklerin buluttan gölgeler içinde kendilerine gelmesini ve işin bitirilmesini mi bekliyorlar? Bütün iş ve oluşlar sonunda Allah´a döndürülür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 3,
+      "ayah": 47,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "istediği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٌ وَلَمْ يَمْسَسْنِي بَشَرٌ ۖ قَالَ كَذَٰلِكِ اللَّهُ يَخْلُقُ مَا يَشَاءُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Kâlet rabbi ennâ yekûnu lî veledun ve lem yemsesnî beşer(beşerun), kâle kezâlikillâhu yahluku mâ yeşâ’(yeşâu) izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Meryem dedi ki: \"Rabbim, çocuğum nasıl olur benim? Bana hiçbir insan dokunmadı ki!\" Allah cevap verdi: \"Allah dilediğini işte böyle yaratır. Bir iş ve oluşa karar verdiğinde sadece ona \"Ol!\" der; ve o hemen oluverir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 4,
+      "ayah": 65,
+      "formInAyah": "قَضَيْتَ",
+      "transliteration": "ḳaDeyte",
+      "gloss": "senin verdiğin hükme",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا",
+      "verseTransliteration": "Fe lâ ve rabbike lâ yu’minûne hattâ yuhakkimûke fîmâ şecere beynehum summe lâ yecidû fî enfusihim harecen mimmâ kadayte ve yusellimû teslîmâ(teslîmen).",
+      "verseMeaning": "Hayır, Rabbine yemin olsun ki iş, onların sandığı gibi değil. Onlar, aralarında çıkan karmaşık işlerde seni hakem yapıp verdiğin hükümle ilgili olarak, içlerinde hiçbir burukluk duymadan tam bir teslimiyete ulaşmadıkça iman etmiş olamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 4,
+      "ayah": 103,
+      "formInAyah": "قَضَيْتُمُ",
+      "transliteration": "ḳaDeytumu",
+      "gloss": "bitirdiğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+      "verseTransliteration": "Fe izâ kadaytumus salâte fezkurûllâhe kıyâmen ve kuûden ve alâ cunûbikum, fe izatma’nentum fe ekîmus salât(salâte), innes salâte kânet alel mu’minîne kitâben mevkûtâ(mevkûten).",
+      "verseMeaning": "Korku halindeki namazı tamamlayınca, artık Allah´ı ayakta, oturarak, yan yatmışken anın. Sükûnet bulduğunuzda, namazı tam bir biçimde yerine getirin. Namaz, müminler üzerine vakti belirlenmiş bir farz olmuştur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 6,
+      "ayah": 2,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "koymuştur",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هُوَ الَّذِي خَلَقَكُمْ مِنْ طِينٍ ثُمَّ قَضَىٰ أَجَلًا ۖ وَأَجَلٌ مُسَمًّى عِنْدَهُ ۖ ثُمَّ أَنْتُمْ تَمْتَرُونَ",
+      "verseTransliteration": "Huvellezî halakakum min tînin summe kadâ ecelâ(ecelen), ve ecelun musemmen ındehu summe entum temterûn(temterûne).",
+      "verseMeaning": "Sizi bir balçıktan yaratmış olan O´dur. Sonra hüküm verip bir süre belirlemiştir. Belirlenmiş başka bir süre de onun katındadır. Bütün bunlardan sonra siz hâlâ kuşkulanıp duruyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 6,
+      "ayah": 8,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "bitirilmiş olurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنْزَلْنَا مَلَكًا لَقُضِيَ الْأَمْرُ ثُمَّ لَا يُنْظَرُونَ",
+      "verseTransliteration": "Ve kâlû lev lâ unzile aleyhi melek(melekun), ve lev enzelnâ meleken, le kudıyel emru summe lâ yunzarûn(yunzarûne).",
+      "verseMeaning": "Şunu da söylediler: \"Bu peygambere bir melek indirilseydi ya!\" Eğer böyle bir melek indirmiş olsaydık iş mutlaka bitirilmiş olurdu da kendilerine göz bile açtırılmazdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 6,
+      "ayah": 58,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "bitirilmişti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ لَوْ أَنَّ عِنْدِي مَا تَسْتَعْجِلُونَ بِهِ لَقُضِيَ الْأَمْرُ بَيْنِي وَبَيْنَكُمْ ۗ وَاللَّهُ أَعْلَمُ بِالظَّالِمِينَ",
+      "verseTransliteration": "Kul lev enne indî mâ testa’cilûne bihî le kudıyel emru beynî ve beynekum, vallâhu a’lemu biz zâlimîn(zâlimîne).",
+      "verseMeaning": "Şunu da söyle: \"Acele istediğiniz şey benim yanımda olsaydı, benimle sizin aranızdaki iş çoktan bitirilmiş olurdu. Zalimleri, Allah daha iyi bilir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 6,
+      "ayah": 60,
+      "formInAyah": "لِيُقْضَىٰ",
+      "transliteration": "liyuḳDā",
+      "gloss": "tamamlanıncaya kadar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَهُوَ الَّذِي يَتَوَفَّاكُمْ بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve huvellezî yeteveffâkum bil leyli ve ya’lemu mâ cerahtum bin nehâri summe yeb’asukum fîhi li yukdâ ecelun musemmâ(musemmen), summe ileyhi merci’ukum summe yunebbiukum bimâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "O, odur ki, geceleyin sizi öldürür. Gün boyunca neler yapıp neler kazandığınızı bilir. Sonra, belirlenmiş süre işletilip tamamlansın diye, gün içinde sizi diriltir. Nihayet O´nadır dönüşünüz. Sonra, yapıp ettiklerinizi size haber verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 8,
+      "ayah": 42,
+      "formInAyah": "لِيَقْضِيَ",
+      "transliteration": "liyeḳDiye",
+      "gloss": "yerine getirmesi içindir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ أَنْتُمْ بِالْعُدْوَةِ الدُّنْيَا وَهُمْ بِالْعُدْوَةِ الْقُصْوَىٰ وَالرَّكْبُ أَسْفَلَ مِنْكُمْ ۚ وَلَوْ تَوَاعَدْتُمْ لَاخْتَلَفْتُمْ فِي الْمِيعَادِ ۙ وَلَٰكِنْ لِيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَيَّ عَنْ بَيِّنَةٍ ۗ وَإِنَّ اللَّهَ لَسَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "İz entum bil udvetid dunyâ ve hum bil udvetil kusvâ verrekbu esfele minkum, ve lev tevâadtum lahteleftum fîl mîâdi ve lâkin li yakdiyallâhu emren kâne mef´ûlen li yehlike men heleke an beyyinetin ve yahyâ men hayye an beyyineh(beyyinetin), ve innallâhe le semî´un alîm(alîmun).",
+      "verseMeaning": "O vakit siz, vadinin beri yamacında idiniz, onlarsa öte yamacında idiler. Kervan sizden daha aşağıda idi. Sözleşmiş olsaydınız buluşma yer ve saatinde ayrılığa düşerdiniz. Ama Allah, olması kararlaştırılan işi yerine getirmek istiyordu. Ta ki, ölen beyyine üzerine ölsün, yaşayan da beyyine üzerine yaşasın. Allah elbette ki çok iyi işitir, çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 8,
+      "ayah": 44,
+      "formInAyah": "لِيَقْضِيَ",
+      "transliteration": "liyeḳDiye",
+      "gloss": "yerine getirmesi için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذْ يُرِيكُمُوهُمْ إِذِ الْتَقَيْتُمْ فِي أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ لِيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا ۗ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+      "verseTransliteration": "Ve iz yurîkumûhum iziltekaytum fî a´yunikum kalîlen ve yukallilukum fî a´yunihim li yakdıyallâhu emren kâne mef´ûlâ(mef´ûlen), ve ilallâhi turceul umûr(umûru).",
+      "verseMeaning": "Karşılaştığınızda onları sizin gözlerinize az gösteriyordu. Sizi de onların gözünde azaltıyordu ki, yapılmasına karar verilen işi yürürlüğe koysun. Zaten bütün işler Allah´a döndürülür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 10,
+      "ayah": 11,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "hemen bitmiş olurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَوْ يُعَجِّلُ اللَّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Ve lev yuaccilullâhu lin nâsiş şerresti’câlehum bil hayri le kudiye ileyhim eceluhum, fe nezerullezîne lâ yercûne likâenâ fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Allah, insanlara şerri, onların hayrı acele istedikleri gibi çabucak verseydi, ecellerinin onlara ulaşmasına çoktan hükmedilmiş olurdu. Ama biz, bize kavuşmayı ummayanları kendi azgınlıkları içinde körü körüne bocalamaya bırakırız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 10,
+      "ayah": 19,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "kesin hüküm verilirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا كَانَ النَّاسُ إِلَّا أُمَّةً وَاحِدَةً فَاخْتَلَفُوا ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+      "verseTransliteration": "Ve mâ kânen nâsu illâ ummeten vâhideten fahtelefû, ve lev lâ kelimetun sebekat min rabbike le kudiye beynehum fîmâ fîhi yahtelifûn(yahtelifûne).",
+      "verseMeaning": "İnsanlar bir tek ümmetten başka değilken ihtilafa düştüler. Eğer Rabbinden bir söz öne geçmemiş olsaydı, tartışıp durdukları konuda aralarında hüküm verilir/iş mutlaka bitirilirdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 10,
+      "ayah": 47,
+      "formInAyah": "قُضِيَ",
+      "transliteration": "ḳuDiye",
+      "gloss": "hükmedilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلِكُلِّ أُمَّةٍ رَسُولٌ ۖ فَإِذَا جَاءَ رَسُولُهُمْ قُضِيَ بَيْنَهُمْ بِالْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Ve likulli ummetin resûl(resûlun), feizâ câe resûluhum kudıye beynehum bil kıstı ve hum lâ yuzlamûn(yuzlamûne).",
+      "verseMeaning": "Her ümmet için bir resul öngörülmüştür. Resulleri gelince, aralarında adaletle hüküm verilir. Hiçbir zulme uğratılmazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 10,
+      "ayah": 54,
+      "formInAyah": "وَقُضِيَ",
+      "transliteration": "veḳuDiye",
+      "gloss": "ve hüküm verilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَوْ أَنَّ لِكُلِّ نَفْسٍ ظَلَمَتْ مَا فِي الْأَرْضِ لَافْتَدَتْ بِهِ ۗ وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ ۖ وَقُضِيَ بَيْنَهُمْ بِالْقِسْطِ ۚ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Ve lev enne li kulli nefsin zalemet mâ fîl ardı leftedet bih(bihi), ve eserrun nedâmete lemmâ reevul azâb(azâbe), ve kudıye beynehum bil kıstı ve hum lâ yuzlemûn(yuzlemûne).",
+      "verseMeaning": "Zulmetmiş her benlik, yeryüzündekiler kendinin olsa, kurtulmak için tümünü fidye verecektir. Azabı gördüklerinde pişmanlığı ta içlerinde duyarlar. Aralarında adaletle hükmedilmiştir. Asla zulme uğratılmazlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 10,
+      "ayah": 71,
+      "formInAyah": "اقْضُوا",
+      "transliteration": "ḳDū",
+      "gloss": "uygulayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِ يَا قَوْمِ إِنْ كَانَ كَبُرَ عَلَيْكُمْ مَقَامِي وَتَذْكِيرِي بِآيَاتِ اللَّهِ فَعَلَى اللَّهِ تَوَكَّلْتُ فَأَجْمِعُوا أَمْرَكُمْ وَشُرَكَاءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ اقْضُوا إِلَيَّ وَلَا تُنْظِرُونِ",
+      "verseTransliteration": "Vetlu aleyhim nebe´e nûh(nûhın), iz kâle li kavmihî yâ kavmi in kâne kebure aleykum makâmî ve tezkîrî bi âyâtillâhi fe alâllâhi tevekkeltu fe ecmiû emrekum ve şurekâekum summe lâ yekun emrukum aleykum gummeten summakdû ileyye ve lâ tunzirûn(tunzirûne).",
+      "verseMeaning": "Onlara Nûh´un haberini de oku! Hani, toplumuna şöyle demişti: \"Eğer benim konumum ve Allah´ın ayetlerini hatırlatmam size ağır geliyorsa artık ben, Allah´a dayandım. Siz de ortaklarınızla bir araya gelip işinize bakın. Yapacağınız şey size bir kaygı da vermesin, hükmünüzü bana uygulayın. Ve bana fırsat da vermeyin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 10,
+      "ayah": 93,
+      "formInAyah": "يَقْضِي",
+      "transliteration": "yeḳDī",
+      "gloss": "hükmünü verir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ بَوَّأْنَا بَنِي إِسْرَائِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ فَمَا اخْتَلَفُوا حَتَّىٰ جَاءَهُمُ الْعِلْمُ ۚ إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+      "verseTransliteration": "Ve lekad bevve’nâ benî isrâîle mubevvee sıdkın ve razaknâhum minet tayyibât(tayyibâti), femahtelefû hattâ câehumul ilm(ilmu), inne rabbeke yakdî beynehum yevmel kıyâmeti fî mâ kânû fîhi yahtelifûn(yahtelifûne).",
+      "verseMeaning": "Yemin olsun, biz İsrailoğullarını çok güzel bir yurda yerleştirdik ve kendilerine temiz yiyeceklerden rızık verdik. Kendilerine ilim gelinceye kadar ihtilafa düşmediler. Hiç kuşkusuz, Rabbin, tartışmakta oldukları şey hakkında kıyamet günü aralarında hüküm verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 11,
+      "ayah": 44,
+      "formInAyah": "وَقُضِيَ",
+      "transliteration": "ve ḳuDiye",
+      "gloss": "ve bitirildi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي وَغِيضَ الْمَاءُ وَقُضِيَ الْأَمْرُ وَاسْتَوَتْ عَلَى الْجُودِيِّ ۖ وَقِيلَ بُعْدًا لِلْقَوْمِ الظَّالِمِينَ",
+      "verseTransliteration": "Ve kîle yâ ardubleî mâeki ve yâ semâu akliî ve gîdal mâu ve kudıyel emru vestevet alal cûdiyyi ve kîle bu´den lil kavmiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Ve denildi: \"Ey yer! Suyunu yut ve ey gök, sen de tut.\" Ve su çekidi. İş bitirilmişti. Gemi, Cûdi üzerine oturdu ve haykırıldı: \"O zalimler topluluğu geri gelmez olsun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 11,
+      "ayah": 110,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "hüküm verilirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ",
+      "verseTransliteration": "Ve lekad âteynâ mûsel kitâbe fahtulife fîh(fîhi), ve lev lâ kelimetun sebekat min rabbike le kudiye beynehum, ve innehum le fî şekkin minhu murîb(murîbun).",
+      "verseMeaning": "Yemin olsun, Mûsa´ya Kitap´ı verdik de onda da ihtilafa düşüldü. Rabbinden bir kelime, önceden gelmiş olmasaydı, aralarında iş mutlaka bitirilirdi. Onlar bunun hakkında, kafaları karıştıran bir kuşku içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 12,
+      "ayah": 41,
+      "formInAyah": "قُضِيَ",
+      "transliteration": "ḳuDiye",
+      "gloss": "kesinleşmiştir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ",
+      "verseTransliteration": "Yâ sâhıbeyis sicni emmâ ehadukumâ fe yeskî rabbehu hamrâ(hamren), ve emmel âharu fe yuslebu fe te’kulut tayru min re’sih(re’sihî), kudiyel emrullezî fîhi testeftiyân(testeftiyâni).",
+      "verseMeaning": "\"Ey benim zından arkadaşlarım! Rüyanıza gelince: Bir taneniz rab edindiği kişiye şarap sunacak. Ötekiniz ise asılacak da kuşlar başından yiyecek. Hakkında fetva sorduğunuz iş, böyle hükme bağlanmıştır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 12,
+      "ayah": 68,
+      "formInAyah": "قَضَاهَا",
+      "transliteration": "ḳaDāhā",
+      "gloss": "açığa çıkardı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُمْ مَا كَانَ يُغْنِي عَنْهُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِلَّا حَاجَةً فِي نَفْسِ يَعْقُوبَ قَضَاهَا ۚ وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Ve lemmâ dehalû min haysu emerehum ebûhum, mâ kâne yugnî anhum minallâhi min şey’in illâ hâceten fî nefsi ya’kûbe kadâhâ, ve innehu le zû ilmin limâ allemnâhu ve lâkinne ekseren nâsi lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Babalarının emrettiği yerlerden kente girdiklerinde, bu onlardan Allah´ın herhangi bir takdirini uzak tutmamıştı; sadece Yakub´un içindeki bir isteği gerçekleştirmişti. Yakub, bizim ona öğretmemizden dolayı bilgi sahibi idi. Ama halkın çoğu bunu bilmezdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 14,
+      "ayah": 22,
+      "formInAyah": "قُضِيَ",
+      "transliteration": "ḳuDiye",
+      "gloss": "bitirildi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي ۖ فَلَا تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ ۖ مَا أَنَا بِمُصْرِخِكُمْ وَمَا أَنْتُمْ بِمُصْرِخِيَّ ۖ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِنْ قَبْلُ ۗ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Ve kâleş şeytânu lemmâ kudıyel emru innallâhe veadekum va’del hakkı ve veadtukum fe ahleftukum, ve mâ kâne liye aleykum min sultânin illâ en deavtukum festecebtum lî, fe lâ telûmûnî ve lûmû enfusekum, mâ ene bi musrihikum ve mâ entum bi musrıhıyy(musrıhıyye), innî kefertu bi mâ eşrektumûni min kabl(kablu), innaz zâlimîne lehum azâbun elîm(elîmun).",
+      "verseMeaning": "İş bitirilince şeytan onlara şöyle dedi: \"Allah size hak bir vaatle vaatte bulundu, ben ise vaat ettim ama vaadimden caydım. Benim sizin üzerinizde bir sultam yoktu. Sizi davet ettim, siz de bana uydunuz. Hepsi bu. Şimdi beni kınamayı bırakın da öz benliklerinizi kınayın. Ne ben sizi kurtarabilirim ne de siz beni kurtarabilirsiniz. Aslında ben sizin, daha önceden beni şirk aracı yapmanıza karşı çıkmıştım. Zalimler için acıklı bir azap öngörülmüştür.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 15,
+      "ayah": 66,
+      "formInAyah": "وَقَضَيْنَا",
+      "transliteration": "ve ḳaDeynā",
+      "gloss": "ve bildirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَضَيْنَا إِلَيْهِ ذَٰلِكَ الْأَمْرَ أَنَّ دَابِرَ هَٰؤُلَاءِ مَقْطُوعٌ مُصْبِحِينَ",
+      "verseTransliteration": "Ve kadaynâ ileyhi zâlikel emre enne dâbire hâulâi maktûun musbihîn(musbihîne).",
+      "verseMeaning": "Ona şu emri bir hüküm olarak ilettik: Şunlar, kökleri kesilmiş olarak sabahlayacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 17,
+      "ayah": 4,
+      "formInAyah": "وَقَضَيْنَا",
+      "transliteration": "ve ḳaDeynā",
+      "gloss": "ve şu hükmü verdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَضَيْنَا إِلَىٰ بَنِي إِسْرَائِيلَ فِي الْكِتَابِ لَتُفْسِدُنَّ فِي الْأَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا",
+      "verseTransliteration": "Ve kadaynâ ilâ benî isrâîle fîl kitâbi le tufsidunne fîl ardı merreteyni ve le ta’lunne uluvven kebîrâ(kebîren).",
+      "verseMeaning": "Biz, Beniisrail´e Kitap´ta şu yolda bir yargıda bulunduk: Siz yeryüzünde muhakkak iki kez bozgun vücuda getireceksiniz ve muhakkak büyük bir kibirle böbürleneceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 17,
+      "ayah": 23,
+      "formInAyah": "وَقَضَىٰ",
+      "transliteration": "ve ḳaDā",
+      "gloss": "ve emretti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا",
+      "verseTransliteration": "Ve kadâ rabbuke ellâ ta’budû illâ iyyâhu ve bil vâlideyni ihsânâ(ihsânen), immâ yebluganne indekel kibere ehaduhumâ ev kilâ humâ fe lâ tekul lehumâ uffin ve lâ tenher humâ ve kul lehumâ kavlen kerîmâ(kerîmen).",
+      "verseMeaning": "Rabbin şöyle hükmetti: O´ndan başkasına kulluk / ibadet etmeyin, anaya babaya çok iyi davranın: Onlardan birisi yahut her ikisi senin yanında ihtiyarlık çağına gelirse sakın onlara \"Öf!\" bile deme; onları azarlama, onlara tatlı, iltifatlı söz söyle."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 19,
+      "ayah": 35,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "hükmettiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ ۖ سُبْحَانَهُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Mâ kâne lillâhi en yettehıze min veledin subhâneh(subhânehu), izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Bir oğul edinmek Allah´a asla yakışmaz. O´nun şanı yücedir. Bir iş ve oluşa karar verdi mi, ona sadece \"Ol!\" der, o hemen oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 19,
+      "ayah": 39,
+      "formInAyah": "قُضِيَ",
+      "transliteration": "ḳuDiye",
+      "gloss": "hükmedilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الْأَمْرُ وَهُمْ فِي غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "verseTransliteration": "Ve enzirhum yevmel hasreti iz kudıyel emr(emru), ve hum fî gafletin ve hum lâ yu’minûn(yu’minûne).",
+      "verseMeaning": "Sen onları, o hasret günü ile ilgili olarak uyar. Çünkü onlar gaflet içindeyken, iman da etmemişken iş bitirilmiş olacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 20,
+      "ayah": 72,
+      "formInAyah": "فَاقْضِ",
+      "transliteration": "feḳDi",
+      "gloss": "o halde yap",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالُوا لَنْ نُؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا ۖ فَاقْضِ مَا أَنْتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَٰذِهِ الْحَيَاةَ الدُّنْيَا",
+      "verseTransliteration": "Kâlû len nu’sireke alâ mâ câenâ minel beyyinâti vellezî fataranâ fakdi mâ ente kâd(kâdin), innemâ takdî hâzihil hayâted dunyâ.",
+      "verseMeaning": "Dediler: \"Biz seni, bize gelen açık seçik kanıtlara ve bizi yaratmış olana asla tercih etmeyeceğiz. Verdiğin hükmü uygula. Senin hükmün olsa olsa bu dünya hayatında geçer.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 20,
+      "ayah": 72,
+      "formInAyah": "تَقْضِي",
+      "transliteration": "teḳDī",
+      "gloss": "(istediğini) yapabilirsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالُوا لَنْ نُؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا ۖ فَاقْضِ مَا أَنْتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَٰذِهِ الْحَيَاةَ الدُّنْيَا",
+      "verseTransliteration": "Kâlû len nu’sireke alâ mâ câenâ minel beyyinâti vellezî fataranâ fakdi mâ ente kâd(kâdin), innemâ takdî hâzihil hayâted dunyâ.",
+      "verseMeaning": "Dediler: \"Biz seni, bize gelen açık seçik kanıtlara ve bizi yaratmış olana asla tercih etmeyeceğiz. Verdiğin hükmü uygula. Senin hükmün olsa olsa bu dünya hayatında geçer.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 20,
+      "ayah": 114,
+      "formInAyah": "يُقْضَىٰ",
+      "transliteration": "yuḳDā",
+      "gloss": "tamamlansın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُلْ رَبِّ زِدْنِي عِلْمًا",
+      "verseTransliteration": "Fe teâlallâhul melikul hak(hakku), ve lâ ta’cel bil kur’âni min kabli en yukdâ ileyke vahyuhu ve kul rabbi zidnî ılmâ(ılmen).",
+      "verseMeaning": "O Melik/o hak hükümdar olan Allah, yüceler yücesidir. Sana vahyi tamamlanmadan önce, Kur´an hakkında aceleci olma. Şöyle de:\"Rabbim, ilmimi artır!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 22,
+      "ayah": 29,
+      "formInAyah": "لْيَقْضُوا",
+      "transliteration": "lyeḳDū",
+      "gloss": "gidersinler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ",
+      "verseTransliteration": "Summel yakdû tefesehum vel yûfû nuzûrahum vel yettavvefû bil beytil atîk(atîkı).",
+      "verseMeaning": "Sonra, kirlerini atsınlar, adaklarını yerine getirsinler, saldırılardan korunmuş/tarihî/yüce evi tavaf etsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 27,
+      "ayah": 78,
+      "formInAyah": "يَقْضِي",
+      "transliteration": "yeḳDī",
+      "gloss": "icra eder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ بِحُكْمِهِ ۚ وَهُوَ الْعَزِيزُ الْعَلِيمُ",
+      "verseTransliteration": "İnne rabbeke yakdî beynehum bi hukmihî, ve huvel azîzul alîm(alîmu).",
+      "verseMeaning": "Rabbin, o İsrailoğulları arasında hükmünü verip gereğini yapacaktır. Azîz´dir, Alîm´dir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 28,
+      "ayah": 15,
+      "formInAyah": "فَقَضَىٰ",
+      "transliteration": "fe ḳaDā",
+      "gloss": "işini bitirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ ۖ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ الشَّيْطَانِ ۖ إِنَّهُ عَدُوٌّ مُضِلٌّ مُبِينٌ",
+      "verseTransliteration": "Ve dehalel medînete alâ hîni gafletin min ehlihâ fe vecede fîhâ raculeyni yaktetilâni hâzâ min şîatihî ve hâzâ min aduvvih(aduvvihî), festegâsehullezî min şîatihî alellezî min aduvvihî, fe vekezehu mûsâ fe kadâ aleyhi kâle hâzâ min ameliş şeytân(şeytâni), innehu aduvvun mudillun mubîn(mubînun).",
+      "verseMeaning": "Halkının habersiz olduğu bir sırada kente girdi. Orada iki adam buldu, dövüşüyorlardı. Bu, Mûsa´nın halkından, şu da düşmanlarındandı. Kendi halkından olan, düşmanından olana karşı Mûsa´dan yardım istedi. Mûsa ona bir yumruk indirdirip işini bitirdi. Dedi: \"Bu yaptığım, şeytanın amellerindendir. İnsanı saptıran açık bir düşmandır o.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 28,
+      "ayah": 28,
+      "formInAyah": "قَضَيْتُ",
+      "transliteration": "ḳaDeytu",
+      "gloss": "yerine getirsem",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قَالَ ذَٰلِكَ بَيْنِي وَبَيْنَكَ ۖ أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ ۖ وَاللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "verseTransliteration": "Kâle zâlike beynî ve beynek(beyneke), eyyemel eceleyni kadaytu fe lâ udvâne aleyy(aleyye), vallâhu alâ mâ nekûlu vekîl(vekîlun).",
+      "verseMeaning": "Mûsa dedi: \"Bu seninle benim aramda. İki süreden hangisini tamamlasam bana kızıp darılmak yok. Allah, bizim şu konuştuğumuza Vekîl´dir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 28,
+      "ayah": 29,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "bitirince",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ وَسَارَ بِأَهْلِهِ آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا قَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+      "verseTransliteration": "Fe lemmâ kadâ mûsel ecele ve sâre bi ehlihî ânese min cânibit tûri nârâ(nâren), kâle li ehlihimkusû innî ânestu nâren leallî âtîkum minhâ bi haberin ev cezvetin minen nâri leallekum testalûn(testalûne).",
+      "verseMeaning": "Mûsa süreyi bitirip ailesiyle yola çıkınca, Tûr tarafından bir ateş fark etti. Ailesine dedi ki: \"Bekleyin, bir ateş fark ettim. Belki ondan size bir haber getiririm, belki bir ateş koru getiririm de ısınırsınız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 28,
+      "ayah": 44,
+      "formInAyah": "قَضَيْنَا",
+      "transliteration": "ḳaDeynā",
+      "gloss": "yaptığımız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا كُنْتَ بِجَانِبِ الْغَرْبِيِّ إِذْ قَضَيْنَا إِلَىٰ مُوسَى الْأَمْرَ وَمَا كُنْتَ مِنَ الشَّاهِدِينَ",
+      "verseTransliteration": "Ve mâ kunte bi cânibil garbiyyi iz kadaynâ ilâ mûsel emre ve mâ kunte mineş şâhidîn(şâhidîne).",
+      "verseMeaning": "Biz Mûsa´ya o emri vahyettiğimizde, sen batı tarafında değildin; olayı izleyenlerden de değildin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 33,
+      "ayah": 23,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "yerine getirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُمْ مَنْ قَضَىٰ نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا",
+      "verseTransliteration": "Minel mu’minîne ricâlun sadakû mâ âhedûllahe aleyh(aleyhi), fe minhum men kadâ nahbehu ve minhum men yentezırû ve mâ beddelû tebdîlâ(tebdîlan).",
+      "verseMeaning": "İnananlardan öyle erler vardır ki, Allah´a verdikleri sözde sadakatle dururlar. Onlardan bazısı adadığını yerine getirdi, bazısı da bekliyor. Sözlerini asla değişmediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 33,
+      "ayah": 36,
+      "formInAyah": "قَضَى",
+      "transliteration": "ḳaDā",
+      "gloss": "hüküm verdiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا",
+      "verseTransliteration": "Ve mâ kâne li mu’minin ve lâ mu’minetin izâ kadallâhu ve resûluhu emren en yekûne lehumul hıyeretu min emrihim, ve men ya’sıllâhe ve resûlehu fe kad dalle dalâlen mubînâ(mubînen).",
+      "verseMeaning": "Allah ve resulü bir işte hüküm verdiklerinde, inanmış bir erkekle inanmış bir kadının, işlerini kendi isteklerine göre belirleme hakları yoktur. Allah´a ve resulüne isyan eden, açık bir sapıklığa batıp gitmiş demektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 33,
+      "ayah": 37,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "kesince",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ أَنْ تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لَا يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ إِذَا قَضَوْا مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+      "verseTransliteration": "Ve iz tekûlu lillezî en’amallâhu aleyhi ve en’amte aleyhi emsik aleyke zevceke vettekıllâh ve tuhfî fî nefsike mallâhu mubdîhi ve tahşen nâs(nâse), vallâhu ehakku en tahşâh(tahşâhu), fe lemmâ kadâ zeydun minhâ vetaran zevvecnâ kehâ likey lâ yekûne alel mu’minîne haracun fî ezvâci ed’ıyâihim izâ kadav min hunne vetarâ(vetaran), ve kâne emrullâhi mef’ûlâ(mef’ûlen).",
+      "verseMeaning": "Hani sen Allah´ın nimetlendirdiği, senin de lütufta bulunduğun kişiye \"Eşini yanında tut, Allah´tan kork!\" diyordun ama, Allah´ın açıklayacağı birşeyi de içinde saklıyordun; insanlardan çekiniyordun. Oysaki kendisinden korkmana Allah daha layıktır. Zeyd o kadından ilişiğini kesince onu sana nikâhladık ki, evlatlıkları eşleriyle ilişkilerini kestiklerinde, müminler için o kadınlarla evlenmede bir güçlük olmasın. Zaten Allah´ın emri yerine getirilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 33,
+      "ayah": 37,
+      "formInAyah": "قَضَوْا",
+      "transliteration": "ḳaDev",
+      "gloss": "kestikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ أَنْ تَخْشَاهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَيْ لَا يَكُونَ عَلَى الْمُؤْمِنِينَ حَرَجٌ فِي أَزْوَاجِ أَدْعِيَائِهِمْ إِذَا قَضَوْا مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+      "verseTransliteration": "Ve iz tekûlu lillezî en’amallâhu aleyhi ve en’amte aleyhi emsik aleyke zevceke vettekıllâh ve tuhfî fî nefsike mallâhu mubdîhi ve tahşen nâs(nâse), vallâhu ehakku en tahşâh(tahşâhu), fe lemmâ kadâ zeydun minhâ vetaran zevvecnâ kehâ likey lâ yekûne alel mu’minîne haracun fî ezvâci ed’ıyâihim izâ kadav min hunne vetarâ(vetaran), ve kâne emrullâhi mef’ûlâ(mef’ûlen).",
+      "verseMeaning": "Hani sen Allah´ın nimetlendirdiği, senin de lütufta bulunduğun kişiye \"Eşini yanında tut, Allah´tan kork!\" diyordun ama, Allah´ın açıklayacağı birşeyi de içinde saklıyordun; insanlardan çekiniyordun. Oysaki kendisinden korkmana Allah daha layıktır. Zeyd o kadından ilişiğini kesince onu sana nikâhladık ki, evlatlıkları eşleriyle ilişkilerini kestiklerinde, müminler için o kadınlarla evlenmede bir güçlük olmasın. Zaten Allah´ın emri yerine getirilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 34,
+      "ayah": 14,
+      "formInAyah": "قَضَيْنَا",
+      "transliteration": "ḳaDeynā",
+      "gloss": "hükmettiğimiz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِ إِلَّا دَابَّةُ الْأَرْضِ تَأْكُلُ مِنْسَأَتَهُ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ الْجِنُّ أَنْ لَوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا لَبِثُوا فِي الْعَذَابِ الْمُهِينِ",
+      "verseTransliteration": "Fe lemmâ kadaynâ aleyhil mevte mâ dellehum alâ mevtihî illâ dâbbetul ardı te’kulu minseeteh(minseetehu), fe lemmâ harre tebeyyenetil cinnu en lev kânû ya’lemûnel gaybe mâ lebisû fîl azâbil muhîn(muhîni).",
+      "verseMeaning": "Sonunda, Süleyman için ölüm hükmünü verdiğimizde, onun ölümünü, değneğini yiyen dâbbetül arzdan/ağaç kurtçuğundan başkası onlara göstermedi. Süleyman yere yığılınca, açıkça anlaşıldı ki, eğer cinler gaybı bilmiş olsalardı, o alçaltıcı azap içinde bekleyip durmazlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 35,
+      "ayah": 36,
+      "formInAyah": "يُقْضَىٰ",
+      "transliteration": "yuḳDā",
+      "gloss": "hükmedilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُمْ مِنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورٍ",
+      "verseTransliteration": "Vellezîne keferû lehum nâru cehennem(cehenneme), lâ yukdâ aleyhim fe yemûtû ve lâ yuhaffefu anhum min azâbihâ, kezâlike neczî kulle kefûr(kefûrin).",
+      "verseMeaning": "İnkâr edenlere de cehennem ateşi var. Ne haklarında hüküm verilir ki ölsünler ne de azapları hafifletilir. İşte böyle cezalandırırız tüm nankörleri biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 39,
+      "ayah": 42,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "hükmettiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا ۖ فَيُمْسِكُ الَّتِي قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْأُخْرَىٰ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Allâhu yeteveffel enfuse hîne mevtihâ velletî lem temut fî menâmihâ, fe yumsikulletî kadâ aleyhel mevte ve yursilul uhrâ ilâ ecelin musemmâ(musemmen), inne fî zâlike le âyâtin li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Allah, canları, ölümleri sırasında alır, ölmeyenleri de uykuları sırasında. Sonra, haklarında ölüm hükmü verdiklerini alıkoyar; ötekileri, belirlenen bir süreye kadar salıverir. Bunda, iyice düşünen bir toplum için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 39,
+      "ayah": 69,
+      "formInAyah": "وَقُضِيَ",
+      "transliteration": "ve ḳuDiye",
+      "gloss": "ve hükmedilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَشْرَقَتِ الْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَابُ وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Ve eşrekatil ardu bi nûri rabbihâ ve vudıal kitâbu ve cîe bin nebiyyîne veş şuhedâi ve kudıye beynehum bil hakkı ve hum lâ yuzlemûn(yuzlemûne).",
+      "verseMeaning": "Yeryüzü, Rabbinin nuruyla parıldamış, Kitap ortaya konmuş, peygamberler, tanıklar getirilip aralarında hakla hüküm verilmiştir. Onlar asla haksızlığa uğratılmazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 39,
+      "ayah": 75,
+      "formInAyah": "وَقُضِيَ",
+      "transliteration": "ve ḳuDiye",
+      "gloss": "ve hükmedilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَتَرَى الْمَلَائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Ve terel melâikete hâffîne min havlil arşı yusebbihûne bi hamdi rabbihim, ve kudıye beynehum bil hakkı ve kıylel hamdu lillâhi rabbil âlemîn(âlemîne).",
+      "verseMeaning": "Melekleri de arşın çevresini kuşatarak Rablerinin hamdiyle tespih eder halde görürsün. Aralarında hakla hüküm verilmiştir. Nihayet şöyle denir: \"Hamd alemlerin Rabbi´ne özgüdür!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 40,
+      "ayah": 20,
+      "formInAyah": "يَقْضِي",
+      "transliteration": "yeḳDī",
+      "gloss": "hükmeder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاللَّهُ يَقْضِي بِالْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لَا يَقْضُونَ بِشَيْءٍ ۗ إِنَّ اللَّهَ هُوَ السَّمِيعُ الْبَصِيرُ",
+      "verseTransliteration": "Vallâhu yakdî bil hakk(hakkı), vellezîne yed’ûne min dûnihî lâ yakdûne bi şey’in, innallâhe huves semîul basîr(basîru).",
+      "verseMeaning": "Allah, hak ile hükmeder! O´nun dışında yakardıkları ise hiçbir şeyle hükmedemezler. Allah´tır mutlak Semî´, mutlak Basîr..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 40,
+      "ayah": 20,
+      "formInAyah": "يَقْضُونَ",
+      "transliteration": "yeḳDūne",
+      "gloss": "hüküm veremezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاللَّهُ يَقْضِي بِالْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لَا يَقْضُونَ بِشَيْءٍ ۗ إِنَّ اللَّهَ هُوَ السَّمِيعُ الْبَصِيرُ",
+      "verseTransliteration": "Vallâhu yakdî bil hakk(hakkı), vellezîne yed’ûne min dûnihî lâ yakdûne bi şey’in, innallâhe huves semîul basîr(basîru).",
+      "verseMeaning": "Allah, hak ile hükmeder! O´nun dışında yakardıkları ise hiçbir şeyle hükmedemezler. Allah´tır mutlak Semî´, mutlak Basîr..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 40,
+      "ayah": 68,
+      "formInAyah": "قَضَىٰ",
+      "transliteration": "ḳaDā",
+      "gloss": "hükmettiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هُوَ الَّذِي يُحْيِي وَيُمِيتُ ۖ فَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Huvellezî yuhyî ve yumît(yumîtu), fe izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "O, O´dur ki, hem hayat veriyor hem öldürüyor. Bir iş ve oluşa hükmedince, ona sadece \"Ol!\" der; o hemen oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 40,
+      "ayah": 78,
+      "formInAyah": "قُضِيَ",
+      "transliteration": "ḳuDiye",
+      "gloss": "yerine getirilir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ مِنْهُمْ مَنْ قَصَصْنَا عَلَيْكَ وَمِنْهُمْ مَنْ لَمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَنْ يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ ۚ فَإِذَا جَاءَ أَمْرُ اللَّهِ قُضِيَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ",
+      "verseTransliteration": "Ve lekad erselnâ rusulen min kablike minhum men kasasnâ aleyke ve minhum men lem naksus aleyk(aleyke), ve mâ kâne li resûlin en ye’tiye bi âyetin illâ bi iznillâh(iznillâhi), fe izâ câe emrullâhi kudıye bil hakkı ve hasire hunâlikel mubtılûn(mubtılûne).",
+      "verseMeaning": "Yemin olsun, biz senden önce de resuller gönderdik. Onların bir kısmının hayat ve hatırasını sana anlattık, bir kısmının hayat ve hatırasından sana bahsetmedik. Hiçbir resulün, Allah´ın izni olmaksızın herhangi bir mucize getirmesi söz konusu olamaz. Allah´ın emri geldiğinde, hakla hükmedilir ve gerçeği hükümsüz kılmaya çalışanlar orada hüsrana uğrarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 41,
+      "ayah": 12,
+      "formInAyah": "فَقَضَاهُنَّ",
+      "transliteration": "feḳaDāhunne",
+      "gloss": "böylece onları yaptı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ وَأَوْحَىٰ فِي كُلِّ سَمَاءٍ أَمْرَهَا ۚ وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+      "verseTransliteration": "Fe kadâhunne seb’a semâvâtin fî yevmeyni ve evhâ fî kulli semâin emrehâ ve zeyyennes semâed dunyâ bi mesâbîha ve hıfzâ(hıfzen), zâlike takdîrul azîzil alîm(alîmi).",
+      "verseMeaning": "Böylece onları, iki günde yedi gök halinde takdir edip her göğe kendi iş ve oluşunu vahyetti. Ve biz, arza en yakın göğü kandillerle ve bir korumayla donattık. İşler bunlar Azîz ve Alîm olanın takdiridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 41,
+      "ayah": 45,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "derhal hüküm verilirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ",
+      "verseTransliteration": "Ve lekad âteynâ mûsel kitâbe fahtulife fîh(fîhi), ve lev lâ kelimetun sebekat min rabbike le kudıye beynehum, ve innehum lefî şekkin minhu murîb(murîbin).",
+      "verseMeaning": "Yemin olsun, biz Mûsa´ya Kitap´ı verdik de onda ihtilafa düşüldü! Eğer Rabbinden bir söz geçmiş olmasaydı, aralarında iş mutlaka bitirilirdi. Hiç kuşkusuz, onlar, Kur´an hakkında, sürekli işkillendiren bir kuşku içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 42,
+      "ayah": 14,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "hüküm verilirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا تَفَرَّقُوا إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ إِلَىٰ أَجَلٍ مُسَمًّى لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّ الَّذِينَ أُورِثُوا الْكِتَابَ مِنْ بَعْدِهِمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ",
+      "verseTransliteration": "Ve mâ teferrekû illâ min ba’di mâ câehumul ilmu bagyen beynehum, ve lev lâ kelimetun sebekat min rabbike ilâ ecelin musemmen le kudıye beynehum, ve innellezîne ûrisûl kitâbe min ba’dihim le fî şekkin minhu murîb(murîbin).",
+      "verseMeaning": "Kendilerine ilim geldikten sonra, sadece aralarındaki kıskançlık ve azgınlık yüzünden fırkalara bölündüler. Eğer belli bir süreye kadar erteleme sözü Rabbinden gelmiş olmasaydı, aralarında iş mutlaka bitirilirdi. Onların ardından Kitap´a mirasçı olanlar da onun hakkında, işkillendiren bir kuşku içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 42,
+      "ayah": 21,
+      "formInAyah": "لَقُضِيَ",
+      "transliteration": "leḳuDiye",
+      "gloss": "derhal hüküm verilirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهُ ۚ وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Em lehum şurekâu şeraû lehum mined dîni mâ lem ye’zen bihillâh(bihillâhu), ve lev lâ kelimetul faslı le kudiye beynehum, ve innez zâlimîne lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Yoksa onların, dinden, Allah´ın izin vermediği şeyi kendileri için yasalaştıran ortakları mı var? Kesin ayrıma ilişkin söz olmasaydı, aralarında hüküm mutlaka verilirdi. O zalimler var ya, onlar için acıklı bir azap öngörülmüştür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 43,
+      "ayah": 77,
+      "formInAyah": "لِيَقْضِ",
+      "transliteration": "liyeḳDi",
+      "gloss": "hüküm versin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُمْ مَاكِثُونَ",
+      "verseTransliteration": "Ve nâdev yâ mâliku li yakdi aleynâ rabbuk(rabbuke), kâle innekum mâkisûn(mâkisûne).",
+      "verseMeaning": "Şöyle seslenecekler: \"Ey Mâlik! Rabbin işimizi bitirversin.\" O şöyle diyecek: \"Hep böyle kalacaksınız!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 45,
+      "ayah": 17,
+      "formInAyah": "يَقْضِي",
+      "transliteration": "yeḳDī",
+      "gloss": "hüküm verecektir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَآتَيْنَاهُمْ بَيِّنَاتٍ مِنَ الْأَمْرِ ۖ فَمَا اخْتَلَفُوا إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+      "verseTransliteration": "Ve âteynâhum beyyinâtin minel emr(emri), fe mahtelefû illâ min ba’di mâ câehumul ilmu bagyen beynehum, inne rabbeke yakdî beynehum yevmel kıyâmeti fî mâ kânû fîhi yahtelifûn(yahtelifûne).",
+      "verseMeaning": "Onlara, iş ve yönetime ilişkin açık seçik belgeler verdik. Onlar, kendilerine ilim geldikten sonra, aralarındaki azgınlık ve kıskançlık yüzünden ihtilafa düştüler. Hiç kuşkusuz, Rabbin, onlar arasında, tartışıp durdukları şeyle ilgili olarak kıyamet günü hüküm verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 46,
+      "ayah": 29,
+      "formInAyah": "قُضِيَ",
+      "transliteration": "ḳuDiye",
+      "gloss": "bitirildiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنْصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِمْ مُنْذِرِينَ",
+      "verseTransliteration": "Ve iz sarefnâ ileyke neferen minel cinni yestemiûnel kur’ân(kur’âne), fe lemmâ hadarûhu kâlû ensıtû, fe lemmâ kudıye vellev ilâ kavmihim munzirîn(munzirîne).",
+      "verseMeaning": "Bir zaman, cinlerden bir topluluğu, Kur´an´ı dinlemeleri için sana yöneltmiştik. Onu dinlemeye hazır hale geldiklerinde: \"Susup dinleyin!\" dediler. Dinleme bitirilince de uyarıcılar olarak kendi toplumlarına döndüler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 62,
+      "ayah": 10,
+      "formInAyah": "قُضِيَتِ",
+      "transliteration": "ḳuDiyeti",
+      "gloss": "kıldığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Fe izâ kudiyetıs salâtu fenteşirû fîl ardı vebtegû min fadlillâhi vezkurûllâhe kesîren leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Namaz kılınınca hemen yeryüzüne dağılın ve Allah´ın lütfundan nasibinizi arayın! Allah´ı çok anın ki, kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَضَىٰ",
+      "sura": 80,
+      "ayah": 23,
+      "formInAyah": "يَقْضِ",
+      "transliteration": "yeḳDi",
+      "gloss": "yerine getirmedi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+      "verseTransliteration": "Kellâ lemmâ yakdı mâ emerah(emerahu).",
+      "verseMeaning": "Hayır, hayır! O, O´nun kendisine emrettiğini hiç yerine getirmedi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّقْضِيّ",
+      "sura": 19,
+      "ayah": 21,
+      "formInAyah": "مَقْضِيًّا",
+      "transliteration": "meḳDiyyen",
+      "gloss": "karara bağlanarak",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا ۚ وَكَانَ أَمْرًا مَقْضِيًّا",
+      "verseTransliteration": "Kâle kezâlik(kezâliki), kâle rabbuki huve aleyye heyyin(heyyinun), ve li nec’alehû âyeten lin nâsi ve rahmeten minnâ, ve kâne emren makdıyyâ(makdıyyen).",
+      "verseMeaning": "Dedi: \"İşte böyle! Rabbin buyurdu ki: ´O benim için çok kolaydır. Böyle olması onu, insanlara bir mucize ve bizden bir rahmet yapmamız içindir. Hükme bağlanmış bir iştir bu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّقْضِيّ",
+      "sura": 19,
+      "ayah": 71,
+      "formInAyah": "مَقْضِيًّا",
+      "transliteration": "meḳDiyyen",
+      "gloss": "kesin",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَقْضِيًّا",
+      "verseTransliteration": "Ve in minkum illâ vâriduhâ, kâne alâ rabbike hatmen makdıyyâ(makdıyyen).",
+      "verseMeaning": "İçinizden oraya uğramayacak hiç kimse yoktur. Bu, Rabbin üzerinde kesinleşmiş bir hükümdür."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qDy"
+}

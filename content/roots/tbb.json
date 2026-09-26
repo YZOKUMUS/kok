@@ -1,0 +1,117 @@
+{
+  "id": "tbb",
+  "latinName": "Te-Be-Be",
+  "lettersArabic": "ت ب ب",
+  "meanings": [
+    "Kurumak, yok olmak, sürekli kötü durum içerisinde kalmak, kötü durumun değişmemesi, sürekli hüsran, zarar-ziyanda kalıcı olmak, daima kayıp",
+    "ve mahrum olmak."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "تَبَاب",
+      "count": 1
+    },
+    {
+      "formArabic": "تَبَّ",
+      "count": 2
+    },
+    {
+      "formArabic": "تَتْبِيب",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَبَاب",
+      "sura": 40,
+      "ayah": 37,
+      "formInAyah": "تَبَابٍ",
+      "transliteration": "tebābin",
+      "gloss": "hüsrandan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَسْبَابَ السَّمَاوَاتِ فَأَطَّلِعَ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ كَاذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِي تَبَابٍ",
+      "verseTransliteration": "Esbâbes semâvâti fe attalia ilâ ilâhi mûsâ ve innî le ezunnuhu kâzibâ(kâziben), ve kezâlike zuyyine li fir’avne sûu amelihî ve sudde anis sebîl(sebîli), ve mâ keydu fir’avne illâ fî tebâb(tebâbin).",
+      "verseMeaning": "\"Göklerin sebeplerine ulaşırsam, Mûsa´ın tanrısına, da ulaşırım. Ben onun yalancı biri olduğunu düşünüyorum.\" Firavun´a, yaptığı işin kötülüğü bu şekilde süslü gösterildi de yoldan saptırıldı. Firavun´un tuzağı hep kayıptadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَبَّ",
+      "sura": 111,
+      "ayah": 1,
+      "formInAyah": "تَبَّتْ",
+      "transliteration": "tebbet",
+      "gloss": "kurusun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "verseTransliteration": "Tebbet yedâ ebî lehebin ve tebb(tebbe).",
+      "verseMeaning": "Elleri kurusun Ebru Leheb´in; zaten kurudu ya!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَبَّ",
+      "sura": 111,
+      "ayah": 1,
+      "formInAyah": "وَتَبَّ",
+      "transliteration": "ve tebbe",
+      "gloss": "zaten kurudu da",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "verseTransliteration": "Tebbet yedâ ebî lehebin ve tebb(tebbe).",
+      "verseMeaning": "Elleri kurusun Ebru Leheb´in; zaten kurudu ya!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَتْبِيب",
+      "sura": 11,
+      "ayah": 101,
+      "formInAyah": "تَتْبِيبٍ",
+      "transliteration": "tetbībin",
+      "gloss": "kayıplarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا ظَلَمْنَاهُمْ وَلَٰكِنْ ظَلَمُوا أَنْفُسَهُمْ ۖ فَمَا أَغْنَتْ عَنْهُمْ آلِهَتُهُمُ الَّتِي يَدْعُونَ مِنْ دُونِ اللَّهِ مِنْ شَيْءٍ لَمَّا جَاءَ أَمْرُ رَبِّكَ ۖ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ",
+      "verseTransliteration": "Ve mâ zalemnâhum ve lâkin zalemû enfusehum fe mâ agnet anhum âlihetuhumulletî yed’ûne min dûnillâhi min şey’in lemmâ câe emru rabbik(rabbike), ve mâ zâdûhum gayre tetbîb(tetbîbin).",
+      "verseMeaning": "Onlara biz zulmetmedik. Ama onlar kendilerine zulmettiler. Rabbinin emri geldiğinde, Allah´ı bırakıp da yakardıkları ilahları kendilerine hiçbir yarar sağlamadı. İlahları onların sadece hasar ve hüsranlarını artırdı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=tbb"
+}

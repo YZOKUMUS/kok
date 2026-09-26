@@ -1,0 +1,139 @@
+{
+  "id": "lyn",
+  "latinName": "Lam-Ye-Nun",
+  "lettersArabic": "ل ي ن",
+  "meanings": [
+    "Nazik olmak, yumuşak davranmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "أَلَ",
+      "count": 1
+    },
+    {
+      "formArabic": "لِّينَة",
+      "count": 1
+    },
+    {
+      "formArabic": "لَّيِّن",
+      "count": 1
+    },
+    {
+      "formArabic": "لِن",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَلَ",
+      "sura": 34,
+      "ayah": 10,
+      "formInAyah": "وَأَلَنَّا",
+      "transliteration": "ve elennā",
+      "gloss": "ve yumuşattık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ آتَيْنَا دَاوُودَ مِنَّا فَضْلًا ۖ يَا جِبَالُ أَوِّبِي مَعَهُ وَالطَّيْرَ ۖ وَأَلَنَّا لَهُ الْحَدِيدَ",
+      "verseTransliteration": "Ve lekad âteynâ dâvûde minnâ fadlâ(fadlen), yâ cibâlu evvibî meahu vet tayr(tayre), ve elennâ lehul hadîd(hadîde).",
+      "verseMeaning": "Yemin olsun, biz, Dâvud´a katımızdan bir lütufta bulunduk. \"Ey dağlar, onunla birlikte tespih edin ve ey kuşlar siz de.\" dedik. Ve onun için demiri yumuşattık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لِّينَة",
+      "sura": 59,
+      "ayah": 5,
+      "formInAyah": "لِينَةٍ",
+      "transliteration": "līnetin",
+      "gloss": "bir hurma ağacını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ",
+      "verseTransliteration": "Mâ kata’tum min lînetin ev terektumûhâ kâimeten alâ usûlihâ fe bi iznillâhi ve li yuhziyel fâsikîn(fâsikîne).",
+      "verseMeaning": "Bir hurma ağacını kestiniz, yahut onu kökleri üzerine dikili bıraktınızsa, bu Allah´ın izniyledir; yoldan çıkmışları rezil etmesi içindir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لَّيِّن",
+      "sura": 20,
+      "ayah": 44,
+      "formInAyah": "لَيِّنًا",
+      "transliteration": "leyyinen",
+      "gloss": "yumuşak",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَقُولَا لَهُ قَوْلًا لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+      "verseTransliteration": "Fe kûlâ lehu kavlen leyyinen leallehu yetezekkeru ev yahşâ.",
+      "verseMeaning": "\"Ona yumuşak ve tatlı bir sözle hitap edin; belki öğüt alır, yahut ürperir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لِن",
+      "sura": 3,
+      "ayah": 159,
+      "formInAyah": "لِنْتَ",
+      "transliteration": "linte",
+      "gloss": "sen yumuşak davrandın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+      "verseTransliteration": "Fe bimâ rahmetin minallâhi linte lehum, ve lev kunte fazzan galîzal kalbi lenfaddû min havlik(havlike), fa’fu anhum vestagfir lehum ve şâvirhum fîl emr(emri), fe izâ azamte fe tevekkel alâllâh(alâllâhi), innallâhe yuhibbul mutevekkilîn(mutevekkilîne).",
+      "verseMeaning": "Allah´tan bir rahmet sayesindedir ki, sen onlara yumuşak davrandın. Eğer kaba-saba, katı yürekli olsaydın senin çevrenden kesinlikle dağılır giderlerdi. O halde bağışla onları, af dile onlar için; iş ve yönetim konusunda da onlarla şûraya git. Bir kez azmettin mi de artık Allah´a güvenip dayan. Allah, tevekkül edenleri sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لِن",
+      "sura": 39,
+      "ayah": 23,
+      "formInAyah": "تَلِينُ",
+      "transliteration": "telīnu",
+      "gloss": "yumuşar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ اللَّهِ ۚ ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ ۚ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+      "verseTransliteration": "Allâhu nezzele ahsenel hadîsi kitâben muteşâbihen mesâniye takşaırru minhu culûdullezîne yahşevne rabbehum, summe telînu culûduhum ve kulûbuhum ilâ zikrillâh(zikrillâhi), zâlike hudallâhi yehdî bihî men yeşâu, ve men yudlilillâhu fe mâ lehu min hâd(hâdin).",
+      "verseMeaning": "Allah, sözün en güzelini, birbirine benzer iç içe ikili manalar ifade eden bir Kitap halinde indirmiştir. Rablerinden korkanların ondan derileri ürperir. Sonra da hem derileri hem de kalpleri, Allah´ın Zikri/Kur´an´ı karşısında yumuşar. Bu, Allah´ın kılavuzudur ki, onunla dilediğini/dileyeni hidayete erdirir. Allah´ın saptırdığına gelince, ona kılavuzluk edecek yoktur."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=lyn"
+}

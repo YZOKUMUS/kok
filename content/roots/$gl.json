@@ -1,0 +1,67 @@
+{
+  "id": "$gl",
+  "latinName": "Şin-Gayn-Lam",
+  "lettersArabic": "ش غ ل",
+  "meanings": [
+    "meşgul etmek, tutmak, shughlun - meslek, iş, istihdam"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "شُغُل",
+      "count": 1
+    },
+    {
+      "formArabic": "شَغَلَتْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شُغُل",
+      "sura": 36,
+      "ayah": 55,
+      "formInAyah": "شُغُلٍ",
+      "transliteration": "şuğulin",
+      "gloss": "bir meşguliyet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ",
+      "verseTransliteration": "İnne ashâbel cennetil yevme fî şugulin fâkihûn(fâkihûne).",
+      "verseMeaning": "O gün cennet halkı bir uğraş içinde eğlenip ferahlamaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَغَلَتْ",
+      "sura": 48,
+      "ayah": 11,
+      "formInAyah": "شَغَلَتْنَا",
+      "transliteration": "şeğaletnā",
+      "gloss": "bizi alıkoydu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَنْ يَمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "verseTransliteration": "Se yekûlu lekel muhallefûne minel a’râbi şegaletnâ emvâlunâ ve ehlûnâ festagfir lenâ, yekûlûne bi elsinetihim mâ leyse fî kulûbihim, kul fe men yemliku lekum minallâhi şey’en in erâde bikum darren ev erâde bikum nef’â(nef’en), bel kânallâhu bi mâ ta’melûne habîrâ(habîren).",
+      "verseMeaning": "Bedevilerden, geri bırakılmış olanlar sana şöyle diyecekler: \"Bizleri, mallarımız ve ailelerimiz oyaladı. O halde bizim için Allah´tan af dile.\" Onlar, kalplerinde olmayan şeyi dilleriyle söylüyorlar. De ki: \"Allah size bir zarar dilerse, yahut bir yarar murat ederse, O´nun sizin için dilediğine kim engel olabilir?\" Doğrusu şu ki, Allah, sizin yaptıklarınızdan haberdardır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24gl"
+}

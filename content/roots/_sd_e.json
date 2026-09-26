@@ -1,0 +1,150 @@
+{
+  "id": "SdE",
+  "latinName": "Sad-Dal-Ayn",
+  "lettersArabic": "ص د ع",
+  "meanings": [
+    "Açıkça söylemek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "صَّدْع",
+      "count": 1
+    },
+    {
+      "formArabic": "مُّتَصَدِّع",
+      "count": 1
+    },
+    {
+      "formArabic": "يُصَدَّعُ",
+      "count": 1
+    },
+    {
+      "formArabic": "يَصَّدَّعُ",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱصْدَعْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَّدْع",
+      "sura": 86,
+      "ayah": 12,
+      "formInAyah": "الصَّدْعِ",
+      "transliteration": "S-Sad’ǐ",
+      "gloss": "çatlayan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+      "verseTransliteration": "Vel ardı zâtis sad’(sad’ı).",
+      "verseMeaning": "Çatlayışlarla/yarılışlarla dolu yere de yemin olsun,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّتَصَدِّع",
+      "sura": 59,
+      "ayah": 21,
+      "formInAyah": "مُتَصَدِّعًا",
+      "transliteration": "muteSaddiǎn",
+      "gloss": "parçalanmış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tefa’ul Kalıbı",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Lev enzelnâ hâzel kur’âne alâ cebelin le reeytehu hâşian mutesaddian min haşyetillâh(haşyetillâhi), ve tilkel emsâlu nadribuhâ lin nâsi leallehum yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Eğer biz bu Kur´an´ı bir dağın üzerine indirseydik, her halde sen onu huşû ile boynunu bükmüş, çatlayıp yarılmış görürdün. Biz bu örnekleri insanlara hep veriyoruz ki, inceden inceye düşünebilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُصَدَّعُ",
+      "sura": 56,
+      "ayah": 19,
+      "formInAyah": "يُصَدَّعُونَ",
+      "transliteration": "yuSaddeǔne",
+      "gloss": "başları ağrıtmayan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ",
+      "verseTransliteration": "Lâ yusaddeûne anhâ ve lâ yunzifûn(yunzifûne).",
+      "verseMeaning": "Ne başları döner ondan ne de akılları karışır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصَّدَّعُ",
+      "sura": 30,
+      "ayah": 43,
+      "formInAyah": "يَصَّدَّعُونَ",
+      "transliteration": "yeSSaddeǔne",
+      "gloss": "bölük bölük ayrılırlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
+      "verseTransliteration": "Fe ekim vecheke lid dînil kayyimi min kabli en ye’tiye yevmun lâ meredde lehu minallâhi yevmeizin yassaddeûn(yassaddeûne).",
+      "verseMeaning": "Allah tarafından ertelenmesi söz konusu olmayan bir günden önce, yüzünü güçlü ve eskimez dine döndür. O gün herkes bölük bölük ayrılacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱصْدَعْ",
+      "sura": 15,
+      "ayah": 94,
+      "formInAyah": "فَاصْدَعْ",
+      "transliteration": "feSdeǎ’",
+      "gloss": "açıkça söyle",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+      "verseTransliteration": "Fasda’ bi mâ tu’meru ve a’rıd anil muşrikîn(muşrikîne).",
+      "verseMeaning": "Emrolunduğun şeyi, kafalarını çatlatırcasına tebliğ et; şirke bulaşmışlara aldırma."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=SdE"
+}

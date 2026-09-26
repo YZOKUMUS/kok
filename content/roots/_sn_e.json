@@ -1,0 +1,454 @@
+{
+  "id": "SnE",
+  "latinName": "Sad-Nun-Ayn",
+  "lettersArabic": "ص ن ع",
+  "meanings": [
+    "Yapmak, etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 20,
+  "lemmas": [
+    {
+      "formArabic": "صَنَعُ",
+      "count": 15
+    },
+    {
+      "formArabic": "صُنْع",
+      "count": 2
+    },
+    {
+      "formArabic": "صَنْعَة",
+      "count": 1
+    },
+    {
+      "formArabic": "مَصَانِع",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱصْطَنَعْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 5,
+      "ayah": 14,
+      "formInAyah": "يَصْنَعُونَ",
+      "transliteration": "yeSneǔne",
+      "gloss": "yapmakta",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ فَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ إِلَىٰ يَوْمِ الْقِيَامَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ اللَّهُ بِمَا كَانُوا يَصْنَعُونَ",
+      "verseTransliteration": "Ve minellezîne kâlû innâ nasârâ ehaznâ mîsâkahum fe nesû hazzan mimmâ zukkirû bihî fe agraynâ beynehumul adâvete vel bagdâe ilâ yevmil kıyâmeh(kıyâmeti) ve sevfe yunebbiuhumullâhu bimâ kânû yasnaûn(yasnaûne).",
+      "verseMeaning": "\"Biz Hıristiyanlarız!\" diyenlerden de mîsaklarını almıştık. Onlar da öğütlenmek üzere çağırıldıkları şeyden nasiplenmeyi unuttular. Bu yüzden, aralarına kıyamete değin düşmanlık ve şiddetli nefret saldık. Sınaat/teknoloji olarak ürettikleri şeylerin ne olduğunu Allah onlara yakında haber verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 5,
+      "ayah": 63,
+      "formInAyah": "يَصْنَعُونَ",
+      "transliteration": "yeSneǔne",
+      "gloss": "yapmakta",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَوْلَا يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالْأَحْبَارُ عَنْ قَوْلِهِمُ الْإِثْمَ وَأَكْلِهِمُ السُّحْتَ ۚ لَبِئْسَ مَا كَانُوا يَصْنَعُونَ",
+      "verseTransliteration": "Lev lâ yenhâhumur rabbaniyyûne vel ahbâru an kavlihimul isme ve eklihimus suht(suhti) lebi’se mâ kânû yasneûn(yasneûne).",
+      "verseMeaning": "Ruhbanları ve hahamları onları, günah oluşturan sözlerinden, haram yemekten alıkoysalardı olmaz mıydı? Ne kötüdür onların sınaat/teknoloji olarak üretmekte oldukları."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 7,
+      "ayah": 137,
+      "formInAyah": "يَصْنَعُ",
+      "transliteration": "yeSneǔ",
+      "gloss": "yapageldiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَوْرَثْنَا الْقَوْمَ الَّذِينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ الْأَرْضِ وَمَغَارِبَهَا الَّتِي بَارَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ الْحُسْنَىٰ عَلَىٰ بَنِي إِسْرَائِيلَ بِمَا صَبَرُوا ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا كَانُوا يَعْرِشُونَ",
+      "verseTransliteration": "Ve evresnel kavmellezîne kânû yustad’afûne meşârikal ardı ve megâribehelletî bâreknâ fîhâ, ve temmet kelimetu rabbikel husnâ alâ benî isrâîle bi mâ saberû, ve demmernâ mâ kâne yasnau fir’avnu ve kavmuhu ve mâ kânû ya’rişûn(ya’rişûne).",
+      "verseMeaning": "Ezilip itilmekte olan topluluğu da içine bereketler doldurduğumuz toprağın doğularına ve batılarına mirasçı kıldık. Rabbinin, İsrailoğullarına verdiği güzel söz, sabretmeleri yüzünden hedefine vardı. Firavun ve toplumunun sanayi olarak meydana getirdiklerini de dikip yükselttikleri sarayları da yere geçirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 11,
+      "ayah": 16,
+      "formInAyah": "صَنَعُوا",
+      "transliteration": "Saneǔ",
+      "gloss": "işledikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ ۖ وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Ulâikellezîne leyse lehum fil âhıreti illen nâr(nâru) ve habita mâ sanaû fîhâ ve bâtılun mâ kânû ya´melûn(ya´melûne).",
+      "verseMeaning": "Öyleleridir ki bunlar, âhirette kendileri için ateşten başkası yoktur. Sanayi olarak ürettikleri, orada işe yaramaz olmuştur. Yapıp ettikleri de bâtıl hale gelmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 11,
+      "ayah": 37,
+      "formInAyah": "وَاصْنَعِ",
+      "transliteration": "veSneǐ",
+      "gloss": "ve yap",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۚ إِنَّهُمْ مُغْرَقُونَ",
+      "verseTransliteration": "Vasnaıl fulke bi a’yuninâ ve vahyinâ ve lâ tuhâtıbnî fîllezîne zalemû, innehum mugrekûn(mugrekûne).",
+      "verseMeaning": "Vahyimize bağlı olarak gözlerimizin önünde gemiyi yap. Ve zulmedenler hakkında benimle karşılıklı laf edip durma. Onlar, mutlaka boğulacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 11,
+      "ayah": 38,
+      "formInAyah": "وَيَصْنَعُ",
+      "transliteration": "ve yeSneǔ",
+      "gloss": "ve yapıyordu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِنْ قَوْمِهِ سَخِرُوا مِنْهُ ۚ قَالَ إِنْ تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنْكُمْ كَمَا تَسْخَرُونَ",
+      "verseTransliteration": "Ve yasneul fulke ve kullemâ merre aleyhi meleun min kavmihi sehırû minh(minhu), kâle in tesharû minnâ fe innâ nesharu minkum kemâ tesharûn(tesharûne).",
+      "verseMeaning": "Gemiyi yapıyordu. Toplumundan herhangi bir grup yanından geçtikçe onunla alay ediyorlardı. Dedi ki Nûh \"Bizimle alay ediyorsanız, biz de sizinle alay edeceğiz. Tıpkı sizin eğlendiğiniz gibi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 13,
+      "ayah": 31,
+      "formInAyah": "صَنَعُوا",
+      "transliteration": "Saneǔ",
+      "gloss": "yaptıkları işler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ ۗ بَلْ لِلَّهِ الْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا أَنْ لَوْ يَشَاءُ اللَّهُ لَهَدَى النَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِنْ دَارِهِمْ حَتَّىٰ يَأْتِيَ وَعْدُ اللَّهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ",
+      "verseTransliteration": "Ve lev enne kur’ânen suyyiret bihil cibâlu ev kuttıat bihil ardu ev kullime bihil mevtâ, bel lillâhil emru cemîâ(cemîan), e fe lem ye’yesillezîne âmenû en lev yeşâullâhu le heden nâse cemîâ(cemîan),ve lâ yezâlullezîne keferû tusîbuhum bi mâ sanaû kâriatun ev tehullu karîben min dârihim hattâ ye’tiye va’dullâh(va’dullâhi), innallâhe lâ yuhliful mîâd(mîâde).",
+      "verseMeaning": "Kendisiyle, dağların yürütüldüğü yahut yerkürenin parçalandığı yahut ölülerin konuşturulduğu bir Kur´an mı olsaydı! Hayır, iş ve oluşun tümü Allah´ındır. İman edenler hâlâ ümidi kesip anlamadılar mı ki, Allah dileseydi elbette insanlara tümden hidayet verirdi. O küfre sapanlara gelince, sanayi olarak ürettiklerinin sonucu halinde başlarına gülle, tokmak türünden belalar inmeye devam edecek yahut o belalar onların yurtlarının yakınına konacak. Ta, Allah´ın vaadi gelinceye değin. Allah, vaadine asla ters düşmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 16,
+      "ayah": 112,
+      "formInAyah": "يَصْنَعُونَ",
+      "transliteration": "yeSneǔne",
+      "gloss": "yapıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِنْ كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا يَصْنَعُونَ",
+      "verseTransliteration": "Ve daraballâhu meselen karyeten kânet âmineten mutmainneten ye’tîhâ rızkuhâ ragaden min kulli mekânin fe keferet bi en’umillâhi fe ezâkahallâhu libâsel cûi vel havfi bimâ kânû yasnaûn(yasnaûne).",
+      "verseMeaning": "Allah, şu ülkeyi / medeniyeti de örnek vermiştir: Güvenli, mutlu, huzurlu idi; rızkı her yandan bol bol gelirdi. Sonra onlar Allah´ın nimetlerine nankörlük ettiler de Allah kendilerine, sanayi olarak ürettikleri şeyler yüzünden açlık ve korku elbisesini/birlikteliğini/karmaşasını tattırdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 20,
+      "ayah": 39,
+      "formInAyah": "وَلِتُصْنَعَ",
+      "transliteration": "velituSneǎ",
+      "gloss": "yetiştirilmen için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِي وَعَدُوٌّ لَهُ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنِّي وَلِتُصْنَعَ عَلَىٰ عَيْنِي",
+      "verseTransliteration": "Enıkzifîhi fît tâbûti fakzifîhi fîl yemmi felyulkıhil yemmu bis sâhıli ye’huzhu aduvvun lî ve aduvvun leh(lehu), ve elkaytu aleyke mehabbeten minnî ve li tusnea alâ aynî.",
+      "verseMeaning": "\"Onu tabuta koyup ırmağa bırak! Irmak onu sahile götürsün ki, benim de düşmanım, onun da düşmanı olan biri onu alsın. Üzerine kendimden bir sevgi bıraktım ki, gözümün önünde yetiştirilesin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 20,
+      "ayah": 69,
+      "formInAyah": "صَنَعُوا",
+      "transliteration": "Saneǔ",
+      "gloss": "onların yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ",
+      "verseTransliteration": "Ve elkı mâ fî yemînike telkaf mâ sanaû, innemâ sanaû keydu sâhır(sâhırin), ve lâ yuflihus sâhıru haysu etâ.",
+      "verseMeaning": "\"Sağ elindekini yere bırak! Onların, sanayi olarak ortaya çıkardıklarını yalayıp yutsun. Onların sanayi olarak ürettikleri sadece bir büyücünün hilesidir. Büyücü ise nereye gitse iflah etmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 20,
+      "ayah": 69,
+      "formInAyah": "صَنَعُوا",
+      "transliteration": "Saneǔ",
+      "gloss": "onların yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ",
+      "verseTransliteration": "Ve elkı mâ fî yemînike telkaf mâ sanaû, innemâ sanaû keydu sâhır(sâhırin), ve lâ yuflihus sâhıru haysu etâ.",
+      "verseMeaning": "\"Sağ elindekini yere bırak! Onların, sanayi olarak ortaya çıkardıklarını yalayıp yutsun. Onların sanayi olarak ürettikleri sadece bir büyücünün hilesidir. Büyücü ise nereye gitse iflah etmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 23,
+      "ayah": 27,
+      "formInAyah": "اصْنَعِ",
+      "transliteration": "Sneǐ",
+      "gloss": "yap",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَأَوْحَيْنَا إِلَيْهِ أَنِ اصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ ۙ فَاسْلُكْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۖ إِنَّهُمْ مُغْرَقُونَ",
+      "verseTransliteration": "Fe evhaynâ ileyhi enısnaıl fulke bi a’yuninâ ve vahyinâ fe izâ câe emrunâ ve fâret tennûru fesluk fîhâ min kullin zevceynisneyni ve ehleke illâ men sebeka aleyhil kavlu minhum, ve lâ tuhâtıbnî fîllezîne zalemû, innehum mugrakûn(mugrakûne).",
+      "verseMeaning": "Bunun üzerine biz, Nûh´a şöyle vahyettik: \"Gözlerimizin önünde ve vahyimize uygun olarak gemiyi yap. Emrimiz gelip tandır kaynayınca, ailenle birlikte her türden iki çifti gemiye sok. İçlerinden, haklarında daha önce hüküm verilmiş olanları dışta bırak. Zulmetmiş olanlar hakkında bana yakarıp durma. Onlar kesinlikle boğulacaklardır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 24,
+      "ayah": 30,
+      "formInAyah": "يَصْنَعُونَ",
+      "transliteration": "yeSneǔne",
+      "gloss": "her yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ",
+      "verseTransliteration": "Kul lil mu’minîne yaguddû min ebsârihim ve yahfezû furûcehum, zâlike ezkâ lehum, innellâhe habîrun bimâ yasneûn(yasneûne).",
+      "verseMeaning": "Mümin erkeklere söyle: Bakışlarını yere indirsinler. Cinsel organlarını/ırzlarını korusunlar. Bu onlar için daha arındırıcıdır. Kuşkusuz, Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 29,
+      "ayah": 45,
+      "formInAyah": "تَصْنَعُونَ",
+      "transliteration": "teSneǔne",
+      "gloss": "yapıyorsunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "verseTransliteration": "Utlu mâ ûhıye ileyke minel kitâbi ve ekımıs salât(salâte), innes salâte tenhâ anil fahşâi vel munker(munkeri), ve le zikrullâhi ekber(ekberu), vallâhu ya’lemu mâ tasneûn(tasneûne).",
+      "verseMeaning": "Kitap´tan sana vahyedileni oku! Namazı da kıl! Çünkü namaz, çirkinliklerden ve kötülüklerden alıkoyar. Elbette ki Allah´ın zikri/Kur´an´ı daha büyüktür! Allah, neler yaptığınızı biliyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنَعُ",
+      "sura": 35,
+      "ayah": 8,
+      "formInAyah": "يَصْنَعُونَ",
+      "transliteration": "yeSneǔne",
+      "gloss": "onların yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَفَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ فَرَآهُ حَسَنًا ۖ فَإِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍ ۚ إِنَّ اللَّهَ عَلِيمٌ بِمَا يَصْنَعُونَ",
+      "verseTransliteration": "E fe men zuyyine lehu sûu amelihî fe reâhu hasenâ(hasenen), fe innallâhe yudıllu men yeşâu ve yehdî men yeşâu, fe lâ tezheb nefsuke aleyhim haserât(haserâtin), innallâhe alîmun bimâ yesneûn(yesneûne).",
+      "verseMeaning": "Ya o kişi? Yaptıklarının kötülüğü kendisine allanıp pullanmış da onu güzel görüvermiş. Doğrusu şu: Allah dilediğini/dileyeni saptırır, dilediğini/dileyeni de doğruya ve güzele kılavuzlar. O halde canın onlar için üzüntülere dalmasın. Hiç kuşkusuz, Allah onların ürettiklerini/ortaya koydukları oyunları çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُنْع",
+      "sura": 18,
+      "ayah": 104,
+      "formInAyah": "صُنْعًا",
+      "transliteration": "Sun’ǎn",
+      "gloss": "işlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+      "verseTransliteration": "Ellezîne dalle sa’yuhum fîl hayâtid dunyâ ve hum yahsebûne ennehum yuhsinûne sun’â(sun’an).",
+      "verseMeaning": "O kimselerdir ki, dünya hayatındaki çabaları boşa gitmiştir de onlar sanayileşmeyi/işi hâlâ güzel yaptıklarını sanırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُنْع",
+      "sura": 27,
+      "ayah": 88,
+      "formInAyah": "صُنْعَ",
+      "transliteration": "Sun’ǎ",
+      "gloss": "yapısıdır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ ۚ صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ ۚ إِنَّهُ خَبِيرٌ بِمَا تَفْعَلُونَ",
+      "verseTransliteration": "Ve terel cibâle tahsebuhâ câmideten ve hiye temurru merres sehâb(sehâbi), sun’allâhillezî etkane kulle şey’(şey’in), innehu habîrun bimâ tef’alûn(tef’alûne).",
+      "verseMeaning": "Sen dağlara bakar da onları donuk, durgun görürsün. Oysaki onlar, bulutların dolaştığı gibi dolaşmaktadır. Herşeyi güzel ve mükemmel yapan Allah´ın sanatıdır bu. Yaptıklarınızdan gereğince haberdardır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَنْعَة",
+      "sura": 21,
+      "ayah": 80,
+      "formInAyah": "صَنْعَةَ",
+      "transliteration": "San’ǎte",
+      "gloss": "yapmayı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَكُمْ لِتُحْصِنَكُمْ مِنْ بَأْسِكُمْ ۖ فَهَلْ أَنْتُمْ شَاكِرُونَ",
+      "verseTransliteration": "Ve allemnâhu san’ate lebûsin lekum li tuhsınekum min be’sikum, fe hel entum şâkirûn(şâkirûne).",
+      "verseMeaning": "Ona, sizi sizin şiddetinizden koruyacak olan zırh yapma sanatını öğrettik. Peki siz şükrediyor musunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَصَانِع",
+      "sura": 26,
+      "ayah": 129,
+      "formInAyah": "مَصَانِعَ",
+      "transliteration": "meSāniǎ",
+      "gloss": "köşkler (ve müstahkem kaleler)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+      "verseTransliteration": "Ve tettehızûne mesânia leallekum tahludûn(tahludûne).",
+      "verseMeaning": "\"Sanayi üreten yerler edinerek sonsuzlaşmak ümidine mi düşüyorsunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱصْطَنَعْ",
+      "sura": 20,
+      "ayah": 41,
+      "formInAyah": "وَاصْطَنَعْتُكَ",
+      "transliteration": "veSTaneǎ’tuke",
+      "gloss": "ve seni yetiştirdim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَاصْطَنَعْتُكَ لِنَفْسِي",
+      "verseTransliteration": "Vastana’tuke li nefsî.",
+      "verseMeaning": "\"Seni kendim için seçip yetiştirdim.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=SnE"
+}

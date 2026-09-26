@@ -1,0 +1,68 @@
+{
+  "id": "wbq",
+  "latinName": "Vav-Be-Kaf",
+  "lettersArabic": "و ب ق",
+  "meanings": [
+    "to perish/destroy/wreck/ruin, place of destruction, gulf (of doom)."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "مَّوْبِق",
+      "count": 1
+    },
+    {
+      "formArabic": "يُوبِقْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّوْبِق",
+      "sura": 18,
+      "ayah": 52,
+      "formInAyah": "مَوْبِقًا",
+      "transliteration": "mevbiḳan",
+      "gloss": "tehlikeli bir uçurum",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا",
+      "verseTransliteration": "Ve yevme yekûlu nâdû şurekâiyellezîne zeamtum fe deavhum fe lem yestecibû lehum ve cealnâ beynehum mevbikâ(mevbikan).",
+      "verseMeaning": "Bir gün Allah şöyle diyecektir: \"O bir şey zannettiğiniz ortaklarımı çağırın!\" Hemen çağırdılar ama onlar kendilerine cevap vermedi. Biz onların aralarına tehlikeli bir uçurum/yıkıcı bir düşmanlık koyduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُوبِقْ",
+      "sura": 42,
+      "ayah": 34,
+      "formInAyah": "يُوبِقْهُنَّ",
+      "transliteration": "yūbiḳhunne",
+      "gloss": "onları helak eder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا وَيَعْفُ عَنْ كَثِيرٍ",
+      "verseTransliteration": "Ev yûbıkhunne bimâ kesebû ve ya’fu an kesîr(kesîrin).",
+      "verseMeaning": "Yahut onları, içindekilerin kazançları yüzünden mahveder. Ama birçoğunu affediyor;"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wbq"
+}

@@ -1,0 +1,1624 @@
+{
+  "id": "byt",
+  "latinName": "Be-Ye-Te",
+  "lettersArabic": "ب ي ت",
+  "meanings": [
+    "Gecelemek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 73,
+  "lemmas": [
+    {
+      "formArabic": "بَيْت",
+      "count": 65
+    },
+    {
+      "formArabic": "بَيَّتَ",
+      "count": 4
+    },
+    {
+      "formArabic": "بَيَٰت",
+      "count": 3
+    },
+    {
+      "formArabic": "يَبِيتُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 2,
+      "ayah": 125,
+      "formInAyah": "بَيْتِيَ",
+      "transliteration": "beytiye",
+      "gloss": "ev’imi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ",
+      "verseTransliteration": "Ve iz cealnâl beyte mesâbeten lin nâsi ve emnâ(emnen), vettehizû min makâmı ibrâhîme musallâ(musallen) ve ahidnâ ilâ ibrâhîme ve ismâîle en tahhirâ beytiye lit tâifîne vel âkifîne ver rukkais sucûd(sucûdi).",
+      "verseMeaning": "Hatırla o zamanı ki, biz Beytullah´ı insanlar için sevap kazanmaya yönelik bir toplantı yeri ve güvenli bir sığınak yaptık. Siz de İbrahim´in makamından bir dua yeri edinin. İbrahim ve İsmail´e şu sözü ulaştırmıştık; \"Tavaf edenler, kendini ibadete verenler, rükû-secde edenler için evimi temizleyin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 2,
+      "ayah": 125,
+      "formInAyah": "الْبَيْتَ",
+      "transliteration": "l-beyte",
+      "gloss": "Beyt’i (Ka’be’yi)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ",
+      "verseTransliteration": "Ve iz cealnâl beyte mesâbeten lin nâsi ve emnâ(emnen), vettehizû min makâmı ibrâhîme musallâ(musallen) ve ahidnâ ilâ ibrâhîme ve ismâîle en tahhirâ beytiye lit tâifîne vel âkifîne ver rukkais sucûd(sucûdi).",
+      "verseMeaning": "Hatırla o zamanı ki, biz Beytullah´ı insanlar için sevap kazanmaya yönelik bir toplantı yeri ve güvenli bir sığınak yaptık. Siz de İbrahim´in makamından bir dua yeri edinin. İbrahim ve İsmail´e şu sözü ulaştırmıştık; \"Tavaf edenler, kendini ibadete verenler, rükû-secde edenler için evimi temizleyin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 2,
+      "ayah": 127,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "Ev’in",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+      "verseTransliteration": "Ve iz yerfeu ibrâhîmul kavâide minel beyti veismâîl(ismâîlu) rabbenâ tekabbel minnâ inneke entes semîul alîm(alîmu).",
+      "verseMeaning": "İbrahim´in, İsmail´le birlikte, Beytullah´ın ana duvarlarını yükselterek şöyle yakardıkları zamanı da an: \"Rabb´imiz, bizden gelen niyazları kabul buyur; sen, evet sen, Semî´sin, her şeyi çok iyi duyarsın; Alîm´sin, her şeyi çok iyi bilirsin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 2,
+      "ayah": 158,
+      "formInAyah": "الْبَيْتَ",
+      "transliteration": "l-beyte",
+      "gloss": "Ev’i",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ",
+      "verseTransliteration": "İnnes safâ vel mervete min şeâirillâh(şeâirillâhi), fe men haccel beyte evı’temera fe lâ cunâha aleyhi en yettavvefe bi himâ ve men tetavvaa hayran, fe innallâhe şâkirun alîm(alîmun).",
+      "verseMeaning": "Safa ile Merve Allah´ın belliklerindendir. Beytullah´ı hac veya umre ile ziyaret edenin onları tavaf etmesinde kendisi için bir sakınca yoktur. Kim içinden gelerek bir hayır işlerse Allah Şâkir´dir, teşekkür eder, Alîm´dir, en iyi biçimde bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 2,
+      "ayah": 189,
+      "formInAyah": "الْبُيُوتَ",
+      "transliteration": "l-buyūte",
+      "gloss": "evlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ ۗ وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا وَلَٰكِنَّ الْبِرَّ مَنِ اتَّقَىٰ ۗ وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yes’elûneke anil ehilleh(ehilleti), kul hiye mevâkîtu lin nâsi vel hacc(haccı), ve leysel birru bi en te’tûl buyûte min zuhûrihâ ve lâkinnel birre menittekâ, ve’tûl buyûte min ebvâbihâ, vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Sana, doğan aylardan sorarlar. De ki: \"Onlar, insanların çeşitli yararları ve bir de hac için vakit ölçüleridir.\" Hayra ulaşmak evlere arkalarından girmeniz değildir. Hayra ulaşan o kişidir ki, takvaya sarılıp korunur. Evlere kapılarından girin. Allah´tan korkun ki kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 2,
+      "ayah": 189,
+      "formInAyah": "الْبُيُوتَ",
+      "transliteration": "l-buyūte",
+      "gloss": "evlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ ۗ وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا وَلَٰكِنَّ الْبِرَّ مَنِ اتَّقَىٰ ۗ وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yes’elûneke anil ehilleh(ehilleti), kul hiye mevâkîtu lin nâsi vel hacc(haccı), ve leysel birru bi en te’tûl buyûte min zuhûrihâ ve lâkinnel birre menittekâ, ve’tûl buyûte min ebvâbihâ, vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Sana, doğan aylardan sorarlar. De ki: \"Onlar, insanların çeşitli yararları ve bir de hac için vakit ölçüleridir.\" Hayra ulaşmak evlere arkalarından girmeniz değildir. Hayra ulaşan o kişidir ki, takvaya sarılıp korunur. Evlere kapılarından girin. Allah´tan korkun ki kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 3,
+      "ayah": 49,
+      "formInAyah": "بُيُوتِكُمْ",
+      "transliteration": "buyūtikum",
+      "gloss": "evlerinizde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَرَسُولًا إِلَىٰ بَنِي إِسْرَائِيلَ أَنِّي قَدْ جِئْتُكُمْ بِآيَةٍ مِنْ رَبِّكُمْ ۖ أَنِّي أَخْلُقُ لَكُمْ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ فَأَنْفُخُ فِيهِ فَيَكُونُ طَيْرًا بِإِذْنِ اللَّهِ ۖ وَأُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ اللَّهِ ۖ وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Ve resûlen ilâ benî isrâîle ennî kad ci’tukum bi âyetin min rabbikum, ennî ehluku lekum minet tîni ke heyetit tayri fe enfuhu fîhi fe yekûnu tayran bi iznillâh(iznillâhi), ve ubriul ekmehe vel ebrasa ve uhyîl mevtâ bi iznillâh(iznillâhi), ve unebbiukum bi mâ te’kulûne ve mâ teddehırûne, fî buyûtikum inne fî zâlike le âyeten lekum in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Onu Beni İsrail´e şöyle konuşan bir resul yapacak: \"Şu bir gerçek ki, ben size Rabbinizden bir mucize getirdim: Ben, çamurdan, kuş görünümünde bir şey yapar, ona üflerim de Allah´ın izniyle kuş oluverir. Ben, körü ve abraşı iyileştirir, ölüleri Allah´ın izniyle diriltirim. Evlerinizde yemekte ve biriktirmekte olduklarınızı size haber veririm. Eğer inananlarsanız, bunda sizin için tam bir mucize vardır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 3,
+      "ayah": 96,
+      "formInAyah": "بَيْتٍ",
+      "transliteration": "beytin",
+      "gloss": "ev",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِلْعَالَمِينَ",
+      "verseTransliteration": "İnne evvele beytin vudia lin nâsi lellezî bi bekkete mubâreken ve huden lil âlemîn(âlemîne).",
+      "verseMeaning": "Şu bir gerçek ki, âlemlere bir bereket kaynağı ve yol gösterici halinde insanlar için kurulan ilk ev Mekke´dekidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 3,
+      "ayah": 97,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "Ev’e",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِيهِ آيَاتٌ بَيِّنَاتٌ مَقَامُ إِبْرَاهِيمَ ۖ وَمَنْ دَخَلَهُ كَانَ آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ",
+      "verseTransliteration": "Fîhi âyâtun beyyinâtun makâmu ibrâhîm(ibrâhîme), ve men dahalehu kâne âminâ(âminen), ve lillâhi alen nâsi hiccul beyti menistetâa ileyhi sebîlâ(sebîlen), ve men kefere fe innallâhe ganiyyun anil âlemîn(âlemîne).",
+      "verseMeaning": "Açık-seçik deliller, İbrahim´in makamı vardır orada. Oraya giren, güvene ermiş olur. Yoluna gücü yetenin o evi ziyaret etmesi, insanlar üzerinde Allah´ın bir hakkıdır. Kim nankörlük ederse hiç kuşkusuz, Allah bütün âlemlere muhtaç olmayacak bir Ganî´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 3,
+      "ayah": 154,
+      "formInAyah": "بُيُوتِكُمْ",
+      "transliteration": "buyūtikum",
+      "gloss": "evlerinizde dahi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ أَنْزَلَ عَلَيْكُمْ مِنْ بَعْدِ الْغَمِّ أَمَنَةً نُعَاسًا يَغْشَىٰ طَائِفَةً مِنْكُمْ ۖ وَطَائِفَةٌ قَدْ أَهَمَّتْهُمْ أَنْفُسُهُمْ يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ ۖ يَقُولُونَ هَلْ لَنَا مِنَ الْأَمْرِ مِنْ شَيْءٍ ۗ قُلْ إِنَّ الْأَمْرَ كُلَّهُ لِلَّهِ ۗ يُخْفُونَ فِي أَنْفُسِهِمْ مَا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ الْأَمْرِ شَيْءٌ مَا قُتِلْنَا هَاهُنَا ۗ قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ ۗ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Summe enzele aleykum min ba’dil gammi emeneten nuâsen yagşâ tâifeten minkum, ve tâifetun kad ehemmethum enfusuhum yezunnûne billâhi gayrel hakkı zannel câhiliyyeh(câhiliyyeti), yekûlûne hel lenâ minel emri min şey’(şey’in), kul innel emre kullehu lillâh(lillâhi), yuhfûne fî enfusihim mâ lâ yubdûne lek(leke), yekûlûne lev kâne lenâ minel emri şey’un mâ kutilnâ hâhunâ, kul lev kuntum fî buyûtikum le berezellezîne kutibe aleyhimul katlu ilâ medâciihim, ve li yebteliyallâhu mâ fî sudûrikum ve li yumahhısa mâ fî kulûbikum, vallâhu alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Sonra bu kederin ardından üzerinize, içinizden bir grubu sarıp kuşatan, güven verici bir uyku indirdi. Bir grup da -gerçekten onlar kendi canlarının derdine düşmüştü- Allah hakkında gerçek dışı sanılara, cahiliye düşüncelerine kapılıyordu. \"Şu işten bize bir şey var mı?\" diyorlardı. De ki: \"Emir/iş ve oluş tümüyle Allah´ındır.\" Öz benliklerinde, sana açıklamaz oldukları şeyler saklıyorlar. Diyorlar ki: \"Bu işten bizim lehimize bir şey olsaydı, şuracıkta öldürülmezdik.\" Söyle onlara: \"Evlerinizde kalsaydınız bile, üzerlerine ölüm yazılmış olanlar, uzanacakları yerleri muhakkak boylayacaklardı.\" Bu, Allah, göğüslerinizdekini denesin, kalplerinizdekini ortaya çıkarsın diyedir. Allah, göğüslerin özünü çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 4,
+      "ayah": 15,
+      "formInAyah": "الْبُيُوتِ",
+      "transliteration": "l-buyūti",
+      "gloss": "evlerde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاللَّاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ ۖ فَإِنْ شَهِدُوا فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتَّىٰ يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ اللَّهُ لَهُنَّ سَبِيلًا",
+      "verseTransliteration": "Vellâtî ye’tînel fâhişete min nisâikum festeşhidû aleyhinne erbaaten minkum, fe in şehidû fe emsikûhunne fîl buyûti hattâ yeteveffâhunnel mevtu ev yec’alallâhu lehunne sebîlâ(sebîlen).",
+      "verseMeaning": "Kadınlarınızdan eşcinsellik/sevicilik yapanlara karşı içinizden dört tanık getirin; eğer tanıklık ederlerse o kadınları, ölüm canlarını alıncaya ya da Allah kendileri için bir yol açıncaya kadar evlerde tutun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 4,
+      "ayah": 100,
+      "formInAyah": "بَيْتِهِ",
+      "transliteration": "beytihi",
+      "gloss": "evi-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا كَثِيرًا وَسَعَةً ۚ وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseTransliteration": "Ve men yuhâcir fî sebîlillâhi yecid fîl ardı murâgamen kesîren veseah(veseaten), ve men yahruc min beytihî muhâciren ilâllâhi ve resûlihî summe yudrikhul mevtu fe kad vakaa ecruhu alâllâh(alâllâhi), ve kânallâhu gafûran rahîmâ(rahîmen).",
+      "verseMeaning": "Kim Allah yolunda hicret ederse yeryüzünde, varıp sığınarak karşı harekete girişecek çok yer bulur; geniş bir imkân da bulur. Ve her kim, evinden Allah´a ve resulüne hicret niyetiyle çıkar da kendisine ölüm yetişirse onun ödülünü vermek Allah´a düşer. Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 5,
+      "ayah": 2,
+      "formInAyah": "الْبَيْتَ",
+      "transliteration": "l-beyte",
+      "gloss": "Beyt-i",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا ۚ وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا ۘ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tuhıllû şe’âirallâhi veleş şehral harâme ve lâl hedye ve lâl kalâide ve lâ ammînel beytel harâme yebtegûne fadlan min rabbihim ve rıdvânâ(rıdvânen) ve izâ haleltum fastâdû ve lâ yecrimennekum şeneânu kavmin en saddûkum anil mescidil harâmi en ta’tedû, ve teâvenû alel birri vet takva ve lâ teâvenû alel ismi vel udvâni vettekullâh(vettekullâhe) innallâhe şedîdul ıkâb(ıkâbi).",
+      "verseMeaning": "Ey iman edenler! Allah´ın ibadet, iyilik ve güzellik alâmeti kıldığı şeylere, çarpışmanın yasak olduğu haram aya, kurbanlık hediyelere, gerdanlıklara, Rablerinden bir lütuf ve rıza niyaz ederek Mescid-i Haram´a gelmiş olanlara saygısızlık etmeyin! İhramdan çıktığınız vakit avlanın. Bir topluluğun, sizi Mescid-i Haram´dan uzak tutmak için sergilediği kötülük, sizi saldırganlık ve düşmanlığa sakın itmesin! Hayırda erginlik/dürüstlük ve takva üzere yardımlaşın! Kötülük/çirkinlik, düşmanlık/saldırganlık üzere yardımlaşmayın. Allah´tan sakının! Kuşkunuz olmasın ki, Allah´ın azabı çok şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 5,
+      "ayah": 97,
+      "formInAyah": "الْبَيْتَ",
+      "transliteration": "l-beyte",
+      "gloss": "Beyt-i",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ۚ ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Cealallâhul ka’betel beytel harâme kıyâmen lin nâsi veş şehral harâme vel hedye vel kalâid(kalâide) zâlike li ta’lemû ennellâhe ya’lemu mâ fis semâvâti ve ma fîl ardı ve ennellâhe bikulli şey’in alîm(alîmun).",
+      "verseMeaning": "Allah Kâbe´yi, o saygıya layık evi, o saygıya layık \"ay\"ı, o kurbanlık hediyeleri ve gerdanlıkları insanlar için bir dayanak, bir ayağa kalkış aracı kıldı. Böyle yaptı ki, Allah´ın göklerde olanı da yerde olanı da bildiğini, Allah´ın herşeyi bilici olduğunu siz de bilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 7,
+      "ayah": 74,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ عَادٍ وَبَوَّأَكُمْ فِي الْأَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا ۖ فَاذْكُرُوا آلَاءَ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+      "verseTransliteration": "Vezkurû iz cealekum hulefâe min ba´di âdin ve bevveekum fîl ardı tettehızûne min suhûlihâ kusûren ve tenhitûnel cibâle buyûten fezkurû âlâallâhi ve lâ ta´sev fîl ardı mufsidîn(mufsidîne).",
+      "verseMeaning": "\"Hatırlayın ki, Allah sizi Ad´dan sonra halefler yaptı ve yeryüzünde sizi yerleştirdi. O´nun düzlüklerinde saraylar kuruyorsunuz, dağlarını yontup ev yapıyorsunuz. Artık Allah´ın nimetlerini anın da fesat çıkararak yeryüzünü berbat etmeyin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 8,
+      "ayah": 5,
+      "formInAyah": "بَيْتِكَ",
+      "transliteration": "beytike",
+      "gloss": "evin-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ",
+      "verseTransliteration": "Kemâ ahreceke rabbuke min beytike bil hakkı ve inne ferîkan minel mu’minîne le kârihûn(kârihûne).",
+      "verseMeaning": "Bildiğin gibi, Rabbin seni hak uğruna, öz yurdundan çıkarmıştı. Ve müminlerden bir grup tamamen isteksizdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 8,
+      "ayah": 35,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "Beyt(ullah)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً ۚ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+      "verseTransliteration": "Ve mâ kâne salâtuhum indel beyti illâ mukâen ve tasdiyeh(tasdiyeten), fe zûkûl azâbe bimâ kuntum tekfurûn(tekfurûne).",
+      "verseMeaning": "Onların o evdeki namazı; ıslık çalmak, el çırpmak/engel olmaktan başka bir şey değildir. O halde, inkâr etmekte olduğunuz için tadın azabı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 10,
+      "ayah": 87,
+      "formInAyah": "بُيُوتَكُمْ",
+      "transliteration": "buyūtekum",
+      "gloss": "evlerinizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ وَأَخِيهِ أَنْ تَبَوَّآ لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَاجْعَلُوا بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا الصَّلَاةَ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve evhaynâ ilâ mûsâ ve ahîhi en tebevveâ li kavmikumâ bi mısra buyûten vec’alû buyûtekum kıbleten ve akîmus sâlah(sâlate), ve beşşiril mu’minîn(mu’minîne).",
+      "verseMeaning": "Mûsa´ya ve kardeşine şunu vahyettik: Kavminiz için kendilerini yerleştirmek üzere Mısır´da evler hazırlayın. Evlerinizi kıble yapın/karşılıklı yapın ve namaz kılın. İnananlara müjde ver."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 10,
+      "ayah": 87,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ وَأَخِيهِ أَنْ تَبَوَّآ لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَاجْعَلُوا بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا الصَّلَاةَ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve evhaynâ ilâ mûsâ ve ahîhi en tebevveâ li kavmikumâ bi mısra buyûten vec’alû buyûtekum kıbleten ve akîmus sâlah(sâlate), ve beşşiril mu’minîn(mu’minîne).",
+      "verseMeaning": "Mûsa´ya ve kardeşine şunu vahyettik: Kavminiz için kendilerini yerleştirmek üzere Mısır´da evler hazırlayın. Evlerinizi kıble yapın/karşılıklı yapın ve namaz kılın. İnananlara müjde ver."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 11,
+      "ayah": 73,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "ev",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا أَتَعْجَبِينَ مِنْ أَمْرِ اللَّهِ ۖ رَحْمَتُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ ۚ إِنَّهُ حَمِيدٌ مَجِيدٌ",
+      "verseTransliteration": "Kâlû e ta’cebîne min emrillâhi rahmetullâhi ve berekâtuhu aleykum ehlel beyt(beyti), innehu hamîdun mecîd(mecîdun).",
+      "verseMeaning": "Dediler ki: \"Allah´ın emrine mi şaşıyorsun? Allah´ın rahmeti ve bereketleri üzerinizdedir ey ev halkı! O Hamîd´dir, Mecîd´dir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 12,
+      "ayah": 23,
+      "formInAyah": "بَيْتِهَا",
+      "transliteration": "beytihā",
+      "gloss": "onun evinde iken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَنْ نَفْسِهِ وَغَلَّقَتِ الْأَبْوَابَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+      "verseTransliteration": "Ve râvedethulletî huve fî beytihâ an nefsihî ve ğallekatil ebvâbe ve kâlet heyte lek(leke), kâle ma âzallâhi innehu rabbî ahsene mesvây(mesvâye), innehu lâ yuflihuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Yûsuf´un, evinde kaldığı kadın, onun nefsinden gönlünü tatmin etmek istedi. Kapıları kilitledi, \"Hadi gel!\" dedi. Yûsuf: \"Allah´a sığınırım, Rabbim beni güzel bir barınağa kavuşturmuştur. Zalimler iflah etmez.\" dedi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 14,
+      "ayah": 37,
+      "formInAyah": "بَيْتِكَ",
+      "transliteration": "beytike",
+      "gloss": "senin evinin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "رَبَّنَا إِنِّي أَسْكَنْتُ مِنْ ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِنْدَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُمْ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "verseTransliteration": "Rabbenâ innî eskentu min zurriyyetî bi vâdin gayri zî zer’ın inde beytilkel muharremi rabbenâ li yukîmus salâte fec’al ef’ideten minen nâsi tehvî ileyhim verzukhum mines semerâti leallehum yeşkurûn(yeşkurûne).",
+      "verseMeaning": "\"Ey Rabbimiz! Ben, çocuklarımdan bir kısmını senin kutsal evinin yanındaki, ziraata elverişsiz vadiye yerleştirdim ki, namazı kılsınlar, ey Rabbimiz! Sen de insanlardan bazı gönülleri, onlardan hoşlanır yap. Çeşitli meyvelerle onları rızıklandır ki, şükredebilsinler!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 15,
+      "ayah": 82,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ",
+      "verseTransliteration": "Ve kânû yanhıtûne minel cibâli buyûten âminîn(âminîne).",
+      "verseMeaning": "Dağlardan güvenli güvenli evler yontuyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 16,
+      "ayah": 68,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+      "verseTransliteration": "Ve evhâ rabbuke ilen nahli enittehızî minel cibâli buyûten ve mineş şeceri ve mimmâ ya’rişûn(ya’rişûne).",
+      "verseMeaning": "Rabbin, balarısına şöyle vahyetti: \"Dağlardan evler edin, ağaçlardan ve insanların kurdukları çardaklardan da...\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 16,
+      "ayah": 80,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُمْ مِنْ جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ",
+      "verseTransliteration": "Vallâhu ceale lekum min buyûtikum sekenen ve ceale lekum min culûdil en’âmi buyûten testehıffûnehâ yevme za’nikum ve yevme ikâmetikum ve min asvâfihâ ve evbârihâ ve eş’ârihâ esâsen ve metâan ilâ hîn(hînin).",
+      "verseMeaning": "Allah size, evlerinizden huzur ve sükûn yeri yaptı. Hayvan derilerinden size, gerek göç gününüzde gerek konduğunuz sırada rahatça taşıyacağınız evler yaptı. Ayrıca, hayvanların; yünlerinden, yapağılarından ve kıllarından belli bir süreye kadar kullanabileceğiniz giyimlikler, döşemelikler ve kullanım eşyası verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 16,
+      "ayah": 80,
+      "formInAyah": "بُيُوتِكُمْ",
+      "transliteration": "buyūtikum",
+      "gloss": "evlerinizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُمْ مِنْ جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ",
+      "verseTransliteration": "Vallâhu ceale lekum min buyûtikum sekenen ve ceale lekum min culûdil en’âmi buyûten testehıffûnehâ yevme za’nikum ve yevme ikâmetikum ve min asvâfihâ ve evbârihâ ve eş’ârihâ esâsen ve metâan ilâ hîn(hînin).",
+      "verseMeaning": "Allah size, evlerinizden huzur ve sükûn yeri yaptı. Hayvan derilerinden size, gerek göç gününüzde gerek konduğunuz sırada rahatça taşıyacağınız evler yaptı. Ayrıca, hayvanların; yünlerinden, yapağılarından ve kıllarından belli bir süreye kadar kullanabileceğiniz giyimlikler, döşemelikler ve kullanım eşyası verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 17,
+      "ayah": 93,
+      "formInAyah": "بَيْتٌ",
+      "transliteration": "beytun",
+      "gloss": "bir evin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا بَشَرًا رَسُولًا",
+      "verseTransliteration": "Ev yekûne leke beytun min zuhrufin ev terkâ fîs semâ(semâi), ve len nu’mine li rukıyyike hattâ tunezzile aleynâ kitâben nakreuh(nakreuhu), kul subhâne rabbî hel kuntu illâ beşeren resûlâ(resûlen).",
+      "verseMeaning": "\"Yahut altından bir evin olmalı, yahut göğe yükselmelisin. Ancak senin göğe çıktığına, okuyacağımız bir kitabı bize indireceğin zamana kadar, asla inanmayız!\" De ki: \"Rabbimin şanı yücedir. Ben, insan bir resulden başka neyim ki?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 22,
+      "ayah": 26,
+      "formInAyah": "بَيْتِيَ",
+      "transliteration": "beytiye",
+      "gloss": "evimi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَنْ لَا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ",
+      "verseTransliteration": "Ve iz bevve’nâ li ibrâhîme mekânel beyti en lâ tuşrik bî şey’en ve tahhir beytiye lit tâifîne vel kâimîne ver rukkais sucûd(sucûdi).",
+      "verseMeaning": "Bir zamanlar İbrahim için, o evin yerini, şöyle diyerek hazırlamıştık: Bana hiçbir şeyi ortak koşma, evimi; tavaf edenler, kıyamda duranlar, rükû, secde edenler için temizle."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 22,
+      "ayah": 26,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "Beyt(Ka’be’n)in",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَنْ لَا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ",
+      "verseTransliteration": "Ve iz bevve’nâ li ibrâhîme mekânel beyti en lâ tuşrik bî şey’en ve tahhir beytiye lit tâifîne vel kâimîne ver rukkais sucûd(sucûdi).",
+      "verseMeaning": "Bir zamanlar İbrahim için, o evin yerini, şöyle diyerek hazırlamıştık: Bana hiçbir şeyi ortak koşma, evimi; tavaf edenler, kıyamda duranlar, rükû, secde edenler için temizle."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 22,
+      "ayah": 29,
+      "formInAyah": "بِالْبَيْتِ",
+      "transliteration": "bil-beyti",
+      "gloss": "(Eski) Evi [Kâbe’yi]",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ",
+      "verseTransliteration": "Summel yakdû tefesehum vel yûfû nuzûrahum vel yettavvefû bil beytil atîk(atîkı).",
+      "verseMeaning": "Sonra, kirlerini atsınlar, adaklarını yerine getirsinler, saldırılardan korunmuş/tarihî/yüce evi tavaf etsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 22,
+      "ayah": 33,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "(Eski) Ev’dir [Kâbe]",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ",
+      "verseTransliteration": "Lekum fîhâ menâfiu ilâ ecelin musemmen summe mahılluhâ ilel beytil atîk(atîki).",
+      "verseMeaning": "Onlarda sizin için, belirli bir süreye kadar yararlar vardır. Sonunda onların varacakları yer saldırılardan korunmuş/tarihî/yüce evdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 27,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tedhulû buyûten gayra buyûtikum hattâ teste’nisû ve tusellimû alâ ehlihâ, zâlikum hayrun lekum leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Ey iman edenler! Kendi evleriniz dışındaki evlere, sahipleriyle kaynaşıp izin almadan, bir de ev sakinlerine selam vermeden girmeyin. Düşünüp taşınmanızı sağlamada bu sizin için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 27,
+      "formInAyah": "بُيُوتِكُمْ",
+      "transliteration": "buyūtikum",
+      "gloss": "kendi evlerinizden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tedhulû buyûten gayra buyûtikum hattâ teste’nisû ve tusellimû alâ ehlihâ, zâlikum hayrun lekum leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Ey iman edenler! Kendi evleriniz dışındaki evlere, sahipleriyle kaynaşıp izin almadan, bir de ev sakinlerine selam vermeden girmeyin. Düşünüp taşınmanızı sağlamada bu sizin için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 29,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَكُمْ ۚ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "verseTransliteration": "Leyse aleykum cunâhun en tedhulû buyûten gayre meskûnetin fîhâ metâun lekum, vallâhu ya’lemu mâ tubdûne ve mâ tektumûn(tektumûne).",
+      "verseMeaning": "Oturanı bulunmayan ve içinde size ait eşya olan evlere girmenizde bir sakınca yoktur. Allah, sizin açıkladıklarınızı da sakladıklarınızı da bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 36,
+      "formInAyah": "بُيُوتٍ",
+      "transliteration": "buyūtin",
+      "gloss": "evlerdedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ",
+      "verseTransliteration": "Fî buyûtin ezinallâhu en turfea ve yuzkere fîhesmuhu yusebbihu lehu fîhâ bil guduvvi vel âsâl(âsâli).",
+      "verseMeaning": "Kandil, Allah´ın yükseltilmesine ve içinde adının anılmasına izin verdiği evlerdedir. Orada sabah akşam O´nu tespih eder."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِكُمْ",
+      "transliteration": "buyūtikum",
+      "gloss": "kendi evleriniz-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتِ",
+      "transliteration": "buyūti",
+      "gloss": "evlerinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 24,
+      "ayah": 61,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Leyse alel a´mâ haracun ve lâ alel a´raci haracun ve lâ alel marîdı haracun ve lâ alâ enfusikum en te´kulû min buyûtikum ev buyûti âbâikum ev buyûti ummehâtikum ev buyûti ihvânikum ev buyûti ehavâtikum ev buyûti a´mâmikum ev buyûti ammâtikum ev buyûti ahvâlikum ev buyûti hâlâtikum ev mâ melektum mefâtihahû ev sadîkıkum, leyse aleykum cunâhun en te´kulû cemîan ev eştâtâ(eştâten), fe izâ dahaltum buyûten fe sellimû alâ enfusikum tehıyyeten min indillâhi mubareketen tayyibeh(tayyibeten), kezâlike yubeyyinullâhu lekumul âyâti leallekum ta´kılûn(ta´kılûne).",
+      "verseMeaning": "Köre güçlük yoktur; topala güçlük yoktur, hastaya güçlük yoktur. Sizin için de gerek kendi evlerinizden gerekse şu kişilerin evlerinden yemek yemenizde bir sakınca yoktur: Babalarınızın evleri yahut annelerinizin evleri yahut kardeşlerinizin evleri yahut kızkardeşlerinizin evleri yahut amcalarınızın evleri yahut halalarınızın evleri yahut teyzelerinizin evleri yahut anahtarı size teslim edilmiş olan evler yahut arkadaşlarınızın evleri. Hep birlikte yahut ayrı ayrı yemenizde sizin için hiçbir sakınca yoktur. Evlere girdiğinizde, Allah katından bir esenlik, bir bereketlilik, bir temizlik dileği olarak kendinize de selam verin. Allah size ayetleri işte böyle ayan beyan bildiriyor ki, aklınızı çalıştırabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 26,
+      "ayah": 149,
+      "formInAyah": "بُيُوتًا",
+      "transliteration": "buyūten",
+      "gloss": "evler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ",
+      "verseTransliteration": "Ve tenhıtûne minel cibâli buyûten fârihîn(fârihîne).",
+      "verseMeaning": "\"Keyif içinde, dağlardan evler yontuyorsunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 27,
+      "ayah": 52,
+      "formInAyah": "بُيُوتُهُمْ",
+      "transliteration": "buyūtuhum",
+      "gloss": "evleridir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Fe tilke buyûtuhum hâviyeten bimâ zalemû, inne fî zâlike le âyeten li kavmin ya’lemûn(ya’lemûne).",
+      "verseMeaning": "İşte sana onların, işledikleri zulümler yüzünden çöküp ıpıssız kalmış evleri. Hiç kuşkusuz bunda, ilmi kullanan bir topluluk için kesin bir ibret vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 28,
+      "ayah": 12,
+      "formInAyah": "بَيْتٍ",
+      "transliteration": "beytin",
+      "gloss": "bir ev (aile)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
+      "verseTransliteration": "Ve harremnâ aleyhil merâdıa min kablu fe kâlet hel edullukum alâ ehli beytin yekfulûnehu lekum ve hum lehu nâsıhûn(nâsıhûne).",
+      "verseMeaning": "Biz daha önce ona, süt emziren kadınları haram kılmıştık. Bu sırada kızkardeşi dedi ki: \"Onun bakımını sizin için üstlenecek, onu eğitip öğretmeyi yüklenecek bir ev halkını size tanıtayım mı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 29,
+      "ayah": 41,
+      "formInAyah": "بَيْتًا",
+      "transliteration": "beyten",
+      "gloss": "bir ev",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Meselullezînettehazû min dûnillâhi evliyâe ke meselil ankebût(ankebûti), ittehazet beytâ(beyten) ve inne evhenel buyûti le beytul ankebût(ankebûti), lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Allah´ın berisinden veliler edinenlerin durumu, bir ev edinen dişi örümceğin durumuna benzer. Ve evlerin en güvensizi/en zayıfı elbette ki dişi örümceğin evidir. Keşke bilselerdi!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 29,
+      "ayah": 41,
+      "formInAyah": "الْبُيُوتِ",
+      "transliteration": "l-buyūti",
+      "gloss": "evlerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Meselullezînettehazû min dûnillâhi evliyâe ke meselil ankebût(ankebûti), ittehazet beytâ(beyten) ve inne evhenel buyûti le beytul ankebût(ankebûti), lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Allah´ın berisinden veliler edinenlerin durumu, bir ev edinen dişi örümceğin durumuna benzer. Ve evlerin en güvensizi/en zayıfı elbette ki dişi örümceğin evidir. Keşke bilselerdi!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 29,
+      "ayah": 41,
+      "formInAyah": "لَبَيْتُ",
+      "transliteration": "lebeytu",
+      "gloss": "elbette evidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Meselullezînettehazû min dûnillâhi evliyâe ke meselil ankebût(ankebûti), ittehazet beytâ(beyten) ve inne evhenel buyûti le beytul ankebût(ankebûti), lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Allah´ın berisinden veliler edinenlerin durumu, bir ev edinen dişi örümceğin durumuna benzer. Ve evlerin en güvensizi/en zayıfı elbette ki dişi örümceğin evidir. Keşke bilselerdi!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 33,
+      "ayah": 13,
+      "formInAyah": "بُيُوتَنَا",
+      "transliteration": "buyūtenā",
+      "gloss": "evlerimiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَتْ طَائِفَةٌ مِنْهُمْ يَا أَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُوا ۚ وَيَسْتَأْذِنُ فَرِيقٌ مِنْهُمُ النَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِيَ بِعَوْرَةٍ ۖ إِنْ يُرِيدُونَ إِلَّا فِرَارًا",
+      "verseTransliteration": "Ve iz kâlet tâifetun minhum yâ ehle yesribe lâ mukâme lekum ferciû, ve yeste’zinu ferîkun minhumun nebiyye yekûlûne inne buyûtenâ avretun ve mâ hiye bi avreh(avretin), in yurîdûne illâ firârâ(firâran).",
+      "verseMeaning": "Hani, onlardan bir grup şöyle demişti: \"Ey Yesrib halkı, duracak yeriniz yok, hemen geri dönün!\" İçlerinden bir grup da Peygamber´den izin istiyor: \"İnan olsun, evlerimiz kaygı duyulacak durumda.\" diyorlardı. Oysaki evleri kaygı duyulacak durumda değildi; sadece kaçmak istiyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 33,
+      "ayah": 33,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "Beyt",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ ۖ وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ ۚ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "verseTransliteration": "Ve karne fî buyûtikunne ve lâ teberrecne teberrucel câhiliyyetil ûlâ ve ekımnes salâte ve âtînez zekâte ve atı’nallâhe ve resûleh(resûlehu), innemâ yurîdullâhu li yuzhibe ankumur ricse ehlel beyti ve yutahhirekum tathîrâ(tathîran).",
+      "verseMeaning": "Evlerinizde de vakarlı oturun. İlk cahiliye teşhirciliği gibi kendinizi teşhir etmeyin. Namazı kılın, zekâtı verin, Allah´a ve resulüne itaat edin. Allah sizden kiri/lekeyi gidermek istiyor ey Ehlibeyt, sizi tam bir biçimde temizlemek istiyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 33,
+      "ayah": 33,
+      "formInAyah": "بُيُوتِكُنَّ",
+      "transliteration": "buyūtikunne",
+      "gloss": "evlerinizde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ ۖ وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ ۚ إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "verseTransliteration": "Ve karne fî buyûtikunne ve lâ teberrecne teberrucel câhiliyyetil ûlâ ve ekımnes salâte ve âtînez zekâte ve atı’nallâhe ve resûleh(resûlehu), innemâ yurîdullâhu li yuzhibe ankumur ricse ehlel beyti ve yutahhirekum tathîrâ(tathîran).",
+      "verseMeaning": "Evlerinizde de vakarlı oturun. İlk cahiliye teşhirciliği gibi kendinizi teşhir etmeyin. Namazı kılın, zekâtı verin, Allah´a ve resulüne itaat edin. Allah sizden kiri/lekeyi gidermek istiyor ey Ehlibeyt, sizi tam bir biçimde temizlemek istiyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 33,
+      "ayah": 34,
+      "formInAyah": "بُيُوتِكُنَّ",
+      "transliteration": "buyūtikunne",
+      "gloss": "evlerinizde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ ۚ إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+      "verseTransliteration": "Vezkurne mâ yutlâ fî buyûtikunne min âyâtillâhi vel hikmeh(hikmeti), innallâhe kâne latîfen habîrâ(habîren).",
+      "verseMeaning": "Evlerinizde Allah´ın ayetlerinden ve hikmetten okunanları hatırlayın. Kuşkusuz, Allah Latîf´tir, Habîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 33,
+      "ayah": 53,
+      "formInAyah": "بُيُوتَ",
+      "transliteration": "buyūte",
+      "gloss": "evlerine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلَّا أَنْ يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ فَيَسْتَحْيِي مِنْكُمْ ۖ وَاللَّهُ لَا يَسْتَحْيِي مِنَ الْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِنْ وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَنْ تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَنْ تَنْكِحُوا أَزْوَاجَهُ مِنْ بَعْدِهِ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِنْدَ اللَّهِ عَظِيمًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tedhulû buyûten nebiyyi illâ en yu’zene lekum ilâ taâmin gayre nâzırîne inâhu ve lâkin izâ duîtum fedhulû fe izâ taimtum fenteşirû ve lâ muste’nisîne li hadîs(hadîsin), inne zâlikum kâne yu’zîn nebiyye fe yestahyî minkum vallâhu lâ yestahyî minel hakk(hakkı), ve izâ seeltumûhunne metâan fes’elûhunne min verâi hıcâb(hıcâbin), zâlikum atharu li kulûbikum ve kulûbihinn(kulûbihinne), ve mâ kâne lekum en tu’zû resûlallâhi ve lâ en tenkihû ezvâcehu min ba’dihî ebedâ(ebeden), inne zâlikum kâne indallâhi azîmâ(azîmen).",
+      "verseMeaning": "Ey iman edenler! Size bir yemek için izin verilmedikçe Peygamber´in evlerine girmeyin. Vaktini bekleyip durmaksızın çağırıldığınızda girin, ancak yemeği yiyince hemen dağılın. Söze dalıp lafı koyulaştırmayın. Çünkü böyle davranmanız Peygamber´i rahatsız eder. Fakat o size bir şey söylemekten utanır. Allah ise hakkı dile getirmekten çekinmez. Peygamber´in eşlerinden bir şey istediğinizde, onlardan perde arkasından isteyin. Bu, hem sizin kalpleriniz hem de onların kalpleri için daha temiz bir yoldur. Allah´ın resulüne rahatsızlık vermeniz ve kendisinden sonra onun eşleriyle nikâhlanmanız, size helal kılınmamıştır. Böyle bir şey Allah katında büyük bir vebaldir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 43,
+      "ayah": 33,
+      "formInAyah": "لِبُيُوتِهِمْ",
+      "transliteration": "libuyūtihim",
+      "gloss": "evlerine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَوْلَا أَنْ يَكُونَ النَّاسُ أُمَّةً وَاحِدَةً لَجَعَلْنَا لِمَنْ يَكْفُرُ بِالرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِنْ فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
+      "verseTransliteration": "Ve lev lâ en yekûnen nâsu ummeten vâhıdeten le cealnâ limen yekfuru bir rahmâni li buyûtihim sukufen min fıddatin ve meârice aleyhâ yazherûne.",
+      "verseMeaning": "İnsanlar bir tek ümmet haline gelmeyecek olsalardı, o Rahman´a nankörlük edenlerin evlerine gümüşten tavanlar çatar, sırtlarına binip yükselecekleri merdivenler/asansörler yapardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 43,
+      "ayah": 34,
+      "formInAyah": "وَلِبُيُوتِهِمْ",
+      "transliteration": "velibuyūtihim",
+      "gloss": "ve evlerine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلِبُيُوتِهِمْ أَبْوَابًا وَسُرُرًا عَلَيْهَا يَتَّكِئُونَ",
+      "verseTransliteration": "Ve li buyûtihim ebvâben ve sururen aleyhâ yettekiûn(yettekiûne).",
+      "verseMeaning": "Evlerine kapılar, üzerlerinde yan yatacakları koltuklar yapardık;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 51,
+      "ayah": 36,
+      "formInAyah": "بَيْتٍ",
+      "transliteration": "beytin",
+      "gloss": "bir ev(halkın)dan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ",
+      "verseTransliteration": "Fe mâ vecednâ fîhâ gayre beytin minel muslimîn(muslimîne).",
+      "verseMeaning": "Artık orada, bir ev dışında, müslümanlardan/Allah´a teslim olanlardan hiç kimse bulamıyorduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 52,
+      "ayah": 4,
+      "formInAyah": "وَالْبَيْتِ",
+      "transliteration": "velbeyti",
+      "gloss": "ve eve (Ka’be’ye)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْبَيْتِ الْمَعْمُورِ",
+      "verseTransliteration": "Vel beytil ma’mûri.",
+      "verseMeaning": "Yemin olsun düzenli bir biçimde bakılan o eve,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 59,
+      "ayah": 2,
+      "formInAyah": "بُيُوتَهُمْ",
+      "transliteration": "buyūtehum",
+      "gloss": "evlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ",
+      "verseTransliteration": "Huvellezî ahrecellezîne keferû min ehlil kitâbi min diyârihim li evvelil haşr(haşri), mâ zanentum en yahrucû ve zannû ennehum mâniatuhum husûnuhum minallâhi fe etâhumullâhu min haysu lem yahtesibû ve kazefe fî kulûbihimur ru’be yuhribûne buyûtehum bi eydîhim ve eydîl mû’minîne fa’tabirû yâ ulîl ebsâr(ebsâri).",
+      "verseMeaning": "Ehlikitap´tan küfre sapanları, ilk toplanma gününde yurtlarından O çıkardı. Siz onların çıkacaklarını sanmamıştınız; onlarsa kalelerinin kendilerini Allah´tan koruyacağını zannetmişlerdi. Ama Allah onlara hiç ummadıkları yerden geldi, yüreklerine korku saldı; kendi evlerini kendi elleriyle ve iman sahiplerinin elleriyle tahrip ediyorlardı. Artık ibret alın, ey gözleri olanlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 65,
+      "ayah": 1,
+      "formInAyah": "بُيُوتِهِنَّ",
+      "transliteration": "buyūtihinne",
+      "gloss": "evleri-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu izâ tallaktumun nisâe fe tallikûhunne li iddetihinne ve ahsûl iddeh(iddete), vettekûllâhe rabbekum, lâ tuhricûhunne min buyûtihinne ve lâ yahrucne illâ en ye’tîne bi fâhişetin mubeyyineh(mubeyyinetin), ve tilke hudûdullâh(hudûdullâhi), ve men yeteadde hudûdallâhi fe kad zaleme nefseh(nefsetu), lâ tedrî leallallâhe yuhdısu ba’de zâlike emrâ(emren).",
+      "verseMeaning": "Ey Peygamber! Kadınları boşadığınız zaman iddetlerine doğru boşayın ve iddeti iyi sayın! Rabbiniz olan Allah´tan korkun! Onları evlerinden çıkarmayın; onlar da çıkmasınlar. Apaçık ve belgeli bir yüzsüzlük yapmaları durumu müstesna. İşte bunlar Allah´ın sınırlarıdır. Allah´ın sınırlarını çiğneyen kendi benliğine zulmetmiş olur. Bilemezsin, belki Allah bundan sonra yeni bir iş/oluş ortaya çıkarır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 66,
+      "ayah": 11,
+      "formInAyah": "بَيْتًا",
+      "transliteration": "beyten",
+      "gloss": "bir ev",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ابْنِ لِي عِنْدَكَ بَيْتًا فِي الْجَنَّةِ وَنَجِّنِي مِنْ فِرْعَوْنَ وَعَمَلِهِ وَنَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+      "verseTransliteration": "Ve dareballâhu meselen lillezîne âmenûmreete fir’avn(fir’avne), iz kâlet rabbibni lî indeke beyten fîl cenneti ve neccinî min fir’avne ve amelihî ve neccinî minel kavmiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Allah, iman edenlerle ilgili olarak da Firavun´un karısını örnek verdi. Hani, o şöyle demişti: \"Ey Rabbim! Benim için katında, cennette bir barınak yap; beni, Firavun´dan, onun yapıp ettiğinden kurtar; beni zulme sapmış topluluktan da kurtar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 71,
+      "ayah": 28,
+      "formInAyah": "بَيْتِيَ",
+      "transliteration": "beytiye",
+      "gloss": "evime",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+      "verseTransliteration": "Rabbigfirlî ve li vâlideyye ve li men dehale beytiye mu’minen ve lil mu’minîne vel mu’minât(mu’minâti) ve lâ tezidiz zâlimîne illâ tebârâ(tebâren).",
+      "verseMeaning": "\"Rabbim! Beni, anne babamı, inanmış olarak evime gireni, tüm inanmış erkekleri ve inanmış kadınları affet! Zalimlerin de sadece helâk ve perişanlığını artır!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيْت",
+      "sura": 106,
+      "ayah": 3,
+      "formInAyah": "الْبَيْتِ",
+      "transliteration": "l-beyti",
+      "gloss": "evin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "verseTransliteration": "Fel ya’budû rabbe hâzel beyt(beyti).",
+      "verseMeaning": "Bu evin Rabbine ibadet etsinler!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَّتَ",
+      "sura": 4,
+      "ayah": 81,
+      "formInAyah": "يُبَيِّتُونَ",
+      "transliteration": "yubeyyitūne",
+      "gloss": "geceleyin düşünüp kurdukların",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا مِنْ عِنْدِكَ بَيَّتَ طَائِفَةٌ مِنْهُمْ غَيْرَ الَّذِي تَقُولُ ۖ وَاللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Ve yekûlûne tâatun fe izâ berezû min indike beyyete tâifetun minhum gayrellezî tekûl(tekûlu) vallâhu yektubu mâ yubeyyitûn(yubeyyitûne), fe a’rıd anhum ve tevekkel alâllâh(alallâhi) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "\"Baş üstüne\" diyorlar ama senin yanından ayrıldıklarında, içlerinden bir grup senin söylediğinin tam tersini planlıyor. Allah, onların sabahlara kadar kurup durduklarını yazıyor. Onlardan yüz çevir, Allah´ı vekil et. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَّتَ",
+      "sura": 4,
+      "ayah": 81,
+      "formInAyah": "بَيَّتَ",
+      "transliteration": "beyyete",
+      "gloss": "geceleyin kurarlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا مِنْ عِنْدِكَ بَيَّتَ طَائِفَةٌ مِنْهُمْ غَيْرَ الَّذِي تَقُولُ ۖ وَاللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Ve yekûlûne tâatun fe izâ berezû min indike beyyete tâifetun minhum gayrellezî tekûl(tekûlu) vallâhu yektubu mâ yubeyyitûn(yubeyyitûne), fe a’rıd anhum ve tevekkel alâllâh(alallâhi) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "\"Baş üstüne\" diyorlar ama senin yanından ayrıldıklarında, içlerinden bir grup senin söylediğinin tam tersini planlıyor. Allah, onların sabahlara kadar kurup durduklarını yazıyor. Onlardan yüz çevir, Allah´ı vekil et. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَّتَ",
+      "sura": 4,
+      "ayah": 108,
+      "formInAyah": "يُبَيِّتُونَ",
+      "transliteration": "yubeyyitūne",
+      "gloss": "geceleyin söyledikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يَسْتَخْفُونَ مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ الْقَوْلِ ۚ وَكَانَ اللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+      "verseTransliteration": "Yestahfûne minen nâsi ve lâ yestahfûne minallâhi ve huve meahum iz yubeyyitûne mâ lâ yerdâ minel kavl(kavli) ve kânallâhu bi mâ ya’melûne muhîtâ(muhîtan).",
+      "verseMeaning": "İnsanlardan gizleniyorlar/gizliyorlar da Allah´tan gizlenmiyorlar/gizlemiyorlar. Oysaki O, O´nun hoşlanmadığı sözü gece boyu sarfederlerken onlarla beraberdir. Allah, onların yapmakta olduklarını çepeçevre kuşatmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَّتَ",
+      "sura": 27,
+      "ayah": 49,
+      "formInAyah": "لَنُبَيِّتَنَّهُ",
+      "transliteration": "lenubeyyitennehu",
+      "gloss": "biz gece ona baskın yapalım",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ",
+      "verseTransliteration": "Kâlû tekâsemû billâhi le nubeyyitennehu ve ehlehu summe le nekûlenne li veliyyihî mâ şehidnâ mehlike ehlihî ve innâ le sâdikûn(sâdikûne).",
+      "verseMeaning": "Allah adına yeminleşerek şöyle dediler: \"Ona ve ailesine bir gece baskını yapalım, sonra da velisine şöyle diyelim: Biz onların ailesinin öldürülüşüne tanık olmadık. Vallahi, doğru söyleyenleriz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَٰت",
+      "sura": 7,
+      "ayah": 97,
+      "formInAyah": "بَيَاتًا",
+      "transliteration": "beyāten",
+      "gloss": "geceleyin",
+      "grammar": {
+        "raw": [
+          "Zaman Zarfı",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَأَمِنَ أَهْلُ الْقُرَىٰ أَنْ يَأْتِيَهُمْ بَأْسُنَا بَيَاتًا وَهُمْ نَائِمُونَ",
+      "verseTransliteration": "E fe emine ehlul kurâ en ye’tiyehum be’sunâ beyâten ve hum nâimûn(nâimûne).",
+      "verseMeaning": "O kentlerin halkı, uyudukları bir sırada, şiddetimizin bir gece kendilerine gelmeyeceğinden emin mi idiler?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَٰت",
+      "sura": 7,
+      "ayah": 4,
+      "formInAyah": "بَيَاتًا",
+      "transliteration": "beyāten",
+      "gloss": "gece yatarlarken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءَهَا بَأْسُنَا بَيَاتًا أَوْ هُمْ قَائِلُونَ",
+      "verseTransliteration": "Ve kem min karyetin ehleknâhâ fe câehâ be’sunâ beyâten ev hum kâilûn(kâilûne).",
+      "verseMeaning": "Nice yurtları ve medeniyetleri yere batırdık biz. Öyle ki, geceleyin yahut öğle uykusu uyumakta oldukları bir sırada azabımız tepelerine iniverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَيَٰت",
+      "sura": 10,
+      "ayah": 50,
+      "formInAyah": "بَيَاتًا",
+      "transliteration": "beyāten",
+      "gloss": "gece vakti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ إِنْ أَتَاكُمْ عَذَابُهُ بَيَاتًا أَوْ نَهَارًا مَاذَا يَسْتَعْجِلُ مِنْهُ الْمُجْرِمُونَ",
+      "verseTransliteration": "Kul ereeytum in etâkum azâbuhu beyâten ev nehâren mâzâ yesta´cilu minhul mucrimûn(mucrimûne).",
+      "verseMeaning": "Şöyle söyle: \"Diyelim O´nun azabı size gündüzün veya geceleyin gelecektir. Suçlular bunlardan hangisini aceleyle ister?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَبِيتُ",
+      "sura": 25,
+      "ayah": 64,
+      "formInAyah": "يَبِيتُونَ",
+      "transliteration": "yebītūne",
+      "gloss": "gecelerini geçirirler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا",
+      "verseTransliteration": "Vellezîne yebîtûne li rabbihim succeden ve kıyâmâ(kıyâmen).",
+      "verseMeaning": "Geceleri, Rableri huzurunda secde ederek, ayakta durarak geçirirler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=byt"
+}

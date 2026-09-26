@@ -1,0 +1,613 @@
+{
+  "id": "Edl",
+  "latinName": "Ayn-Dal-Lam",
+  "lettersArabic": "ع د ل",
+  "meanings": [
+    "Adil olmak, bir tutmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 28,
+  "lemmas": [
+    {
+      "formArabic": "عَدَلَ",
+      "count": 14
+    },
+    {
+      "formArabic": "عَدْل",
+      "count": 14
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 4,
+      "ayah": 3,
+      "formInAyah": "تَعْدِلُوا",
+      "transliteration": "teǎ’dilū",
+      "gloss": "adalet yapamayacağınızdan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ ۚ ذَٰلِكَ أَدْنَىٰ أَلَّا تَعُولُوا",
+      "verseTransliteration": "Ve in hıftum ellâ tuksitû fîl yetâmâ fenkihû mâ tâbe lekum minen nisâi mesnâ ve sulâse ve rubâ’(rubâa), fe in hıftum ellâ ta’dilû fe vâhideten ev mâ meleket eymânukum, zâlike ednâ ellâ teûlû.",
+      "verseMeaning": "Yetimler konusunda adaleti koruyamayacağınızdan korkarsanız, sizin için temiz kılınan kadınlardan ikişer, üçer, dörder nikâhlayın. Eğer bu durumda adaleti gözetemeyeceğinizden korkarsanız, bir tek kadınla yahut yeminlerinizin/sağ ellerinizin sahip olduklarıyla yetinin. İşte bu, haksızlığa sapmamanız için en uygun yoldur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 4,
+      "ayah": 129,
+      "formInAyah": "تَعْدِلُوا",
+      "transliteration": "teǎ’dilū",
+      "gloss": "(tam) adalet",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ ۚ وَإِنْ تُصْلِحُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+      "verseTransliteration": "Ve len testatîû en ta’dilû beynen nisâi ve lev harastum fe lâ temîlû kullel meyli fe tezerûhâ kel muallakah(muallakati) ve in tuslihû ve tettekû fe innallâhe kâne gafûran rahîmâ(rahîmen).",
+      "verseMeaning": "Tutkunluk derecesinde isteseniz de kadınlar arasında adaleti sağlamaya asla güç yetiremezsiniz. O halde tam bir eğilimle bir yana yönelip de öbürünü askıdaymış gibi bırakmayın. Barışı esas alıp sakınırsanız, Allah çok affedici, çok merhametli olacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 4,
+      "ayah": 135,
+      "formInAyah": "تَعْدِلُوا",
+      "transliteration": "teǎ’dilū",
+      "gloss": "adaletten",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِنْ يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا الْهَوَىٰ أَنْ تَعْدِلُوا ۚ وَإِنْ تَلْوُوا أَوْ تُعْرِضُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû kavvamîne bil kıstı şuhedâe lillâhi ve lev alâ enfusıkum evil vâlideyni vel akrabîn(akrabîne), in yekun ganiyyen ev fakîren fallâhu evlâ bihimâ fe lâ tettebiûl hevâ en ta’dilû, ve in telvû ev tu’rıdû fe innallâhe kâne bi mâ ta’melûne habîrâ(habîran).",
+      "verseMeaning": "Ey iman edenler! Öz benliğiniz, anne-babanız, yakınlarınız aleyhine de olsa, zengin veya fakir de olsalar, adaleti dimdik ayakta tutarak Allah için tanıklık edenler olun. Allah, ikisine de sizden daha yakındır. O halde nefsinizin arzusuna uyarak adaletten sapmayın. Eğer dilinizi eğip büker yahut çekimser kalırsanız, Allah yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 5,
+      "ayah": 8,
+      "formInAyah": "تَعْدِلُوا",
+      "transliteration": "teǎ’dilū",
+      "gloss": "adaletten",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû kavvâmîne lillâhi şuhedâe bil kıstı ve lâ yecrimennekum şeneânu kavmin alâ ellâ ta’dilû. I’dilû, huve akrabu lit takva vettekûllâh(vettekûllâhe) innallâhe habîrun bimâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Ey iman edenler! Adalet ve dürüstlüğün tanıkları olarak Allah için kollayıp gözetleyenler olun! Bir topluluğun çirkinlik ve kötülüğü sizi adaletsiz davranmaya asla itmesin. Adaletli olun! Bu, takvaya/korunup sakınmaya daha uygundur. Allah´tan sakının. Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 5,
+      "ayah": 8,
+      "formInAyah": "اعْدِلُوا",
+      "transliteration": "ǎ’dilū",
+      "gloss": "adil davranın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû kavvâmîne lillâhi şuhedâe bil kıstı ve lâ yecrimennekum şeneânu kavmin alâ ellâ ta’dilû. I’dilû, huve akrabu lit takva vettekûllâh(vettekûllâhe) innallâhe habîrun bimâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Ey iman edenler! Adalet ve dürüstlüğün tanıkları olarak Allah için kollayıp gözetleyenler olun! Bir topluluğun çirkinlik ve kötülüğü sizi adaletsiz davranmaya asla itmesin. Adaletli olun! Bu, takvaya/korunup sakınmaya daha uygundur. Allah´tan sakının. Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 6,
+      "ayah": 1,
+      "formInAyah": "يَعْدِلُونَ",
+      "transliteration": "yeǎ’dilūne",
+      "gloss": "eşler tutuyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَجَعَلَ الظُّلُمَاتِ وَالنُّورَ ۖ ثُمَّ الَّذِينَ كَفَرُوا بِرَبِّهِمْ يَعْدِلُونَ",
+      "verseTransliteration": "Elhamdu lillâhillezî halakas semâvâti vel arda ve cealez zulumâti ven nûr(nûra), summellezîne keferû bi rabbihim ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Hamt Allah´adır! O ki gökleri ve yeri yaratmış, karanlıklara ve nura vücut vermiştir. Sonra, gerçeği örtenler bunları Rablerine denk tutuyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 6,
+      "ayah": 70,
+      "formInAyah": "تَعْدِلْ",
+      "transliteration": "teǎ’dil",
+      "gloss": "verse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseTransliteration": "Ve zerillezînettehazû dînehum leiben ve lehven ve garrethumul hayâtud dunyâ ve zekkir bihî en tubsele nefsun bimâ kesebet, leyse lehâ min dûnillâhi veliyyun ve lâ şefî’(şefîun), ve in ta’dil kulle adlin lâ yu’haz minhâ, ulâikellezîne ubsilû bimâ kesebû, lehum şarâbun min hamîmin ve azâbun elîmun bimâ kânû yekfurûn(yekfurûne).",
+      "verseMeaning": "Dinlerini oyun ve eğlence haline getirmiş, dünya hayatı kendilerini aldatmış olanları bırak da o Kur´an ile şunu hatırlat: Bir kişi, kendi elinin üretip kazandığına teslim edilirse onun, Allah dışında ne bir dostu kalır ne de şefaatçısı. Her türlü fidyeyi verse de ondan kabul edilmez. İşte bunlar, kazandıklarına teslim edilmişlerdir. Nankörlük ettiklerinden ötürü onlar için kaynar sudan bir içki ve korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 6,
+      "ayah": 150,
+      "formInAyah": "يَعْدِلُونَ",
+      "transliteration": "yeǎ’dilūne",
+      "gloss": "eş tutmaktadırlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ هَلُمَّ شُهَدَاءَكُمُ الَّذِينَ يَشْهَدُونَ أَنَّ اللَّهَ حَرَّمَ هَٰذَا ۖ فَإِنْ شَهِدُوا فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ وَهُمْ بِرَبِّهِمْ يَعْدِلُونَ",
+      "verseTransliteration": "Kul helumme şuhedâekumullezîne yeşhedûne ennallâhe harreme hâzâ, fe in şehidû fe lâ teşhed meahum, ve lâ tettebi’ ehvâellezîne kezzebû bi âyâtinâ vellezîne lâ yu’minûne bil âhireti ve hum bi rabbihim ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Şunu da söyle: \"Allah şunu haram etmiştir diye tanıklık edip duran şahitlerinizi getirin.\" Eğer tanıklık ederlerse sakın onlarla birlikte tanıklık etme! Ayetlerimizi yalanlayanlarla âhirete inanmayanların keyifleri ardınca gitme! Onlar, kendi Rablerine başkalarını denk tutuyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 6,
+      "ayah": 152,
+      "formInAyah": "فَاعْدِلُوا",
+      "transliteration": "feǎ’dilū",
+      "gloss": "adalet yapın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfûl keyle vel mîzâne bil kıst(kıstı), lâ nukellifu nefsen illâ vus’ahâ ve izâ kultum fa’dilû ve lev kâne zâ kurbâ, ve bi ahdillâhi evfû, zâlikum vassâkum bihî leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "\"Yetimin malına yaklaşmayın! Ancak rüştüne erişinceye kadar en güzel yolla ilgilenme hali müstesna. Ölçme ve tartmayı tam bir dürüstlükle yerine getirin. Hiç kimseye yaratılış kapasitesinin üstünde yükümlülük getirmiyoruz. Konuştuğunuz zaman, yakınlarınız/aleyhine de olsa, adaleti gözetin. Ve Allah´a verdiğiniz söze sadık kalın. Düşünüp öğüt alasınız diye O size bunları önerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 7,
+      "ayah": 159,
+      "formInAyah": "يَعْدِلُونَ",
+      "transliteration": "yeǎ’dilūne",
+      "gloss": "adalet yapan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمِنْ قَوْمِ مُوسَىٰ أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ",
+      "verseTransliteration": "Ve min kavmi mûsâ ummetun yehdûne bil hakkı ve bihî ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Musa kavminden bir topluluk vardır ki, hakka kılavuzluk/hak ile kılavuzluk eder ve yalnız hakka dayanarak adaleti gözetir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 7,
+      "ayah": 181,
+      "formInAyah": "يَعْدِلُونَ",
+      "transliteration": "yeǎ’dilūne",
+      "gloss": "adalet yapan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمِمَّنْ خَلَقْنَا أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ",
+      "verseTransliteration": "Ve mimmen halâknâ ummetun yehdûne bil hakkı ve bihî ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Bizim yarattıklarımızdan bir ümmet var ki, hakka rehberlik eder ve onunla adalet sunarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 27,
+      "ayah": 60,
+      "formInAyah": "يَعْدِلُونَ",
+      "transliteration": "yeǎ’dilūne",
+      "gloss": "(haktan) sapan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "verseTransliteration": "Emmen halakas semâvâti vel arda ve enzele lekum mines semâi mâ’(mâen), fe enbetnâ bihî hadâika zâte behceh(behcetin), mâ kâne lekum en tunbitû şecerehâ, e ilâhun meallâh(meallâhi), bel hum kavmun ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Yoksa gökleri ve yeri yaratan, gökten size bir su indiren mi hayırlı? Biz o suyla sizin için gözler gönüller açan bahçeler bitirdik. Sizin, onların bir tek ağacını bitirmeniz mümkün değildi. Allah´ın yanında bir ilah mı var? Hayır! Ama onlar döneklik eden bir topluluktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 42,
+      "ayah": 15,
+      "formInAyah": "لِأَعْدِلَ",
+      "transliteration": "lieǎ’dile",
+      "gloss": "adalet yapmakla",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "فَلِذَٰلِكَ فَادْعُ ۖ وَاسْتَقِمْ كَمَا أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ ۖ وَقُلْ آمَنْتُ بِمَا أَنْزَلَ اللَّهُ مِنْ كِتَابٍ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ اللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ اللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ الْمَصِيرُ",
+      "verseTransliteration": "Fe li zâlike fed’u vestekım kemâ umirt(umirte), ve lâ tettebi’ ehvâehum, ve kul âmentu bi mâ enzelallâhu min kitâb(kitâbin), ve umirtu li a’dile beynekum, allâhu rabbunâ ve rabbukum, lenâ a’mâlunâ ve lekum a’mâlukum, lâ huccete beynenâ ve beynekum, allâhu yecmeubeynenâ, ve ileyhil masîr(masîru).",
+      "verseMeaning": "İşte bunun için sen çağrıda bulun/dua et ve emrolunduğun gibi dosdoğru yürü! Onların boş arzularına uyma ve şöyle de: \"Allah´ın Kitap´tan indirdiğine inandım. Aranızda adaleti sağlamakla emrolundum. Allah´tır, bizim de Rabbimiz, sizin de Rabbiniz. Bizim amellerimiz bize, sizin amellerinizin size. Bizimle sizin aranızda delil yok. Allah bizi biraraya toplayacaktır/aramızı bulacaktır. Dönüş O´nadır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدَلَ",
+      "sura": 82,
+      "ayah": 7,
+      "formInAyah": "فَعَدَلَكَ",
+      "transliteration": "feǎdeleke",
+      "gloss": "sana ölçülü bir biçim verdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+      "verseTransliteration": "Ellezî halakake fe sevvâke fe adelek(adeleke).",
+      "verseMeaning": "Rabbin ki seni yarattı, düzgün hale koydu, en güzel ölçülerle şekillendirdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 2,
+      "ayah": 48,
+      "formInAyah": "عَدْلٌ",
+      "transliteration": "ǎdlun",
+      "gloss": "fidye de",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
+      "verseTransliteration": "Vettekû yevmen lâ teczî nefsun an nefsin şey’en ve lâ yukbelu minhâ şefâatun ve lâ yu’hazu minhâ adlun ve lâ hum yunsarûn(yunsarûne).",
+      "verseMeaning": "Ve korkun o günden ki, hiç bir benlik bir başka benliğin herhangi bir şeyi için karşılık ödemez; hiç bir benlikten şefaat kabul edilmez, hiç bir benlikten fidye alınmaz. Ve onlara yardım da edilmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 2,
+      "ayah": 123,
+      "formInAyah": "عَدْلٌ",
+      "transliteration": "ǎdlun",
+      "gloss": "fidye",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنْفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنْصَرُونَ",
+      "verseTransliteration": "Vettekû yevmen lâ teczî nefsun an nefsin şey’en ve lâ yukbelu minhâ adlun ve lâ tenfeuhâ şefâatun ve lâ hum yunsarûn(yunsarûne).",
+      "verseMeaning": "Kimsenin kimse yerine bir şey ödemeyeceği, kimseden fidye kabul edilmeyeceği, şefaatin hiç kimseye yarar sağlamayacağı ve onların hiç bir yardım göremeyecekleri o günden korkun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "بِالْعَدْلِ",
+      "transliteration": "bil-ǎdli",
+      "gloss": "adaletle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "بِالْعَدْلِ",
+      "transliteration": "bil-ǎdli",
+      "gloss": "adaletle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 4,
+      "ayah": 58,
+      "formInAyah": "بِالْعَدْلِ",
+      "transliteration": "bil-ǎdli",
+      "gloss": "adaletle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ ۚ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ ۗ إِنَّ اللَّهَ كَانَ سَمِيعًا بَصِيرًا",
+      "verseTransliteration": "İnnallâhe ye’murukum en tueddûl emânâti ilâ ehlihâ ve izâ hakemtum beynen nâsi en tahkumû bil adl(adli), innallâhe niımmâ yeızukum bih(bihî), innallâhe kâne semîan basîrâ(basîran).",
+      "verseMeaning": "Şu bir gerçek ki, Allah size emanetleri, onlara ehil olanlara vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emrediyor. Allah size bu şekilde ne güzel öğüt veriyor. Allah Semî´dir, çok iyi duyar; Basîr´dir, çok iyi görür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 5,
+      "ayah": 95,
+      "formInAyah": "عَدْلٍ",
+      "transliteration": "ǎdlin",
+      "gloss": "adil",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ حُرُمٌ ۚ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ ۗ عَفَا اللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ ۗ وَاللَّهُ عَزِيزٌ ذُو انْتِقَامٍ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ taktulûs sayde ve entum hûrûm(hûrûmun) ve men katelehu minkum muteammiden fe cezâun mislu mâ katele min en neami yahkumu bihî zevâ adlin minkum hedyen bâligal ka’beti ev keffâratun taâmu mesâkîne ev adlu zâlike siyâmen li yezûka vebâle emrih(emrihî) afâllâhu amma selef(selefe) ve men âde fe yentakimullâhu minh(minhu) vallâhu azîzun zûntikâm(zûntikâmin).",
+      "verseMeaning": "Ey iman sahipleri! İhramda olduğunuz zaman av öldürmeyin. Sizden kim kasten onu öldürürse cezası şudur: Öldürdüğü hayvana denk deve-sığır, davar cinsinden, Kâbe´ye varacak kurbanlık bir hediye ki, içinizden adalet sahibi iki kişi belirleyecektir. Yahut yoksullara yedirme şeklinde bir keffâret, yahut buna denk oruç. Taki yaptığının vebalini tatsın. Allah, geçmişi affetmiştir. Kim bir daha yaparsa, Allah ondan öc alacaktır. Allah çok güçlüdür, öc alıcıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 5,
+      "ayah": 95,
+      "formInAyah": "عَدْلُ",
+      "transliteration": "ǎdlu",
+      "gloss": "denk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ حُرُمٌ ۚ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ ۗ عَفَا اللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ ۗ وَاللَّهُ عَزِيزٌ ذُو انْتِقَامٍ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ taktulûs sayde ve entum hûrûm(hûrûmun) ve men katelehu minkum muteammiden fe cezâun mislu mâ katele min en neami yahkumu bihî zevâ adlin minkum hedyen bâligal ka’beti ev keffâratun taâmu mesâkîne ev adlu zâlike siyâmen li yezûka vebâle emrih(emrihî) afâllâhu amma selef(selefe) ve men âde fe yentakimullâhu minh(minhu) vallâhu azîzun zûntikâm(zûntikâmin).",
+      "verseMeaning": "Ey iman sahipleri! İhramda olduğunuz zaman av öldürmeyin. Sizden kim kasten onu öldürürse cezası şudur: Öldürdüğü hayvana denk deve-sığır, davar cinsinden, Kâbe´ye varacak kurbanlık bir hediye ki, içinizden adalet sahibi iki kişi belirleyecektir. Yahut yoksullara yedirme şeklinde bir keffâret, yahut buna denk oruç. Taki yaptığının vebalini tatsın. Allah, geçmişi affetmiştir. Kim bir daha yaparsa, Allah ondan öc alacaktır. Allah çok güçlüdür, öc alıcıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 5,
+      "ayah": 106,
+      "formInAyah": "عَدْلٍ",
+      "transliteration": "ǎdlin",
+      "gloss": "adil",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الْأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلَاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ إِنَّا إِذًا لَمِنَ الْآثِمِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû şehâdetu beynikum izâ hadara ehadekumul mevtu hînel vasiyyetisnâni zevâ adlin minkum ev âharâni min gayrikum in entum darabtum fîl ardı fe esâbetkum musîbetul mevt(mevti) tahbisûnehumâ min ba’dis salâti fe yuksîmâni billâhi in irtebtum lâ neşterî bihî semenen ve lev kâne zâ kurbâ ve lâ nektumu şehâdetallâhi innâ izen le minel âsimîn(âsimîne).",
+      "verseMeaning": "Ey iman edenler! Herhangi birinize ölüm gelip çattığında, vasiyet zamanı aranızdaki tanıklık şöyle olsun: Kendinizden adalet sahibi iki kişi yahut yolculuk etmekte iken ölüm musibeti başınıza geldiyse sizin dışınızdan iki kişi. Bunları namazdan sonra alıkoyarsınız; kuşkulanırsanız şöyle yemin ederler: \"Vallahi, yakınlarımız da olsa yeminimizi hiçbir ücret karşılığı satmayacağız, Allah´ın tanıklığını saklamayacağız. Çünkü böyle yaparsak mutlaka günahkârlardan oluruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 6,
+      "ayah": 70,
+      "formInAyah": "عَدْلٍ",
+      "transliteration": "ǎdlin",
+      "gloss": "fidyeyi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseTransliteration": "Ve zerillezînettehazû dînehum leiben ve lehven ve garrethumul hayâtud dunyâ ve zekkir bihî en tubsele nefsun bimâ kesebet, leyse lehâ min dûnillâhi veliyyun ve lâ şefî’(şefîun), ve in ta’dil kulle adlin lâ yu’haz minhâ, ulâikellezîne ubsilû bimâ kesebû, lehum şarâbun min hamîmin ve azâbun elîmun bimâ kânû yekfurûn(yekfurûne).",
+      "verseMeaning": "Dinlerini oyun ve eğlence haline getirmiş, dünya hayatı kendilerini aldatmış olanları bırak da o Kur´an ile şunu hatırlat: Bir kişi, kendi elinin üretip kazandığına teslim edilirse onun, Allah dışında ne bir dostu kalır ne de şefaatçısı. Her türlü fidyeyi verse de ondan kabul edilmez. İşte bunlar, kazandıklarına teslim edilmişlerdir. Nankörlük ettiklerinden ötürü onlar için kaynar sudan bir içki ve korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 6,
+      "ayah": 115,
+      "formInAyah": "وَعَدْلًا",
+      "transliteration": "ve ǎdlen",
+      "gloss": "ve adalet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَا مُبَدِّلَ لِكَلِمَاتِهِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseTransliteration": "Ve temmet kelimetu rabbike sıdkan ve adla(adlen), lâ mubeddile li kelimâtih(kelimâtihî), ve huves semîul alîm(alîmu).",
+      "verseMeaning": "Rabbinin sözü hem doğruluk hem de adalet bakımından tamamlanmıştır. O´nun sözlerini değiştirecek hiçbir kuvvet yoktur. En iyi işiten, en iyi bilendir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 16,
+      "ayah": 76,
+      "formInAyah": "بِالْعَدْلِ",
+      "transliteration": "bil-ǎdli",
+      "gloss": "adaleti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَضَرَبَ اللَّهُ مَثَلًا رَجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَيْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَاهُ أَيْنَمَا يُوَجِّهْهُ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِي هُوَ وَمَنْ يَأْمُرُ بِالْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve daraballâhu meselen raculeyni ehaduhumâ ebkemu lâ yakdiru alâ şey’in ve huve kellun alâ mevlâhu eynemâ yuveccihhu lâ ye’ti bi hayr(hayrin), hel yestevî huve ve men ye’muru bil adli ve huve alâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Allah şöyle bir örnekleme de yaptı: İki adam; birisi dilsiz; hiçbir şeye gücü yetmez, efendisi/yöneticisi üstüne sadece bir yük. Efendi onu nereye gönderse hiçbir hayır getiremez. Şimdi bu adam, dosdoğru bir yol üzerinde bulunup adaletle emreden kişi ile aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 16,
+      "ayah": 90,
+      "formInAyah": "بِالْعَدْلِ",
+      "transliteration": "bil-ǎdli",
+      "gloss": "adaleti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "İnnallâhe ye’muru bil adli vel ihsâni ve îtâi zîl kurbâ ve yenhâ anil fahşâi vel munkeri vel bagy(bagyi), yeizukum leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Şu bir gerçek ki Allah; adaleti, iyi ve güzel davranmayı, akrabaya vermeyi emreder. Tüm pisliklerden/edepsizliklerden, kötülükten, azgınlık, doymazlık ve kıskançlıktan yasaklar. Düşünüp ibret alırsınız ümidiyle size öğüt veriyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 49,
+      "ayah": 9,
+      "formInAyah": "بِالْعَدْلِ",
+      "transliteration": "bil-ǎdli",
+      "gloss": "adaletle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا ۖ فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ ۚ فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا ۖ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+      "verseTransliteration": "Ve in tâifetâni minel mû’mînînektetelû fe aslihû beyne humâ, fe in begat ihdâhumâ alel uhrâ fe kâtilûlletî tebgî hattâ tefîe ilâ emrillâh(emrillâhi), fe in fâet fe aslihû beynehumâ bil adli ve aksitû, innallâhe yuhıbbul muksitîn(muksitîne).",
+      "verseMeaning": "Müminlerden iki zümre çarpışırlarsa, onların aralarında hemen barışı kurun! Eğer onlardan biri öteki aleyhine sınır tanımazlık edip saldırırsa, azgınlık edenle, Allah´ın emrine dönünceye kadar savaşın. Eğer vazgeçerse, yine ikisi arasını adalet ve dürüstlükle sulh edin. Kuşkusuz, Allah adalette titiz davrananları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَدْل",
+      "sura": 65,
+      "ayah": 2,
+      "formInAyah": "عَدْلٍ",
+      "transliteration": "ǎdlin",
+      "gloss": "adalet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا",
+      "verseTransliteration": "Fe izâ belagne ecelehunne fe emsikûhunne bi ma’rûfin evfârikûhunne bi ma’rûfin ve eşhidû zevey adlin minkum ve ekîmûş şehâdete lillâh(lillâhi), zâlikum yûazu bihî men kâne yû’minu billâhi vel yevmil âhir(âhiri), ve men yettekıllâhe yec’al lehu mahrecâ(mahrecen).",
+      "verseMeaning": "Sürelerini doldurma noktasına geldiklerinde o kadınları ya örfün gerektirdiği biçimde tutun yahut da yine örfün gerektirdiği şartlarla onlardan ayrılın. İçinizden adalet sahibi iki kişiyi de tanık tutun. Tanıklığı Allah için tam bir biçimde yapın. Allah´a ve âhiret gününe inanan kişiye işte bu şekilde öğüt verilmektedir. Kim Allah´tan korkarsa, Allah ona bir çıkış yolu nasip eder."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Edl"
+}

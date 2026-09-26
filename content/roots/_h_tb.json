@@ -1,0 +1,68 @@
+{
+  "id": "HTb",
+  "latinName": "Ha-Ta-Be",
+  "lettersArabic": "ح ط ب",
+  "meanings": [
+    "Biri için çalışmak, başkası ile çalışmak."
+  ],
+  "derivativeNotes": [
+    "hatab - Yakmak için hazırlanan şey, odun",
+    "hâtib - Sözünü karıştıran",
+    "hammâletel hatab - \"Odun hamalı\" ifâdesi kötülük maksadıyla laf taşımak demektir."
+  ],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "حَطَب",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَطَب",
+      "sura": 72,
+      "ayah": 15,
+      "formInAyah": "حَطَبًا",
+      "transliteration": "HaTaben",
+      "gloss": "odun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا",
+      "verseTransliteration": "Ve emmel kâsitûne fe kânû li cehenneme hatabâ(hataban).",
+      "verseMeaning": "\"Haksızlığa sapanlar ise cehenneme odun olmuşlardır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَطَب",
+      "sura": 111,
+      "ayah": 4,
+      "formInAyah": "الْحَطَبِ",
+      "transliteration": "l-HaTabi",
+      "gloss": "odun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "verseTransliteration": "Vemreetuh(vemreetuhu), hammâletel hatab(hatabi).",
+      "verseMeaning": "Karısı da, odun hamalı olarak."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=HTb"
+}

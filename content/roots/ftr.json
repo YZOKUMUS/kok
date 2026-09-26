@@ -1,0 +1,95 @@
+{
+  "id": "ftr",
+  "latinName": "Fe-Te-Ra",
+  "lettersArabic": "ف ت ر",
+  "meanings": [
+    "Gevşemek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "فَتْرَة",
+      "count": 1
+    },
+    {
+      "formArabic": "يُفَتَّرُ",
+      "count": 1
+    },
+    {
+      "formArabic": "يَفْتُرُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتْرَة",
+      "sura": 5,
+      "ayah": 19,
+      "formInAyah": "فَتْرَةٍ",
+      "transliteration": "fetratin",
+      "gloss": "arasının kesildiği sırada",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِنَ الرُّسُلِ أَنْ تَقُولُوا مَا جَاءَنَا مِنْ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَاءَكُمْ بَشِيرٌ وَنَذِيرٌ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Yâ ehlel kitâbi kad câekum resûlunâ yubeyyinu lekum alâ fetretin min er rusuli en tekûlû mâ câenâ min beşîrin ve lâ nezîrin fe kad câekum beşîrun ve nezîr(nezîru) vallâhu alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Ey Ehlikitap! Resullerin arası kesildiği bir sırada resulümüz size geldi; ayan-beyan açıklamalarda bulunuyor. \"Bize ne müjdeci geldi ne uyarıcı\" demeyesiniz. İşte müjdeci de geldi size, uyarıcı da. Allah her şeye kadirdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُفَتَّرُ",
+      "sura": 43,
+      "ayah": 75,
+      "formInAyah": "يُفَتَّرُ",
+      "transliteration": "yufetteru",
+      "gloss": "hafifletilmeyecektir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ",
+      "verseTransliteration": "Lâ yufetteru anhum ve hum fîhi mublisûn(mublisûne).",
+      "verseMeaning": "Azapları hafifletilmeyecektir; onun içinde ümitsiz kalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَفْتُرُ",
+      "sura": 21,
+      "ayah": 20,
+      "formInAyah": "يَفْتُرُونَ",
+      "transliteration": "yefturūne",
+      "gloss": "ara vermezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ",
+      "verseTransliteration": "Yusebbihûnel leyle ven nehâre lâ yefturûn(yefturûne).",
+      "verseMeaning": "Gece ve gündüz tespih ederler, bıkıp usanmazlar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=ftr"
+}

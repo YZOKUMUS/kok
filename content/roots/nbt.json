@@ -1,0 +1,575 @@
+{
+  "id": "nbt",
+  "latinName": "Nun-Be-Te",
+  "lettersArabic": "ن ب ت",
+  "meanings": [
+    "Büyümek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 26,
+  "lemmas": [
+    {
+      "formArabic": "أَنۢبَتَ",
+      "count": 16
+    },
+    {
+      "formArabic": "تَنۢبُتُ",
+      "count": 1
+    },
+    {
+      "formArabic": "نَبَات",
+      "count": 9
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 2,
+      "ayah": 61,
+      "formInAyah": "تُنْبِتُ",
+      "transliteration": "tunbitu",
+      "gloss": "bitirdiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نَصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
+      "verseTransliteration": "Ve iz kultum yâ mûsâ len nasbira alâ taâmin vâhidin fed’u lenâ rabbeke yuhric lenâ mimmâ tunbitulardu min baklihâ ve kıssâiha ve fûmihâ ve adesihâ ve basalihâ, kâle e testebdilûnellezî huve ednâ billezî huve hayr(hayrun), ihbitû mısran fe inne lekum mâ seeltum ve duribet aleyhimuz zilletu vel meskenetu ve bâu bi gadabin minallâh(minallâhi), zâlike bi ennehum kânû yekfurûne bi âyâtillâhi ve yaktulûnen nebiyyîne bi gayril hak(hakkı), zâlike bi mâ asav ve kânû ya’tedûn(ya’tedûne).",
+      "verseMeaning": "Siz şöyle demiştiniz: \"Ey Mûsa, biz bir tek yemeğe asla dayanamayız, bizim için Rabb´ine dua et de bize yerin bitirdiklerinden, baklasından, acurundan, sarmısağından, mercimeğinden, soğanından çıkarıversin.\" Mûsa şöyle demişti: \"Siz daha aşağı bir nimeti daha üstün bir nimete mi değişmek istiyorsunuz? İnin bir kasabaya; istediğiniz sizin olacaktır.\" Ve üzerlerine zillet, eziklik ve yoksulluk damgası vuruldu, Allah´tan bir gazaba çarpıldılar. Bu böyle oldu, çünkü onlar Allah´ın ayetlerini inkâr ediyor ve haksız yere peygamberleri öldürüyorlardı. İsyan ettikleri için böyle oldu. Sınır tanımıyor, azgınlık yapıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 2,
+      "ayah": 261,
+      "formInAyah": "أَنْبَتَتْ",
+      "transliteration": "enbetet",
+      "gloss": "veren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "verseTransliteration": "Meselullezîne yunfikûne emvâlehum fî sebîlillâhi ke meseli habbetin enbetet seb’a senâbile fî kulli sunbuletin mietu habbeh(habbetin), vallâhu yudâifu li men yeşâu, vallâhu vâsiun alîm(alîmun).",
+      "verseMeaning": "Mallarını Allah yolunda infak edip harcayanların durumu, yerden, her başağında yüz tane bulunan yedi başak çıkarmış bir taneye benzer. Ve Allah, dilediği kişi için daha da artırır. Allah Vâsi´dir, yaratışını ve yarattıklarını genişletir. Alîm´dir, her şeyi en iyi biçimde bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 3,
+      "ayah": 37,
+      "formInAyah": "وَأَنْبَتَهَا",
+      "transliteration": "ve enbetehā",
+      "gloss": "ve onu yetiştirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا ۖ قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ ۖ إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Fe tekabbelehâ rabbuhâ bi kabûlin hasenin ve enbetehâ nebâten hasenen, ve keffelehâ zekeriyyâ kullemâ dehale aleyhâ zekeriyyal mihrâbe, vecede indehâ rızkâ(rızkan), kâle yâ meryemu ennâ leki hâzâ kâlet huve min indillâh(indillâhi), innallâhe yerzuku men yeşâu bi gayri hısâb(hısâbın).",
+      "verseMeaning": "Allah, onu güzel bir kabulle kabul etti ve onu güzel bir bitki gibi besleyip büyüttü. Onu, Zekeriyya´nın korumasına verdi. Zekeriyya, mihrapta onun yanına her girdiğinde, orada bir rızık bulur ve sorardı: \"Meryem, bu sana nereden?\" Meryem de \"Bu, Allah katındandır; çünkü Allah dilediğini hesapsızca rızıklandırır.\" derdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 15,
+      "ayah": 19,
+      "formInAyah": "وَأَنْبَتْنَا",
+      "transliteration": "ve enbetnā",
+      "gloss": "ve bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ شَيْءٍ مَوْزُونٍ",
+      "verseTransliteration": "Vel arda medednâhâ ve elkaynâ fîhâ revâsiye ve enbetnâ fîhâ min kulli şey’in mevzûn(mevzûnin).",
+      "verseMeaning": "Yeri yayıp döşedik, ona kuvvetli dağlar diktik ve içinde ölçülü/ahenkli her şeyden bitirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 16,
+      "ayah": 11,
+      "formInAyah": "يُنْبِتُ",
+      "transliteration": "yunbitu",
+      "gloss": "bitirmektedir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يُنْبِتُ لَكُمْ بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْأَعْنَابَ وَمِنْ كُلِّ الثَّمَرَاتِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Yunbitu lekum bihiz zer’a vez zeytûne ven nahîle vel a’nâbe ve min kullis semerât(semereti), inne fî zâlike le âyeten li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "O suyla sizin için ekin, zeytin, hurmalıklar, üzümler ve her çeşitten meyvalar bitirir. Hiç kuşkusuz, bunda, derin derin düşünen bir toplum için gerçek bir mucize vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 22,
+      "ayah": 5,
+      "formInAyah": "وَأَنْبَتَتْ",
+      "transliteration": "ve enbetet",
+      "gloss": "ve bitirir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ۖ وَمِنْكُمْ مَنْ يُتَوَفَّىٰ وَمِنْكُمْ مَنْ يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ۚ وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+      "verseTransliteration": "Yâ eyyuhen nâsu in kuntum fî raybin minel ba’si fe innâ halaknâkum min turâbin summe min nutfetin summe min alakatin summe min mudgatin muhallekatin ve gayri muhallekatin li nubeyyine lekum, ve nukırru fîl erhâmi mâ neşâu ilâ ecelin musemmen summe nuhricukum tıflen summe li teblugû eşuddekum ve minkum men yuteveffâ ve minkum men yuraddu ilâ erzelil umuri li keylâ ya’leme min ba’di ilmin şey’â(şey’an), ve terel arda hâmideten fe izâ enzelnâ aleyhel mâehtezzet ve rabet ve enbetet min kulli zevcin behîc(behîcin).",
+      "verseMeaning": "Ey insanlar! Ölümden sonra dirilme konusunda kuşku içinde olabilirsiniz. Ama şu bir gerçek ki, biz sizi bir topraktan, sonra bir spermden, sonra bir embriyodan/döllenmiş bir karışımdan, sonra ne olduğu kısmen belirli, kısmen belirsiz bir et parçasından yarattık ki, size açık seçik beyanda bulunalım. Ve sizi rahimlerde, belirlenen bir süreye kadar dilediğimiz şekilde bekletiyoruz. Sonra sizi bir çocuk olarak çıkarıyoruz. Daha sonra da tam kuvvetinize ulaşmanızı sağlıyoruz. Bununla birlikte içinizden bir kısmı öldürülüyor, yine içinizden bir kısmı ilimden sonra bir şey bilmesin diye ömrün en basit ve düşük noktasına geri gönderiliyor. Yeryüzünü de sönmüş kül halinde görürsün. Nihayet onun üzerine suyu indirdiğimizde titrer, kabarır ve her güzel/bereketli çiftten bir şeyler bitirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 26,
+      "ayah": 7,
+      "formInAyah": "أَنْبَتْنَا",
+      "transliteration": "enbetnā",
+      "gloss": "bitirmişizdir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+      "verseTransliteration": "E ve lem yerev ilel ardı kem enbetnâ fîhâ min kulli zevcin kerîm(kerîmin).",
+      "verseMeaning": "Bakmadılar mı yere, neler fışkırtmışız onda cömert ve bereketli her çiftten."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 27,
+      "ayah": 60,
+      "formInAyah": "فَأَنْبَتْنَا",
+      "transliteration": "fe enbetnā",
+      "gloss": "ve bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "verseTransliteration": "Emmen halakas semâvâti vel arda ve enzele lekum mines semâi mâ’(mâen), fe enbetnâ bihî hadâika zâte behceh(behcetin), mâ kâne lekum en tunbitû şecerehâ, e ilâhun meallâh(meallâhi), bel hum kavmun ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Yoksa gökleri ve yeri yaratan, gökten size bir su indiren mi hayırlı? Biz o suyla sizin için gözler gönüller açan bahçeler bitirdik. Sizin, onların bir tek ağacını bitirmeniz mümkün değildi. Allah´ın yanında bir ilah mı var? Hayır! Ama onlar döneklik eden bir topluluktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 27,
+      "ayah": 60,
+      "formInAyah": "تُنْبِتُوا",
+      "transliteration": "tunbitū",
+      "gloss": "bitirmeniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "verseTransliteration": "Emmen halakas semâvâti vel arda ve enzele lekum mines semâi mâ’(mâen), fe enbetnâ bihî hadâika zâte behceh(behcetin), mâ kâne lekum en tunbitû şecerehâ, e ilâhun meallâh(meallâhi), bel hum kavmun ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Yoksa gökleri ve yeri yaratan, gökten size bir su indiren mi hayırlı? Biz o suyla sizin için gözler gönüller açan bahçeler bitirdik. Sizin, onların bir tek ağacını bitirmeniz mümkün değildi. Allah´ın yanında bir ilah mı var? Hayır! Ama onlar döneklik eden bir topluluktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 31,
+      "ayah": 10,
+      "formInAyah": "فَأَنْبَتْنَا",
+      "transliteration": "feenbetnā",
+      "gloss": "ve bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ ۚ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+      "verseTransliteration": "Halakas semâvâti bi gayri amedin terevnehâ ve elkâ fîl ardı revâsiye en temîde bikum ve besse fîhâ min kulli dâbbeh(dâbbetin), ve enzelnâ mines semâi mâen fe enbetnâ fîhâ min kulli zevcin kerîm(kerîmin).",
+      "verseMeaning": "Gökleri direksiz, desteksiz yarattı; görüyorsunuz onları. Ve yeryüzüne, sizi çalkalayıp sendeletmesin diye ağırlıklar, dayanaklar bıraktı ve orada her çeşit hayvanı yaydı. Gökten bir su indirdik de orada her türlü cömert ve bereketli çifti filizlendirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 36,
+      "ayah": 36,
+      "formInAyah": "تُنْبِتُ",
+      "transliteration": "tunbitu",
+      "gloss": "bitirdiklerinden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ وَمِنْ أَنْفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+      "verseTransliteration": "Subhânellezî halakal ezvâce kullehâ mimmâ tunbitulardu ve min enfusihim ve mimmâ lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Şanı yücedir o Allah´ın ki toprağın bitirdiklerinden, onların öz benliklerinden ve nice bilmediklerinden bütün çiftleri yaratmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 37,
+      "ayah": 146,
+      "formInAyah": "وَأَنْبَتْنَا",
+      "transliteration": "ve enbetnā",
+      "gloss": "ve bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنْبَتْنَا عَلَيْهِ شَجَرَةً مِنْ يَقْطِينٍ",
+      "verseTransliteration": "Ve enbetnâ aleyhi şecereten min yaktîn(yaktînin).",
+      "verseMeaning": "Üzerine kabak cinsinden bir ağaç bitirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 50,
+      "ayah": 7,
+      "formInAyah": "وَأَنْبَتْنَا",
+      "transliteration": "ve enbetnā",
+      "gloss": "ve bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+      "verseTransliteration": "Vel arda medednâhâ ve elkaynâ fîhâ revâsiye ve enbetnâ fîhâ min kulli zevcin behîcin.",
+      "verseMeaning": "Yeryüzünü de biz uzatıp yaydık; denge noktaları yerleştirdik ona ve bitirdik onda, bakanları hayran bırakan her türlü çifti."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 50,
+      "ayah": 9,
+      "formInAyah": "فَأَنْبَتْنَا",
+      "transliteration": "feenbetnā",
+      "gloss": "bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ",
+      "verseTransliteration": "Ve nezzelnâ mines semâi mâen mubâreken fe enbetnâ bihî cennâtin ve habbel hasîdi.",
+      "verseMeaning": "Gökten, kutlu ve bereketli bir su indirdik de onunla bahçeler yeşerttik, hasatlanacak daneler yetiştirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 71,
+      "ayah": 17,
+      "formInAyah": "أَنْبَتَكُمْ",
+      "transliteration": "enbetekum",
+      "gloss": "sizi bitirdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+      "verseTransliteration": "Vallâhu enbetekum minel ardı nebâtâ(nebâten).",
+      "verseMeaning": "\"Ve Allah sizi bir bitki olarak yerden bitirdi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنۢبَتَ",
+      "sura": 80,
+      "ayah": 27,
+      "formInAyah": "فَأَنْبَتْنَا",
+      "transliteration": "feenbetnā",
+      "gloss": "ve bitirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+      "verseTransliteration": "Fe enbetnâ fîhâ habbâ(habben).",
+      "verseMeaning": "Ardından orada dâneler bitirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَنۢبُتُ",
+      "sura": 23,
+      "ayah": 20,
+      "formInAyah": "تَنْبُتُ",
+      "transliteration": "tenbutu",
+      "gloss": "biten",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَشَجَرَةً تَخْرُجُ مِنْ طُورِ سَيْنَاءَ تَنْبُتُ بِالدُّهْنِ وَصِبْغٍ لِلْآكِلِينَ",
+      "verseTransliteration": "Ve şecereten tahrucu min tûri seynâe tenbutu bid duhni ve sıbgın lil âkilîn(âkilîne).",
+      "verseMeaning": "Ve bir ağaç da yetiştirdik ki, Tûr-i Sina´dan çıkar, yağlı olarak biter; yiyenlere katıktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 3,
+      "ayah": 37,
+      "formInAyah": "نَبَاتًا",
+      "transliteration": "nebāten",
+      "gloss": "bir bitki (gibi)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا ۖ قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ ۖ إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Fe tekabbelehâ rabbuhâ bi kabûlin hasenin ve enbetehâ nebâten hasenen, ve keffelehâ zekeriyyâ kullemâ dehale aleyhâ zekeriyyal mihrâbe, vecede indehâ rızkâ(rızkan), kâle yâ meryemu ennâ leki hâzâ kâlet huve min indillâh(indillâhi), innallâhe yerzuku men yeşâu bi gayri hısâb(hısâbın).",
+      "verseMeaning": "Allah, onu güzel bir kabulle kabul etti ve onu güzel bir bitki gibi besleyip büyüttü. Onu, Zekeriyya´nın korumasına verdi. Zekeriyya, mihrapta onun yanına her girdiğinde, orada bir rızık bulur ve sorardı: \"Meryem, bu sana nereden?\" Meryem de \"Bu, Allah katındandır; çünkü Allah dilediğini hesapsızca rızıklandırır.\" derdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 6,
+      "ayah": 99,
+      "formInAyah": "نَبَاتَ",
+      "transliteration": "nebāte",
+      "gloss": "bitkiyi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "Ve huvellezî enzele mines semâi mâ’(mâen), fe ahrecnâ bihî nebate kulli şey’in fe ahrecnâ minhu hadıran nuhricu minhu habben muterâkibâ(muterâkiben), ve minen nahli min tal’ıhâ kınvânun dâniyetun ve cennâtin min a’nâbin vez zeytûne ver rummâne muştebihen ve gayre muteşâbih(muteşâbihin), unzurû ilâ semerihî izâ esmere ve yen’ıh(yen’ıhî), inne fî zâlikum le âyâtin li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Size gökten su indiren de O´dur! Biz o suyla her şeyin bitkisini çıkardık. Ondan da bir yeşillik çıkardık. O yeşillikten birbiri üzerine binmiş dâneler çıkardık. Hurma ağacının da tomurcuğundan sarkan salkımlar, üzümlerden bağlar, zeytin, nar çıkardık. Birbirine benzeyeni var, benzemeyeni var. Meyve verdiğinde ve meyveler olgunlaştığında bir bakın onun ürününe! Bu size gösterilenlerde, iman eden bir topluluk için, çok ibret vardır!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 7,
+      "ayah": 58,
+      "formInAyah": "نَبَاتُهُ",
+      "transliteration": "nebātuhu",
+      "gloss": "bitkisi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ ۖ وَالَّذِي خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ الْآيَاتِ لِقَوْمٍ يَشْكُرُونَ",
+      "verseTransliteration": "Vel beledut tayyibu yahrucu nebâtuhu bi izni rabbih(rabbihi), vellezî habuse lâ yahrucu illâ nekidâ(nekiden), kezâlike nusarriful âyâti li kavmin yeşkurûn(yeşkurûne).",
+      "verseMeaning": "Güzel ve temiz beldenin bitkisi Rabbinin izniyle çıkar. Pis ve çorak beldeden ise zararlı bitkiden başkası çıkmaz. Şükreden bir topluluk için ayetleri işte böyle çeşitli şekillerde sergiliyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 10,
+      "ayah": 24,
+      "formInAyah": "نَبَاتُ",
+      "transliteration": "nebātu",
+      "gloss": "bitkilerinin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "إِنَّمَا مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْأَنْعَامُ حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَنْ لَمْ تَغْنَ بِالْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "İnnemâ meselul hayâtid dunyâ ke mâin enzelnâhu mines semâi fahteleta bihî nebâtul ardı mimmâ ye´kulun nâsu vel en´âm(en´âmu), hattâ izâ ehazetil ardu zuhrufehâ vezzeyyenet ve zanne ehluhâ ennehum kâdirûne aleyhâ etâhâ emrunâ leylen ev nehâren fe cealnâhâ hasîden ke en lem tagne bil ems(emsi), kezâlike nufassilul âyâti li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Şu iğreti hayatın durumu gökten indirdiğimiz bir suya benzer: İnsanların ve davarların yedikleri yeryüzü bitkisi onunla karışmıştır. Nihayet toprak, takılarını kuşanmış, süslenmiştir. Toprağın sahipleri onun üzerinde egemen olduklarını sanmaktadırlar. Tam bu sırada emrimiz ona gece veya gündüz ulaşmıştır. Ve onu, sanki dün yerinde yokmuş gibi biçip atmışızdır. Derin derin düşünen bir topluluk için ayetleri böyle ayrıntılı olarak veriyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 18,
+      "ayah": 45,
+      "formInAyah": "نَبَاتُ",
+      "transliteration": "nebātu",
+      "gloss": "bitkisi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاضْرِبْ لَهُمْ مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقْتَدِرًا",
+      "verseTransliteration": "Vadrıb lehum meselel hayâtid dunyâ ke mâin enzelnâhu mines semâi fahteleta bihî nebâtul ardı fe asbeha heşîmen tezrûhur riyâh(riyâhu), ve kânallâhu alâ kulli şey´in muktedirâ(muktediren).",
+      "verseMeaning": "Dünya hayatının şu su örneği gibi olduğunu onlara anlat: \"O suyu gökten indirdik. Yerin bitkisi onunla karıştı. Derken o bitki, rüzgârların savurup döllediği parçacıklara dönüştü. Allah her şey üzerinde Muktedir´dir, gücü her şeye yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 20,
+      "ayah": 53,
+      "formInAyah": "نَبَاتٍ",
+      "transliteration": "nebātin",
+      "gloss": "bitki-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِنْ نَبَاتٍ شَتَّىٰ",
+      "verseTransliteration": "Ellezî ceale lekumul arda mehden ve seleke lekum fîhâ subulen ve enzele mines semâi mââ(mâen), fe ahrecnâ bihî ezvâcen min nebâtin şettâ.",
+      "verseMeaning": "Yeryüzünü size beşik yapan, onda sizin için yollar açan, gökten su indiren O´dur. Biz o suyla çeşitli bitkilerden çiftler çıkardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 57,
+      "ayah": 20,
+      "formInAyah": "نَبَاتُهُ",
+      "transliteration": "nebātuhu",
+      "gloss": "bitirdiği ot",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِنَ اللَّهِ وَرِضْوَانٌ ۚ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ",
+      "verseTransliteration": "İ’lemû ennemel hayâtud dunyâ leibun ve lehvun ve zînetun ve tefâhurun beynekum ve tekâsurun fîl emvâli vel evlâd(evlâdi), ke meseli gaysin a’cebel kuffâre nebâtuhu summe yehîcu fe terâhu musferren summe yekûnu hutâmâ(hutâmen), ve fîl âhıreti azâbun şedîdun ve magfiretun minallâhi ve rıdvân(rıdvânun), ve mel hayâtud dunyâ illâ metâul gurûr(gurûri).",
+      "verseMeaning": "Bilin ki, şu iğreti dünya hayatı bir oyun ve eğlenceden, bir süsten, aranızda bir övünmeden, mallarda ve evlatlarda çoğalma yarışından başka şey değildir. Bir yağmur misali ki, çıkardığı bitkiler çiftçilerin hoşuna gider. Ama biraz sonra o ot kurur, sapsarı kesildiğini görürsün. Nihayet bir ot ufantısı haline gelir. Âhirette şiddetli bir azap var, Allah´tan bir af ve hoşnutluk da var. Dünya hayatı bir aldanış/gurur aracından başka şey değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 71,
+      "ayah": 17,
+      "formInAyah": "نَبَاتًا",
+      "transliteration": "nebāten",
+      "gloss": "bir bitki olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+      "verseTransliteration": "Vallâhu enbetekum minel ardı nebâtâ(nebâten).",
+      "verseMeaning": "\"Ve Allah sizi bir bitki olarak yerden bitirdi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَبَات",
+      "sura": 78,
+      "ayah": 15,
+      "formInAyah": "وَنَبَاتًا",
+      "transliteration": "ve nebāten",
+      "gloss": "ve bitki(ler)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+      "verseTransliteration": "Li nuhrice bihî habben ve nebâtâ(nebâten).",
+      "verseMeaning": "Ki çıkaralım onlardan dâneler ve otlar;"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nbt"
+}

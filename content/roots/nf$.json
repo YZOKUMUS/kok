@@ -1,0 +1,67 @@
+{
+  "id": "nf$",
+  "latinName": "Nun-Fe-Şin",
+  "lettersArabic": "ن ف ش",
+  "meanings": [
+    "Otlağa yayılmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "مَنفُوش",
+      "count": 1
+    },
+    {
+      "formArabic": "نَفَشَتْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنفُوش",
+      "sura": 101,
+      "ayah": 5,
+      "formInAyah": "الْمَنْفُوشِ",
+      "transliteration": "l-menfūşi",
+      "gloss": "atılmış",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+      "verseTransliteration": "Ve tekûnul cibâlu kel ıhnil menfûş(menfuşi).",
+      "verseMeaning": "Dağlar, didilmiş renkli yün gibi olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَفَشَتْ",
+      "sura": 21,
+      "ayah": 78,
+      "formInAyah": "نَفَشَتْ",
+      "transliteration": "nefeşet",
+      "gloss": "yayıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَدَاوُودَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَاهِدِينَ",
+      "verseTransliteration": "Ve dâvude ve suleymâne iz yahkumâni fîl harsi iz nefeşet fîhi ganemul kavm(kavmi), ve kunnâ li hukmihim şâhidîn(şâhidîne).",
+      "verseMeaning": "Ve Dâvud ile Süleyman... Hani, halkın davarının yayıldığı ekinler hakkında hüküm veriyorlardı da biz hükümlerine tanıklar olmuştuk."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nf%24"
+}

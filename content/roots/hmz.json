@@ -1,0 +1,95 @@
+{
+  "id": "hmz",
+  "latinName": "he-Mim-Za",
+  "lettersArabic": "ه م ز",
+  "meanings": [
+    "to backbite, defame, push back with a blow, pinch, repel, find fault with, suggest evil, break, throw (on the ground), squeeze, bite."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "هُمَزَة",
+      "count": 1
+    },
+    {
+      "formArabic": "هَمَزَٰت",
+      "count": 1
+    },
+    {
+      "formArabic": "هَمَّاز",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُمَزَة",
+      "sura": 104,
+      "ayah": 1,
+      "formInAyah": "هُمَزَةٍ",
+      "transliteration": "humezetin",
+      "gloss": "diliyle çekiştiren",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+      "verseTransliteration": "Veylun li kulli humezetin lumezeh(lumezetin).",
+      "verseMeaning": "Yazıklar olsun arkadan çekiştirenlerin, kaş göz işareti yapıp alay edenlerin tümüne!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَمَزَٰت",
+      "sura": 23,
+      "ayah": 97,
+      "formInAyah": "هَمَزَاتِ",
+      "transliteration": "hemezāti",
+      "gloss": "kışkırtmaları-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقُلْ رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ",
+      "verseTransliteration": "Ve kul rabbi eûzu bike min hemezâtiş şeyâtîn(şeyâtîni).",
+      "verseMeaning": "Ve de ki: \"Rabbim, şeytanların dürtüklemelerinden sana sığınırım!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَمَّاز",
+      "sura": 68,
+      "ayah": 11,
+      "formInAyah": "هَمَّازٍ",
+      "transliteration": "hemmāzin",
+      "gloss": "kötüleyip duran",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هَمَّازٍ مَشَّاءٍ بِنَمِيمٍ",
+      "verseTransliteration": "Hemmâzin meşşâin bi nemîm(nemîmin).",
+      "verseMeaning": "Alaycı/gammaz, koğuculuk için dolaşıp duran,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hmz"
+}

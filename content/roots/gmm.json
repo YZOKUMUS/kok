@@ -1,0 +1,264 @@
+{
+  "id": "gmm",
+  "latinName": "Gayn-Mim-Mim",
+  "lettersArabic": "غ م م",
+  "meanings": [
+    "covered, veiled, concealed, confusedness, obscureness, calamity, misfortune, afflict, sorrow/sadness, vague, difficult. ghamaam - cloud, thin cloud, whitish cloud."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 11,
+  "lemmas": [
+    {
+      "formArabic": "غَمّ",
+      "count": 6
+    },
+    {
+      "formArabic": "غُمَّة",
+      "count": 1
+    },
+    {
+      "formArabic": "غَمَٰم",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمّ",
+      "sura": 3,
+      "ayah": 153,
+      "formInAyah": "غَمًّا",
+      "transliteration": "ğammen",
+      "gloss": "gam",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ وَالرَّسُولُ يَدْعُوكُمْ فِي أُخْرَاكُمْ فَأَثَابَكُمْ غَمًّا بِغَمٍّ لِكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ وَلَا مَا أَصَابَكُمْ ۗ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "İz tus’idûne ve lâ telvûne alâ ehadin ver resûlu yed’ûkum fî uhrâkum fe esâbekum gammen bi gammin li keylâ tahzenû alâ mâ fâtekum ve lâ mâ asâbekum, vallâhu habîrun bimâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Siz şaşkınlıkla sağa-sola kaçıyor, hiç kimseye dönüp bakmıyordunuz. Resul ise arkanızdan sizi çağırıyordu. Böylece Allah size keder üstüne keder verdi ki, elinizden uçup gidene de size isabet edene de üzülmeyesiniz. Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمّ",
+      "sura": 3,
+      "ayah": 153,
+      "formInAyah": "بِغَمٍّ",
+      "transliteration": "biğammin",
+      "gloss": "gam üstüne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ وَالرَّسُولُ يَدْعُوكُمْ فِي أُخْرَاكُمْ فَأَثَابَكُمْ غَمًّا بِغَمٍّ لِكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ وَلَا مَا أَصَابَكُمْ ۗ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "İz tus’idûne ve lâ telvûne alâ ehadin ver resûlu yed’ûkum fî uhrâkum fe esâbekum gammen bi gammin li keylâ tahzenû alâ mâ fâtekum ve lâ mâ asâbekum, vallâhu habîrun bimâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Siz şaşkınlıkla sağa-sola kaçıyor, hiç kimseye dönüp bakmıyordunuz. Resul ise arkanızdan sizi çağırıyordu. Böylece Allah size keder üstüne keder verdi ki, elinizden uçup gidene de size isabet edene de üzülmeyesiniz. Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمّ",
+      "sura": 3,
+      "ayah": 154,
+      "formInAyah": "الْغَمِّ",
+      "transliteration": "l-ğammi",
+      "gloss": "o üzüntünün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ أَنْزَلَ عَلَيْكُمْ مِنْ بَعْدِ الْغَمِّ أَمَنَةً نُعَاسًا يَغْشَىٰ طَائِفَةً مِنْكُمْ ۖ وَطَائِفَةٌ قَدْ أَهَمَّتْهُمْ أَنْفُسُهُمْ يَظُنُّونَ بِاللَّهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ ۖ يَقُولُونَ هَلْ لَنَا مِنَ الْأَمْرِ مِنْ شَيْءٍ ۗ قُلْ إِنَّ الْأَمْرَ كُلَّهُ لِلَّهِ ۗ يُخْفُونَ فِي أَنْفُسِهِمْ مَا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ الْأَمْرِ شَيْءٌ مَا قُتِلْنَا هَاهُنَا ۗ قُلْ لَوْ كُنْتُمْ فِي بُيُوتِكُمْ لَبَرَزَ الَّذِينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ ۗ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Summe enzele aleykum min ba’dil gammi emeneten nuâsen yagşâ tâifeten minkum, ve tâifetun kad ehemmethum enfusuhum yezunnûne billâhi gayrel hakkı zannel câhiliyyeh(câhiliyyeti), yekûlûne hel lenâ minel emri min şey’(şey’in), kul innel emre kullehu lillâh(lillâhi), yuhfûne fî enfusihim mâ lâ yubdûne lek(leke), yekûlûne lev kâne lenâ minel emri şey’un mâ kutilnâ hâhunâ, kul lev kuntum fî buyûtikum le berezellezîne kutibe aleyhimul katlu ilâ medâciihim, ve li yebteliyallâhu mâ fî sudûrikum ve li yumahhısa mâ fî kulûbikum, vallâhu alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Sonra bu kederin ardından üzerinize, içinizden bir grubu sarıp kuşatan, güven verici bir uyku indirdi. Bir grup da -gerçekten onlar kendi canlarının derdine düşmüştü- Allah hakkında gerçek dışı sanılara, cahiliye düşüncelerine kapılıyordu. \"Şu işten bize bir şey var mı?\" diyorlardı. De ki: \"Emir/iş ve oluş tümüyle Allah´ındır.\" Öz benliklerinde, sana açıklamaz oldukları şeyler saklıyorlar. Diyorlar ki: \"Bu işten bizim lehimize bir şey olsaydı, şuracıkta öldürülmezdik.\" Söyle onlara: \"Evlerinizde kalsaydınız bile, üzerlerine ölüm yazılmış olanlar, uzanacakları yerleri muhakkak boylayacaklardı.\" Bu, Allah, göğüslerinizdekini denesin, kalplerinizdekini ortaya çıkarsın diyedir. Allah, göğüslerin özünü çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمّ",
+      "sura": 20,
+      "ayah": 40,
+      "formInAyah": "الْغَمِّ",
+      "transliteration": "l-ğammi",
+      "gloss": "tasadan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+      "verseTransliteration": "İz temşî uhtuke fe tekûlu hel edullukum alâ men yekfuluh(yekfuluhu), fe reca’nâke ilâ ummike key takarre aynuhâ ve lâ tahzen(tahzene), ve katelte nefsen fe necceynâke minel gammi ve fetennâke futûnâ(futûnen), fe lebiste sinîne fî ehli medyene summe ci’te alâ kaderin yâ mûsâ.",
+      "verseMeaning": "\"Hani, kızkardeşin gidiyor, şöyle diyordu: ´Onun bakımını üstlenecek kişiyi size göstereyim mi?´ Nihayet, seni annene geri döndürdük ki, gözü aydın olsun, tasalanmasın. Sen bir de adam öldürmüştün. O zaman seni gamdan kurtarmıştık. Seni iyice bir imtihana çekmiştik. Bunun ardından sen Medyen halkı arasında yıllarca kaldın. Sonra, belirlenen bir vakitte/bir kadere göre geliverdin, ey Mûsa!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمّ",
+      "sura": 21,
+      "ayah": 88,
+      "formInAyah": "الْغَمِّ",
+      "transliteration": "l-ğammi",
+      "gloss": "tasadan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنْجِي الْمُؤْمِنِينَ",
+      "verseTransliteration": "Festecebnâ lehu ve necceynâhu minel gamm(gammi), ve kezâlike nuncil mu’minîn(mu’minîne).",
+      "verseMeaning": "Hemen imdadına yetiştik. Gamdan kurtardık onu. İnananları işte böyle kurtarırız biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمّ",
+      "sura": 22,
+      "ayah": 22,
+      "formInAyah": "غَمٍّ",
+      "transliteration": "ğammin",
+      "gloss": "(o) gamdan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ",
+      "verseTransliteration": "Kullemâ erâdû en yahrucû minhâ min gammin uîdû fîhâ ve zûkû azâbel harîk(harîkı).",
+      "verseMeaning": "Istırap yüzünden oradan her çıkmak istediklerinde, oraya geri döndürülürler: \"Tadın şu yangın azabını!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غُمَّة",
+      "sura": 10,
+      "ayah": 71,
+      "formInAyah": "غُمَّةً",
+      "transliteration": "ğummeten",
+      "gloss": "bir dert",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِ يَا قَوْمِ إِنْ كَانَ كَبُرَ عَلَيْكُمْ مَقَامِي وَتَذْكِيرِي بِآيَاتِ اللَّهِ فَعَلَى اللَّهِ تَوَكَّلْتُ فَأَجْمِعُوا أَمْرَكُمْ وَشُرَكَاءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ اقْضُوا إِلَيَّ وَلَا تُنْظِرُونِ",
+      "verseTransliteration": "Vetlu aleyhim nebe´e nûh(nûhın), iz kâle li kavmihî yâ kavmi in kâne kebure aleykum makâmî ve tezkîrî bi âyâtillâhi fe alâllâhi tevekkeltu fe ecmiû emrekum ve şurekâekum summe lâ yekun emrukum aleykum gummeten summakdû ileyye ve lâ tunzirûn(tunzirûne).",
+      "verseMeaning": "Onlara Nûh´un haberini de oku! Hani, toplumuna şöyle demişti: \"Eğer benim konumum ve Allah´ın ayetlerini hatırlatmam size ağır geliyorsa artık ben, Allah´a dayandım. Siz de ortaklarınızla bir araya gelip işinize bakın. Yapacağınız şey size bir kaygı da vermesin, hükmünüzü bana uygulayın. Ve bana fırsat da vermeyin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمَٰم",
+      "sura": 2,
+      "ayah": 57,
+      "formInAyah": "الْغَمَامَ",
+      "transliteration": "l-ğamāme",
+      "gloss": "bulutu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+      "verseTransliteration": "Ve zallelnâ aleykumul gamâme ve enzelnâ aleykumul menne ves selvâ kulû min tayyibâti mâ razaknâkum ve mâ zalemûnâ ve lâkin kânû enfusehum yazlimûn(yazlimûne).",
+      "verseMeaning": "Ve bulutu üstünüze gölgelik yaptık ve size kudret helvasıyla bıldırcın indirdik: \"rızk olarak size verdiklerimizin, en temizlerinden yiyin.\" dedik. Onlar zulmü bize yapmadılar, onlar kendi benliklerine zulmetmekteydiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمَٰم",
+      "sura": 2,
+      "ayah": 210,
+      "formInAyah": "الْغَمَامِ",
+      "transliteration": "l-ğamāmi",
+      "gloss": "buluttan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هَلْ يَنْظُرُونَ إِلَّا أَنْ يَأْتِيَهُمُ اللَّهُ فِي ظُلَلٍ مِنَ الْغَمَامِ وَالْمَلَائِكَةُ وَقُضِيَ الْأَمْرُ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+      "verseTransliteration": "Hel yenzurûne illâ en ye’tiyehumullâhu fî zulelin minel gamâmi vel melâiketu ve kudiyel emr(emru), ve ilâllâhi turceul umûr(umûru).",
+      "verseMeaning": "Onlar, Allah´ın ve meleklerin buluttan gölgeler içinde kendilerine gelmesini ve işin bitirilmesini mi bekliyorlar? Bütün iş ve oluşlar sonunda Allah´a döndürülür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمَٰم",
+      "sura": 7,
+      "ayah": 160,
+      "formInAyah": "الْغَمَامَ",
+      "transliteration": "l-ğamāme",
+      "gloss": "bulutla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا ۚ وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ إِذِ اسْتَسْقَاهُ قَوْمُهُ أَنِ اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْهِمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۚ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+      "verseTransliteration": "Ve katta’nâhumusnetey aşrete esbâtan umemâ(umemen), ve evhaynâ ilâ mûsâ izisteskâhu kavmuhu enıdrıb bi asâkel hacer(hacere), fenbeceset minhusnetâ aşrete aynâ(aynen), kad alime kullu unâsin meşrebehum, ve zallelnâ aleyhimul gamame ve enzelnâ aleyhimul menne ves selvâ, kulû min tayyibâti mâ rezaknâkum, ve mâ zâlemûnâ ve lâkin kânû enfusehum yazlimûn(yazlimûne).",
+      "verseMeaning": "Biz onları, oniki torun kabileye ayırdık. Toplumu kendisinden su istediğinde de Musa´ya, \"asanı taşa vur\" diye vahyettik. Taştan, oniki göze fışkırdı. Her oymak, su içeceği yeri belledi. Onların üzerlerine bulutları gölgelik yaptık, kendilerine kudret helvası ve bıldırcın indirdik. \"Yiyiniz size verdiğimiz rızıkların temizlerinden!\" onlar bize zulmetmediler, ama öz benliklerine zulmediyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَمَٰم",
+      "sura": 25,
+      "ayah": 25,
+      "formInAyah": "بِالْغَمَامِ",
+      "transliteration": "bil-ğamāmi",
+      "gloss": "bulutları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَوْمَ تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ وَنُزِّلَ الْمَلَائِكَةُ تَنْزِيلًا",
+      "verseTransliteration": "Ve yevme teşakkakus semâu bil gamâmi ve nuzzilel melâiketu tenzîlâ(tenzîlen).",
+      "verseMeaning": "Gün olur, gök, bulutlarla yarılır ve melekler ardarda indirilir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=gmm"
+}

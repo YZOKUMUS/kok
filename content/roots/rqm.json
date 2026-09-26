@@ -1,0 +1,90 @@
+{
+  "id": "rqm",
+  "latinName": "Ra-Kaf-Mim",
+  "lettersArabic": "ر ق م",
+  "meanings": [
+    "to write, stripe, brand. raqim - inscription, writing. marqum - written one."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "رَّقِيم",
+      "count": 1
+    },
+    {
+      "formArabic": "مَّرْقُوم",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّقِيم",
+      "sura": 18,
+      "ayah": 9,
+      "formInAyah": "وَالرَّقِيمِ",
+      "transliteration": "ve rraḳīmi",
+      "gloss": "ve Rakim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا",
+      "verseTransliteration": "Em hasibte enne ashâbel kehfi ver rakîmi kânû min âyâtinâ acabâ(acaben).",
+      "verseMeaning": "Yoksa sen o Ashab-ı Kehf´i, mağara ve kitabe yâranını, bizim ayetlerimizden, hayrete düşüren bir tanesi mi sandın?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّرْقُوم",
+      "sura": 83,
+      "ayah": 9,
+      "formInAyah": "مَرْقُومٌ",
+      "transliteration": "merḳūmun",
+      "gloss": "yazılmış",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كِتَابٌ مَرْقُومٌ",
+      "verseTransliteration": "Kitâbun merkûm(merkûmun).",
+      "verseMeaning": "Rakamlandırılmış bir kitaptır o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّرْقُوم",
+      "sura": 83,
+      "ayah": 20,
+      "formInAyah": "مَرْقُومٌ",
+      "transliteration": "merḳūmun",
+      "gloss": "yazılmış",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كِتَابٌ مَرْقُومٌ",
+      "verseTransliteration": "Kitâbun merkûm(merkûmun).",
+      "verseMeaning": "Rakamlanmış bir kitaptır o."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rqm"
+}

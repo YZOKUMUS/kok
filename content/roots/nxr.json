@@ -1,0 +1,43 @@
+{
+  "id": "nxr",
+  "latinName": "Nun-Kh-Ra",
+  "lettersArabic": "ن خ ر",
+  "meanings": [
+    "to be decayed, worm eaten, wasted, crumbled, hallow"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "نَّخِرَة",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَّخِرَة",
+      "sura": 79,
+      "ayah": 11,
+      "formInAyah": "نَخِرَةً",
+      "transliteration": "neḣiraten",
+      "gloss": "çürümüş",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Dişil, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَإِذَا كُنَّا عِظَامًا نَخِرَةً",
+      "verseTransliteration": "E izâ kunnâ izâmen nahıreh(nahıreten).",
+      "verseMeaning": "\"Un ufak kemikler haline geldikten sonra, öyle mi!\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nxr"
+}

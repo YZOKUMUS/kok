@@ -1,0 +1,132 @@
+{
+  "id": "rbT",
+  "latinName": "Ra-Be-Ta",
+  "lettersArabic": "ر ب ط",
+  "meanings": [
+    "Bağlamak, güçlendirmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "رَابِطُ",
+      "count": 1
+    },
+    {
+      "formArabic": "رِّبَاط",
+      "count": 1
+    },
+    {
+      "formArabic": "رَّبَطْ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَابِطُ",
+      "sura": 3,
+      "ayah": 200,
+      "formInAyah": "وَرَابِطُوا",
+      "transliteration": "ve rābiTū",
+      "gloss": "ve savaşa hazırlıklı, uyanık bulunun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenusbirû ve sâbirû ve râbitû vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Ey iman sahipleri! Sabredin, sabır yarışı yapın, nöbet tutarak savaşa hazırlıklı bulunun ve Allah´tan korkun ki, kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَاط",
+      "sura": 8,
+      "ayah": 60,
+      "formInAyah": "رِبَاطِ",
+      "transliteration": "ribāTi",
+      "gloss": "ve cihad için bağlanıp beslenen",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِنْ دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ ۚ وَمَا تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لَا تُظْلَمُونَ",
+      "verseTransliteration": "Ve eıddû lehum mesteta´tum min kuvvetin ve min rıbâtil hayli turhibûne bihî aduvvallâhi ve aduvvekum ve âharîne min dûnihim, lâ ta´lemûnehum, allâhu ya´lemuhum, ve mâ tunfikû min şey´in fî sebîlillâhi yuveffe ileykum ve entum lâ tuzlemûn(tuzlemûne).",
+      "verseMeaning": "Onlara karşı, gücünüz yettiğince kuvvet hazırlayın. Ordugâhlarda atlar besleyin. Böylece hem Allah´ın düşmanını hem kendi düşmanınızı hem de bunlardan başkalarını korkutabilirsiniz. Siz onları bilmezsiniz ama Allah hepsini bilir. Allah yolunda harcadığınız herşey size tam olarak ödenir; hiçbir haksızlığa uğratılmazsınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّبَطْ",
+      "sura": 8,
+      "ayah": 11,
+      "formInAyah": "وَلِيَرْبِطَ",
+      "transliteration": "veliyerbiTa",
+      "gloss": "ve (birbirine) bağlamak için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+      "verseTransliteration": "İz yugaşşîkumun nuâse emeneten minhu ve yunezzilu aleykum mines semâi mâen li yutahhirekum bihî ve yuzhibe ankum riczeş şeytâni ve li yerbıta alâ kulûbikum ve yusebbite bihil akdâm(akdâme).",
+      "verseMeaning": "O zaman sizi, Allah´tan bir güven olmak üzere hafif bir uyku bürüyordu; sizi onunla temizlemek, şeytanın pisliğini sizden gidermek, kalplerinizi birbirine bağlamak, ayaklarınızı sağlam bastırmak için üzerinize gökten bir su indiriyordu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّبَطْ",
+      "sura": 18,
+      "ayah": 14,
+      "formInAyah": "وَرَبَطْنَا",
+      "transliteration": "ve rabeTnā",
+      "gloss": "ve metanet bağlamıştık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا فَقَالُوا رَبُّنَا رَبُّ السَّمَاوَاتِ وَالْأَرْضِ لَنْ نَدْعُوَ مِنْ دُونِهِ إِلَٰهًا ۖ لَقَدْ قُلْنَا إِذًا شَطَطًا",
+      "verseTransliteration": "Ve rabatnâ alâ kulûbihim iz kâmû fe kâlû rabbunâ rabbus semâvâti vel ardı len ned´uve min dûnihî ilâhen lekad kulnâ izen şetatâ(şetaten).",
+      "verseMeaning": "Kalpleriyle aramızda bir bağ kurduk/kalplerini dayanıklı kıldık. Kalkıp şöyle dediler: \"Rabbimiz, göklerin ve yerin rabbidir. O´ndan başka hiçbir ilaha yakarmayız. Aksini yaparsak saçma söz söylemiş oluruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّبَطْ",
+      "sura": 28,
+      "ayah": 10,
+      "formInAyah": "رَبَطْنَا",
+      "transliteration": "rabeTnā",
+      "gloss": "biz iyice pekiştirmiş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا ۖ إِنْ كَادَتْ لَتُبْدِي بِهِ لَوْلَا أَنْ رَبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve asbaha fuâdu ummi mûsâ fârigâ(fârigan), in kâdet le tubdî bihî lev lâ en rabatnâ alâ kalbihâ li tekûne minel mu’minîn(mu’minîne).",
+      "verseMeaning": "Mûsa´nın annesinin kalbi ise bomboş bir halde sabahladı. Eğer inananlardan olması için kalbine bir bağ vermeseydik, onu açığa vuracak bir durumdaydı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rbT"
+}

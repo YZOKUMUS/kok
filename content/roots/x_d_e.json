@@ -1,0 +1,69 @@
+{
+  "id": "xDE",
+  "latinName": "Kh-Dad-Ayn",
+  "lettersArabic": "خ ض ع",
+  "meanings": [
+    "Yumuşak konuşmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "تَخْضَعْ",
+      "count": 1
+    },
+    {
+      "formArabic": "خَٰضِعِين",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَخْضَعْ",
+      "sura": 33,
+      "ayah": 32,
+      "formInAyah": "تَخْضَعْنَ",
+      "transliteration": "teḣDeǎ’ne",
+      "gloss": "yumuşak bir eda yapmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Dişil, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا نِسَاءَ النَّبِيِّ لَسْتُنَّ كَأَحَدٍ مِنَ النِّسَاءِ ۚ إِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَعْرُوفًا",
+      "verseTransliteration": "Yâ nisâen nebiyyi lestunne ke ehadin minen nisai inittekaytunne fe lâ tahda’ne bil kavli fe yatmaallezî fî kalbihî maradun ve kulne kavlen ma’rûfâ(ma’rûfen).",
+      "verseMeaning": "Ey peygamber hanımları! Siz, kadınlardan herhangi biri gibi değilsiniz. Eğer korunup takvaya sarılıyorsanız sözü kırıtarak söylemeyin ki, kalbinde maraz bulunan biri ümide kapılmasın. Örfe uygun söz söyleyin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰضِعِين",
+      "sura": 26,
+      "ayah": 4,
+      "formInAyah": "خَاضِعِينَ",
+      "transliteration": "ḣāDiǐyne",
+      "gloss": "eğilip kalmış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ",
+      "verseTransliteration": "İn neşe’ nunezzil aleyhim mines semâi âyeten fe zallet a’nâkuhum lehâ hâdıîn(hâdıîne).",
+      "verseMeaning": "Eğer istersek gökten üzerlerine bir mucize indiririz de boyunları onun önünde perişanlıkla eğilip kalır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xDE"
+}

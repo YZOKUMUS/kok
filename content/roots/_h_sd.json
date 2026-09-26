@@ -1,0 +1,157 @@
+{
+  "id": "HSd",
+  "latinName": "Ha-Sad-Dal",
+  "lettersArabic": "ح ص د",
+  "meanings": [
+    "Hasat etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 6,
+  "lemmas": [
+    {
+      "formArabic": "حَصَاد",
+      "count": 1
+    },
+    {
+      "formArabic": "حَصَد",
+      "count": 1
+    },
+    {
+      "formArabic": "حَصِيد",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَصَاد",
+      "sura": 6,
+      "ayah": 141,
+      "formInAyah": "حَصَادِهِ",
+      "transliteration": "HaSādihi",
+      "gloss": "hasat",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ ۚ كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ۖ وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "verseTransliteration": "Ve huvellezî enşee cennâtin ma’rûşâtin ve gayre ma’rûşâtin ven nahle vez zer’a muhtelifen ukuluhu vez zeytûne ver rummâne muteşâbihen ve gayre muteşâbih(muteşâbihin), kulû min semerihî izâ esmere ve âtû hakkahu yevme hasâdihî ve lâ tusrifû, innehu lâ yuhibbul musrifîn(musrifîne).",
+      "verseMeaning": "Çardaklı ve çardaksız bahçeleri, ürünleri çeşit çeşit hurmaları, sebzeleri, zeytinleri, narları, birbirine benzer ve benzemez biçimde oluşturan O´dur. Her birinin meyvesinden, olgunlaştığı zaman yiyin ve hasat gününde onun hakkını da verin. İsraf etmeyin, Allah israf edenleri sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَصَد",
+      "sura": 12,
+      "ayah": 47,
+      "formInAyah": "حَصَدْتُمْ",
+      "transliteration": "HaSadtum",
+      "gloss": "biçtiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدْتُمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ",
+      "verseTransliteration": "Kâle tezreûne seb’a sinîne de’ebâ(de’eben), fe mâ hasadtum fe zerûhu fî sunbulihî illâ kalîlen mimmâ te’kulûn(te’kulûne).",
+      "verseMeaning": "Yûsuf dedi: \"Alışılageldiği şekliyle yedi yıl ekin ekeceksiniz. Biçtiklerinizden yiyecek kadar az bir miktar alır, gerisini başağında bırakırsınız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَصِيد",
+      "sura": 10,
+      "ayah": 24,
+      "formInAyah": "حَصِيدًا",
+      "transliteration": "HaSīden",
+      "gloss": "biçilmiş hale",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّمَا مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْأَنْعَامُ حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَنْ لَمْ تَغْنَ بِالْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "İnnemâ meselul hayâtid dunyâ ke mâin enzelnâhu mines semâi fahteleta bihî nebâtul ardı mimmâ ye´kulun nâsu vel en´âm(en´âmu), hattâ izâ ehazetil ardu zuhrufehâ vezzeyyenet ve zanne ehluhâ ennehum kâdirûne aleyhâ etâhâ emrunâ leylen ev nehâren fe cealnâhâ hasîden ke en lem tagne bil ems(emsi), kezâlike nufassilul âyâti li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Şu iğreti hayatın durumu gökten indirdiğimiz bir suya benzer: İnsanların ve davarların yedikleri yeryüzü bitkisi onunla karışmıştır. Nihayet toprak, takılarını kuşanmış, süslenmiştir. Toprağın sahipleri onun üzerinde egemen olduklarını sanmaktadırlar. Tam bu sırada emrimiz ona gece veya gündüz ulaşmıştır. Ve onu, sanki dün yerinde yokmuş gibi biçip atmışızdır. Derin derin düşünen bir topluluk için ayetleri böyle ayrıntılı olarak veriyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَصِيد",
+      "sura": 11,
+      "ayah": 100,
+      "formInAyah": "وَحَصِيدٌ",
+      "transliteration": "ve HaSīdun",
+      "gloss": "(bazıları ise) tamamen silinmiştir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ مِنْ أَنْبَاءِ الْقُرَىٰ نَقُصُّهُ عَلَيْكَ ۖ مِنْهَا قَائِمٌ وَحَصِيدٌ",
+      "verseTransliteration": "Zâlike min enbâil kurâ nekussuhu aleyke minhâ kâimun ve hasîd(hasîdun).",
+      "verseMeaning": "İşte bunlar o kentlerin/medeniyetlerin haberlerinden bir kısmı, anlatıyoruz sana. Kimi hâlâ ayakta onların, kimi kökünden biçilip gitmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَصِيد",
+      "sura": 21,
+      "ayah": 15,
+      "formInAyah": "حَصِيدًا",
+      "transliteration": "HaSīden",
+      "gloss": "biçilmiş (ekin gibi)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّىٰ جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ",
+      "verseTransliteration": "Fe mâ zâlet tilke da’vâhum hattâ cealnâhum hasîden hâmidîn(hâmidîne).",
+      "verseMeaning": "Bu davaları sürüp giderken biz onları kökten biçiverdik, sönüp silindiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَصِيد",
+      "sura": 50,
+      "ayah": 9,
+      "formInAyah": "الْحَصِيدِ",
+      "transliteration": "l-HaSīdi",
+      "gloss": "biçilecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ",
+      "verseTransliteration": "Ve nezzelnâ mines semâi mâen mubâreken fe enbetnâ bihî cennâtin ve habbel hasîdi.",
+      "verseMeaning": "Gökten, kutlu ve bereketli bir su indirdik de onunla bahçeler yeşerttik, hasatlanacak daneler yetiştirdik."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=HSd"
+}

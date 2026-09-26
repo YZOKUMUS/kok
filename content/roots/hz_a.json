@@ -1,0 +1,779 @@
+{
+  "id": "hzA",
+  "latinName": "he-Za-Elif",
+  "lettersArabic": "ه ز ا",
+  "meanings": [
+    "to bring down disgrace upon, send down contempt. To mock/ridicule/deride/laugh. (e.g. huzuwan, 2:67) ."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 34,
+  "lemmas": [
+    {
+      "formArabic": "مُسْتَهْزِءُون",
+      "count": 2
+    },
+    {
+      "formArabic": "هُزُو",
+      "count": 11
+    },
+    {
+      "formArabic": "ٱسْتُهْزِئَ",
+      "count": 21
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْتَهْزِءُون",
+      "sura": 2,
+      "ayah": 14,
+      "formInAyah": "مُسْتَهْزِئُونَ",
+      "transliteration": "mustehziūne",
+      "gloss": "(onlarla) alay ediyoruz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İstif’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve izâ lekûllezîne âmenû kâlû âmennâ, ve izâ halev ilâ şeyâtînihim, kâlû innâ meakum, innemâ nahnu mustehziûn(mustehziûne).",
+      "verseMeaning": "Bunlar iman etmiş olanlarla yüz yüze geldiklerinde, \"îman ettik\" derler. Kendi şeytanlarıyla baş başa kaldıklarında ise söyledikleri şudur: \"Hiç kuşkunuz olmasın biz sizinleyiz. Gerçek olan şu ki, biz alay edip duran kişileriz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْتَهْزِءُون",
+      "sura": 15,
+      "ayah": 95,
+      "formInAyah": "الْمُسْتَهْزِئِينَ",
+      "transliteration": "l-mustehziīne",
+      "gloss": "alay edenler(e karşı)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İstif’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ",
+      "verseTransliteration": "İnnâ kefeynâkel mustehziîn(mustehziîne).",
+      "verseMeaning": "Alay edip eğlenenlere karşı biz sana yeteriz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 2,
+      "ayah": 67,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "alay",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ",
+      "verseTransliteration": "Ve iz kâle mûsâ li kavmihî innallâhe ye’murukum en tezbehû bakarah(bakaraten), kâlû e tettehızunâ huzuvâ(huzuven), kâle eûzu billâhi en ekûne minel câhilîn(câhilîne).",
+      "verseMeaning": "Mûsa, toplumuna dedi ki: \"Allah size, bir inek kesmenizi emrediyor.\" Dediler ki: \"Sen bizimle alay mı ediyorsun?\" Dedi ki: \"Cahillerden biri olmaktan Allah´a sığınırım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 2,
+      "ayah": 231,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "eğlence",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Ve izâ tallaktumun nisâe fe belagne ecelehunne fe emsikûhunne bi ma’rûfin ev serrihûhunne bi ma’rûf(ma’rûfin), ve lâ tumsikûhunne dırâran li ta’tedû, ve men yef’al zâlike fe kad zaleme nefseh(nefsehu), ve lâ tettehızû âyâtillâhi huzuvâ(huzuven), vezkurû ni’metallâhi aleykum ve mâ enzele aleykum minel kitâbi vel hikmeti yeızukum bih(bihî), vettekûllâhe va’lemû ennallâhe bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Kadınları boşadığınızda, bekleme sürelerini tamamladılar mı ya onları örfe uygun olarak tutun yahut da örfe uygun olarak serbest bırakın. Onları, zulmetmeniz için, zararlarına bir biçimde, tutmayın. Bunu yapan, öz benliğine zulmetmiş olur. Allah´ın ayetlerini eğlence aracı yapmayın. Allah´ın üzerinizdeki nimetini ve kendisiyle size öğüt vermek için indirdiği Kitap´ı ve hikmeti hatırlayın. Allah´tan korkun ve bilin ki, Allah her şeyi çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 5,
+      "ayah": 57,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "eğlence",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الَّذِينَ اتَّخَذُوا دِينَكُمْ هُزُوًا وَلَعِبًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَالْكُفَّارَ أَوْلِيَاءَ ۚ وَاتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tettehızûllezînettehazû dînekum huzuven ve leiben min ellezîne ûtûl kitâbe min kablikum vel kuffâra evliyâ(evliyâe), vettekûllâhe in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Ey iman edenler! Sizden önce kitap verilenlerden ve küfre sapanlardan, dininizi oyun ve eğlence edinenleri dost tutmayın. Eğer inanıyorsanız Allah´tan sakının."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 5,
+      "ayah": 58,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "eğlence",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا نَادَيْتُمْ إِلَى الصَّلَاةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ",
+      "verseTransliteration": "Ve izâ nâdeytum iles salâtittehazûhâ huzuven ve leıbâ(leıben) zâlike bi ennehum kavmun lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Namaza çağırdığınızda onu oyun ve eğlence edindiler. Böyle yaptılar; çünkü onlar akıllarını işletmeyen bir topluluktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 18,
+      "ayah": 56,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "alay konusu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۚ وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ ۖ وَاتَّخَذُوا آيَاتِي وَمَا أُنْذِرُوا هُزُوًا",
+      "verseTransliteration": "Ve mâ nursilul murselîne illâ mubeşşirîne ve munzirîn(munzirîne), ve yucâdilullezîne keferû bil bâtılı li yudhıdû bihil hakka vettehazû âyâtî ve mâ unzirû huzuvâ(huzuven).",
+      "verseMeaning": "Biz, elçileri sadece müjdeleyiciler ve uyarıcılar olarak göndeririz. Küfre sapanlar ise bâtıla yapışarak onunla hakkı kaydırmak için uğraşıyorlar. Onlar, ayetlerimi ve uyarıldıkları şeyleri eğlence edindiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 18,
+      "ayah": 106,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "eğlence",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ذَٰلِكَ جَزَاؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا آيَاتِي وَرُسُلِي هُزُوًا",
+      "verseTransliteration": "Zâlike cezâuhum cehennemu bimâ keferû vettehazû âyâtî ve rusulî huzuvâ(huzuven).",
+      "verseMeaning": "İşte böyle! Cezaları cehennemdir. Çünkü nankörlük ettiler; ayetlerimi ve resullerini eğlence aracı yaptılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 21,
+      "ayah": 36,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "alay konusu etmek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا رَآكَ الَّذِينَ كَفَرُوا إِنْ يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا الَّذِي يَذْكُرُ آلِهَتَكُمْ وَهُمْ بِذِكْرِ الرَّحْمَٰنِ هُمْ كَافِرُونَ",
+      "verseTransliteration": "Ve izâ reâkellezîne keferû in yettehızûneke illâ huzuvâ(huzuven), e hâzellezî yezkuru âlihetekum, ve hum bi zikrir rahmâni hum kâfirûn(kâfirûne).",
+      "verseMeaning": "O küfredenler seni gördüklerinde, seni şu şekilde alaya almaktan başka birşey yapmazlar: \"İlahlarınızı diline dolayan bu mu?\" Ama Rahman´ın zikrini/Kur´an´ı bizzat onlar örtüp inkâr ediyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 25,
+      "ayah": 41,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "eğlence konusundan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا رَأَوْكَ إِنْ يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا الَّذِي بَعَثَ اللَّهُ رَسُولًا",
+      "verseTransliteration": "Ve iza reavke in yettehızûneke illâ huzuvâ(huzuven), e hâzellezî beasallâhu resûlâ(resûlen).",
+      "verseMeaning": "Seni gördüklerinde, şu şekilde alaya almaktan başka şey yapmazlar: \"Allah´ın, resul olarak gönderdiği şu mu?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 31,
+      "ayah": 6,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "alay konusu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+      "verseTransliteration": "Ve minen nâsi men yeşterî lehvel hadîsi li yudılle an sebîlillâhi bi gayri ilmin ve yettehızehâ huzuvâ(huzuven), ulâike lehum azâbun muhîn(muhînun).",
+      "verseMeaning": "İnsanlardan öylesi vardır ki, Allah yolundan bilgisizce saptırmak için hadis/laf eğlencesi satın alır ve onu alay konusu edinir. İşte böylelerine rezil edici bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 45,
+      "ayah": 9,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "alay konusu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئًا اتَّخَذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+      "verseTransliteration": "Ve izâ alime min âyâtinâ şey’enittehazehâ huzuvâ(huzuven), ulâike lehum azâbun muhîn(muhînun).",
+      "verseMeaning": "Ayetlerimizden birşeyin bilgisine ulaşınca, alaya aldı onu. İşte onlar içindir horlayıp yere batıran bir azap."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هُزُو",
+      "sura": 45,
+      "ayah": 35,
+      "formInAyah": "هُزُوًا",
+      "transliteration": "huzuven",
+      "gloss": "eğlence",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ذَٰلِكُمْ بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا وَغَرَّتْكُمُ الْحَيَاةُ الدُّنْيَا ۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "verseTransliteration": "Zâlikum bi ennekumuttehaztum âyâtillâhi huzuven ve garretkumul hayâtud dunyâ, fel yevme lâ yuhrecûne minhâ ve lâ hum yusta’tebûn(yusta’tebûne).",
+      "verseMeaning": "Bunun sebebi şudur: \"Siz, Allah´ın ayetlerini eğlence aracı yaptınız, dünya hayatı sizi aldattı/gurura itti. Bugün ateşten çıkarılmayacaklar, özür dilemeleri de kabul edilmeyecek.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 2,
+      "ayah": 15,
+      "formInAyah": "يَسْتَهْزِئُ",
+      "transliteration": "yestehziu",
+      "gloss": "alay eder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Allâhu yestehziu bihim ve yemudduhum fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Allah onlarla alay ediyor ve onları, kendi azgınlıkları içinde bocalar bir halde sürüklüyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 4,
+      "ayah": 140,
+      "formInAyah": "وَيُسْتَهْزَأُ",
+      "transliteration": "ve yustehzeu",
+      "gloss": "ve alay edildiğini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ جَمِيعًا",
+      "verseTransliteration": "Ve kad nezzele aleykum fîl kitâbi en izâ semi’tum âyâtillâhi yukferu bihâ ve yustehzeu bihâ fe lâ tak’udû meahum hattâ yehûdû fî hadîsin gayrih(gayrihî), innekum izen misluhum, innallâhe câmiul munâfikîne vel kâfirîne fî cehenneme cemîâ(cemîan).",
+      "verseMeaning": "Allah, Kitap´ta size şunu da indirmiştir: Allah´ın ayetlerinin inkâr edildiğini, bu ayetlerle alay edildiğini işittiğinizde, bir başka lakırdıya dalıp gittikleri zamana kadar, o münafıkların yanında oturmayın. Aksi halde siz de onlar gibi sayılırsınız. Hiç kuşkusuz Allah, münafıklarla kâfirleri cehennemde biraraya getirecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 6,
+      "ayah": 5,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَقَدْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Fe kad kezzebû bil hakkı lemmâ câehum, fe sevfe ye’tîhim enbâû mâ kânûbihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Böylece hakkı, kendilerine geldiği anda yalanladılar. Fakat yakında onlara, alay etmekte oldukları şeyin haberleri gelecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 6,
+      "ayah": 10,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekadistuhzie bi rusulin min kablike fe hâka billezîne sehırû minhum mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun ki, senden önceki resullerle de alay edildi; fakat eğlence konusu yaptıkları şey, o maskaralığı sergileyenleri kıskıvrak sarıverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 6,
+      "ayah": 10,
+      "formInAyah": "اسْتُهْزِئَ",
+      "transliteration": "stuhzie",
+      "gloss": "alay edilmişti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekadistuhzie bi rusulin min kablike fe hâka billezîne sehırû minhum mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun ki, senden önceki resullerle de alay edildi; fakat eğlence konusu yaptıkları şey, o maskaralığı sergileyenleri kıskıvrak sarıverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 9,
+      "ayah": 64,
+      "formInAyah": "اسْتَهْزِئُوا",
+      "transliteration": "stehziū",
+      "gloss": "siz alay edin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَحْذَرُ الْمُنَافِقُونَ أَنْ تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُمْ بِمَا فِي قُلُوبِهِمْ ۚ قُلِ اسْتَهْزِئُوا إِنَّ اللَّهَ مُخْرِجٌ مَا تَحْذَرُونَ",
+      "verseTransliteration": "Yahzerul munâfikûne en tunezzele aleyhim sûretun tunebbiuhum bi mâ fî kulûbihim, kulistehziu, innallâhe muhricun mâ tahzerûn(tahzerûne).",
+      "verseMeaning": "İkiyüzlüler, kalplerinde olanı kendilerine haber verecek bir surenin tepelerine inmesinden çekinir dururlar. De ki: \"Siz alay edin. Allah, o çekinip durduklarınızı ortaya çıkaracaktır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 9,
+      "ayah": 65,
+      "formInAyah": "تَسْتَهْزِئُونَ",
+      "transliteration": "testehziūne",
+      "gloss": "alay ediyordunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَئِنْ سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ كُنْتُمْ تَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lein se’eltehum le yekûlunne innemâ kunnâ nahûdu ve nel’ab(nel’abu), kul e billâhi ve âyâtihî ve resûlihî kuntum testehziûn (testehziûne).",
+      "verseMeaning": "Onlara sorarsan elbette şöyle diyeceklerdir: \"Lakırdıya dalmış, şakalaşıyorduk, hepsi bu!\" De ki: \"Allah ile, O´nun ayetleriyle, O´nun resulüyle mi eğleniyordunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 11,
+      "ayah": 8,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alaya alıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَىٰ أُمَّةٍ مَعْدُودَةٍ لَيَقُولُنَّ مَا يَحْبِسُهُ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve le in ahharnâ anhumul azâbe ilâ ummetin ma´dûdetin le yekûlunne mâ yahbisuh(yahbisuhu), e lâ yevme ye´tîhim leyse masrûfen anhum ve hâka bi him mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Ve eğer onlardan azabı, belirlenmiş bir süreye kadar ertelesek, mutlaka şöyle diyeceklerdir: \"Onu erteleyen de ne?\" Gözünüzü açın, azap onlara geldiği gün, kendilerinden geri çevrilecek değildir. Ve alay edip durdukları şey, kendilerini sarmış olacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 13,
+      "ayah": 32,
+      "formInAyah": "اسْتُهْزِئَ",
+      "transliteration": "stuhzie",
+      "gloss": "alay edildi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+      "verseTransliteration": "Ve lekadistuhzie bi rusulin min kablike fe emleytu lillezîne keferû summe ehaztuhum, fe keyfe kâne ıkâb(ıkâbi).",
+      "verseMeaning": "Yemin olsun, senden önceki resullerle de alay edildi. İnkâr edenlere biraz süre verdim ama sonunda hepsini yakaladım. Gördüler nasılmış azap!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 15,
+      "ayah": 11,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ediyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve mâ ye’tîhim min resûlin illâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Onlara bir Tanrı elçisi gelir gelmez, onunla mutlaka alay ederlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 16,
+      "ayah": 34,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَصَابَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Fe esâbehum seyyiâtu mâ amilû ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Sonunda, yapıp ettiklerinin kötülükleri başlarına musibet olmuş, alay edip durdukları şey kendilerini sarıvermişti."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 21,
+      "ayah": 41,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekadistuhzie bi rusulin min kablike fe hâka billezîne sehırû minhum mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun, senden önceki resullerle de alay edilmiştir. Sonunda, onlarla eğlenenleri, alay konusu yaptıkları şey kuşatıverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 21,
+      "ayah": 41,
+      "formInAyah": "اسْتُهْزِئَ",
+      "transliteration": "stuhzie",
+      "gloss": "alay edildi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekadistuhzie bi rusulin min kablike fe hâka billezîne sehırû minhum mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun, senden önceki resullerle de alay edilmiştir. Sonunda, onlarla eğlenenleri, alay konusu yaptıkları şey kuşatıverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 26,
+      "ayah": 6,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay edip duruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Fe kad kezzebû fe seye’tîhim enbâu mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun, yalanladılar ama yakında gelecektir onlara alaya alıp durdukları şeyin haberleri."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 30,
+      "ayah": 10,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ediyor-",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Summe kâne âkıbetellezîne esâus sûâ en kezzebû bi âyâtillâhi ve kânû bihâ yestehziûn(yestehziûne).",
+      "verseMeaning": "Sonra o çirkinlik ve kötülük sergileyenlerin sonu, çirkinlik ve kötülüğün en beteri oldu. Çünkü Allah´ın ayetlerini yalanlamışlardı ve o ayetlerle alay ediyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 36,
+      "ayah": 30,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ederlerdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا حَسْرَةً عَلَى الْعِبَادِ ۚ مَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Yâ hasreten alel ıbâd(ıbâdi), mâ ye’tîhim min resûlin illâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yazık şu kullara! Kendilerine gelen her resulle mutlaka alay ederlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 39,
+      "ayah": 48,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ediyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَبَدَا لَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve bedâ lehum seyyiâtu mâ kesebû ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Kazanmış olduklarının çirkinlikleri, önlerinde belirmiş; alay edegeldikleri şey kendilerini sarıvermiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 40,
+      "ayah": 83,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ediyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَرِحُوا بِمَا عِنْدَهُمْ مِنَ الْعِلْمِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Fe lemmâ câethum rusuluhum bil beyyinâti ferihû bimâ indehum minel ilmi ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Resulleri onlara açık seçik beyyineler getirdiklerinde, onlar yanlarındaki bilgiyle sevinip övündüler. Ve alay edip durdukları şey kendilerini kuşatıverdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 43,
+      "ayah": 7,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا يَأْتِيهِمْ مِنْ نَبِيٍّ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve mâ yetîhim min nebîyin illâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Onlara bir peygamber geldiğinde mutlaka onunla alay ediyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 45,
+      "ayah": 33,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay ediyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve bedâ lehum seyyiâtu mâ amilû ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yaptıklarının kötülükleri karşılarına dikilmiş, alay edip durdukları şey kendilerini kuşatıvermiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتُهْزِئَ",
+      "sura": 46,
+      "ayah": 26,
+      "formInAyah": "يَسْتَهْزِئُونَ",
+      "transliteration": "yestehziūne",
+      "gloss": "alay edip duruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ مَكَّنَّاهُمْ فِيمَا إِنْ مَكَّنَّاكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَارًا وَأَفْئِدَةً فَمَا أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَارُهُمْ وَلَا أَفْئِدَتُهُمْ مِنْ شَيْءٍ إِذْ كَانُوا يَجْحَدُونَ بِآيَاتِ اللَّهِ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve lekad mekkennâ hum fî mâ in mekkennâkum fîhi ve cealnâ lehum sem’an ve ebsâren ve ef’ideten fe mâ agnâ anhum sem’uhum ve lâ ebsâruhum ve lâ ef’idetuhum min şey’in iz kânû yechadûne bi âyâtillâhi ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Yemin olsun, onlara, size vermediğimiz imkân ve kudreti vermiştik. Onlar için işitme gücü, gözler ve gönüller oluşturmuştuk. Fakat, işitme güçleri de gözleri de gönülleri de kendilerine hiçbir yarar sağlamadı/kendilerinden hiçbir şeyi uzaklaştıramadı; çünkü ayetlerimize karşı direniyorlardı. Ve alaya aldıkları şey, onları kuşatıp sardı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hzA"
+}

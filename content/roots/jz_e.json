@@ -1,0 +1,67 @@
+{
+  "id": "jzE",
+  "latinName": "Cim-Za-Ayn",
+  "lettersArabic": "ج ز ع",
+  "meanings": [
+    "Sızlanmak, sabırsızlanmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "جَزِعْ",
+      "count": 1
+    },
+    {
+      "formArabic": "جَزُوع",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَزِعْ",
+      "sura": 14,
+      "ayah": 21,
+      "formInAyah": "أَجَزِعْنَا",
+      "transliteration": "eceziǎ’nā",
+      "gloss": "sızlansak da",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَبَرَزُوا لِلَّهِ جَمِيعًا فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنْتُمْ مُغْنُونَ عَنَّا مِنْ عَذَابِ اللَّهِ مِنْ شَيْءٍ ۚ قَالُوا لَوْ هَدَانَا اللَّهُ لَهَدَيْنَاكُمْ ۖ سَوَاءٌ عَلَيْنَا أَجَزِعْنَا أَمْ صَبَرْنَا مَا لَنَا مِنْ مَحِيصٍ",
+      "verseTransliteration": "Ve berezû lillahi cemîan fe kâled duafâu lillezînestekberû innâ kunnâ lekum tebean fe hel entum mugnûne annâ min azâbillâhi min şey’(şey’in), kâlû lev hedânallâhu le hedeynâkum, sevâun aleynâ ecezi’nâ em sabernâ mâ lenâ min mahîs(mahîsın).",
+      "verseMeaning": "Hepsi toplu halde, Allah´ın huzuruna çıkmış olacaklar. Ezilip horlananlar, büyüklük taslayanlara diyecekler ki: \"Biz sizin birer uydunuzduk. Şimdi siz Allah´ın azabından bir kısmını bizden uzaklaştırabilir misiniz?\" Cevap verecekler: \"Allah bize kılavuzluk etseydi elbette biz de size kılavuzluk ederdik. Şimdi inleyip feryat etsek de sabretsek de bir. Sığınacak hiçbir yerimiz yok.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَزُوع",
+      "sura": 70,
+      "ayah": 20,
+      "formInAyah": "جَزُوعًا",
+      "transliteration": "cezūǎn",
+      "gloss": "sızlanır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+      "verseTransliteration": "İzâ messehuş şerru cezûâ(cezûan).",
+      "verseMeaning": "Kendisine kötülük/hoşnutsuzluk dokununca basar bağırır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=jzE"
+}

@@ -1,0 +1,1379 @@
+{
+  "id": "mwh",
+  "latinName": "Mim-Vav-he",
+  "lettersArabic": "م و ه",
+  "meanings": [
+    "water, rain"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 63,
+  "lemmas": [
+    {
+      "formArabic": "مَاء",
+      "count": 63
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 2,
+      "ayah": 22,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ۖ فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ellezî ceale lekumul arda firâşen ves semâe binââ(binâen), ve enzele mines semâi mâen fe ahrece bihî mines semarâti rızkan lekum, fe lâ tec’alû lillâhi endâden ve entum ta’lemûn(tâ’lemune).",
+      "verseMeaning": "O Rab ki, yeri sizin için bir döşek, göğü de bir bina yaptı. Ve gökten bir su indirdi de onunla sizin için meyvelerden / ürünlerden bir rızk çıkardı. Artık bilip durduğunuz halde Allah´a ortaklar koşmayın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 2,
+      "ayah": 74,
+      "formInAyah": "الْمَاءُ",
+      "transliteration": "l-māu",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "verseTransliteration": "Summe kaset kulûbukum min ba’di zâlike fe hiye kel hıcâreti ev eşeddu kasveh(kasveten), ve inne minel hıcâreti lemâ yetefecceru minhul enhâr(enhâru), ve inne minhâ lemâ yeşşakkaku fe yahrucu minhul mâu, ve inne minhâ lemâyehbitu min haşyetillâh(haşyetillâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Sonra bunun ardından kalpleriniz yine kaskatı kesildi. Taş gibidir o. Belki daha da katıdır. Taşların bazıları var ki, ondan ırmaklar fışkırır. Bazıları var ki, çatır çatır yarılır da içinden su çıkar. Öylesi var ki, Allah korkusundan aşağılara düşer. Allah, yapıp durduklarınızdan gafil değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 2,
+      "ayah": 164,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ مَاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "İnne fî halkıs semâvâti vel ardı vahtilâfil leyli ven nehâri vel fulkilletî tecrî fîl bahri bimâ yenfeun nâse ve mâ enzelallâhu mines semâi min mâin fe ahyâ bihil arda ba’de mevtihâ ve besse fîhâ min kulli dâbbe(dâbbetin), ve tasrîfir riyâhı ves sehâbil musahhari beynes semâi vel ardı le âyâtin li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Şu bir gerçek ki göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelişinde, insanların yararı için denizde yüzüp giden gemilerde, Allah´ın gökten suyu indirip onunla, ölümünden sonra toprağı dirilterek üzerine tüm canlılardan yaymasında, rüzgarların bir düzen içinde yönden yöne çevrilmesinde, gök ve yer arasında bir hizmete memur edilen bulutlarda, aklını işleten bir topluluk için sayısız izler-işaretler-ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 4,
+      "ayah": 43,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ takrabûs salâte ve entum sukârâ hattâ ta’lemû mâ tekûlûne ve lâ cunuben illâ âbirî sebîlin hattâ tagtesilû ve in kuntum merdâ ev alâ seferin ev câe ehadun minkum minel gâiti ev lâmestumun nisâe fe lem tecidû mâen fe teyemmemû saîden tayyiben femsehû bi vucûhikum ve eydîkum innallâhe kâne afuvven gafûrâ(gafûran).",
+      "verseMeaning": "Ey iman edenler! Sarhoşken, ne söylediğinizi bilinceye kadar, cünüpken de -yolculuk halinde olmanız müstesna- boy abdesti alıncaya kadar namaza yaklaşmayın. Eğer hastalanırsanız yahut yolculuk halinde bulunursanız yahut biriniz tuvaletten gelmişse yahut kadınlara dokunmuşsanız, bütün bu durumlarda su da bulamamışsanız, temiz bir toprakla teyemmüm edin. Yani yüzlerinizi ve ellerinizi meshedin. Allah Afüvv´dür, günahları affeder, Gafûr´dur, hataları bağışlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 5,
+      "ayah": 6,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ ۚ وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِنْهُ ۚ مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُمْ مِنْ حَرَجٍ وَلَٰكِنْ يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ kumtum iles salâti fagsilû vucûhekum ve eydiyekum ilel merâfikı vemsehû bi ruusikum ve erculekum ilâl ka’beyn(ka’beyni) ve in kuntum cunuben fattahherû ve in kuntum mardâ ev alâ seferin ev câe ehadun minkum minel gâitı ev lâmestumun nisâe fe lem tecidû mâen fe teyemmemû saîden tayyiben femsehû bi vucûhikum ve eydîkum minh(minhu) mâ yurîdullâhu li yec’ale aleykum min haracin ve lâkin yurîdu li yutahhirekum ve li yutimme ni’metehu aleykum leallekum teşkurûn(teşkurûne).",
+      "verseMeaning": "Ey iman sahipleri! Namaza duracağınız zaman yüzlerinizi ve dirseklere kadar ellerinizi yıkayın; başlarınızı meshedin ve topuklara kadar ayaklarınızı meshedin/yahut yıkayın. Eğer cünüp iseniz iyice temizlenin! Hasta yahut yolculuk halinde iseniz yahut biriniz tuvaletten gelmişse yahut kadınlara dokunmuş da su bulamamışsanız temiz bir toprakla teyemmüm edin: Yüzlerinizi ve ellerinizi ondan meshedin. Allah size zorluk çıkarmak istemiyor. Ancak sizi temizlemek ve üzerinizdeki nimetini tamamlamak istiyor ki, şükredebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 6,
+      "ayah": 99,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "Ve huvellezî enzele mines semâi mâ’(mâen), fe ahrecnâ bihî nebate kulli şey’in fe ahrecnâ minhu hadıran nuhricu minhu habben muterâkibâ(muterâkiben), ve minen nahli min tal’ıhâ kınvânun dâniyetun ve cennâtin min a’nâbin vez zeytûne ver rummâne muştebihen ve gayre muteşâbih(muteşâbihin), unzurû ilâ semerihî izâ esmere ve yen’ıh(yen’ıhî), inne fî zâlikum le âyâtin li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Size gökten su indiren de O´dur! Biz o suyla her şeyin bitkisini çıkardık. Ondan da bir yeşillik çıkardık. O yeşillikten birbiri üzerine binmiş dâneler çıkardık. Hurma ağacının da tomurcuğundan sarkan salkımlar, üzümlerden bağlar, zeytin, nar çıkardık. Birbirine benzeyeni var, benzemeyeni var. Meyve verdiğinde ve meyveler olgunlaştığında bir bakın onun ürününe! Bu size gösterilenlerde, iman eden bir topluluk için, çok ibret vardır!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 7,
+      "ayah": 50,
+      "formInAyah": "الْمَاءِ",
+      "transliteration": "l-māi",
+      "gloss": "su(yunuz)-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَنَادَىٰ أَصْحَابُ النَّارِ أَصْحَابَ الْجَنَّةِ أَنْ أَفِيضُوا عَلَيْنَا مِنَ الْمَاءِ أَوْ مِمَّا رَزَقَكُمُ اللَّهُ ۚ قَالُوا إِنَّ اللَّهَ حَرَّمَهُمَا عَلَى الْكَافِرِينَ",
+      "verseTransliteration": "Ve nâdâ ashâbun nâri ashâbel cenneti en efîdû aleynâ minel mâi ev mimmâ rezekakumullâh(rezekakumullâhu), kâlû innallâhe harremehumâ alel kâfirîn(kâfirîne).",
+      "verseMeaning": "Ateş halkı, cennet halkına seslenir: \"Şu sudan yahut Allah´ın sizi rızıklandırdığından biraz da bize akıtın!\" Şu cevabı verirler: \"Allah, o ikisini de küfre sapanlara haram kılmıştır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 7,
+      "ayah": 57,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ ۖ حَتَّىٰ إِذَا أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَاهُ لِبَلَدٍ مَيِّتٍ فَأَنْزَلْنَا بِهِ الْمَاءَ فَأَخْرَجْنَا بِهِ مِنْ كُلِّ الثَّمَرَاتِ ۚ كَذَٰلِكَ نُخْرِجُ الْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Ve huvellezî yursilur riyâha buşren beyne yedey rahmetih(rahmetihi), hattâ izâ ekallet sehâben sikâle suknâhu li beledin meyyitin fe enzelnâ bihil mâe fe ahrecnâ bihîmin kullissemerât(semerâti), kezâlikenuhricul mevtâ leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Rüzgarları, rahmetinin önünden müjdeci gönderen O´dur. Nihayet onlar, yüklerle ağırlaşmış bulutları yüklenince onu ölü bir beldeye göndeririz; onunla su indiririz de o suyla her türlü meyvayı çıkarırız. İşte biz, ölüleri de böyle çıkarırız. Düşünüp ibret almanız umuluyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 8,
+      "ayah": 11,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+      "verseTransliteration": "İz yugaşşîkumun nuâse emeneten minhu ve yunezzilu aleykum mines semâi mâen li yutahhirekum bihî ve yuzhibe ankum riczeş şeytâni ve li yerbıta alâ kulûbikum ve yusebbite bihil akdâm(akdâme).",
+      "verseMeaning": "O zaman sizi, Allah´tan bir güven olmak üzere hafif bir uyku bürüyordu; sizi onunla temizlemek, şeytanın pisliğini sizden gidermek, kalplerinizi birbirine bağlamak, ayaklarınızı sağlam bastırmak için üzerinize gökten bir su indiriyordu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 10,
+      "ayah": 24,
+      "formInAyah": "كَمَاءٍ",
+      "transliteration": "kemāin",
+      "gloss": "suya benzer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّمَا مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْأَنْعَامُ حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَنْ لَمْ تَغْنَ بِالْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "İnnemâ meselul hayâtid dunyâ ke mâin enzelnâhu mines semâi fahteleta bihî nebâtul ardı mimmâ ye´kulun nâsu vel en´âm(en´âmu), hattâ izâ ehazetil ardu zuhrufehâ vezzeyyenet ve zanne ehluhâ ennehum kâdirûne aleyhâ etâhâ emrunâ leylen ev nehâren fe cealnâhâ hasîden ke en lem tagne bil ems(emsi), kezâlike nufassilul âyâti li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Şu iğreti hayatın durumu gökten indirdiğimiz bir suya benzer: İnsanların ve davarların yedikleri yeryüzü bitkisi onunla karışmıştır. Nihayet toprak, takılarını kuşanmış, süslenmiştir. Toprağın sahipleri onun üzerinde egemen olduklarını sanmaktadırlar. Tam bu sırada emrimiz ona gece veya gündüz ulaşmıştır. Ve onu, sanki dün yerinde yokmuş gibi biçip atmışızdır. Derin derin düşünen bir topluluk için ayetleri böyle ayrıntılı olarak veriyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 11,
+      "ayah": 7,
+      "formInAyah": "الْمَاءِ",
+      "transliteration": "l-māi",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۗ وَلَئِنْ قُلْتَ إِنَّكُمْ مَبْعُوثُونَ مِنْ بَعْدِ الْمَوْتِ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "verseTransliteration": "Ve huvellezî halakas semâvâti vel arda fî sitteti eyyâmin ve kâne arşuhu alel mâi li yebluvekum eyyukum ahsenu amelâ(amelen), ve le in kulte innekum meb’ûsûne min ba’dil mevti le yekûlennellezîne keferû in hâzâ illâ sihrun mubîn(mubînun).",
+      "verseMeaning": "O, odur ki, gökleri ve yeri altı günde yaratmıştır. O´nun arşı da su üzerinde idi. Böyle yapması, iş ve davranış yönünden hanginizin daha güzel olduğunu belirlemek için sizi denemeye yöneliktir. Sen, \"Kuşkusuz, sizler ölümden sonra diriltileceksiniz!\" dediğinde, küfre batanlar hemen ve kesinlikle şöyle derler: \"Bu apaçık bir büyüden başka şey değildir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 11,
+      "ayah": 43,
+      "formInAyah": "الْمَاءِ",
+      "transliteration": "l-māi",
+      "gloss": "su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ سَآوِي إِلَىٰ جَبَلٍ يَعْصِمُنِي مِنَ الْمَاءِ ۚ قَالَ لَا عَاصِمَ الْيَوْمَ مِنْ أَمْرِ اللَّهِ إِلَّا مَنْ رَحِمَ ۚ وَحَالَ بَيْنَهُمَا الْمَوْجُ فَكَانَ مِنَ الْمُغْرَقِينَ",
+      "verseTransliteration": "Kâle seâvî ilâ cebelin ya´sımunî minel mâ´(mâi) kâle lâ âsımel yevme min emrillâhi illâ men rahim(rahime), ve hâle beynehumal mevcu fe kâne minel mugrakîn(mugrakîne).",
+      "verseMeaning": "Oğlu cevap verdi: \"Bir dağa sığınacağım, beni sudan korur.\" Nûh dedi: \"Allah´ın merhamet ettiği dışında bugün hiç kimse için Allah´ın kararından kurtaracak yoktur.\" Ve ikisi arasına dalga girdi de o, boğulanlar arasına katıldı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 11,
+      "ayah": 44,
+      "formInAyah": "مَاءَكِ",
+      "transliteration": "māeki",
+      "gloss": "suyunu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي وَغِيضَ الْمَاءُ وَقُضِيَ الْأَمْرُ وَاسْتَوَتْ عَلَى الْجُودِيِّ ۖ وَقِيلَ بُعْدًا لِلْقَوْمِ الظَّالِمِينَ",
+      "verseTransliteration": "Ve kîle yâ ardubleî mâeki ve yâ semâu akliî ve gîdal mâu ve kudıyel emru vestevet alal cûdiyyi ve kîle bu´den lil kavmiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Ve denildi: \"Ey yer! Suyunu yut ve ey gök, sen de tut.\" Ve su çekidi. İş bitirilmişti. Gemi, Cûdi üzerine oturdu ve haykırıldı: \"O zalimler topluluğu geri gelmez olsun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 11,
+      "ayah": 44,
+      "formInAyah": "الْمَاءُ",
+      "transliteration": "l-māu",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي وَغِيضَ الْمَاءُ وَقُضِيَ الْأَمْرُ وَاسْتَوَتْ عَلَى الْجُودِيِّ ۖ وَقِيلَ بُعْدًا لِلْقَوْمِ الظَّالِمِينَ",
+      "verseTransliteration": "Ve kîle yâ ardubleî mâeki ve yâ semâu akliî ve gîdal mâu ve kudıyel emru vestevet alal cûdiyyi ve kîle bu´den lil kavmiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Ve denildi: \"Ey yer! Suyunu yut ve ey gök, sen de tut.\" Ve su çekidi. İş bitirilmişti. Gemi, Cûdi üzerine oturdu ve haykırıldı: \"O zalimler topluluğu geri gelmez olsun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 13,
+      "ayah": 4,
+      "formInAyah": "بِمَاءٍ",
+      "transliteration": "bimāin",
+      "gloss": "su ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَفِي الْأَرْضِ قِطَعٌ مُتَجَاوِرَاتٌ وَجَنَّاتٌ مِنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "Ve fîl ardı kıtaun mutecâvirâtun ve cennâtun min a’nâbin ve zer’un ve nahîlun sınvânun ve gayru sınvânin yuskâ bi mâin vâhid(vâhidin), ve nufaddılu ba’dehâ alâ ba’dın fîl ukul(ukuli), inne fî zâlike le âyâtin li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Yeryüzünde birbirine sırt vermiş komşu kıtalar, üzümlerden bahçeler, ekinler, çatallı ve çatalsız hurmalıklar vardır ki, bir tek suyla sulanırlar. Biz bunların, yemişlerde bir kısmını diğer bir kısmına üstün kıldık. Bütün bunlarda aklını çalıştıran bir topluluk için elbette ki ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 13,
+      "ayah": 14,
+      "formInAyah": "الْمَاءِ",
+      "transliteration": "l-māi",
+      "gloss": "suya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَهُ دَعْوَةُ الْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لَا يَسْتَجِيبُونَ لَهُمْ بِشَيْءٍ إِلَّا كَبَاسِطِ كَفَّيْهِ إِلَى الْمَاءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَالِغِهِ ۚ وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلَالٍ",
+      "verseTransliteration": "Lehu da’vetul hakk(hakkı), vellezîne yed’ûne min dûnihî lâ yestecîbûne lehum bi şey’in illâ kebâsitı keffeyhi ilel mâi li yebluga fâhu ve mâ huve bi bâligıh(bâligıhî), ve mâ duâul kâfirîne illâ fî dalâl(dalâlin).",
+      "verseMeaning": "Gerçek dua yalnız O´na/hak davet yalnız O´nun için yapılır. O´nun dışında yalvarıp davet ettikleri ise onlara hiçbir şekilde cevap veremezler. Onlar, ağzına ulaşsın diye iki avucunu suya doğru açan ama suya ulaşamayan birinden başkasına benzemiyorlar. Küfre sapanların dua ve davetleri, şaşkınlığa dalmaktan başka bir işe yaramaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 13,
+      "ayah": 17,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ ابْتِغَاءَ حِلْيَةٍ أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ الْحَقَّ وَالْبَاطِلَ ۚ فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً ۖ وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ الْأَمْثَالَ",
+      "verseTransliteration": "Enzele mines semâi mâen fe sâlet evdiyetun bi kaderihâ fahtemeles seylu zebeden râbiyâ(râbiyen), ve mimmâ yûkıdûne aleyhi fîn nâribtigâe hılyetin ev metâın zebedun misluh(misluhu), kezâlike yadribullâhul hakka vel bâtıl(bâtıle), fe emmez zebedu fe yezhebu cufâ’(cufâen), ve emmâ mâ yenfaun nâse fe yemkusufîl ard(ardı), kezâlike yadrıbullâhul emsâl(emsâle).",
+      "verseMeaning": "Gökten bir su indirdi de vadiler, kendi ölçülerince/kaderlerine göre sel oldu, ardından da sel, üste çıkan köpüğü taşır hale geldi. Bir süs eşyası veya âlet yapmak isteğiyle ateşte körükledikleri şeylerde de benzeri bir köpük vardır. Allah hakla bâtılı işte böyle örneklendiriyor: Köpük, atılır gider; insanlara yararlı olansa toprakta kalır. Allah, işte bu şekilde örnekler verir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 14,
+      "ayah": 16,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "bir suy",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنْ وَرَائِهِ جَهَنَّمُ وَيُسْقَىٰ مِنْ مَاءٍ صَدِيدٍ",
+      "verseTransliteration": "Min verâihî cehennemu ve yuskâ min mâin sadîd(sadîdin).",
+      "verseMeaning": "Ardından da cehennem. İrinli bir sudan içirilecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 14,
+      "ayah": 32,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ۖ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِأَمْرِهِ ۖ وَسَخَّرَ لَكُمُ الْأَنْهَارَ",
+      "verseTransliteration": "Allâhullezî halakas semâvâti vel arda ve enzele mines semâi mâen fe ahrece bihî mines semerâti rızkan lekum, ve sehhare lekumul fulke li tecriye fil bahri bi emrih(emrihî), ve sehhare lekumul enhâr(enhâra).",
+      "verseMeaning": "Allah odur ki, gökleri ve yeri yarattı. Gökten bir su indirdi de onunla size rızık olarak türlü meyveler çıkardı. Emriyle denizde akıp gitmeleri için gemileri hizmetinize verdi. Irmakları da emrinize verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 15,
+      "ayah": 22,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَسْقَيْنَاكُمُوهُ وَمَا أَنْتُمْ لَهُ بِخَازِنِينَ",
+      "verseTransliteration": "Ve erselner riyâha levâkıha fe enzelnâ mines semâi mâen fe eskaynâkumûh(eskaynâkumûhu), ve mâ entum lehu bi hâzinîn(hâzinîne).",
+      "verseMeaning": "Rüzgârları dölleyiciler olarak gönderdik; gökten bir su indirdik de onunla sizi suvardık. Onun depolayıcıları siz değilsiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 16,
+      "ayah": 10,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً ۖ لَكُمْ مِنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+      "verseTransliteration": "Huvellezî enzele mines semâi mâen lekum minhu şarâbun ve minhu şecerun fîhi tusîmûn(tusîmûne).",
+      "verseMeaning": "O sizin için gökten bir su indirdi; ondan bir içecek var. Kendisinden hayvanlarınıza yedirdiğiniz ağaç da ondan oluşmaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 16,
+      "ayah": 65,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاللَّهُ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَسْمَعُونَ",
+      "verseTransliteration": "Vallâhu enzele mines semâi mâen fe ahyâ bihil arda ba’de mevtihâ, inne fî zâlike le âyeten li kavmin yesmeûn(yesmeûne).",
+      "verseMeaning": "Allah, gökten bir su indirdi de onunla, ölümünden sonra yeryüzüne hayat verdi. Kuşkusuz, bunda kulak verip dinleyen bir topluluk için mutlaka bir mucize vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 18,
+      "ayah": 29,
+      "formInAyah": "بِمَاءٍ",
+      "transliteration": "bimāin",
+      "gloss": "bir su ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ ۖ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ فَلْيَكْفُرْ ۚ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا",
+      "verseTransliteration": "Ve kulil hakku min rabbikum fe men şâe fel yu´min ve men şâe fel yekfur innâ a´tednâ liz zâlimîne nâren ehâta bihim surâdikuhâ, ve in yestegîsû yugâsû bi mâin kel muhli yeşvîl vucûh(vucûhe), bi´seş şerab(şerabu) ve sâet murtefekâ(murtefekan).",
+      "verseMeaning": "Ve de ki: \"Hak, Rabbinizdendir. Artık dileyen inansın, dileyen inkâr etsin.\" Biz, zalimler için öyle bir ateş hazırladık ki, çadırı/duvarı/dumanı onları çepeçevre kuşatmıştır. Eğer yardım dileseler, erimiş maden gibi yüzleri pişiren bir su ile yardımlarına koşulur. O ne kötü içecek, o ne kötü sığınak/dayanak!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 18,
+      "ayah": 41,
+      "formInAyah": "مَاؤُهَا",
+      "transliteration": "māuhā",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَوْ يُصْبِحَ مَاؤُهَا غَوْرًا فَلَنْ تَسْتَطِيعَ لَهُ طَلَبًا",
+      "verseTransliteration": "Ev yusbiha mâuhâ gavren fe len testetîa lehu talebâ(taleben).",
+      "verseMeaning": "Yahut suyu dibe çekilir de bir daha onu isteyemezsin bile.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 18,
+      "ayah": 45,
+      "formInAyah": "كَمَاءٍ",
+      "transliteration": "kemāin",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاضْرِبْ لَهُمْ مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقْتَدِرًا",
+      "verseTransliteration": "Vadrıb lehum meselel hayâtid dunyâ ke mâin enzelnâhu mines semâi fahteleta bihî nebâtul ardı fe asbeha heşîmen tezrûhur riyâh(riyâhu), ve kânallâhu alâ kulli şey´in muktedirâ(muktediren).",
+      "verseMeaning": "Dünya hayatının şu su örneği gibi olduğunu onlara anlat: \"O suyu gökten indirdik. Yerin bitkisi onunla karıştı. Derken o bitki, rüzgârların savurup döllediği parçacıklara dönüştü. Allah her şey üzerinde Muktedir´dir, gücü her şeye yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 20,
+      "ayah": 53,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِنْ نَبَاتٍ شَتَّىٰ",
+      "verseTransliteration": "Ellezî ceale lekumul arda mehden ve seleke lekum fîhâ subulen ve enzele mines semâi mââ(mâen), fe ahrecnâ bihî ezvâcen min nebâtin şettâ.",
+      "verseMeaning": "Yeryüzünü size beşik yapan, onda sizin için yollar açan, gökten su indiren O´dur. Biz o suyla çeşitli bitkilerden çiftler çıkardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 21,
+      "ayah": 30,
+      "formInAyah": "الْمَاءِ",
+      "transliteration": "l-māi",
+      "gloss": "su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+      "verseTransliteration": "E ve lem yerellezîne keferû ennes semâvâti vel arda kânetâ retkan fe fetaknâhuma, ve cealnâ minel mâi kulle şey’in hayy(hayyin), e fe lâ yu’minûn(yu’minûne).",
+      "verseMeaning": "O küfre sapanlar görmediler mi ki gökler ve yer bitişik idi, biz onları ayırdık. Her canlı şeyi sudan oluşturduk. Hâlâ iman etmeyecekler mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 22,
+      "ayah": 5,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ۖ وَمِنْكُمْ مَنْ يُتَوَفَّىٰ وَمِنْكُمْ مَنْ يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ۚ وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+      "verseTransliteration": "Yâ eyyuhen nâsu in kuntum fî raybin minel ba’si fe innâ halaknâkum min turâbin summe min nutfetin summe min alakatin summe min mudgatin muhallekatin ve gayri muhallekatin li nubeyyine lekum, ve nukırru fîl erhâmi mâ neşâu ilâ ecelin musemmen summe nuhricukum tıflen summe li teblugû eşuddekum ve minkum men yuteveffâ ve minkum men yuraddu ilâ erzelil umuri li keylâ ya’leme min ba’di ilmin şey’â(şey’an), ve terel arda hâmideten fe izâ enzelnâ aleyhel mâehtezzet ve rabet ve enbetet min kulli zevcin behîc(behîcin).",
+      "verseMeaning": "Ey insanlar! Ölümden sonra dirilme konusunda kuşku içinde olabilirsiniz. Ama şu bir gerçek ki, biz sizi bir topraktan, sonra bir spermden, sonra bir embriyodan/döllenmiş bir karışımdan, sonra ne olduğu kısmen belirli, kısmen belirsiz bir et parçasından yarattık ki, size açık seçik beyanda bulunalım. Ve sizi rahimlerde, belirlenen bir süreye kadar dilediğimiz şekilde bekletiyoruz. Sonra sizi bir çocuk olarak çıkarıyoruz. Daha sonra da tam kuvvetinize ulaşmanızı sağlıyoruz. Bununla birlikte içinizden bir kısmı öldürülüyor, yine içinizden bir kısmı ilimden sonra bir şey bilmesin diye ömrün en basit ve düşük noktasına geri gönderiliyor. Yeryüzünü de sönmüş kül halinde görürsün. Nihayet onun üzerine suyu indirdiğimizde titrer, kabarır ve her güzel/bereketli çiftten bir şeyler bitirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 22,
+      "ayah": 63,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَتُصْبِحُ الْأَرْضُ مُخْضَرَّةً ۗ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
+      "verseTransliteration": "E lem tere ennallâhe enzele mines semâi mâen fe tusbihul ardu muhdarreh(muhdarreten), innallâhe latîfun habîr(habîrun).",
+      "verseMeaning": "Görmedin mi, Allah gökten bir su indirdi de, onun sayesinde yer, yemyeşil hale geliyor. Allah Latîf´tir, Habîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 23,
+      "ayah": 18,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَسْكَنَّاهُ فِي الْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍ بِهِ لَقَادِرُونَ",
+      "verseTransliteration": "Ve enzelnâ mines semâi mâen bi kaderin fe eskennâhu fîl ardı ve innâ alâ zehâbin bihî le kâdirûn(kâdirûne).",
+      "verseMeaning": "Gökten bir kaderle/belli ölçüde bir su indirdik de onu yeryüzünde durdurduk. Elbette ki biz, onu gidermeye de gücü yetenleriz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 24,
+      "ayah": 39,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "Vellezîne keferû a’mâluhum ke serâbin bi kîatin yahsebuhuz zam’ânu mâe(mâen), hattâ izâ câehu lem yecidhu şey’en ve vecedallâhe indehu fe veffâhu hisâbeh(hisâbehu), vallâhu serîul hısâb(hısâbi).",
+      "verseMeaning": "Küfre sapanlara gelince, onların amelleri çöldeki serap gibidir ki, susuzluktan bunalan onu su sanır. Ama ona yaklaşınca hiçbir şey bulamaz; yanında Allah´ı bulur; O da onun hesabını eksiksiz bir biçimde görür. Allah, hesabı çok çabuk görendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 24,
+      "ayah": 45,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ ۖ فَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ بَطْنِهِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ أَرْبَعٍ ۚ يَخْلُقُ اللَّهُ مَا يَشَاءُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Vallâhu halaka kulle dâbbetin min mâin, fe minhum men yemşî alâ batnih(batnihi) ve minhum men yemşî alâ ricleyn(ricleyni) ve minhum men yemşî alâ erba’(erbain), yahlukullâhu mâ yeşâu, innellâhe alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Allah, tüm canlıları sudan yarattı. Onlardan kimileri karnı üzerinde yürür, kimileri iki ayak üstünde yürür, kimileri de dört ayak üstünde... Allah dilediğini yaratıyor, Allah her şeye kadirdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 25,
+      "ayah": 48,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ ۚ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً طَهُورًا",
+      "verseTransliteration": "Ve huvellezî erseler riyâha buşren beyne yedey rahmetih(rahmetihî), ve enzelnâ mines semâi mâen tahûrâ(tahûran).",
+      "verseMeaning": "O gönderdi rüzgârı bir müjde olarak rahmetinin önünden. Biz indirdik gökten tertemiz bir su."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 25,
+      "ayah": 54,
+      "formInAyah": "الْمَاءِ",
+      "transliteration": "l-māi",
+      "gloss": "su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا",
+      "verseTransliteration": "Ve huvellezî halaka minel mâi beşeren fe cealehû neseben ve sıhrâ(sıhran), ve kâne rabbuke kadîrâ(kadîren).",
+      "verseMeaning": "Sudan bir insan yaratıp, onu nesep ve sıhriyet akrabaları halinde oluşturan O´dur. Rabbin çok güçlüdür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 27,
+      "ayah": 60,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+      "verseTransliteration": "Emmen halakas semâvâti vel arda ve enzele lekum mines semâi mâ’(mâen), fe enbetnâ bihî hadâika zâte behceh(behcetin), mâ kâne lekum en tunbitû şecerehâ, e ilâhun meallâh(meallâhi), bel hum kavmun ya’dilûn(ya’dilûne).",
+      "verseMeaning": "Yoksa gökleri ve yeri yaratan, gökten size bir su indiren mi hayırlı? Biz o suyla sizin için gözler gönüller açan bahçeler bitirdik. Sizin, onların bir tek ağacını bitirmeniz mümkün değildi. Allah´ın yanında bir ilah mı var? Hayır! Ama onlar döneklik eden bir topluluktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 28,
+      "ayah": 23,
+      "formInAyah": "مَاءَ",
+      "transliteration": "māe",
+      "gloss": "suyuna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "verseTransliteration": "Ve lemmâ verede mâe medyene vecede aleyhi ummeten minen nâsi yeskûn(yeskûne), ve vecede min dûnihimumreeteyni tezûdân(tezûdâni), kâle mâ hatbukumâ, kâletâ lâ neskî hattâ yusdirar riâu ve ebûnâ şeyhun kebîr(kebîrun).",
+      "verseMeaning": "Medyen suyuna ulaştığında, su başında halktan bir grup gördü. Hayvanlarını suluyorlardı. Biraz ötelerinde çekingen bir halde duran iki kadın fark etti. \"Derdiniz nedir?\" dedi. \"Şu çobanlar çekilip gidinceye kadar biz hayvanlarımızı sulamayız. Üstelik babamız da ileri yaşta bir ihtiyardır.\" dediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 29,
+      "ayah": 63,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَئِنْ سَأَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+      "verseTransliteration": "Ve le in seeltehum men nezzele mines semâi mâen fe ahyâ bihil arda min ba’di mevtihâ le yekûlunnallâh(yekûlunnallâhu), kulil hamdu lillâh(lillâhi), bel ekseruhum lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Onlara, \"Gökten suyu kim indirdi de onunla toprağı ölümünden sonra canlandırdı?\" diye sorsan, mutlaka \"Allah!\" derler. De ki: \"Hamt Allah´adır. Fakat onların çokları akletmiyorlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 30,
+      "ayah": 24,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ السَّمَاءِ مَاءً فَيُحْيِي بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "Ve min âyâtihî yurîkumul berka havfen ve tamaan, ve yunezzilu mines semâi mâen fe yuhyî bihil arda ba’de mevtihâ, inne fî zâlike le âyâtin li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Yine O´nun ayetlerindendir ki O size, korku ve ümit olmak üzere şimşeği gösteriyor; gökten bir su indiriyor da ölümünden sonra toprağı onunla canlandırıyor. Bunda, aklını işleten bir topluluk için elbette mucizeler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 31,
+      "ayah": 10,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ ۚ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+      "verseTransliteration": "Halakas semâvâti bi gayri amedin terevnehâ ve elkâ fîl ardı revâsiye en temîde bikum ve besse fîhâ min kulli dâbbeh(dâbbetin), ve enzelnâ mines semâi mâen fe enbetnâ fîhâ min kulli zevcin kerîm(kerîmin).",
+      "verseMeaning": "Gökleri direksiz, desteksiz yarattı; görüyorsunuz onları. Ve yeryüzüne, sizi çalkalayıp sendeletmesin diye ağırlıklar, dayanaklar bıraktı ve orada her çeşit hayvanı yaydı. Gökten bir su indirdik de orada her türlü cömert ve bereketli çifti filizlendirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 32,
+      "ayah": 8,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "bir suyun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ",
+      "verseTransliteration": "Summe ceale neslehu min sulâletin min mâin mehîn(mehînin).",
+      "verseMeaning": "Sonra onun neslini bir üsareden, hor görülen bir sudan oluşturdu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 32,
+      "ayah": 27,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوَلَمْ يَرَوْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ فَنُخْرِجُ بِهِ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَامُهُمْ وَأَنْفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ",
+      "verseTransliteration": "E ve lem yerev ennâ nesûkul mâe ilel ardıl curuzi fe nuhricu bihî zar’an te’kulu minhu en’âmuhum ve enfusuhum e fe lâ yubsirûn(yubsirûne).",
+      "verseMeaning": "Görmediler mi ki biz, çorak toprağa suyu salıyoruz da onunla ekinler çıkarıyoruz; hem hayvanları yiyor ondan hem kendileri. Hâlâ görmüyorlar mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 35,
+      "ayah": 27,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَا ۚ وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ",
+      "verseTransliteration": "E lem tere ennallâhe enzele mines semâi mâen, fe ahrecnâ bihî semerâtin muhtelifen elvânuhâ, ve minel cibâli cudedun bîdun ve humrun muhtelifun elvânuhâ ve garâbîbu sûd(sûdun).",
+      "verseMeaning": "Görmedin mi, Allah, gökten bir su indirdi. Onunla, renkleri çeşit çeşit meyveler çıkardık. Dağlardan da yollar var; beyaz, kırmızı, değişik renklerde. Ve simsiyah yollar da var."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 39,
+      "ayah": 21,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَلَكَهُ يَنَابِيعَ فِي الْأَرْضِ ثُمَّ يُخْرِجُ بِهِ زَرْعًا مُخْتَلِفًا أَلْوَانُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُ حُطَامًا ۚ إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِأُولِي الْأَلْبَابِ",
+      "verseTransliteration": "E lem tere ennallâhe enzele mines semâi mâen fe selekehu yenâbîa fîl ardı summe yuhricu bihî zer’an muhtelifen elvânuhu summe yehîcu fe terâhu musferran summe yec’aluhu hutâmâ(hutâmen), inne fî zâlike le zikrâ li ulîl elbâb(elbâbi).",
+      "verseMeaning": "Görmedin mi, Allah gökten bir su indirdi de onu toprak içindeki kaynaklara ulaştırdı. Sonra onunla çeşitli renklerde ekinler çıkarıyor. Sonra ekin kurur da sen onu sararmış görürsün. Sonra da onu kuru ufantı haline getirir. İşte bunda, akıl ve gönül sahipleri için mutlak bir ibret var."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 41,
+      "ayah": 39,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ أَنَّكَ تَرَى الْأَرْضَ خَاشِعَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ ۚ إِنَّ الَّذِي أَحْيَاهَا لَمُحْيِي الْمَوْتَىٰ ۚ إِنَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Ve min âyâtihî enneke terel arda hâşiaten fe izâ enzelnâ aleyhel mâehtezzet ve rebet, innellezî ahyâhâ le muhyîl mevtâ, innehu alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Sen, toprağı huşû halinde boynu bükük görüyorsun ya, işte o da Allah´ın ayetlerindendir. Onun üzerine suyu indirdiğimizde, o titrer ve kabarır. Hiç kuşkusuz, onu dirilten Muhyi ölüleri de mutlaka diriltecektir. O, her şey üzerinde güç sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 43,
+      "ayah": 11,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالَّذِي نَزَّلَ مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَنْشَرْنَا بِهِ بَلْدَةً مَيْتًا ۚ كَذَٰلِكَ تُخْرَجُونَ",
+      "verseTransliteration": "Vellezî nezzele mines semâi mâenbi kader(kaderin), fe enşernâ bihî beldetenmeyten, kezâlike tuhrecûn(tuhrecûne).",
+      "verseMeaning": "Gökten bir ölçüye bağlı olarak/bir kaderle su indirmiştir O. O suyla biz ölü bir beldeyi hayata kavuşturduk. İşte siz de böyle çıkarılacaksınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 47,
+      "ayah": 15,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "suyun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), fîhâ enhârun min mâin gayri âsin(âsinin), ve enhârun min lebenin lem yetegayyer ta’muh(ta’muhu), ve enhârun min hamrin lezzetin liş şâribîn(şâribîne), ve enhârun min aselin musaffâ(musaffen), ve lehum fîhâ min kullis semerâti ve magfiretun min rabbihim, ke men huve hâlidun fîn nâri ve sukû mâen hamîmen fe kattaa em’âehum.",
+      "verseMeaning": "Sakınanlara vaat olunan cennetin durumu şöyledir: Orada, bozulmayan sudan ırmaklar; tadı bozulmayan sütten nehirler, içenlere lezzet sunan bir şaraptan nehirler, süzme bir baldan oluşan nehirler var. Ve orada kendileri için her türlü meyvenin yanında, Rablerinden bir de bağışlanma var. Bu nimetler içindeki ile, sürekli ateşte olup da içirildiği sıcak su tarafından bağırsakları parçalanan kimse aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 47,
+      "ayah": 15,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), fîhâ enhârun min mâin gayri âsin(âsinin), ve enhârun min lebenin lem yetegayyer ta’muh(ta’muhu), ve enhârun min hamrin lezzetin liş şâribîn(şâribîne), ve enhârun min aselin musaffâ(musaffen), ve lehum fîhâ min kullis semerâti ve magfiretun min rabbihim, ke men huve hâlidun fîn nâri ve sukû mâen hamîmen fe kattaa em’âehum.",
+      "verseMeaning": "Sakınanlara vaat olunan cennetin durumu şöyledir: Orada, bozulmayan sudan ırmaklar; tadı bozulmayan sütten nehirler, içenlere lezzet sunan bir şaraptan nehirler, süzme bir baldan oluşan nehirler var. Ve orada kendileri için her türlü meyvenin yanında, Rablerinden bir de bağışlanma var. Bu nimetler içindeki ile, sürekli ateşte olup da içirildiği sıcak su tarafından bağırsakları parçalanan kimse aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 50,
+      "ayah": 9,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ",
+      "verseTransliteration": "Ve nezzelnâ mines semâi mâen mubâreken fe enbetnâ bihî cennâtin ve habbel hasîdi.",
+      "verseMeaning": "Gökten, kutlu ve bereketli bir su indirdik de onunla bahçeler yeşerttik, hasatlanacak daneler yetiştirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 54,
+      "ayah": 11,
+      "formInAyah": "بِمَاءٍ",
+      "transliteration": "bimāin",
+      "gloss": "bir su ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ",
+      "verseTransliteration": "Fe fetahnâ ebvâbes semâi bi mâin munhemir(munhemirin).",
+      "verseMeaning": "Biz de açtık gök kapılarını seller gibi akan bir su ile."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 54,
+      "ayah": 12,
+      "formInAyah": "الْمَاءُ",
+      "transliteration": "l-māu",
+      "gloss": "su(ları)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ",
+      "verseTransliteration": "Ve feccernel arda uyûnen feltekalmâu alâ emrin kad kudir(kudire).",
+      "verseMeaning": "Ve yardık/fışkırttık yeryüzünü pınar pınar. Sonunda kesin ölçülere bağlanmış bir oluş üzere birleşti sular."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 54,
+      "ayah": 28,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "suyun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُحْتَضَرٌ",
+      "verseTransliteration": "Ve nebbi’hum ennel mâe kısmetun beynehum, kullu şirbin muhtedar(muhtedarun).",
+      "verseMeaning": "Suyun, aralarında bölüştürüleceğini onlara bildir. Her su alış/içiş nöbetledir/içilecek her miktar hazırlanmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 56,
+      "ayah": 31,
+      "formInAyah": "وَمَاءٍ",
+      "transliteration": "ve māin",
+      "gloss": "ve sular",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَاءٍ مَسْكُوبٍ",
+      "verseTransliteration": "Ve mâin meskûb(meskûbin).",
+      "verseMeaning": "Akıp dökülen sular,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 56,
+      "ayah": 68,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "suya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+      "verseTransliteration": "E fe reeytumul mâellezî teşrebûn(teşrebûne).",
+      "verseMeaning": "Şu içmekte olduğunuz suya baktınız mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 67,
+      "ayah": 30,
+      "formInAyah": "مَاؤُكُمْ",
+      "transliteration": "māukum",
+      "gloss": "suyunuz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ بِمَاءٍ مَعِينٍ",
+      "verseTransliteration": "Kul e re’eytum in asbaha mâukum gavren fe men ye’tîkum bi maîn maîn(maînin).",
+      "verseMeaning": "Şunu da söyle: \"Bir sabah suyunuz çekiliverse, kim getirecek fışkırıp akan bir su size?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 67,
+      "ayah": 30,
+      "formInAyah": "بِمَاءٍ",
+      "transliteration": "bimāin",
+      "gloss": "bir su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ بِمَاءٍ مَعِينٍ",
+      "verseTransliteration": "Kul e re’eytum in asbaha mâukum gavren fe men ye’tîkum bi maîn maîn(maînin).",
+      "verseMeaning": "Şunu da söyle: \"Bir sabah suyunuz çekiliverse, kim getirecek fışkırıp akan bir su size?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 69,
+      "ayah": 11,
+      "formInAyah": "الْمَاءُ",
+      "transliteration": "l-māu",
+      "gloss": "su(lar)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ",
+      "verseTransliteration": "İnnâ lemmâ tagal mâu hamelnâkum fîl câriyeh(câriyeti).",
+      "verseMeaning": "Su azıp köpürdüğünde, biz sizi o akıp gidende taşıdık,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 72,
+      "ayah": 16,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً غَدَقًا",
+      "verseTransliteration": "Ve en levistekâmû alet tarîkati le eskaynâhum mâen gadekâ(gadekan).",
+      "verseMeaning": "Eğer yolda, kıvamında yürüselerdi, onları bol bir su ile suvarırdık,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 77,
+      "ayah": 20,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "bir su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ",
+      "verseTransliteration": "E lem nahlukkum min mâin mehîn(mehînin).",
+      "verseMeaning": "Sizi basit bir sudan yaratmadık mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 77,
+      "ayah": 27,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su(lar)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا",
+      "verseTransliteration": "Ve cealnâ fîhâ revâsiye şâmihâtin ve eskaynâkum mâen furâtâ(furâten).",
+      "verseMeaning": "Orada oturaklı, başını yücelere kaldırmış dağlar oluşturduk. Ve size tatlı bir su içirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 78,
+      "ayah": 14,
+      "formInAyah": "مَاءً",
+      "transliteration": "māen",
+      "gloss": "su",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+      "verseTransliteration": "Ve enzelnâ minel mu’sırâti mâen seccâcâ(seccâcen).",
+      "verseMeaning": "Sıkarak su çıkaranlardan şarıl şarıl bir su indirdik,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 79,
+      "ayah": 31,
+      "formInAyah": "مَاءَهَا",
+      "transliteration": "māehā",
+      "gloss": "suyunu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا",
+      "verseTransliteration": "Ahrece minhâ mâehâ ve mer’âhâ.",
+      "verseMeaning": "Ondan suyunu, otlağını çıkardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 80,
+      "ayah": 25,
+      "formInAyah": "الْمَاءَ",
+      "transliteration": "l-māe",
+      "gloss": "suyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+      "verseTransliteration": "Ennâ sabebnel mâe sabbâ(sabben).",
+      "verseMeaning": "Biz suyu döktük de döktük."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَاء",
+      "sura": 86,
+      "ayah": 6,
+      "formInAyah": "مَاءٍ",
+      "transliteration": "māin",
+      "gloss": "bir su-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+      "verseTransliteration": "Hulika min mâin dâfik(dâfikın).",
+      "verseMeaning": "Fırlayan bir suyun bir parçacağından yaratıldı o."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=mwh"
+}

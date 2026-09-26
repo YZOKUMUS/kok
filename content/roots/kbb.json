@@ -1,0 +1,70 @@
+{
+  "id": "kbb",
+  "latinName": "Kef-Be-Be",
+  "lettersArabic": "ك ب ب",
+  "meanings": [
+    "Atmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "كُبَّتْ",
+      "count": 1
+    },
+    {
+      "formArabic": "مُكِبّ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كُبَّتْ",
+      "sura": 27,
+      "ayah": 90,
+      "formInAyah": "فَكُبَّتْ",
+      "transliteration": "fekubbet",
+      "gloss": "yıkılır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve men câe bis seyyieti fe kubbet vucûhuhum fîn nâr(nâri), hel tuczevne illâ mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "Kötülük getirenlerin ise yüzleri ateşte sürtülür. Sadece yapıp ettiklerinizle cezalandırılırsınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُكِبّ",
+      "sura": 67,
+      "ayah": 22,
+      "formInAyah": "مُكِبًّا",
+      "transliteration": "mukibben",
+      "gloss": "kapanarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَمَنْ يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّنْ يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "E fe men yemşî mukibben alâ vechihî ehdâ emmen yemşî seviyyen alâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "Peki, yüzüstü kapanarak yürüyen mi daha düzgün gider yoksa dosdoğru yol üzerinde dik ve düzgün yürüyen mi?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=kbb"
+}

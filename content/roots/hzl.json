@@ -1,0 +1,42 @@
+{
+  "id": "hzl",
+  "latinName": "he-Za-Lam",
+  "lettersArabic": "ه ز ل",
+  "meanings": [
+    "to be thin and lean, useless, fruitless, unprofitable, unproductive, vain, exhausted, joke, talk idle."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "هَزْل",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَزْل",
+      "sura": 86,
+      "ayah": 14,
+      "formInAyah": "بِالْهَزْلِ",
+      "transliteration": "bil-hezli",
+      "gloss": "şaka",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا هُوَ بِالْهَزْلِ",
+      "verseTransliteration": "Ve mâ huve bil hezl(hezli).",
+      "verseMeaning": "Şaka değildir o."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hzl"
+}

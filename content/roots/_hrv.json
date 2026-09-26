@@ -1,0 +1,319 @@
+{
+  "id": "Hrv",
+  "latinName": "Ha-Ra-Se",
+  "lettersArabic": "ح ر ث",
+  "meanings": [
+    "Ekmek, tarla sürmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 14,
+  "lemmas": [
+    {
+      "formArabic": "تَحْرُثُ",
+      "count": 1
+    },
+    {
+      "formArabic": "حَرْث",
+      "count": 13
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَحْرُثُ",
+      "sura": 56,
+      "ayah": 63,
+      "formInAyah": "تَحْرُثُونَ",
+      "transliteration": "teHruṧūne",
+      "gloss": "ektiğinizi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَفَرَأَيْتُمْ مَا تَحْرُثُونَ",
+      "verseTransliteration": "E fe reeytum mâ tahrusûn(tahrusûne).",
+      "verseMeaning": "Ekmekte olduğunuzu gördünüz mü?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 2,
+      "ayah": 71,
+      "formInAyah": "الْحَرْثَ",
+      "transliteration": "l-Harṧe",
+      "gloss": "ekin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ مُسَلَّمَةٌ لَا شِيَةَ فِيهَا ۚ قَالُوا الْآنَ جِئْتَ بِالْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ",
+      "verseTransliteration": "Kâle innehu yekûlu innehâ bakaratun lâ zelûlun tusîrul arda ve lâ teskıl hars(harse), musellemetun lâ şiyete fîhâ kâlûl’âne ci’te bil hakk(hakkı), fe zebehûhâ ve mâ kâdû yef’alûn(yef’alûne).",
+      "verseMeaning": "Cevap verdi Mûsa: \"Allah diyor ki, bahsettiğim, boyunduruk yememiş bir inektir; toprağı sürmez, ekini sulamaz. Salma hayvandır. Alaca yoktur onda.\" Dediler ki: \"İşte şimdi gerçeği getirdin.\" Ve ardından onu boğazladılar, az kalsın yapmayacaklardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 2,
+      "ayah": 205,
+      "formInAyah": "الْحَرْثَ",
+      "transliteration": "l-Harṧe",
+      "gloss": "ekin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ",
+      "verseTransliteration": "Ve izâ tevellâ seâ fîl ardı li yufside fîhâ ve yuhlikel harse ven nesl(nesle), vallâhu lâ yuhıbbul fesâd(fesâda).",
+      "verseMeaning": "Yanından ayrıldığında/işbaşına geçtiğinde yeryüzünde fesat çıkarmak, ekini ve nesli yok etmek için işe koyulur. Oysaki Allah, fesadı sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 2,
+      "ayah": 223,
+      "formInAyah": "حَرْثٌ",
+      "transliteration": "Harṧun",
+      "gloss": "bir tarladır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "نِسَاؤُكُمْ حَرْثٌ لَكُمْ فَأْتُوا حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا لِأَنْفُسِكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ مُلَاقُوهُ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Nisâukum harsun lekum, fe’tû harsekum ennâ şi’tum ve kaddimû li enfusikum vettekûllâhe va’lemû ennekum mulâkûh(mulâkûhu), ve beşşiril mu’minîn(mu’minîne).",
+      "verseMeaning": "Kadınlarınız sizin tarlanızdır. O halde tarlanıza dilediğiniz şekilde varın. Öz benlikleriniz için önceden bir şeyler gönderin. Allah´tan korkun ve bilin ki, O´na mutlaka ulaşacaksınız. İman sahiplerine müjde ver."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 2,
+      "ayah": 223,
+      "formInAyah": "حَرْثَكُمْ",
+      "transliteration": "Harṧekum",
+      "gloss": "tarlanıza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "نِسَاؤُكُمْ حَرْثٌ لَكُمْ فَأْتُوا حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا لِأَنْفُسِكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ مُلَاقُوهُ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Nisâukum harsun lekum, fe’tû harsekum ennâ şi’tum ve kaddimû li enfusikum vettekûllâhe va’lemû ennekum mulâkûh(mulâkûhu), ve beşşiril mu’minîn(mu’minîne).",
+      "verseMeaning": "Kadınlarınız sizin tarlanızdır. O halde tarlanıza dilediğiniz şekilde varın. Öz benlikleriniz için önceden bir şeyler gönderin. Allah´tan korkun ve bilin ki, O´na mutlaka ulaşacaksınız. İman sahiplerine müjde ver."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 3,
+      "ayah": 14,
+      "formInAyah": "وَالْحَرْثِ",
+      "transliteration": "velHarṧi",
+      "gloss": "ve ekinlerden (gelen)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ ۗ ذَٰلِكَ مَتَاعُ الْحَيَاةِ الدُّنْيَا ۖ وَاللَّهُ عِنْدَهُ حُسْنُ الْمَآبِ",
+      "verseTransliteration": "Zuyyine lin nâsi hubbuş şehevâti minen nisâi vel benîne vel kanâtîril mukantarati minez zehebi vel fıddati vel haylil musevvemeti vel en’âmi vel hars(harsi), zâlike metâul hayâtid dunyâ, vallâhu indehu HUSNUL MEÂB(meâbi).",
+      "verseMeaning": "Kadınlara, oğullara, altın ve gümüşten oluşturulmuş yığınlara, salma atlara, davarlara ve ekinlere tutkunlukların sevgisi, insanlar için süslenip püslenmiştir. Tüm bunlar geçici-iğreti hayatın nimetidir. Allah´a gelince, varılacak yerin en güzeli onun yanındadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 3,
+      "ayah": 117,
+      "formInAyah": "حَرْثَ",
+      "transliteration": "Harṧe",
+      "gloss": "ekinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَثَلُ مَا يُنْفِقُونَ فِي هَٰذِهِ الْحَيَاةِ الدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوا أَنْفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ أَنْفُسَهُمْ يَظْلِمُونَ",
+      "verseTransliteration": "Meselu mâ yunfikûne fî hâzihil hayâtid dunyâ ke meseli rîhin fîhâ sırrun esâbet harse kavmin zalemû enfusehum fe ehlekethu ve mâ zalemehumullâhu ve lâkin enfusehum yazlımûn(yazlımûne).",
+      "verseMeaning": "Bu dünya hayatında harcamakta olduklarının durumu, bir rüzgâr örneğine benzer: Onda kavurucu bir soğuk vardır. Öz benliklerine zulmetmiş bir toplululuğun ekinine değmiş de onu mahvetmiştir. Allah onlara zulmetmedi, onlar kendilerine zulmediyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 6,
+      "ayah": 136,
+      "formInAyah": "الْحَرْثِ",
+      "transliteration": "l-Harṧi",
+      "gloss": "ekin(ler)-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا ۖ فَمَا كَانَ لِشُرَكَائِهِمْ فَلَا يَصِلُ إِلَى اللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَائِهِمْ ۗ سَاءَ مَا يَحْكُمُونَ",
+      "verseTransliteration": "Ve cealû lillâhi mimmâ zeree minel harsi vel en’âmi nasîbenfe kâlû hâzâ lillâhi bi za’mihim ve hâzâ li şurekâinâ, fe mâ kâne li şurekâihim fe lâ yasılu ilâllahi ve mâ kâne lillâhi fe huve yasilu ilâ şurekâihim, sâe mâ yahkumûn(yahkumûne).",
+      "verseMeaning": "Kendi döllendirip yaydığı ekinden ve hayvanlardan Allah´a bir pay ayırdılar da kendi zanlarınca şöyle dediler: \"Bu Allah için, bu da ortaklarımız için.\" ortakları için olan Allah´a ulaşmaz. Ama Allah için olan, ortaklarına ulaşıyor. Ne kötü hüküm veriyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 6,
+      "ayah": 138,
+      "formInAyah": "وَحَرْثٌ",
+      "transliteration": "ve Harṧun",
+      "gloss": "ve ekinlerdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالُوا هَٰذِهِ أَنْعَامٌ وَحَرْثٌ حِجْرٌ لَا يَطْعَمُهَا إِلَّا مَنْ نَشَاءُ بِزَعْمِهِمْ وَأَنْعَامٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَامٌ لَا يَذْكُرُونَ اسْمَ اللَّهِ عَلَيْهَا افْتِرَاءً عَلَيْهِ ۚ سَيَجْزِيهِمْ بِمَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kâlû hâzihi en’âmun ve harsun hicrun lâ yat’amuhâ illâ men neşâu bi za’mihim ve en’âmun hurrimet zuhûruhâ ve en’âmun lâ yezkurûnesmallâhi aleyhaftirâen aleyh(aleyhi) se yeczîhim bimâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Kendi kuruntularına uygun olarak şöyle dediler: \"Şunlar, dokunulmaz hayvanlar ve ekinlerdir. Bizim dilediğimizden başkası yiyemez bunları.\" Hayvanlar var, sırtlarına binmek yasaklanmıştır; hayvanlar var, Allah´a iftira yüzünden üzerlerine Allah´ın adını anmıyorlar. Allah onları üretmekte oldukları iftiralar yüzünden cezalandıracaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 21,
+      "ayah": 78,
+      "formInAyah": "الْحَرْثِ",
+      "transliteration": "l-Harṧi",
+      "gloss": "bir ekin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَدَاوُودَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَاهِدِينَ",
+      "verseTransliteration": "Ve dâvude ve suleymâne iz yahkumâni fîl harsi iz nefeşet fîhi ganemul kavm(kavmi), ve kunnâ li hukmihim şâhidîn(şâhidîne).",
+      "verseMeaning": "Ve Dâvud ile Süleyman... Hani, halkın davarının yayıldığı ekinler hakkında hüküm veriyorlardı da biz hükümlerine tanıklar olmuştuk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 42,
+      "ayah": 20,
+      "formInAyah": "حَرْثَ",
+      "transliteration": "Harṧe",
+      "gloss": "ekinini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ ۖ وَمَنْ كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ نَصِيبٍ",
+      "verseTransliteration": "Men kâne yurîdu harsel âhireti nezid lehu fî harsih(harsihî), ve men kâne yurîdu harsed dunyâ nû’tihî minhâ ve mâ lehu fîl âhireti min nasîb(nasîbin).",
+      "verseMeaning": "Âhiret ekini isteyenin o ekinini artırırız; dünya ekini isteyene de ondan veririz. Ama böylesi için âhirette bir nasip yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 42,
+      "ayah": 20,
+      "formInAyah": "حَرْثَ",
+      "transliteration": "Harṧe",
+      "gloss": "ekinini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ ۖ وَمَنْ كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ نَصِيبٍ",
+      "verseTransliteration": "Men kâne yurîdu harsel âhireti nezid lehu fî harsih(harsihî), ve men kâne yurîdu harsed dunyâ nû’tihî minhâ ve mâ lehu fîl âhireti min nasîb(nasîbin).",
+      "verseMeaning": "Âhiret ekini isteyenin o ekinini artırırız; dünya ekini isteyene de ondan veririz. Ama böylesi için âhirette bir nasip yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 42,
+      "ayah": 20,
+      "formInAyah": "حَرْثِهِ",
+      "transliteration": "Harṧihi",
+      "gloss": "onun ekinini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَنْ كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ ۖ وَمَنْ كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ نَصِيبٍ",
+      "verseTransliteration": "Men kâne yurîdu harsel âhireti nezid lehu fî harsih(harsihî), ve men kâne yurîdu harsed dunyâ nû’tihî minhâ ve mâ lehu fîl âhireti min nasîb(nasîbin).",
+      "verseMeaning": "Âhiret ekini isteyenin o ekinini artırırız; dünya ekini isteyene de ondan veririz. Ama böylesi için âhirette bir nasip yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَرْث",
+      "sura": 68,
+      "ayah": 22,
+      "formInAyah": "حَرْثِكُمْ",
+      "transliteration": "Harṧikum",
+      "gloss": "ekininize",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِنْ كُنْتُمْ صَارِمِينَ",
+      "verseTransliteration": "Enıgdû alâ harsikum in kuntum sârımîn(sârımîne).",
+      "verseMeaning": "\"Hadi, eğer biçecekseniz ekininize erken gidin.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Hrv"
+}

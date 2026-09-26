@@ -1,0 +1,685 @@
+{
+  "id": "$rr",
+  "latinName": "Şin-Ra-Ra",
+  "lettersArabic": "ش ر ر",
+  "meanings": [
+    "kötü olmak, kötülüğe meyletmek, kötülük yapmak, hata bulmak"
+  ],
+  "derivativeNotes": [
+    "Şer - kötü, fena, çirkin, zararlı",
+    "Şerir - yaramaz, kötü iş, herkesin indinde çirkin görülen işi yapan. İnsanın yüzüne çarpan ses – kıvılcım",
+    "Şerare - kıvılcım"
+  ],
+  "turkishDerivatives": [
+    "şer",
+    "şerir",
+    "şirret",
+    "şerare"
+  ],
+  "cognates": [],
+  "totalOccurrencesInQuran": 31,
+  "lemmas": [
+    {
+      "formArabic": "شَرّ",
+      "count": 30
+    },
+    {
+      "formArabic": "شَرَر",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 2,
+      "ayah": 216,
+      "formInAyah": "شَرٌّ",
+      "transliteration": "şerrun",
+      "gloss": "kötüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ ۖ وَعَسَىٰ أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ ۖ وَعَسَىٰ أَنْ تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+      "verseTransliteration": "Kutibe aleykumul kitâlu ve huve kurhun lekum, ve asâ en tekrehû şey’en ve huve hayrun lekum, ve asâ en tuhıbbû şey’en ve huve şerrun lekum vallâhu ya’lemu ve entum lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Hoşunuza gitmemekle birlikte, savaş üzerinize yazılmıştır. Bir şey sizin için hayırlı olduğu halde siz ondan tiksinebilirsiniz. Ve bir şey sizin için şer olduğu halde siz onu sevebilirsiniz. Allah bilir, siz bilmezsiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 3,
+      "ayah": 180,
+      "formInAyah": "شَرٌّ",
+      "transliteration": "şerrun",
+      "gloss": "şerlidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ هُوَ خَيْرًا لَهُمْ ۖ بَلْ هُوَ شَرٌّ لَهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ ۗ وَلِلَّهِ مِيرَاثُ السَّمَاوَاتِ وَالْأَرْضِ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "verseTransliteration": "Ve lâ yahsebennellezîne yebhalûne bi mâ âtâhumullâhu min fadlıhî huve hayran lehum, bel huve şerrun lehum se yutavvekûne mâ bahilû bihî yevmel kıyâmeh(kıyâmeti), ve lillâhi mîrâsus semâvâti vel ard(ardı), vallâhu bi mâ ta’melûne habîr(habîrun).",
+      "verseMeaning": "Allah´ın, lütfundan kendilerine verdiği şeyde cimrilik edenler, bunun kendileri için hayırlı olduğunu sanmasınlar. Tam aksine bu onlar için bir şerdir. O cimrilik konusu yaptıkları şey, kıyamet günü bir tasma gibi boyunlarına dolandırılacaktır. Göklerin ve yerin mirası Allah´ındır. Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 5,
+      "ayah": 60,
+      "formInAyah": "شَرٌّ",
+      "transliteration": "şerrun",
+      "gloss": "daha kötüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ ۚ مَنْ لَعَنَهُ اللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ ۚ أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ عَنْ سَوَاءِ السَّبِيلِ",
+      "verseTransliteration": "Kul hel unebbiukum bi şerrin min zâlike mesûbeten ındallâh(ındallâhi) men leanehullâhu ve gadıbe aleyhi ve ceale min humul kıredete vel hanâzîre ve abedet tâgût(tâgûte) ulâike şerrun mekânen ve edallu an sevâis sebîl(sebîli).",
+      "verseMeaning": "De ki: \"Allah katında ceza olarak bundan daha kötüsünü size bildireyim mi? Allah´ın lanetlediği, üzerine gazap indirdiğidir o. Allah böylelerinden maymunlar, domuzlar ve tağut uşakları yapmıştır. İşte bunlardır yer bakımından daha kötü, yolun denge noktasını kaybetme bakımından daha şaşkın olanlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 5,
+      "ayah": 60,
+      "formInAyah": "بِشَرٍّ",
+      "transliteration": "bişerrin",
+      "gloss": "daha kötüsünü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ ۚ مَنْ لَعَنَهُ اللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ ۚ أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ عَنْ سَوَاءِ السَّبِيلِ",
+      "verseTransliteration": "Kul hel unebbiukum bi şerrin min zâlike mesûbeten ındallâh(ındallâhi) men leanehullâhu ve gadıbe aleyhi ve ceale min humul kıredete vel hanâzîre ve abedet tâgût(tâgûte) ulâike şerrun mekânen ve edallu an sevâis sebîl(sebîli).",
+      "verseMeaning": "De ki: \"Allah katında ceza olarak bundan daha kötüsünü size bildireyim mi? Allah´ın lanetlediği, üzerine gazap indirdiğidir o. Allah böylelerinden maymunlar, domuzlar ve tağut uşakları yapmıştır. İşte bunlardır yer bakımından daha kötü, yolun denge noktasını kaybetme bakımından daha şaşkın olanlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 8,
+      "ayah": 22,
+      "formInAyah": "شَرَّ",
+      "transliteration": "şerra",
+      "gloss": "en kötüsü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ",
+      "verseTransliteration": "İnne şerred devâbbi indallâhis summul bukmullezîne lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Çünkü yeryüzünde debelenenlerin Allah katında en kötüsü, akıllarını işletmeyen sağır dilsizlerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 8,
+      "ayah": 55,
+      "formInAyah": "شَرَّ",
+      "transliteration": "şerra",
+      "gloss": "en kötüsü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا يُؤْمِنُونَ",
+      "verseTransliteration": "İnne şerred devâbbi indallâhillezîne keferû fe hum lâ yu´minûn(yu´minûne).",
+      "verseMeaning": "Allah katında canlıların en kötüsü, gerçeği örtenlerdir. Bunlar iman etmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 10,
+      "ayah": 11,
+      "formInAyah": "الشَّرَّ",
+      "transliteration": "ş-şerra",
+      "gloss": "kötülüğü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَوْ يُعَجِّلُ اللَّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Ve lev yuaccilullâhu lin nâsiş şerresti’câlehum bil hayri le kudiye ileyhim eceluhum, fe nezerullezîne lâ yercûne likâenâ fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Allah, insanlara şerri, onların hayrı acele istedikleri gibi çabucak verseydi, ecellerinin onlara ulaşmasına çoktan hükmedilmiş olurdu. Ama biz, bize kavuşmayı ummayanları kendi azgınlıkları içinde körü körüne bocalamaya bırakırız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 12,
+      "ayah": 77,
+      "formInAyah": "شَرٌّ",
+      "transliteration": "şerrun",
+      "gloss": "fena",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنْتُمْ شَرٌّ مَكَانًا ۖ وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "verseTransliteration": "Kâlû in yesrık fe kad sereka ehun lehu min kabl(kablu), fe eserreha yûsufu fî nefsihî ve lem yubdihâ lehum kâle entum şerrun mekânâ(mekânen), vallâhu a’lemu bimâ tesifûn(tesifûne).",
+      "verseMeaning": "Kardeşler dediler ki: \"Bu çaldı ya, bundan önce de onun kardeşi çalmıştı.\" Yûsuf bunu içinde sakladı, onlara açıklamadı. Şöyle diyordu: \"Kötü bir konumdasınız. O sizin dilinize doladığınız şeyi Allah daha iyi biliyor.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 17,
+      "ayah": 11,
+      "formInAyah": "بِالشَّرِّ",
+      "transliteration": "biş-şerri",
+      "gloss": "şerre",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَدْعُ الْإِنْسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ ۖ وَكَانَ الْإِنْسَانُ عَجُولًا",
+      "verseTransliteration": "Ve yed’ul insânu biş şerri duâehu bil hayr(hayri), ve kânel insânu acûlâ(acûlen).",
+      "verseMeaning": "İnsan, hayra davet eder gibi şerri çağırıyor/insan, hayra duasıyla şerri davet ediyor. İnsan çok acelecidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 17,
+      "ayah": 83,
+      "formInAyah": "الشَّرُّ",
+      "transliteration": "ş-şerru",
+      "gloss": "bir zarar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ ۖ وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَئُوسًا",
+      "verseTransliteration": "Ve izâ en’amnâ alel insâni a’rada ve neâbi cânibih(cânibihî), ve izâ messehuş şerru kâne yeûsâ(yeûsen).",
+      "verseMeaning": "İnsana nimet verdiğimizde yüz çevirip yan çizer. Kendisine şer dokununca da hemen ümitsiz oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 19,
+      "ayah": 75,
+      "formInAyah": "شَرٌّ",
+      "transliteration": "şerrun",
+      "gloss": "daha kötüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ مَنْ كَانَ فِي الضَّلَالَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا",
+      "verseTransliteration": "Kul men kâne fîd dalâleti fel yemdud lehur rahmânu meddâ(medden), hattâ izâ raev mâ yûadûne immel azâbe ve immes sâah(sâate), fe se ya’lemûne men huve şerrun mekânen ve ad’afu cundâ(cunden).",
+      "verseMeaning": "De ki: \"Her kim sapıklıkta ise Rahman ona iyice süre versin. Nihayet, kendilerine vaat edileni, azabı veya kıyametin kopuşunu gördüklerinde mekânca daha kötü, taraflarca daha zayıf olanın kim olduğunu bilecekler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 21,
+      "ayah": 35,
+      "formInAyah": "بِالشَّرِّ",
+      "transliteration": "biş-şerri",
+      "gloss": "şer ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+      "verseTransliteration": "Kullu nefsin zâikatul mevt(mevti), ve neblûkum biş şerri vel hayri fitneh(fitneten), ve ileynâ turceûn(turceûne).",
+      "verseMeaning": "Her canlı, ölümü tadacaktır. Biz bir imtihan olarak sizi şer ile de hayır ile de deniyoruz. Sonunda bize döndürüleceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 22,
+      "ayah": 72,
+      "formInAyah": "بِشَرٍّ",
+      "transliteration": "bişerrin",
+      "gloss": "daha kötü bir şey",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ تَعْرِفُ فِي وُجُوهِ الَّذِينَ كَفَرُوا الْمُنْكَرَ ۖ يَكَادُونَ يَسْطُونَ بِالَّذِينَ يَتْلُونَ عَلَيْهِمْ آيَاتِنَا ۗ قُلْ أَفَأُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكُمُ ۗ النَّارُ وَعَدَهَا اللَّهُ الَّذِينَ كَفَرُوا ۖ وَبِئْسَ الْمَصِيرُ",
+      "verseTransliteration": "Ve izâ tutlâ aleyhim âyâtunâ beyyinâtin ta’rifu fî vucûhillezîne keferûl munker(munkere), yekâdûne yestûne billezîne yetlûne aleyhim âyâtinâ, kul e fe unebbiukum bi şerrin min zâlikum, en nâr(nâru), vaadehallâhullezîne keferû, ve bi’sel masîr(masîru).",
+      "verseMeaning": "Onlara açık seçik ayetlerimiz okunduğunda, o küfre sapanların yüzlerinde bir hoşnutsuzluk/yadsıma görürsün. Kendilerine ayetlerimizi okuyanlara saldıracak olurlar. De ki: \"Size şu yaptığınızdan daha kötü bir şey haber vereyim mi: Ateş! Allah onu inkârcılara vaat etmiştir. Ne kötü dönüş yeridir o!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 24,
+      "ayah": 11,
+      "formInAyah": "شَرًّا",
+      "transliteration": "şerran",
+      "gloss": "şer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِنْكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَكُمْ ۖ بَلْ هُوَ خَيْرٌ لَكُمْ ۚ لِكُلِّ امْرِئٍ مِنْهُمْ مَا اكْتَسَبَ مِنَ الْإِثْمِ ۚ وَالَّذِي تَوَلَّىٰ كِبْرَهُ مِنْهُمْ لَهُ عَذَابٌ عَظِيمٌ",
+      "verseTransliteration": "İnnellezîne câû bil ifki usbetun minkum, lâ tahsebûhu şerren lekum, bel huve hayrun lekum, li kullimriin minhum mektesebe minel ism(ismi), vellezî tevellâ kibrehu minhum lehu azâbun azîm(azîmun).",
+      "verseMeaning": "O ifki/yalan haberi/iftirayı getirenler, içinizden bir gruptur. Onu sizin için şer sanmayın. Aksine o, sizin için bir hayırdır. Onlardan her kişiye o günahtan kazandığı vardır. Onların, günahın büyüğünü yönetenine de büyük bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 25,
+      "ayah": 34,
+      "formInAyah": "شَرٌّ",
+      "transliteration": "şerrun",
+      "gloss": "çok kötüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ سَبِيلًا",
+      "verseTransliteration": "Ellezîne yuhşerûne alâ vucûhihim ilâ cehenneme ulâike şerrun mekânen ve edallu sebîlâ(sebîlen).",
+      "verseMeaning": "O yüzleri üstü cehenneme sevk edilecek olanlar, mekân bakımından en şerli, yol bakımından en sapık kişilerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 38,
+      "ayah": 55,
+      "formInAyah": "لَشَرَّ",
+      "transliteration": "leşerra",
+      "gloss": "en kötü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هَٰذَا ۚ وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ",
+      "verseTransliteration": "Hâzâ, ve inne lit tâgıyne le şerre meâb(meâbin).",
+      "verseMeaning": "Bu, budur! Azgınlara da kötü bir gelecek vardır elbette!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 38,
+      "ayah": 62,
+      "formInAyah": "الْأَشْرَارِ",
+      "transliteration": "l-eşrāri",
+      "gloss": "kötüler-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ الْأَشْرَارِ",
+      "verseTransliteration": "Ve kâlû mâ lenâ lâ nerâ ricâlen kunnâ neudduhum minel eşrâr(eşrâri).",
+      "verseMeaning": "Şöyle dediler: \"Şer temsilcilerinden saydığımız adamları, acaba neden görmüyoruz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 41,
+      "ayah": 49,
+      "formInAyah": "الشَّرُّ",
+      "transliteration": "ş-şerru",
+      "gloss": "bir şer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا يَسْأَمُ الْإِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ الشَّرُّ فَيَئُوسٌ قَنُوطٌ",
+      "verseTransliteration": "Lâ yes’emul insânu min duâil hayri ve in messehuş şerru fe yeûsun kanût(kanûtun).",
+      "verseMeaning": "İnsan, hayır istemekten/hayır için dua etmekten bıkıp usanmaz. Kendisine bir şey dokunmaya görsün; hemen ümidini keser, yıkılır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 41,
+      "ayah": 51,
+      "formInAyah": "الشَّرُّ",
+      "transliteration": "ş-şerru",
+      "gloss": "bir şer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ",
+      "verseTransliteration": "Ve izâ en’amnâ alel insâni a’rada ve neâ bi cânibih(cânibihî), ve izâ messehuş şerru fe zû duâin arîd(arîdın).",
+      "verseMeaning": "İnsana nimet verdiğimizde yüz çevirir, yan yatar. Kendisine şer dokununca, hemen duaya koyulur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 70,
+      "ayah": 20,
+      "formInAyah": "الشَّرُّ",
+      "transliteration": "ş-şerru",
+      "gloss": "kötülük",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+      "verseTransliteration": "İzâ messehuş şerru cezûâ(cezûan).",
+      "verseMeaning": "Kendisine kötülük/hoşnutsuzluk dokununca basar bağırır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 72,
+      "ayah": 10,
+      "formInAyah": "أَشَرٌّ",
+      "transliteration": "eşerrun",
+      "gloss": "kötülük mü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+      "verseTransliteration": "Ve ennâ lâ nedrî eşerrun urîde bi men fîl ardı em erâde bi him rabbuhum reşedâ(reşeden).",
+      "verseMeaning": "\"Doğrusu, bilmiyoruz, yeryüzündeki şuurlulara şer mi istendi, yoksa Rableri onlar için doğru ve güzel olanı mı istemiştir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 76,
+      "ayah": 7,
+      "formInAyah": "شَرُّهُ",
+      "transliteration": "şerruhu",
+      "gloss": "şerri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا",
+      "verseTransliteration": "Yûfûne bin nezri ve yehâfûne yevmen kâne şerruhu mustetîrâ(mustetîren).",
+      "verseMeaning": "Onlar verdikleri sözü tam bir biçimde yerine getirirler ve kötülüğü salgın olan bir günden korkarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 76,
+      "ayah": 11,
+      "formInAyah": "شَرَّ",
+      "transliteration": "şerra",
+      "gloss": "şerrinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا",
+      "verseTransliteration": "Fe vekâhumullâhu şerra zâlikel yevmi ve lakkâhum nadreten ve surûrâ(surûren).",
+      "verseMeaning": "Allah da onları o gününün şerrinden korumuş ve kendilerini bir parlaklığa, bir sevince ulaştırmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 98,
+      "ayah": 6,
+      "formInAyah": "شَرُّ",
+      "transliteration": "şerru",
+      "gloss": "en şerlisidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+      "verseTransliteration": "İnnellezîne keferû min ehlil kitâbi velmuşrikîne fî nâri cehenneme hâlidîne fîhâ, ulâike hum şerrul beriyeh(beriyyeti).",
+      "verseMeaning": "Ehlikitap´ın küfre sapanlarıyla müşrikler, içinde sürekli kalıcılar olarak cehennem ateşindedirler. İşte onlardır yaratılmışların en şerlisi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 99,
+      "ayah": 8,
+      "formInAyah": "شَرًّا",
+      "transliteration": "şerran",
+      "gloss": "şer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "verseTransliteration": "Ve men ya’mel miskâle zerretin şerren yereh(yerehu).",
+      "verseMeaning": "Ve kim bir zerre miktarı şer üretmişse onu görür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 113,
+      "ayah": 2,
+      "formInAyah": "شَرِّ",
+      "transliteration": "şerri",
+      "gloss": "şerri-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنْ شَرِّ مَا خَلَقَ",
+      "verseTransliteration": "Min şerri mâ halak(halaka).",
+      "verseMeaning": "Yarattıklarının şerrinden,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 113,
+      "ayah": 3,
+      "formInAyah": "شَرِّ",
+      "transliteration": "şerri",
+      "gloss": "şerrinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "verseTransliteration": "Ve min şerri gâsikın izâ vekab(vekabe).",
+      "verseMeaning": "Çöktüğü zaman karanlığın/gelip çattığı zaman göz perdelenmesinin/tutulduğu zaman Ay´ın/battığı zaman Güneş´in/taştığı zaman şehvetin/soktuğu zaman yılanın/ümit kırdığı zaman musibetin şerrinden!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 113,
+      "ayah": 4,
+      "formInAyah": "شَرِّ",
+      "transliteration": "şerri",
+      "gloss": "şerrinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "verseTransliteration": "Ve min şerrin neffâsâti fîl ukad(ukadi).",
+      "verseMeaning": "Düğümlere üfleyip tüküren üfürükçülerin şerrinden!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 113,
+      "ayah": 5,
+      "formInAyah": "شَرِّ",
+      "transliteration": "şerri",
+      "gloss": "şerrinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "verseTransliteration": "Ve min şerri hâsidin izâ hased(hasede).",
+      "verseMeaning": "Kıskandığı zaman hasetçinin şerrinden...\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرّ",
+      "sura": 114,
+      "ayah": 4,
+      "formInAyah": "شَرِّ",
+      "transliteration": "şerri",
+      "gloss": "şerri-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "verseTransliteration": "Min şerril vesvâsil hannâs(hannâsi).",
+      "verseMeaning": "Kıvrılıp kıvrılıp saklanan, sinip sinip gizlenen vesvesenin/o sinsi, o aldatıcı şeytanın şerrinden,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرَر",
+      "sura": 77,
+      "ayah": 32,
+      "formInAyah": "بِشَرَرٍ",
+      "transliteration": "bişerarin",
+      "gloss": "kıvılcım(lar)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+      "verseTransliteration": "İnnehâ termî bi şerarin kasr(kasri).",
+      "verseMeaning": "Gerçekten o, köşke benzer kıvılcımlar saçar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24rr"
+}

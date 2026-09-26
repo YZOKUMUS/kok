@@ -1,0 +1,68 @@
+{
+  "id": "qly",
+  "latinName": "Kaf-Lam-Ye",
+  "lettersArabic": "ق ل ي",
+  "meanings": [
+    "Darılmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "قَالِين",
+      "count": 1
+    },
+    {
+      "formArabic": "قَلَىٰ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَالِين",
+      "sura": 26,
+      "ayah": 168,
+      "formInAyah": "الْقَالِينَ",
+      "transliteration": "l-ḳālīne",
+      "gloss": "kızanlardanım",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ إِنِّي لِعَمَلِكُمْ مِنَ الْقَالِينَ",
+      "verseTransliteration": "Kâle innî li amelikum minel kâlîn(kâlîne).",
+      "verseMeaning": "Lût dedi: \"Ben sizin şu yaptığınıza öfkelenenlerdenim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَلَىٰ",
+      "sura": 93,
+      "ayah": 3,
+      "formInAyah": "قَلَىٰ",
+      "transliteration": "ḳalā",
+      "gloss": "darılmadı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "verseTransliteration": "Mâ veddeake rabbuke ve mâ kalâ.",
+      "verseMeaning": "Rabbin seni terk etmedi, sana darılmadı da."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qly"
+}

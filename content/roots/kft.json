@@ -1,0 +1,45 @@
+{
+  "id": "kft",
+  "latinName": "Kef-Fe-Te",
+  "lettersArabic": "ك ف ت",
+  "meanings": [
+    "To gather together, draw things to itself, hasten, be quick and swift in running, urge vehemently, fly, contract, grasp, take."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "كِفَات",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كِفَات",
+      "sura": 77,
+      "ayah": 25,
+      "formInAyah": "كِفَاتًا",
+      "transliteration": "kifāten",
+      "gloss": "toplanma yeri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+      "verseTransliteration": "E lem nec’alil arda kifâtâ(kifâten).",
+      "verseMeaning": "Yeri, bir toplanma zemini yapmadık mı?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=kft"
+}

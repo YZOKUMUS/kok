@@ -1,0 +1,69 @@
+{
+  "id": "rjj",
+  "latinName": "Ra-Cim-Cim",
+  "lettersArabic": "ر ج ج",
+  "meanings": [
+    "Sarsmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "رَجّ",
+      "count": 1
+    },
+    {
+      "formArabic": "رُجَّتِ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَجّ",
+      "sura": 56,
+      "ayah": 4,
+      "formInAyah": "رَجًّا",
+      "transliteration": "raccen",
+      "gloss": "şiddetle sarsılarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+      "verseTransliteration": "İzâ ruccetil ardu reccâ(reccen).",
+      "verseMeaning": "Yerküre bir sarsılışla sarsıldığında,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رُجَّتِ",
+      "sura": 56,
+      "ayah": 4,
+      "formInAyah": "رُجَّتِ",
+      "transliteration": "rucceti",
+      "gloss": "sarsıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+      "verseTransliteration": "İzâ ruccetil ardu reccâ(reccen).",
+      "verseMeaning": "Yerküre bir sarsılışla sarsıldığında,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rjj"
+}

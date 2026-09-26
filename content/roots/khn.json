@@ -1,0 +1,65 @@
+{
+  "id": "khn",
+  "latinName": "Kef-he-Nun",
+  "lettersArabic": "ك ه ن",
+  "meanings": [
+    "To be priest or soothsayer, pretend to be diviner."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "كَاهِن",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَاهِن",
+      "sura": 52,
+      "ayah": 29,
+      "formInAyah": "بِكَاهِنٍ",
+      "transliteration": "bikāhinin",
+      "gloss": "kahin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَذَكِّرْ فَمَا أَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+      "verseTransliteration": "Fe zekkir fe mâ ente bi ni’meti rabbike bi kâhinin ve lâ mecnûn (mecnûnin).",
+      "verseMeaning": "Artık hatırlat, öğüt ver! Rabbinin nimetine yemin olsun ki, sen ne kâhinsin ne de cin çarpmış."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَاهِن",
+      "sura": 69,
+      "ayah": 42,
+      "formInAyah": "كَاهِنٍ",
+      "transliteration": "kāhinin",
+      "gloss": "bir kahinin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَا تَذَكَّرُونَ",
+      "verseTransliteration": "Ve lâ bi kavli kâhin(kâhinin), kalîlen mâ tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Bir kâhinin sözü de değildir o. Ne kadar da az araştırıp düşünüyorsunuz?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=khn"
+}

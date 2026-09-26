@@ -1,0 +1,63 @@
+{
+  "id": "bEvr",
+  "latinName": "Be-Ayn-Se-Ra",
+  "lettersArabic": "ب ع ث ر",
+  "meanings": [
+    "Alt-üst olmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "بُعْثِرَ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بُعْثِرَ",
+      "sura": 82,
+      "ayah": 4,
+      "formInAyah": "بُعْثِرَتْ",
+      "transliteration": "buǎ’ṧirat",
+      "gloss": "içi dışına getirildiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+      "verseTransliteration": "Ve izel kubûru bu’siret.",
+      "verseMeaning": "Kabirler deşildiği zaman,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بُعْثِرَ",
+      "sura": 100,
+      "ayah": 9,
+      "formInAyah": "بُعْثِرَ",
+      "transliteration": "buǎ’ṧira",
+      "gloss": "dışarı atıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "verseTransliteration": "E fe lâ ya’lemu izâ bu’siramâ fîl kubûr(kubûri).",
+      "verseMeaning": "Bilmez mi ki o, kabirler içindekiler dışarı fırlatıldığında,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=bEvr"
+}

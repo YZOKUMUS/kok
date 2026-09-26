@@ -1,0 +1,137 @@
+{
+  "id": "Asf",
+  "latinName": "Elif-Sin-Fe",
+  "lettersArabic": "ا س ف",
+  "meanings": [
+    "to be sad, grieved about, afflicted with."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "ءَاسَفُ",
+      "count": 1
+    },
+    {
+      "formArabic": "أَسَف",
+      "count": 2
+    },
+    {
+      "formArabic": "أَسِف",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ءَاسَفُ",
+      "sura": 43,
+      "ayah": 55,
+      "formInAyah": "اسَفُونَا",
+      "transliteration": "āsefūnā",
+      "gloss": "onlar bizi kızdırınca",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ",
+      "verseTransliteration": "Fe lemmâ âsefûnentekamnâ minhum fe agraknâhum ecmaîn(ecmaîne).",
+      "verseMeaning": "Onlar bizi bu şekilde öfkelendirince, biz de onlardan öç aldık; hepsini suya gömüverdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَف",
+      "sura": 12,
+      "ayah": 84,
+      "formInAyah": "يَا أَسَفَىٰ",
+      "transliteration": "yā esefā",
+      "gloss": "kederim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا أَسَفَىٰ عَلَىٰ يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ",
+      "verseTransliteration": "Ve tevellâ anhum ve kâle yâ esefâ alâ yûsufe vebyaddat aynâhu minel huzni fe huve kezîm(kezîmun).",
+      "verseMeaning": "Ve yüzünü onlardan öteye döndürdü de şöyle inledi: \"Ey Yûsuf´a duyduğum gam, neredesin!\" Ve kederden gözlerine ak düştü. Durmadan yutkunuyordu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسَف",
+      "sura": 18,
+      "ayah": 6,
+      "formInAyah": "أَسَفًا",
+      "transliteration": "esefen",
+      "gloss": "üzüntüden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَىٰ آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا بِهَٰذَا الْحَدِيثِ أَسَفًا",
+      "verseTransliteration": "Fe lealleke bâhiun nefseke alâ âsârihim in lem yu´minû bi hâzel hadîsi esefâ(esefen).",
+      "verseMeaning": "Şimdi sen, bu söze inanmazlarsa, belki de arkalarından kendini eritircesine üzüleceksin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسِف",
+      "sura": 7,
+      "ayah": 150,
+      "formInAyah": "أَسِفًا",
+      "transliteration": "esifen",
+      "gloss": "ve üzgün bir halde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمَّا رَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِي مِنْ بَعْدِي ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى الْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُ إِلَيْهِ ۚ قَالَ ابْنَ أُمَّ إِنَّ الْقَوْمَ اسْتَضْعَفُونِي وَكَادُوا يَقْتُلُونَنِي فَلَا تُشْمِتْ بِيَ الْأَعْدَاءَ وَلَا تَجْعَلْنِي مَعَ الْقَوْمِ الظَّالِمِينَ",
+      "verseTransliteration": "Ve lemmâ recea mûsâ ilâ kavmihî gadbâne esifen kâle bi’semâ haleftumûnî min ba’dî, e aciltum emre rabbikum, ve elkal elvâha ve ehaze bi re’si ahîhi yecurruhû ileyh(ileyhi), kâlebne umme innel kavmestad’afûnî ve kâdû yaktulûnenî fe lâ tuşmit biyel a’dâe ve lâ tec’alnî meal kavmiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Musa, kızgın ve üzgün bir halde kavmine döndüğünde şöyle dedi: \"Benden sonra arkamdan ne kötü şeyler yaptınız! Rabbinizin emrini bekleyemediniz mi? Levhaları yere attı, kardeşinin başını tuttu, kendisine doğru çekiyordu. Kardeşi dedi ki: \"Ey annem oğlu! Bu topluluk beni horlayıp hırpaladı. Nerdeyse canımı alıyorlardı. Bir de sen düşmanları bana güldürme. Beni şu zalim toplulukla bir tutma.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسِف",
+      "sura": 20,
+      "ayah": 86,
+      "formInAyah": "أَسِفًا",
+      "transliteration": "esifen",
+      "gloss": "üzüntülü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَرَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا ۚ قَالَ يَا قَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ الْعَهْدُ أَمْ أَرَدْتُمْ أَنْ يَحِلَّ عَلَيْكُمْ غَضَبٌ مِنْ رَبِّكُمْ فَأَخْلَفْتُمْ مَوْعِدِي",
+      "verseTransliteration": "Fe recea mûsâ ilâ kavmihî gadbâne esifâ(esifen), kâle yâ kavmi e lem yaıdkum rabbukum va’den hasenâ(hasenen), e fe tâle aleykumul ahdu em eredtum en yahılle aleykum gadabun min rabbikum fe ahleftum mev’ıdî.",
+      "verseMeaning": "Bunun üzerine Mûsa, öfkeli ve ümidi kırık bir halde kavmine döndü. Dedi: \"Ey toplumum! Rabbiniz size güzel bir vaatte bulunmadı mı? Süre mi size uzun geldi yoksa Rabbinizden üzerinize bir gazabın inmesini mi istediniz de bana verdiğiniz söze ters davrandınız?\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Asf"
+}

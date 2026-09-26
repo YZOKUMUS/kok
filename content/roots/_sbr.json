@@ -1,0 +1,2236 @@
+{
+  "id": "Sbr",
+  "latinName": "Sad-Be-Ra",
+  "lettersArabic": "ص ب ر",
+  "meanings": [
+    "Sabretmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 103,
+  "lemmas": [
+    {
+      "formArabic": "صَابِر",
+      "count": 20
+    },
+    {
+      "formArabic": "صَابِرُ",
+      "count": 1
+    },
+    {
+      "formArabic": "صَابِرَة",
+      "count": 1
+    },
+    {
+      "formArabic": "صَبَّار",
+      "count": 4
+    },
+    {
+      "formArabic": "صَبَرَ",
+      "count": 58
+    },
+    {
+      "formArabic": "صَبْر",
+      "count": 15
+    },
+    {
+      "formArabic": "صَّٰبِرَٰت",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱصْطَبِرْ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 8,
+      "ayah": 65,
+      "formInAyah": "صَابِرُونَ",
+      "transliteration": "Sābirūne",
+      "gloss": "sabreden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّبِيُّ حَرِّضِ الْمُؤْمِنِينَ عَلَى الْقِتَالِ ۚ إِنْ يَكُنْ مِنْكُمْ عِشْرُونَ صَابِرُونَ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ يَغْلِبُوا أَلْفًا مِنَ الَّذِينَ كَفَرُوا بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu harridıl mu´minîne alel kıtâl(kıtâli), in yekun minkum işrûne sâbirûne yaglibû mieteyn(mieteyni), ve in yekûn minkum mietun yaglibû elfen minellezîne keferû bi ennehum kavmun lâ yefkahûn(yefkahûne).",
+      "verseMeaning": "Ey Peygamber! Müminleri çarpışmaya teşvik et! Sizden sabırlı yirmi kişi olsa, küfre sapanların iki yüzüne galip gelir; sizden yüz kişi olsa, onların binine galebe çalar. Çünkü onlar gereğince anlamayan bir topluluktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 2,
+      "ayah": 153,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenlerle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenustainû bis sabri ves salât(salâti), innallâhe meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Ey iman sahipleri! Sabra ve namaza sarılarak yardım dileyin. Hiç kuşkunuz olmasın ki, Allah sabredenlerle beraberdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 2,
+      "ayah": 155,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ",
+      "verseTransliteration": "Ve le nebluvennekum bi şey’in minel havfi vel cûi ve naksın minel emvâli vel enfusi ves semerât(semerâti), ve beşşiris sâbirîn(sâbirîne).",
+      "verseMeaning": "Yemin olsun ki sizi korku, açlık; mallardan-canlardan-meyvalardan eksiltme türünden bir şeyle mutlaka imtihan edeceğiz. Sabredenlere müjdele."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 2,
+      "ayah": 177,
+      "formInAyah": "وَالصَّابِرِينَ",
+      "transliteration": "ve SSābirīne",
+      "gloss": "ve sabrederler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا ۖ وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ ۗ أُولَٰئِكَ الَّذِينَ صَدَقُوا ۖ وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ",
+      "verseTransliteration": "Leysel birre en tuvellû vucûhekum kıbelel maşrıkı vel magrıbi ve lâkinnel birre men âmene billâhi vel yevmil âhırı vel melâiketi vel kitâbi ven nebiyyîn(nebiyyîne), ve âtel mâle alâ hubbihî zevil kurbâ vel yetâmâ vel mesâkîne vebnes sebîli, ves sâilîne ve fîr rıkâb(rıkâbi), ve ekâmes salâte ve âtez zekât(zekâte), vel mûfûne bi ahdihim izâ âhed(âhedû), ves sâbirîne fîl be’sâi ved darrâi ve hînel be’s(be’si) ulâikellezîne sadakû, ve ulâike humul muttekûn(muttekûne).",
+      "verseMeaning": "Yüzlerinizi doğu ve batı yönüne çevirmeniz zafer ve mutluluğa ermek değildir. Zafer ve mutluluğa ermek o kişinin hakkıdır ki, Allah´a, âhıret gününe, meleklere, kitaplara, peygamberlere inanır; akrabaya, yetimlere, çaresizlere, yolda kalmışa, yoksullara, özgürlüğüne kavuşmak gayretinde olanlara malı seve seve verir, namazı kılar, zekatı öder. Böyleleri söz verdiklerinde ahitlerine vefalıdırlar; bolluk ve bereket zamanı kadar, zorluk, sıkıntı ve şiddet zamanında da sabırlıdırlar. İşte bunlardır özüyle sözü bir olanlar. Ve işte bunlardır korunan takva sahipleri."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 2,
+      "ayah": 249,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenlerle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ مُبْتَلِيكُمْ بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ لَمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلَّا مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ ۚ فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِنْهُمْ ۚ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَجُنُودِهِ ۚ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "Fe lemmâ fesale tâlûtu bil cunûdi, kâle innallâhe mubtelîkum bi neher(neherin), fe men şeribe minhu fe leyse minnî, ve men lem yat’amhu fe innehu minnî illâ menigterafe gurfeten bi yedih(yedihî), fe şeribû minhu illâ kalîlen minhum fe lemmâ câvezehu huve vellezîne âmenû meahu, kâlû lâ tâkate lenâl yevme bi câlûte ve cunûdih(cunûdihî), kâlellezîne yezunnûne ennehum mulâkûllâhi, kem min fietin kalîletin galebet fieten kesîraten bi iznillâh(iznillâhi), vallâhu meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Tâlût, askerleriyle yola çıkınca dedi ki: \"Allah sizi bir ırmakla imtihan edecektir. O halde, ondan içen benden değildir. Ama onu tatmayan bendendir. Eliyle bir avuç alan kişi başka.\" Bunun ardından, pek azı müstesna olmak üzere ondan içtiler. Nihayet o ve onunla beraber iman edenler ırmağı geçtiklerinde şöyle dediler: \"Bugün bizim Câlût´a ve ordusuna karşı hiç bir gücümüz yoktur.\" Allah´a kavuşacaklarını düşünenler ise şöyle konuştular: \"Sayıca az nice topluluk vardır ki, sayıca çok nice topluluğa Allah´ın izniyle galip gelmiştir. Allah sabredenlerle beraberdir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 3,
+      "ayah": 17,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "ES-Sābirīne",
+      "gloss": "sabredenler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الصَّابِرِينَ وَالصَّادِقِينَ وَالْقَانِتِينَ وَالْمُنْفِقِينَ وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ",
+      "verseTransliteration": "Es sâbirîne ves sâdıkîne vel kânitîne vel munfikîne vel mustagfirîne bil eshâr(eshâri).",
+      "verseMeaning": "Kullar ki sabredenlerdir, özü-sözü doğru olanlardır, ilahî huzurda duranlardır, nimet ve imkânlardan başkalarını yararlandıranlardır; seherlerde, bağışlanmak için yakaranlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 3,
+      "ayah": 142,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِرِينَ",
+      "verseTransliteration": "Em hasibtum en tedhulûl cennete ve lemmâ ya’lemillâhullezîne câhedû minkum ve ya’lemes sâbirîn(sâbirîne).",
+      "verseMeaning": "Yoksa siz, Allah içinizden uğraşıp didinenleri seçmeden, sabredenleri seçmeden cennete gireceğinizi mi sandınız?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 3,
+      "ayah": 146,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا ۗ وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+      "verseTransliteration": "Ve keeyyin min nebiyyin kâtele, meahu rıbbiyyûne kesîr(kesîrun), fe mâ vehenû li mâ asâbehum fî sebîlillâhi ve mâ daufû ve mestekânû vallâhu yuhibbus sâbirîn(sâbirîne).",
+      "verseMeaning": "Nice peygamber, beraberinde kendisini Rabb´e adayan birçok kişi bulunduğu halde savaşmıştır. Onlar, Allah yolunda kendilerine gelip çatan zorluklar yüzünden gevşememiş, zayıflık göstermemiş, susup pusmamışlardır. Allah sabredenleri sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 8,
+      "ayah": 46,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenlerle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "Ve etîullâhe ve resûlehu ve lâ tenâzeû fe tefşelû ve tezhebe rîhukum vasbirû, innallâhe meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Allah´a ve resulüne itaat edin, birbirinizle çekişmeyin; yoksa korkuya kapılırsınız, rüzgârınız kesilir. Sabredin; Allah sabredenlerle beraberdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 8,
+      "ayah": 66,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenlerle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "El´âne haffefallâhu ankum ve alime enne fîkum da´fâ(da´fen), fe in yekun minkum mietun sâbiretun yaglibû mieteyn(mieteyni), ve in yekun minkum elfun yaglibû elfeyni bi iznillâh(iznillâhi), vallâhu meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Şimdi Allah yükünüzü hafifletti. Bilmiştir ki sizde bir zaaf var. İçinizden sabırlı yüz kişi olsa, iki yüz kişiye galip gelir; sizden bin kişi olsa, Allah´ın izniyle iki bin kişiye galebe çalar. Allah, sabredenlerle beraberdir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 16,
+      "ayah": 126,
+      "formInAyah": "لِلصَّابِرِينَ",
+      "transliteration": "liSSābirīne",
+      "gloss": "sabredenler için",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ ۖ وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ",
+      "verseTransliteration": "Ve in âkabtum fe âkıbû bi misli mâ ûkıbtum bih(bihî), ve le in sabertum le huve hayrun lis sâbirîn(sâbirîne).",
+      "verseMeaning": "Eğer ceza ile karşılık verecekseniz, ancak size yapılan kötülüğün türü ve miktarı ile karşılık verin. Eğer sabrederseniz, elbette ki bu, sabredenler için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 18,
+      "ayah": 69,
+      "formInAyah": "صَابِرًا",
+      "transliteration": "Sābiran",
+      "gloss": "sabredici",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا",
+      "verseTransliteration": "Kâle se tecidunî inşâallahu sâbiren ve lâ a’sî leke emrâ(emren).",
+      "verseMeaning": "Mûsa dedi ki: \"Allah dilerse beni sabırlı bulacaksın; hiçbir işte sana karşı gelmeyeceğim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 21,
+      "ayah": 85,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenlerdendi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِنَ الصَّابِرِينَ",
+      "verseTransliteration": "Ve ismâîle ve idrîse ve zelkifl(zelkifli), kullun mines sâbirîn(sâbirîne).",
+      "verseMeaning": "İsmail, İdris, Zülkifl, hepsi sabredenlerdendi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 22,
+      "ayah": 35,
+      "formInAyah": "وَالصَّابِرِينَ",
+      "transliteration": "ve SSābirīne",
+      "gloss": "ve sabrederler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ عَلَىٰ مَا أَصَابَهُمْ وَالْمُقِيمِي الصَّلَاةِ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "verseTransliteration": "Ellezîne izâ zukirallâhu vecilet kulûbuhum vas sâbirîne alâ mâ esâbehum vel mukîmis salâti ve mimmâ razaknâhum yunfikûn(yunfikûne).",
+      "verseMeaning": "Onlar öyle insanlardır ki, Allah anıldığında kalpleri titrer; başlarına gelene sabrederler, namazı gözetirler. Ve kendilerine verdiğimiz rızıklardan infak ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 28,
+      "ayah": 80,
+      "formInAyah": "الصَّابِرُونَ",
+      "transliteration": "S-Sābirūne",
+      "gloss": "sabredenlerden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحًا وَلَا يُلَقَّاهَا إِلَّا الصَّابِرُونَ",
+      "verseTransliteration": "Ve kâlellezîne ûtûl ilme veylekum sevâbullâhi hayrun li men âmene ve amile sâlihâ(sâlihan) ve lâ yulekkâhâ illes sâbirûn(sâbirûne).",
+      "verseMeaning": "Kendilerine ilim verilmiş olanlar şöyle demişti: \"Yazıklar olsun size! İman edip hayra ve barışa yönelik iş yapan kişi için Allah´ın vereceği karşılık daha üstündür. Ama buna, sadece sabredenler ulaştırılır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 33,
+      "ayah": 35,
+      "formInAyah": "وَالصَّابِرِينَ",
+      "transliteration": "ve SSābirīne",
+      "gloss": "sabreden erkekler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "verseTransliteration": "İnnel muslimîne vel muslimâti vel mu’minîne vel mu’minâti vel kânitîne vel kânitâti ves sâdikîne ves sâdikâti ves sâbirîne ves sâbirâti vel hâşiîne vel hâşiâti vel mutesaddikîne vel mutesaddikâti ves sâimîne ves sâimâti vel hâfızîne furûcehum vel hâfızâti vez zâkirînallâhe kesîren vez zâkirâti eaddallâhu lehum magfireten ve ecren azîmâ(azîmen).",
+      "verseMeaning": "Allah şu kişiler için bir affediş ve büyük bir ödül hazırlamıştır: Müslüman erkekler, Müslüman kadınlar, mümin erkekler, mümin kadınlar, itaat eden erkekler, itaat eden kadınlar, özü sözü doğru erkekler, özü sözü doğru kadınlar, sabreden erkekler, sabreden kadınlar, Allah korkusuyla ürperen erkekler, Allah korkusuyla ürperen kadınlar, sadaka veren erkekler, sadaka veren kadınlar, oruç tutan erkekler, oruç tutan kadınlar, ırz ve iffetlerini koruyan erkekler, ırz ve iffetlerini koruyan kadınlar, Allah´ı çok anan erkekler, Allah´ı çok anan kadınlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 37,
+      "ayah": 102,
+      "formInAyah": "الصَّابِرِينَ",
+      "transliteration": "S-Sābirīne",
+      "gloss": "sabredenler-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
+      "verseTransliteration": "Fe lemmâ belega meahus sa’ye kâle yâ buneyye innî erâ fîl menâmi ennî ezbehuke fanzur mâzâ terâ, kâle yâ ebetif’al mâ tû’meru setecidunî inşâallâhu mines sâbirîn(sâbirîne).",
+      "verseMeaning": "Çocuk onunla birlikte koşacak yaşa gelince, İbrahim dedi: \"Yavrucuğum, uykuda/düşte görüyorum ki ben seni boğazlıyorum. Bak bakalım sen ne görürsün/sen ne dersin?\" \"Babacığım, dedi, emrolduğun şeyi yap! Allah dilerse beni sabredenlerden bulacaksın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 38,
+      "ayah": 44,
+      "formInAyah": "صَابِرًا",
+      "transliteration": "Sābiran",
+      "gloss": "sabreden (bir kul)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِهِ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ",
+      "verseTransliteration": "Ve huz bi yedike dıgsen fadrıb bihî ve lâ tahnes, innâ vecednâhu sâbira(sâbiren), ni’mel abd(abdu), innehû evvâb(evvâbun).",
+      "verseMeaning": "\"Eline bir demet sap al da onunla vur ve yeminine ters düşmüş olma!\" dedik. Biz onu sabırlı bulduk. Ne güzel kuldu o! Bize yönelen, yakaran biriydi o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 39,
+      "ayah": 10,
+      "formInAyah": "الصَّابِرُونَ",
+      "transliteration": "S-Sābirūne",
+      "gloss": "sabredenlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ يَا عِبَادِ الَّذِينَ آمَنُوا اتَّقُوا رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ اللَّهِ وَاسِعَةٌ ۗ إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُمْ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Kul yâ ıbâdıllezîne âmenûttekû rabbekum, lillezîne ahsenû fî hâzihid dunyâ haseneh(hasenetun), ve ardullâhi vâsiah(vâsiatun) innemâ yuveffas sâbirûne ecrehum bi gayri hisâb(hisâbin).",
+      "verseMeaning": "Tarafımdan söyle: \"Ey iman eden kullarım, Rabbinizden korkun! Bu dünya hayatında güzel düşünüp güzel davrananlara güzellik vardır. Allah´ın toprağı/yeryüzü geniştir. Sadece sabredenlere, ücretleri hesapsız ödenecektir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِر",
+      "sura": 47,
+      "ayah": 31,
+      "formInAyah": "وَالصَّابِرِينَ",
+      "transliteration": "ve SSābirīne",
+      "gloss": "ve sabredenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنْكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ",
+      "verseTransliteration": "Ve le nebluvennekum hattâ na’lemel mucâhidîne minkum ves sâbirîne ve nebluve ahbârekum.",
+      "verseMeaning": "Yemin olsun, içinizden gayret gösterip didinenlerle sabredenleri bilinceye kadar, sizi belalarla imtihan edeceğiz. Haberlerinizi de eleyip tarayacağız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِرُ",
+      "sura": 3,
+      "ayah": 200,
+      "formInAyah": "وَصَابِرُوا",
+      "transliteration": "ve Sābirū",
+      "gloss": "ve sabırda direnin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenusbirû ve sâbirû ve râbitû vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Ey iman sahipleri! Sabredin, sabır yarışı yapın, nöbet tutarak savaşa hazırlıklı bulunun ve Allah´tan korkun ki, kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَابِرَة",
+      "sura": 8,
+      "ayah": 66,
+      "formInAyah": "صَابِرَةٌ",
+      "transliteration": "Sābiratun",
+      "gloss": "sabreden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "El´âne haffefallâhu ankum ve alime enne fîkum da´fâ(da´fen), fe in yekun minkum mietun sâbiretun yaglibû mieteyn(mieteyni), ve in yekun minkum elfun yaglibû elfeyni bi iznillâh(iznillâhi), vallâhu meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Şimdi Allah yükünüzü hafifletti. Bilmiştir ki sizde bir zaaf var. İçinizden sabırlı yüz kişi olsa, iki yüz kişiye galip gelir; sizden bin kişi olsa, Allah´ın izniyle iki bin kişiye galebe çalar. Allah, sabredenlerle beraberdir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَّار",
+      "sura": 14,
+      "ayah": 5,
+      "formInAyah": "صَبَّارٍ",
+      "transliteration": "Sabbārin",
+      "gloss": "sabreden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِآيَاتِنَا أَنْ أَخْرِجْ قَوْمَكَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+      "verseTransliteration": "Ve le kad erselnâ mûsâ bi âyâtinâ en ahric kavmeke minez zulumâti ilen nûri, ve zekkirhum bi eyyâmillâh(eyyâmillâhi), inne fî zâlike le âyâtin li kulli sabbârin şekûr(şekûrin).",
+      "verseMeaning": "Yemin olsun ki, biz Mûsa´yı, \"Toplumunu karanlıklardan aydınlığa çıkar ve onlara Allah´ın günlerini hatırlatıp bellet!\" diye ayetlerimizle gönderdik. Şu bir gerçek ki, bunda iyice sabreden, çokça şükreden herkes için sayısız ayetler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَّار",
+      "sura": 31,
+      "ayah": 31,
+      "formInAyah": "صَبَّارٍ",
+      "transliteration": "Sabbārin",
+      "gloss": "sabreden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّهِ لِيُرِيَكُمْ مِنْ آيَاتِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+      "verseTransliteration": "E lem tere ennel fulke tecrî fîl bahri bi ni’metillâhi li yuriyekum min âyâtih(âyâtihî) inne fî zâlike le âyâtin li kulli sabbârin şekûr(şekûrin).",
+      "verseMeaning": "Size, ayetlerinden göstermek için, Allah´ın nimetleriyle gemilerin denizde akıp gidişini görmedin mi? Kuşkusuz, bunda gereğince sabreden, gereğince şükreden herkes için kesin ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَّار",
+      "sura": 34,
+      "ayah": 19,
+      "formInAyah": "صَبَّارٍ",
+      "transliteration": "Sabbārin",
+      "gloss": "sabreden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَقَالُوا رَبَّنَا بَاعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوا أَنْفُسَهُمْ فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+      "verseTransliteration": "Fe kâlû rabbenâ bâidbeyne esfârinâ ve zalemû enfusehum fe cealnâhum ehâdîse ve mezzaknâhum kulle mumezzak(mumezzakın), inne fî zâlike le âyâtin li kulli sabbârin şekûr(şekûrin).",
+      "verseMeaning": "Ama onlar, tutup şöyle dediler: \"Rabbimiz, seferlerimizin arasını uzaklaştır!\" Böylece kendilerine zulmettiler de biz de onları efsaneler haline getirdik; hepsini darmadağın ettik. İşte bunda, gereğince sabreden, yeterince şükreden herkes için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَّار",
+      "sura": 42,
+      "ayah": 33,
+      "formInAyah": "صَبَّارٍ",
+      "transliteration": "Sabbārin",
+      "gloss": "sabreden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنْ يَشَأْ يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ",
+      "verseTransliteration": "İn yeşe’ yuskinir rîha fe yazlelne revâkide alâ zahrih(zahrihi), inne fî zâlike le âyâtin li kulli sabbârin şekûr(şekûrin).",
+      "verseMeaning": "Dilerse rüzgârı durdurur da o akıp giden gemiler denizin sırtında donmuş gibi kalırlar. Gereğince sabreden, gereğince şükreden herkes için bütün bunlarda elbette ki ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 2,
+      "ayah": 61,
+      "formInAyah": "نَصْبِرَ",
+      "transliteration": "neSbira",
+      "gloss": "biz dayanamayız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نَصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
+      "verseTransliteration": "Ve iz kultum yâ mûsâ len nasbira alâ taâmin vâhidin fed’u lenâ rabbeke yuhric lenâ mimmâ tunbitulardu min baklihâ ve kıssâiha ve fûmihâ ve adesihâ ve basalihâ, kâle e testebdilûnellezî huve ednâ billezî huve hayr(hayrun), ihbitû mısran fe inne lekum mâ seeltum ve duribet aleyhimuz zilletu vel meskenetu ve bâu bi gadabin minallâh(minallâhi), zâlike bi ennehum kânû yekfurûne bi âyâtillâhi ve yaktulûnen nebiyyîne bi gayril hak(hakkı), zâlike bi mâ asav ve kânû ya’tedûn(ya’tedûne).",
+      "verseMeaning": "Siz şöyle demiştiniz: \"Ey Mûsa, biz bir tek yemeğe asla dayanamayız, bizim için Rabb´ine dua et de bize yerin bitirdiklerinden, baklasından, acurundan, sarmısağından, mercimeğinden, soğanından çıkarıversin.\" Mûsa şöyle demişti: \"Siz daha aşağı bir nimeti daha üstün bir nimete mi değişmek istiyorsunuz? İnin bir kasabaya; istediğiniz sizin olacaktır.\" Ve üzerlerine zillet, eziklik ve yoksulluk damgası vuruldu, Allah´tan bir gazaba çarpıldılar. Bu böyle oldu, çünkü onlar Allah´ın ayetlerini inkâr ediyor ve haksız yere peygamberleri öldürüyorlardı. İsyan ettikleri için böyle oldu. Sınır tanımıyor, azgınlık yapıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 2,
+      "ayah": 175,
+      "formInAyah": "أَصْبَرَهُمْ",
+      "transliteration": "eSberahum",
+      "gloss": "cesaretlidirler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ وَالْعَذَابَ بِالْمَغْفِرَةِ ۚ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
+      "verseTransliteration": "Ulâikellezîneşteravud dalâlete bil hudâ vel azâbe bil magfireh(magfireti), fe mâ asberehum alen nâr(nâri).",
+      "verseMeaning": "İşte bunlar hidayeti satıp şaşkınlığı, affedilmeyi satıp azabı almışlardır. Ne kadar da dayanıklıdırlar ateşe!..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 3,
+      "ayah": 120,
+      "formInAyah": "تَصْبِرُوا",
+      "transliteration": "teSbirū",
+      "gloss": "sabreder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنْ تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِنْ تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا بِهَا ۖ وَإِنْ تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْئًا ۗ إِنَّ اللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "verseTransliteration": "İn temseskum hasenetun tesû’hum, ve in tusibkum seyyietun yefrahû bihâ ve in tasbirû ve tettekû lâ yadurrukum keyduhum şey’a(şey’en), innallâhe bi mâ ya’melûne muhît(muhîtun).",
+      "verseMeaning": "Size bir iyilik dokunsa bu onları rahatsız eder. Size bir kötülük dokunsa bununla sevinir, ferahlarlar. Eğer sabreder, sakınır/korunursanız onların tuzakları size hiçbir şekilde zarar veremez. Allah Muhît´tir, yapmakta olduklarını çepeçevre kuşatmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 3,
+      "ayah": 125,
+      "formInAyah": "تَصْبِرُوا",
+      "transliteration": "teSbirū",
+      "gloss": "sabrederseniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "بَلَىٰ ۚ إِنْ تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُمْ مِنْ فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ آلَافٍ مِنَ الْمَلَائِكَةِ مُسَوِّمِينَ",
+      "verseTransliteration": "Belâ in tasbirû ve tettekû ve ye’tûkum min fevrihim hâzâ yumdidkum rabbukum bi hamseti âlâfin minel melâiketi musevvimîn(musevvimîne).",
+      "verseMeaning": "İş, sanıldığı gibi değildir. Onlar, hemen şu anda üstünüze gelseler bile, eğer siz sabreder ve korunursanız, Rabbiniz sizi, üzerlerine nişan vurulmuş beş bin melekle destekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 3,
+      "ayah": 186,
+      "formInAyah": "تَصْبِرُوا",
+      "transliteration": "teSbirū",
+      "gloss": "sabreder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنْفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِنْ تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+      "verseTransliteration": "Le tublevunne fî emvâlikum ve enfusikum ve le tesmeunne minellezîne ûtûl kitâbe min kablikum ve minellezîne eşrakû ezen kesîrâ(kesîran), ve in tasbirû ve tettekû fe inne zâlike min azmil umûr(umûri).",
+      "verseMeaning": "Yemin olsun ki, mallarınızda da canlarınızda da imtihan edileceksiniz. Ve yemin olsun ki, sizden önce kendilerine kitap verilenlerden de şirke batanlardan da incitici çok şey dinleyeceksiniz. Sabreder, takvaya sarılırsanız işte bu, iş ve oluşların en zorlularındandır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 3,
+      "ayah": 200,
+      "formInAyah": "اصْبِرُوا",
+      "transliteration": "Sbirū",
+      "gloss": "sabredin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenusbirû ve sâbirû ve râbitû vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Ey iman sahipleri! Sabredin, sabır yarışı yapın, nöbet tutarak savaşa hazırlıklı bulunun ve Allah´tan korkun ki, kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 4,
+      "ayah": 25,
+      "formInAyah": "تَصْبِرُوا",
+      "transliteration": "teSbirū",
+      "gloss": "sabretmeniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ لَمْ يَسْتَطِعْ مِنْكُمْ طَوْلًا أَنْ يَنْكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ فَتَيَاتِكُمُ الْمُؤْمِنَاتِ ۚ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُمْ ۚ بَعْضُكُمْ مِنْ بَعْضٍ ۚ فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ ۚ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنْكُمْ ۚ وَأَنْ تَصْبِرُوا خَيْرٌ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Ve men lem yestetı’ minkum tavlen en yenkıhal muhsanâtil mu’minâti fe min mâ meleket eymânukum min feteyâtikumul mu’minât(mu’minâti) vallâhu a’lemu bi îmânikum ba’dukum min ba’d(ba’dın), fenkihûhunne bi izni ehlihinne ve âtûhunne ucûrehunne bil ma’rûfi muhsanâtin gayre musâfihâtin ve lâ muttehızâti ehdân(ehdânin), fe izâ uhsinne fe in eteyne bi fâhışetin fe aleyhinne nısfu mâ alel muhsanâti minel azâb(azâbi), zâlike li men haşiyel anete minkum ve en tasbirû hayrun lekum vallâhu gafûrun rahîm(rahîmun).",
+      "verseMeaning": "İnanmış hür kadınları nikâhlama genişliğine gücü yetmeyeniniz, ellerinizin altındaki genç, mümin köle kızlarından biriyle evlensin. Allah sizin imanınızı daha iyi bilir. Hep birbirinizdensiniz. O halde onları, ailelerinin izniyle nikâhlayın. Gizli dost edinmeyerek, zinadan uzak kalarak, iffetli hanımlar olmaları şartıyla onların mehirlerini örfe uygun bir biçimde verin. Evliliğe geçtikten sonra bir fuhuş yaparlarsa onlara, hür kadınlara uygulanan cezasının yarısı uygulanacaktır. Bu, köle ile evlenme yolu, günaha ve sıkıntıya girmekten korkanınız içindir. Sabretmeniz sizin için daha hayırlıdır. Allah çok affedici, çok merhametlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 6,
+      "ayah": 34,
+      "formInAyah": "فَصَبَرُوا",
+      "transliteration": "feSaberū",
+      "gloss": "sabrettiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَاتِ اللَّهِ ۚ وَلَقَدْ جَاءَكَ مِنْ نَبَإِ الْمُرْسَلِينَ",
+      "verseTransliteration": "Ve lekad kuzzibet rusulun min kablike fe saberû alâ mâ kuzzibû ve ûzû hattâ etâhum nasrunâ, ve lâ mubeddile li kelimâtillâh(kelimâtillâhi), ve lekad câeke min nebeil murselîn(murselîne).",
+      "verseMeaning": "Yemin olsun ki, senden önce de resuller yalanlanmış ama yalanlanmalarına, eziyet görmelerine sabretmişlerdi. Nihayet yardımımız onlara ulaştı. Allah´ın kelimelerini değiştirecek hiçbir kuvvet yoktur. Yemin olsun, elçi olarak gönderilenlerin haberinden bir kısmı sana da gelmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 7,
+      "ayah": 87,
+      "formInAyah": "فَاصْبِرُوا",
+      "transliteration": "feSbirū",
+      "gloss": "sabredin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنْ كَانَ طَائِفَةٌ مِنْكُمْ آمَنُوا بِالَّذِي أُرْسِلْتُ بِهِ وَطَائِفَةٌ لَمْ يُؤْمِنُوا فَاصْبِرُوا حَتَّىٰ يَحْكُمَ اللَّهُ بَيْنَنَا ۚ وَهُوَ خَيْرُ الْحَاكِمِينَ",
+      "verseTransliteration": "Ve in kâne tâifetun minkum âmenû billezî ursiltu bihî ve tâifetun lem yu’minû fasbirû hattâ yahkumallâhu beynenâ, ve huve hayrul hâkimîn(hâkimîne).",
+      "verseMeaning": "\"İçinizden bir grup, benimle gönderilene inanmış, bir başka grup da inanmamışsa, Allah aranızda hükmedinceye kadar sabırlı olun. O, yargıçların en hayırlısıdır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 7,
+      "ayah": 128,
+      "formInAyah": "وَاصْبِرُوا",
+      "transliteration": "veSbirū",
+      "gloss": "ve sabredin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ مُوسَىٰ لِقَوْمِهِ اسْتَعِينُوا بِاللَّهِ وَاصْبِرُوا ۖ إِنَّ الْأَرْضَ لِلَّهِ يُورِثُهَا مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ وَالْعَاقِبَةُ لِلْمُتَّقِينَ",
+      "verseTransliteration": "Kâle mûsâ li kavmihisteînû billâhi vasbirû, innel arda lillâhi yûrisuhâ men yeşâu min ibâdih(ibâdihî), vel âkıbetu lil muttekîn(muttekîne).",
+      "verseMeaning": "Musa kendi toplumuna şöyle dedi: \"Allah´tan yardım dileyin, sabırlı olun. Yeryüzü Allah´ındır, Allah ona, kullarından dilediğini mirasçı kılar. Sonuç, takvaya sarılanlarındır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 7,
+      "ayah": 137,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabretmeleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَوْرَثْنَا الْقَوْمَ الَّذِينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ الْأَرْضِ وَمَغَارِبَهَا الَّتِي بَارَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ الْحُسْنَىٰ عَلَىٰ بَنِي إِسْرَائِيلَ بِمَا صَبَرُوا ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا كَانُوا يَعْرِشُونَ",
+      "verseTransliteration": "Ve evresnel kavmellezîne kânû yustad’afûne meşârikal ardı ve megâribehelletî bâreknâ fîhâ, ve temmet kelimetu rabbikel husnâ alâ benî isrâîle bi mâ saberû, ve demmernâ mâ kâne yasnau fir’avnu ve kavmuhu ve mâ kânû ya’rişûn(ya’rişûne).",
+      "verseMeaning": "Ezilip itilmekte olan topluluğu da içine bereketler doldurduğumuz toprağın doğularına ve batılarına mirasçı kıldık. Rabbinin, İsrailoğullarına verdiği güzel söz, sabretmeleri yüzünden hedefine vardı. Firavun ve toplumunun sanayi olarak meydana getirdiklerini de dikip yükselttikleri sarayları da yere geçirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 8,
+      "ayah": 46,
+      "formInAyah": "وَاصْبِرُوا",
+      "transliteration": "veSbirū",
+      "gloss": "ve sabredin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "Ve etîullâhe ve resûlehu ve lâ tenâzeû fe tefşelû ve tezhebe rîhukum vasbirû, innallâhe meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Allah´a ve resulüne itaat edin, birbirinizle çekişmeyin; yoksa korkuya kapılırsınız, rüzgârınız kesilir. Sabredin; Allah sabredenlerle beraberdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 10,
+      "ayah": 109,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "ve sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ وَاصْبِرْ حَتَّىٰ يَحْكُمَ اللَّهُ ۚ وَهُوَ خَيْرُ الْحَاكِمِينَ",
+      "verseTransliteration": "Vettebi’ mâ yûhâ ileyke vasbir hattâ yahkumallâh(yahkumallâhu), ve huve hayrul hâkimîn(hâkimîne).",
+      "verseMeaning": "Sana vahyedilene uy ve Allah hüküm verinceye kadar sabret. O, hâkimlerin en hayırlısıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 11,
+      "ayah": 11,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabreden(ler)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِلَّا الَّذِينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "verseTransliteration": "İllellezîne saberû ve amilûs sâlihât(sâlihâti), ûlâike lehum magfiretun ve ecrun kebîr(kebîrun).",
+      "verseMeaning": "Sabredip hayra ve barışa yönelik amel sergileyenler böyle yapmazlar. Bunlar kendileri için bir yarlıgama ve büyük bir ödül öngörülen kişilerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 11,
+      "ayah": 49,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "تِلْكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهَا إِلَيْكَ ۖ مَا كُنْتَ تَعْلَمُهَا أَنْتَ وَلَا قَوْمُكَ مِنْ قَبْلِ هَٰذَا ۖ فَاصْبِرْ ۖ إِنَّ الْعَاقِبَةَ لِلْمُتَّقِينَ",
+      "verseTransliteration": "Tilke min enbâil gaybi nûhîhâ ileyk(ileyke), mâ kunte ta´lemuhâ ente ve lâ kavmuke min kabli hâzâ, fasbır, innel âkıbete lil muttekîn(muttekîne).",
+      "verseMeaning": "İşte bunlar, sana vahyetmekte olduğumuz gayb haberlerindendir. Bundan önce onları sen de bilmiyordun, toplumun da... Artık sabırlı ol! Sonuç, takvaya sarılanlarındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 11,
+      "ayah": 115,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "ve sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "verseTransliteration": "Vasbir fe innallâhe lâ yudîu ecrel muhsinîn(muhsinîne).",
+      "verseMeaning": "Sabret! Allah, güzel düşünüp güzel davrananların ödülünü yitirmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 12,
+      "ayah": 90,
+      "formInAyah": "وَيَصْبِرْ",
+      "transliteration": "ve yeSbir",
+      "gloss": "ve sabrederse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ ۖ قَالَ أَنَا يُوسُفُ وَهَٰذَا أَخِي ۖ قَدْ مَنَّ اللَّهُ عَلَيْنَا ۖ إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "verseTransliteration": "Kâlû e inneke le ente yûsuf(yûsufu), kâle ene yûsufu ve hâzâ ahî kad mennallâhu aleynâ, innehu men yettekı ve yasbir fe innallâhe lâ yudî’u ecrel muhsinîn(muhsinîne).",
+      "verseMeaning": "Dediler ki: \"Sen, yoksa sen Yûsuf musun?\" \"Evet, dedi, ben Yûsuf´um. İşte şu da kardeşim. Allah bize lütufta bulundu. Kim Allah´tan korkar, sabrederse Allah güzel düşünüp güzel davrananların ödülünü yitirmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 13,
+      "ayah": 22,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabrederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ صَبَرُوا ابْتِغَاءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ أُولَٰئِكَ لَهُمْ عُقْبَى الدَّارِ",
+      "verseTransliteration": "Vellezîne saberûbtigâe vechi rabbihim ve ekâmûs salâte ve enfekû mimmâ rezaknâhum sirren ve alâniyeten ve yedreûne bil hasenetis seyyiete ulâike lehum ukbed dâr(dâri).",
+      "verseMeaning": "Onlar, Rablerinin yüzünü arzulayarak sabrederler, namazı kılarlar, kendilerine verdiğimiz rızıklardan gizli ve açık dağıtırlar ve kötülüğü güzellikle savarlar. İşte bunlar içindir ölümsüz yurt."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 13,
+      "ayah": 24,
+      "formInAyah": "صَبَرْتُمْ",
+      "transliteration": "Sabertum",
+      "gloss": "sabretmenize",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ",
+      "verseTransliteration": "Selâmun aleykum bi mâ sabertum fe ni’me ukbed dâr(dâri).",
+      "verseMeaning": "\"Selam size, sabrettiğiniz için! Ne güzeldir şu sonsuzluk yurdu!\" derler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 14,
+      "ayah": 12,
+      "formInAyah": "وَلَنَصْبِرَنَّ",
+      "transliteration": "veleneSbiranne",
+      "gloss": "ve katlanırız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا لَنَا أَلَّا نَتَوَكَّلَ عَلَى اللَّهِ وَقَدْ هَدَانَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَا آذَيْتُمُونَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+      "verseTransliteration": "Ve mâ lenâ ellâ netevekkele alâllâhi ve kad hedânâ subulenâ, ve le nasbirenne alâ mâ âzeytumûnâ, ve alâllâhi fel yetevekkelil mutevekkilûn (mutevekkilûne).",
+      "verseMeaning": "\"O, bize yollarımızı göstermişken neden Allah´a tevekkül etmeyecekmişiz? Bize yaptığınız eziyetlere elbette sabredeceğiz. Tevekkül edenler yalnız Allah´a tevekkül etsinler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 14,
+      "ayah": 21,
+      "formInAyah": "صَبَرْنَا",
+      "transliteration": "Sabernā",
+      "gloss": "sabretsek de",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَبَرَزُوا لِلَّهِ جَمِيعًا فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنْتُمْ مُغْنُونَ عَنَّا مِنْ عَذَابِ اللَّهِ مِنْ شَيْءٍ ۚ قَالُوا لَوْ هَدَانَا اللَّهُ لَهَدَيْنَاكُمْ ۖ سَوَاءٌ عَلَيْنَا أَجَزِعْنَا أَمْ صَبَرْنَا مَا لَنَا مِنْ مَحِيصٍ",
+      "verseTransliteration": "Ve berezû lillahi cemîan fe kâled duafâu lillezînestekberû innâ kunnâ lekum tebean fe hel entum mugnûne annâ min azâbillâhi min şey’(şey’in), kâlû lev hedânallâhu le hedeynâkum, sevâun aleynâ ecezi’nâ em sabernâ mâ lenâ min mahîs(mahîsın).",
+      "verseMeaning": "Hepsi toplu halde, Allah´ın huzuruna çıkmış olacaklar. Ezilip horlananlar, büyüklük taslayanlara diyecekler ki: \"Biz sizin birer uydunuzduk. Şimdi siz Allah´ın azabından bir kısmını bizden uzaklaştırabilir misiniz?\" Cevap verecekler: \"Allah bize kılavuzluk etseydi elbette biz de size kılavuzluk ederdik. Şimdi inleyip feryat etsek de sabretsek de bir. Sığınacak hiçbir yerimiz yok.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 16,
+      "ayah": 42,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabrettiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "verseTransliteration": "Ellezîne saberû ve alâ rabbihim yetevekkelûn(yetevekkelûne).",
+      "verseMeaning": "O Allah yolunda hicret edenler, sabrederler ve yalnız Rablerine tevekkül ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 16,
+      "ayah": 96,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabreden(lerin)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا عِنْدَكُمْ يَنْفَدُ ۖ وَمَا عِنْدَ اللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ الَّذِينَ صَبَرُوا أَجْرَهُمْ بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Mâ ındekum yenfedu ve mâ ındallâhi bâk(bâkın), ve le necziyennellezîne saberû ecrehum bi ahseni mâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "Sizin yanınızdaki tükenir ama Allah´ın yanındaki sonsuza dek kalıcıdır. Sabredenlere ödüllerini biz, işleyip ürettiklerinin en güzeliyle mutlaka vereceğiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 16,
+      "ayah": 110,
+      "formInAyah": "وَصَبَرُوا",
+      "transliteration": "ve Saberū",
+      "gloss": "ve sabredenlerin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا مِنْ بَعْدِ مَا فُتِنُوا ثُمَّ جَاهَدُوا وَصَبَرُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Summe inne rabbeke lillezîne hâcerû min ba’di mâ futinû summe câhedû ve saberû inne rabbeke min ba’dihâ le gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Kuşkusuz, Rabbin; işkenceye uğratıldıktan sonra hicret eden, ardından da cihat edip sabreden kişiler yanındadır. Bütün bunlardan sonra senin Rabbin elbette cömertçe affedecek, cömertçe merhamet edecektir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 16,
+      "ayah": 126,
+      "formInAyah": "صَبَرْتُمْ",
+      "transliteration": "Sabertum",
+      "gloss": "sabdederseniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ ۖ وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ",
+      "verseTransliteration": "Ve in âkabtum fe âkıbû bi misli mâ ûkıbtum bih(bihî), ve le in sabertum le huve hayrun lis sâbirîn(sâbirîne).",
+      "verseMeaning": "Eğer ceza ile karşılık verecekseniz, ancak size yapılan kötülüğün türü ve miktarı ile karşılık verin. Eğer sabrederseniz, elbette ki bu, sabredenler için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 16,
+      "ayah": 127,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "ve sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+      "verseTransliteration": "Vasbır ve mâ sabruke illâ billâhi ve lâ tahzen aleyhim ve lâ teku fî daykın mimmâ yemkurûn(yemkurûne).",
+      "verseMeaning": "Sabret! Senin sabrın da Allah´ın yardımıyladır. Onlar için tasalanma! Kurmakta oldukları tuzaklar yüzünden de telaşlanma!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 18,
+      "ayah": 28,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "tut (sabret)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا",
+      "verseTransliteration": "Vasbır nefseke meallezîne yed´ûne rabbehum bil gadâti vel aşiyyi yurîdûne vechehu ve lâ ta´du aynâke anhum, turîdu zînetel hayâtid dunyâ ve lâ tutı´ men agfelnâ kalbehu an zikrinâ vettebea hevâhu ve kâne emruhu furutâ(furutan).",
+      "verseMeaning": "Benliğini, sabah akşam yüzünü isteyerek rablerine yalvaranlarla beraber tut. İğreti dünya hayatının süsünü isteyerek gözlerini onlardan kaydırıp uzaklaştırma. Ve sakın, kalbini bizim zikrimizden / Kur´anımızdan gafil koyduğumuz, boş arzularına uymuş kişiye boyun eğme. Böylesinin işi hep aşırılıktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 18,
+      "ayah": 68,
+      "formInAyah": "تَصْبِرُ",
+      "transliteration": "teSbiru",
+      "gloss": "dayanabilirsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا",
+      "verseTransliteration": "Ve keyfe tesbiru alâ mâ lem tuhıt bihî hubrâ(hubren).",
+      "verseMeaning": "\"Havsalanın almadığı bir şeye nasıl dayanacaksın?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 20,
+      "ayah": 130,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "o halde sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kable gurûbihâ, ve min ânâil leyli fe sebbih ve etrâfen nehâri lealleke terdâ.",
+      "verseMeaning": "Artık, onların söylediklerine sabret; Güneş´in doğuşundan önce de batışından önce de Rabbini överek tespih et! Gecenin bazı saatleriyle gündüzün iki ucunda da tespih et ki, hoşnutluğa erebilesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 23,
+      "ayah": 111,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabretmelerinin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنِّي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ الْفَائِزُونَ",
+      "verseTransliteration": "İnnî cezeytuhumul yevme bimâ saberû ennehum humul fâizûn(fâizûne).",
+      "verseMeaning": "Bugün onlara ben, sabretmiş olmalarının karşılığını verdim. Başarıya erip kurtulanlar, onlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 25,
+      "ayah": 20,
+      "formInAyah": "أَتَصْبِرُونَ",
+      "transliteration": "eteSbirūne",
+      "gloss": "sabrediyor musunuz?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا",
+      "verseTransliteration": "Ve mâ erselnâ kableke minel murselîne illâ innehum le ye’kulûnet taâme ve yemşûne fîl esvâkı ve cealnâ ba’dakum li ba’dın fitneten(fitneten), e tasbirûn(tasbirûne), ve kâne rabbuke basîrâ(basîren).",
+      "verseMeaning": "Senden önce gönderdiğimiz peygamberler de mutlaka yemek yiyorlar, sokaklarda yürüyorlardı. Biz sizi birbiriniz için imtihan aracı yaptık. Sabrediyor musunuz? Rabbin her şeyi görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 25,
+      "ayah": 42,
+      "formInAyah": "صَبَرْنَا",
+      "transliteration": "Sabernā",
+      "gloss": "biz kararlılık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنْ كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا لَوْلَا أَنْ صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ الْعَذَابَ مَنْ أَضَلُّ سَبِيلًا",
+      "verseTransliteration": "İn kâde le yudıllunâ an âlihetinâ lev lâ en sabernâ aleyhâ, ve sevfe ya’lemûne hîne yerevnel azâbe men edallu sebîlâ(sebîlen).",
+      "verseMeaning": "\"Eğer biz kendilerine bağlılıkta sabırlı olmasaydık, bu bizi ilahlarımızdan saptıracaktı.\" Azabı gördüklerinde, yolca kimin daha sapık olduğunu bilecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 25,
+      "ayah": 75,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabretmelerine",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَامًا",
+      "verseTransliteration": "Ulâike yuczevnel gurfete bi mâ saberû ve yulekkavne fîhâ tahiyyeten ve selâmâ(selâmen).",
+      "verseMeaning": "İşte bunlar, sabretmiş olmalarına karşılık yüksek konaklarla ödüllendirilirler. Ve o konaklarda sağlık dileğiyle ve selamla karşılanırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 28,
+      "ayah": 54,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabretmelerinden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "verseTransliteration": "Ulâike yu’tevne ecrehum merreteyni bimâ saberû ve yedraûne bil hasenetis seyyiete ve mimmâ razaknâhum yunfikûn(yunfikûne).",
+      "verseMeaning": "İşte böylelerine ödülleri, sabrettikleri için iki kez verilir. Onlar, kötülüğü güzellikle karşılayıp savarlar. Ve onlar, kendilerine verdiğimiz rızıktan infak ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 29,
+      "ayah": 59,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabrettiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "verseTransliteration": "Ellezîne saberû ve alâ rabbihim yetevekkelûn(yetevekkelûne).",
+      "verseMeaning": "Onlar ki sabrettiler ve yalnız Rablerine dayanıp güvenmektedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 30,
+      "ayah": 60,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ",
+      "verseTransliteration": "Fâsbir inne va’dallâhi hakkun ve lâ yestahıffennekellezîne lâ yûkınûn(yûkınûne).",
+      "verseMeaning": "O halde, sabret! Kuşkun olmasın ki, Allah´ın vaadi haktır. İmanı kemale ermemişler seni hafifliğe sevk etmesinler/seni küçümseyemeyeceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 31,
+      "ayah": 17,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "ve sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+      "verseTransliteration": "Yâ buneyye ekımıs salâte ve’mur bil ma’rûfi venhe anil munkeri vasbir alâ mâ esâbek(esâbeke), inne zâlike min azmil umûr(umûri).",
+      "verseMeaning": "\"Yavrucuğum; namazı kıl, iyilik ve güzelliği belirlenene özendir, kötülük ve çirkinliği belirlenenden sakındır, başına gelene sabret. Çünkü bunu yapabilmek, zorlu/önemli işlerdendir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 32,
+      "ayah": 24,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabrettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا ۖ وَكَانُوا بِآيَاتِنَا يُوقِنُونَ",
+      "verseTransliteration": "Ve cealnâ minhum eimmeten yehdûne bi emrinâ lemmâ saberû ve kânû bi âyâtinâ yûkınûn(yûkınûne).",
+      "verseMeaning": "Sabrettikleri zaman içlerinden, bizim emrimizle doğru yola ileten önderler çıkarmıştık. Onlar bizim ayetlerimize gereğince inanıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 38,
+      "ayah": 6,
+      "formInAyah": "وَاصْبِرُوا",
+      "transliteration": "veSbirū",
+      "gloss": "ve bağlı kalın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَانْطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ",
+      "verseTransliteration": "Ventalekal meleu minhum enimşû vasbirû alâ âlihetikum inne hâzâ le şey’un yurâd(yurâdu).",
+      "verseMeaning": "İçlerinden kodaman bir grup öne çıktı: \"Haydi, yürüyün! İlahlarınıza sahip çıkmada kararlı davranın! Gerçek şu ki, istenip beklenen şey budur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 38,
+      "ayah": 17,
+      "formInAyah": "اصْبِرْ",
+      "transliteration": "İSbir",
+      "gloss": "sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ ۖ إِنَّهُ أَوَّابٌ",
+      "verseTransliteration": "Isbır alâ mâ yekûlûne vezkur abdenâ dâvûde zel eyd(eydi), innehû evvâb(evvâbun).",
+      "verseMeaning": "Onların dediklerine sabret! O kuvvet sahibi kulumuz Davûd´u an! O, tespih nağmeleri döktüren bir kul idi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 40,
+      "ayah": 55,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "o halde sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنْبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْإِبْكَارِ",
+      "verseTransliteration": "Fasbir inne va’dallâhi hakkun vestagfir li zenbike ve sebbih bi hamdi rabbike bil aşiyyi vel ibkâr(ibkâri).",
+      "verseMeaning": "Öyleyse sabret! Kuşkun olmasın ki, Allah´ın vaadi haktır. Günahın için af dile. Akşam ve sabah, Rabbini överek tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 40,
+      "ayah": 77,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "artık sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ",
+      "verseTransliteration": "Fasbir inne va’dallâhi hakk(hakkun), fe immâ nuriyenneke ba’dallezî neıduhum ev neteveffeyenneke fe ileynâ yurceûn(yurceûne).",
+      "verseMeaning": "Sen sabret! Çünkü Allah´ın vaadi haktır. Onları tehdit ettiğimiz şeyin bir kısmını belki sana gösteririz, belki de seni vefat ettiririz. Sonunda onlar bize döndürülecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 41,
+      "ayah": 24,
+      "formInAyah": "يَصْبِرُوا",
+      "transliteration": "yeSbirū",
+      "gloss": "dayanabilirlerse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْوًى لَهُمْ ۖ وَإِنْ يَسْتَعْتِبُوا فَمَا هُمْ مِنَ الْمُعْتَبِينَ",
+      "verseTransliteration": "Fe in yasbirû fen nâru mesven lehum ve in yesta’tibû fe mâ hum minel mu’tebîn(mu’tebîne).",
+      "verseMeaning": "Şimdi eğer dayanabilirlerse, barınakları ateştir. Yok eğer özür dileyip hoşnutluk sağlamak istiyorlarsa, özürleri kabul edilmeyecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 41,
+      "ayah": 35,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabreden(lerden)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ",
+      "verseTransliteration": "Ve mâ yulakkâhâ illellezîne saberû, ve mâ yulakkâhâ illâ zû hazzın azîm(azîmin).",
+      "verseMeaning": "Böyle bir tavra, sabredenlerden başkası ulaştırılmaz. Böyle bir tavra, büyük nasip sahibinden başkası ulaştırılmaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 42,
+      "ayah": 43,
+      "formInAyah": "صَبَرَ",
+      "transliteration": "Sabera",
+      "gloss": "sabrederse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَمَنْ صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ",
+      "verseTransliteration": "Ve le men sabere ve gafere inne zâlike le min azmil umûr(umûri).",
+      "verseMeaning": "Sabredip bağışlayan bilsin ki bu, işlerin en zorlularındandır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 46,
+      "ayah": 35,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "o halde sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ وَلَا تَسْتَعْجِلْ لَهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوا إِلَّا سَاعَةً مِنْ نَهَارٍ ۚ بَلَاغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا الْقَوْمُ الْفَاسِقُونَ",
+      "verseTransliteration": "Fasbir kemâ sabere ulûl azmi miner rusuli ve lâ testa’cil lehum, ke ennehum yevme yerevne mâ yûadûne lem yelbesû illâ sâaten min nehâr(nehârin), belâg(belâgun), fe hel yuhleku illel kavmul fâsikûn(fâsikûne).",
+      "verseMeaning": "Artık, resullerin azim sahibi olanlarının sabrettiği gibi sabret! O inkârcılar için acele etme! Tehdit edildikleri azabı gördükleri gün, gündüzün sadece bir saati kadar yaşamış gibi olurlar. Bir duyurudur bu. Sapmışlar topluluğundan başka kim helâk edilir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 46,
+      "ayah": 35,
+      "formInAyah": "صَبَرَ",
+      "transliteration": "Sabera",
+      "gloss": "sabrettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ وَلَا تَسْتَعْجِلْ لَهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوا إِلَّا سَاعَةً مِنْ نَهَارٍ ۚ بَلَاغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا الْقَوْمُ الْفَاسِقُونَ",
+      "verseTransliteration": "Fasbir kemâ sabere ulûl azmi miner rusuli ve lâ testa’cil lehum, ke ennehum yevme yerevne mâ yûadûne lem yelbesû illâ sâaten min nehâr(nehârin), belâg(belâgun), fe hel yuhleku illel kavmul fâsikûn(fâsikûne).",
+      "verseMeaning": "Artık, resullerin azim sahibi olanlarının sabrettiği gibi sabret! O inkârcılar için acele etme! Tehdit edildikleri azabı gördükleri gün, gündüzün sadece bir saati kadar yaşamış gibi olurlar. Bir duyurudur bu. Sapmışlar topluluğundan başka kim helâk edilir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 49,
+      "ayah": 5,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "bekleselerdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَهُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Ve lev ennehum saberû hattâ tahruce ileyhim le kâne hayren lehum, vallâhu gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Eğer onlar, sen yanlarına çıkıncaya dek sabretmiş olsalardı, kendileri için elbette daha hayırlı olurdu. Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 50,
+      "ayah": 39,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "o halde sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kablel gurûb(gurûbi).",
+      "verseMeaning": "Artık onların söylediklerine sabret ve Güneş´in doğuşundan önce de batışından önce de Rabbinin hamdiyle tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 52,
+      "ayah": 16,
+      "formInAyah": "فَاصْبِرُوا",
+      "transliteration": "feSbirū",
+      "gloss": "ve sabredin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Islevhâ fasbirû ev lâ tasbirû sevâun aleykum, innemâ tuczevne mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "\"Dalın ona! Artık ister sabredin ister sabretmeyin. Sizin için hepsi birdir. Siz ancak yapıp ettiğiniz şeylerin karşılığıyla yüzyüze geleceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 52,
+      "ayah": 16,
+      "formInAyah": "تَصْبِرُوا",
+      "transliteration": "teSbirū",
+      "gloss": "sabretmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Islevhâ fasbirû ev lâ tasbirû sevâun aleykum, innemâ tuczevne mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "\"Dalın ona! Artık ister sabredin ister sabretmeyin. Sizin için hepsi birdir. Siz ancak yapıp ettiğiniz şeylerin karşılığıyla yüzyüze geleceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 52,
+      "ayah": 48,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "o halde sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "verseTransliteration": "Vasbir li hukmi rabbike fe inneke bi a’yuninâ, ve sebbih bi hamdi rabbike hîne tekûmu.",
+      "verseMeaning": "Rabbinin hükmüne sabret! Kuşkusuz, sen bizim gözlerimizin önündesin. Kalktığında, Rabbinin hamdiyle tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 68,
+      "ayah": 48,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "sen sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+      "verseTransliteration": "Fasbir li hukmi rabbike ve lâ tekun ke sâhıbil hût(hûti), iz nâdâ ve huve mekzûm(mekzûmun).",
+      "verseMeaning": "Artık Rabbinin hüküm vermesi için sabret! Balığın dostu Yûnus gibi olma! Hani o, hıçkırıktan boğulur bir halde yakarmıştı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 70,
+      "ayah": 5,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "şimdi sen sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+      "verseTransliteration": "Fasbir sabren cemîlâ(cemîlen).",
+      "verseMeaning": "Artık güzel bir sabırla sabret!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 73,
+      "ayah": 10,
+      "formInAyah": "وَاصْبِرْ",
+      "transliteration": "veSbir",
+      "gloss": "sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "verseTransliteration": "Vasbir alâ mâ yekûlûne vehcurhum hecren cemîlâ(cemîlen).",
+      "verseMeaning": "Onların söylediklerine sabret! Ve güzelce ayrıl onlardan."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 74,
+      "ayah": 7,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلِرَبِّكَ فَاصْبِرْ",
+      "verseTransliteration": "Ve li rabbike fasbir.",
+      "verseMeaning": "Ve yalnız Rabbin için dayanıklı kıl benliği!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 76,
+      "ayah": 12,
+      "formInAyah": "صَبَرُوا",
+      "transliteration": "Saberū",
+      "gloss": "sabrettiklerinden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَجَزَاهُمْ بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا",
+      "verseTransliteration": "Ve cezâhum bimâ saberû cenneten ve harîrâ(harîren).",
+      "verseMeaning": "Sabretmelerine karşılık olarak da onları bir bahçe ve ipekle ödüllendirmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبَرَ",
+      "sura": 76,
+      "ayah": 24,
+      "formInAyah": "فَاصْبِرْ",
+      "transliteration": "feSbir",
+      "gloss": "o halde sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا",
+      "verseTransliteration": "Fasbir li hukmi rabbike ve lâ tutı’minhum âsimen ev kefûrâ(kefûren).",
+      "verseMeaning": "O halde, Rabbinin hükmü karşısında sabret ve onların günahkârlarına da nankörlerine de boyun eğme."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 2,
+      "ayah": 45,
+      "formInAyah": "بِالصَّبْرِ",
+      "transliteration": "biS-Sabri",
+      "gloss": "sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ",
+      "verseTransliteration": "Vesteînû bis sabri ves salât(sâlâti), ve innehâ le kebîretun illâ alel hâşiîn(hâşiîne).",
+      "verseMeaning": "Sabra ve namaza sarılarak yardım dileyin. Hiç kuşkusuz bu, kalbi ürperti duyanlardan başkasına çok ağır gelir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 2,
+      "ayah": 153,
+      "formInAyah": "بِالصَّبْرِ",
+      "transliteration": "biS-Sabri",
+      "gloss": "sabır ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenustainû bis sabri ves salât(salâti), innallâhe meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Ey iman sahipleri! Sabra ve namaza sarılarak yardım dileyin. Hiç kuşkunuz olmasın ki, Allah sabredenlerle beraberdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 2,
+      "ayah": 250,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Ve lemmâ berazû li câlûte ve cunûdihî kâlû rabbenâ efrig aleynâ sabren ve sebbit ekdâmenâ vensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Câlût ve ordusuyla karşılaştıklarında şöyle yakardılar: \"Ey Rabb´imiz, üzerimize sabır yağdır. Ayaklarımızı yere sağlam bastır. Ve küfre sapanlara karşı bize yardım et.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 7,
+      "ayah": 126,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا تَنْقِمُ مِنَّا إِلَّا أَنْ آمَنَّا بِآيَاتِ رَبِّنَا لَمَّا جَاءَتْنَا ۚ رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "verseTransliteration": "Ve mâ tenkımu minnâ illâ en âmennâ bi âyâti rabbinâ lemmâ câetnâ, rabbenâ efrıg aleynâ sabren ve teveffenâ muslimîn(muslimîne).",
+      "verseMeaning": "\"Sen bizden, sırf Rabbimizin ayetleri bize gelince, onlara iman ettiğimizden ötürü intikam alıyorsun. Ey Rabbimiz! Üzerimize sabır yağdır. Canımızı müslümanlar olarak al.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 12,
+      "ayah": 18,
+      "formInAyah": "فَصَبْرٌ",
+      "transliteration": "feSabrun",
+      "gloss": "artık (tek çarem) sabretmektir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "verseTransliteration": "Ve câû alâ kamîsıhî bi demin kezib(kezibin), kâle bel sevvelet lekum enfusukum emrâ(emren), fe sabrun cemîl(cemîlun), vallâhul musteânu alâ mâ tesıfûn(tesıfûne).",
+      "verseMeaning": "Yûsuf´un gömleği üstüne sahte bir kan çalmışlardı, getirdiler. Babaları dedi ki: \"İş, söylediğiniz gibi değil. Nefisleriniz sizi aldatıp bir işe itmiş. Artık bana düşen, güzelce sabretmek. Anlattıklarınıza karşı yalnız müsteân olan Allah´tan yardım istenir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 12,
+      "ayah": 83,
+      "formInAyah": "فَصَبْرٌ",
+      "transliteration": "feSabrun",
+      "gloss": "artık sabretmek gerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ جَمِيعًا ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+      "verseTransliteration": "Kâle bel sevvelet lekum enfusukum emrâ(emren), fe sabrun cemîl(cemîlun), asallâhu en ye’tiyenî bihim cemî’â(cemî’an), innehu huvel alîmul hakîm(hakîmu).",
+      "verseMeaning": "Yakub dedi ki: \"Hayır, öyle değil, nefisleriniz sizi yine bir işe itmiş. Bana düşen yine güzel bir sabra sarılmak. Bakarsın Allah onların hepsini bana getirir. Çünkü Alîm olan O, Hakîm olan O´dur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 16,
+      "ayah": 127,
+      "formInAyah": "صَبْرُكَ",
+      "transliteration": "Sabruke",
+      "gloss": "senin sabrın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+      "verseTransliteration": "Vasbır ve mâ sabruke illâ billâhi ve lâ tahzen aleyhim ve lâ teku fî daykın mimmâ yemkurûn(yemkurûne).",
+      "verseMeaning": "Sabret! Senin sabrın da Allah´ın yardımıyladır. Onlar için tasalanma! Kurmakta oldukları tuzaklar yüzünden de telaşlanma!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 18,
+      "ayah": 67,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+      "verseTransliteration": "Kâle inneke len testetîa maiye sabrâ(sabren).",
+      "verseMeaning": "Dedi: \"Doğrusu sen benimle beraberliğe dayanamazsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 18,
+      "ayah": 72,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+      "verseTransliteration": "Kâle e lem ekul inneke len testetîa maiye sabrâ(sabren).",
+      "verseMeaning": "Dedi: \"Ben söylemedim mi, sen benimle beraberliğe asla dayanamazsın!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 18,
+      "ayah": 75,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ أَلَمْ أَقُلْ لَكَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+      "verseTransliteration": "Kâle e lem ekul leke inneke len testetîa maıye sabrâ(sabren).",
+      "verseMeaning": "Dedi: \"Ben sana söylemedim mi, sen benimle beraberliğe asla dayanamazsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 18,
+      "ayah": 78,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِعْ عَلَيْهِ صَبْرًا",
+      "verseTransliteration": "Kâle hâzâ firâku beynî ve beynik(beynike), se unebbiuke bi te’vîli mâ lem testetı’ aleyhi sabrâ(sabren).",
+      "verseMeaning": "Dedi ki: \"İşte bu, seninle benim aramın ayrılmasıdır. Şimdi sana tahammül edemediğin şeylerin içyüzünü haber vereceğim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 18,
+      "ayah": 82,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنْزَهُمَا رَحْمَةً مِنْ رَبِّكَ ۚ وَمَا فَعَلْتُهُ عَنْ أَمْرِي ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا",
+      "verseTransliteration": "Ve emmel cidâru fe kâne li gulâmeyni yetîmeyni fîl medîneti ve kâne tahtehu kenzun lehumâ ve kâne ebûhumâ sâlihâ(sâlihan), fe erâde rabbuke en yeblugâ eşuddehumâ ve yestahricâ kenzehumâ rahmeten min rabbik(rabbike) ve mâ fealtuhu an emrî, zâlike te’vîlu mâ lem testı’ aleyhi sabrâ(sabren).",
+      "verseMeaning": "\"Ve duvar. Duvar, o kentte yaşayan iki yetim oğlanındı. Altında, oğlanlara ait bir define vardı. Oğlanların babası da hayır ve barış seven bir kimse olarak yaşamıştı. Rabbin istedi ki, o çocuklar ergenliklerine ulaşsınlar da Rabbinden bir rahmet olarak definelerini çıkarsınlar. Ben bunları kendi buyruğumun sonucu olarak yapmadım. İşte senin sabretmeye güç yetiremediğin şeylerin içyüzü budur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 70,
+      "ayah": 5,
+      "formInAyah": "صَبْرًا",
+      "transliteration": "Sabran",
+      "gloss": "bir sabırla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+      "verseTransliteration": "Fasbir sabren cemîlâ(cemîlen).",
+      "verseMeaning": "Artık güzel bir sabırla sabret!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 90,
+      "ayah": 17,
+      "formInAyah": "بِالصَّبْرِ",
+      "transliteration": "biS-Sabri",
+      "gloss": "sabır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+      "verseTransliteration": "Summe kâne minellezîne âmenû ve tevâsav bis sabri ve tevâsav bil merhame(merhameti).",
+      "verseMeaning": "Sonra da iman eden ve birbirlerine sabrı öneren, merhameti öneren kişilerden olmaktır o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَبْر",
+      "sura": 103,
+      "ayah": 3,
+      "formInAyah": "بِالصَّبْرِ",
+      "transliteration": "biS-Sabri",
+      "gloss": "sabrı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "verseTransliteration": "İllellezîne âmenû ve amilûs sâlihâti ve tevâsav bil hakkı ve tevâsav bis sabr(sabrı).",
+      "verseMeaning": "İnanıp hayra ve barışa yönelik işler yapanlar, birbirlerine hakkı önerenler, birbirlerine sabrı önerenler müstesnadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَّٰبِرَٰت",
+      "sura": 33,
+      "ayah": 35,
+      "formInAyah": "وَالصَّابِرَاتِ",
+      "transliteration": "ve SSābirāti",
+      "gloss": "ve sabreden kadınlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ وَالصَّادِقَاتِ وَالصَّابِرِينَ وَالصَّابِرَاتِ وَالْخَاشِعِينَ وَالْخَاشِعَاتِ وَالْمُتَصَدِّقِينَ وَالْمُتَصَدِّقَاتِ وَالصَّائِمِينَ وَالصَّائِمَاتِ وَالْحَافِظِينَ فُرُوجَهُمْ وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ أَعَدَّ اللَّهُ لَهُمْ مَغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "verseTransliteration": "İnnel muslimîne vel muslimâti vel mu’minîne vel mu’minâti vel kânitîne vel kânitâti ves sâdikîne ves sâdikâti ves sâbirîne ves sâbirâti vel hâşiîne vel hâşiâti vel mutesaddikîne vel mutesaddikâti ves sâimîne ves sâimâti vel hâfızîne furûcehum vel hâfızâti vez zâkirînallâhe kesîren vez zâkirâti eaddallâhu lehum magfireten ve ecren azîmâ(azîmen).",
+      "verseMeaning": "Allah şu kişiler için bir affediş ve büyük bir ödül hazırlamıştır: Müslüman erkekler, Müslüman kadınlar, mümin erkekler, mümin kadınlar, itaat eden erkekler, itaat eden kadınlar, özü sözü doğru erkekler, özü sözü doğru kadınlar, sabreden erkekler, sabreden kadınlar, Allah korkusuyla ürperen erkekler, Allah korkusuyla ürperen kadınlar, sadaka veren erkekler, sadaka veren kadınlar, oruç tutan erkekler, oruç tutan kadınlar, ırz ve iffetlerini koruyan erkekler, ırz ve iffetlerini koruyan kadınlar, Allah´ı çok anan erkekler, Allah´ı çok anan kadınlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱصْطَبِرْ",
+      "sura": 19,
+      "ayah": 65,
+      "formInAyah": "وَاصْطَبِرْ",
+      "transliteration": "veSTabir",
+      "gloss": "ve sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَادَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّا",
+      "verseTransliteration": "Rabbus semâvâti vel ardı ve mâ beynehumâ fa’budhu vastabir li ibâdetih(ibâdetihî), hel ta’lemu lehu semiyyâ(semiyyen).",
+      "verseMeaning": "Göklerin, yerin ve bunlar arasındaki şeylerin Rabbidir o. O´na kulluk/ibadet et ve O´na ibadette sabırlı ol. O´na adaş olacak birini biliyor musun?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱصْطَبِرْ",
+      "sura": 20,
+      "ayah": 132,
+      "formInAyah": "وَاصْطَبِرْ",
+      "transliteration": "veSTabir",
+      "gloss": "ve dayan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا ۖ لَا نَسْأَلُكَ رِزْقًا ۖ نَحْنُ نَرْزُقُكَ ۗ وَالْعَاقِبَةُ لِلتَّقْوَىٰ",
+      "verseTransliteration": "Ve’mur ehleke bis salâti vastabir aleyhâ, lâ nes’eluke rızkâ(rızkan), nahnu nerzukuk(nerzukuke), vel âkıbetu lit takvâ.",
+      "verseMeaning": "Ailene namazı emret, kendin de ona sabırla devam et! Biz senden rızık istemiyoruz. Seni biz rızıklandırıyoruz. Sonuç takvanındır!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱصْطَبِرْ",
+      "sura": 54,
+      "ayah": 27,
+      "formInAyah": "وَاصْطَبِرْ",
+      "transliteration": "veSTabir",
+      "gloss": "ve sabret",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ",
+      "verseTransliteration": "İnnâ mursilûn nâkati fitneten lehum fertekıbhum vestabir.",
+      "verseMeaning": "Bir imtihan aracı olarak kendilerine dişi deveyi göndereceğiz. Artık gözetle onları ve sabret!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Sbr"
+}

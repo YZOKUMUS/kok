@@ -1,0 +1,43 @@
+{
+  "id": "fny",
+  "latinName": "Fe-Nun-Ye",
+  "lettersArabic": "ف ن ي",
+  "meanings": [
+    "passed away, come to an end, vanish, become spent/exhausted, failed entirely, cease, perish, become aged."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "فَان",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَان",
+      "sura": 55,
+      "ayah": 26,
+      "formInAyah": "فَانٍ",
+      "transliteration": "fānin",
+      "gloss": "yok olacaktır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "verseTransliteration": "Kullu men aleyhâ fân(fânin).",
+      "verseMeaning": "Yer üzerinde bulunan herkes yok olacaktır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fny"
+}

@@ -1,0 +1,559 @@
+{
+  "id": "srf",
+  "latinName": "Sin-Ra-Fe",
+  "lettersArabic": "س ر ف",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 23,
+  "lemmas": [
+    {
+      "formArabic": "إِسْرَاف",
+      "count": 2
+    },
+    {
+      "formArabic": "أَسْرَفَ",
+      "count": 6
+    },
+    {
+      "formArabic": "مُسْرِف",
+      "count": 15
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">إِسْرَاف",
+      "sura": 3,
+      "ayah": 147,
+      "formInAyah": "وَإِسْرَافَنَا",
+      "transliteration": "ve isrāfenā",
+      "gloss": "ve taşkınlığımızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا كَانَ قَوْلَهُمْ إِلَّا أَنْ قَالُوا رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Ve mâ kâne kavlehum illâ en kâlû rabbenagfir lenâ zunûbenâ ve isrâfenâ fî emrinâ ve sebbit akdâmenâ vensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Sözleri yalnız şu olmuştur: \"Ey Rabbimiz! Bağışla bizim günahlarımızı, affet işlerimizdeki taşkınlığımızı, sağlam bastır ayaklarımızı ve yardım et bize küfre sapan topluma karşı!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">إِسْرَاف",
+      "sura": 4,
+      "ayah": 6,
+      "formInAyah": "إِسْرَافًا",
+      "transliteration": "isrāfen",
+      "gloss": "israf ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَنْ يَكْبَرُوا ۚ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+      "verseTransliteration": "Vebtelûl yetâmâ hattâ izâ belegun nikâh(nikâha), fe in ânestum minhum ruşden fedfeû ileyhim emvâlehum ve lâ te’kulûhâ isrâfen ve bidâren en yekberû ve men kâne ganiyyen felyesta’fif, ve men kâne fakîran felye’kul bil ma’rûf(ma’rûfi), fe izâ defa’tum ileyhim emvâlehum fe eşhidû aleyhim, ve kefâ billâhi hasîbâ(hasîben).",
+      "verseMeaning": "Yetimleri, nikâh çağına gelmelerine kadar gözetleyip deneyin. O zaman onlarda içinize sinecek bir olgunluk ve erginlik görürseniz, mallarını onlara geri verin. Büyüyecekler diye bu malları tez elden saçıp savurarak yemeyin. Zengin olan, iffetli davransın. Fakir olan ise örfün gerekli kıldığı oranda yesin. Mallarını kendilerine teslim ettiğiniz zaman yanlarında tanıklar bulundurun. Hesap sorucu olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْرَفَ",
+      "sura": 6,
+      "ayah": 141,
+      "formInAyah": "تُسْرِفُوا",
+      "transliteration": "tusrifū",
+      "gloss": "israf etmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ ۚ كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ۖ وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "verseTransliteration": "Ve huvellezî enşee cennâtin ma’rûşâtin ve gayre ma’rûşâtin ven nahle vez zer’a muhtelifen ukuluhu vez zeytûne ver rummâne muteşâbihen ve gayre muteşâbih(muteşâbihin), kulû min semerihî izâ esmere ve âtû hakkahu yevme hasâdihî ve lâ tusrifû, innehu lâ yuhibbul musrifîn(musrifîne).",
+      "verseMeaning": "Çardaklı ve çardaksız bahçeleri, ürünleri çeşit çeşit hurmaları, sebzeleri, zeytinleri, narları, birbirine benzer ve benzemez biçimde oluşturan O´dur. Her birinin meyvesinden, olgunlaştığı zaman yiyin ve hasat gününde onun hakkını da verin. İsraf etmeyin, Allah israf edenleri sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْرَفَ",
+      "sura": 7,
+      "ayah": 31,
+      "formInAyah": "تُسْرِفُوا",
+      "transliteration": "tusrifū",
+      "gloss": "fakat israf etmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "verseTransliteration": "Yâ benî âdeme huzû zînetekum inde kulli mescidin ve kulû veşrebû ve lâ tusrifû, innehu lâ yuhıbbul musrifîn(musrifîne).",
+      "verseMeaning": "Ey ademoğulları! Tüm mescitlerde süslü, güzel giysilerinizi kuşanın. Yiyin, için fakat israf etmeyin. Allah israf edenleri sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْرَفَ",
+      "sura": 17,
+      "ayah": 33,
+      "formInAyah": "يُسْرِفْ",
+      "transliteration": "yusrif",
+      "gloss": "aşırı gitmesin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۗ وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا",
+      "verseTransliteration": "Ve lâ taktulûn nefselletî harremallâhu illâ bil hakk(hakkı), ve men kutile mazlûmen fe kad cealnâ li veliyyihî sultânen fe lâ yusrif fîl katl(katli), innehu kâne mensûrâ(mensûran).",
+      "verseMeaning": "Allah´ın saygıya layık kıldığı cana haklı bir sebep yokken kıymayın. Kim haksızlıkla öldürülürse, onun velisine yetki/söz hakkı vermişizdir. Ama o da öldürmede sınır tanımazlık etmesin. Çünkü kendisine yardım edilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْرَفَ",
+      "sura": 20,
+      "ayah": 127,
+      "formInAyah": "أَسْرَفَ",
+      "transliteration": "esrafe",
+      "gloss": "israf eden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَذَٰلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِنْ بِآيَاتِ رَبِّهِ ۚ وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَىٰ",
+      "verseTransliteration": "Ve kezâlike neczî men esrefe ve lem yu’min bi âyâti rabbih(rabbihî), ve le azâbul âhıreti eşeddu ve ebkâ.",
+      "verseMeaning": "İsraf eden/haddi aşan ve Rabbinin ayetlerine inanmayan kimseleri biz böyle cezalandırırız. Ve âhiretin azabı çok daha şiddetli, çok daha kalıcıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْرَفَ",
+      "sura": 25,
+      "ayah": 67,
+      "formInAyah": "يُسْرِفُوا",
+      "transliteration": "yusrifū",
+      "gloss": "israf etmezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ إِذَا أَنْفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا",
+      "verseTransliteration": "Vellezîne izâ enfekû lem yusrifû ve lem yakturû ve kâne beyne zâlike kavâmâ(kavâmen).",
+      "verseMeaning": "Onlar harcadıkları zaman ne savurganlığa saparlar ne de cimrilik ederler. O ikisi arasında bir dengededir bu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْرَفَ",
+      "sura": 39,
+      "ayah": 53,
+      "formInAyah": "أَسْرَفُوا",
+      "transliteration": "esrafū",
+      "gloss": "aşırı giden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+      "verseTransliteration": "Kul yâ ıbâdiyellezîne esrefû alâ enfusihim lâ taknetû min rahmetillâh(rahmetillâhi), innallâhe yagfiruz zunûbe cemîâ(cemîan), innehu huvel gafûrur rahîm(rahîmu).",
+      "verseMeaning": "De ki: \"Ey öz benlikleri aleyhine sınırı aşan/aşırı giden kullarım! Allah´ın rahmetinden ümit kesmeyin! Allah, günahları tümden affeder. Çünkü O, mutlak Gafur, mutlak Rahim´dir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 7,
+      "ayah": 81,
+      "formInAyah": "مُسْرِفُونَ",
+      "transliteration": "musrifūne",
+      "gloss": "haddi aşan",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ النِّسَاءِ ۚ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ",
+      "verseTransliteration": "İnnekum le te´tûner ricâle şehveten min dûnin nisâi, bel entum kavmun musrifûn(musrifûne).",
+      "verseMeaning": "\"Siz, kadınları bırakıp şehvetiniz yüzünden erkeklere gidiyorsunuz. Doğrusu siz sınır tanımayan bir topluluksunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 36,
+      "ayah": 19,
+      "formInAyah": "مُسْرِفُونَ",
+      "transliteration": "musrifūne",
+      "gloss": "aşırı giden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا طَائِرُكُمْ مَعَكُمْ ۚ أَئِنْ ذُكِّرْتُمْ ۚ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ",
+      "verseTransliteration": "Kâlû tâirikum meakum, e in zukkirtum, bel entum kavmun musrifûn(musrifûne).",
+      "verseMeaning": "Dediler: \"Uğursuzluk kuşunuz sizinle beraberdir. Size öğüt verildi diye mi bütün bunlar? Hayır, siz savurganlığa, aşırılığa sapmış bir topluluksunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 43,
+      "ayah": 5,
+      "formInAyah": "مُسْرِفِينَ",
+      "transliteration": "musrifīne",
+      "gloss": "aşırı giden",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحًا أَنْ كُنْتُمْ قَوْمًا مُسْرِفِينَ",
+      "verseTransliteration": "E fe nadribu ankumuz zikre safhan en kuntum kavmen musrifîn(musrifîne).",
+      "verseMeaning": "Siz, haddi aşanlardan/zulme sapanlardan oluşan bir toplumsunuz diye, o zikri/Kur´an´ı sizden uzak mı tutalım?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 5,
+      "ayah": 32,
+      "formInAyah": "لَمُسْرِفُونَ",
+      "transliteration": "lemusrifūne",
+      "gloss": "israf etmektedirler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا ۚ وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ إِنَّ كَثِيرًا مِنْهُمْ بَعْدَ ذَٰلِكَ فِي الْأَرْضِ لَمُسْرِفُونَ",
+      "verseTransliteration": "Min ecli zâlik(zâlike), ketebnâ alâ benî isrâîle ennehu men katele nefsen bi gayri nefsin ev fesâdin fîl ardı fe ke ennemâ katelen nâse cemîa(cemîan) ve men ahyâhâ fe ke ennemâ ahyen nâse cemîa(cemîan) ve lekad câethum rusulunâ bil beyyinâti summe inne kesîran minhum ba’de zâlike fîl ardı le musrifûn(musrifûne).",
+      "verseMeaning": "İşte bu yüzden biz, İsrailoğulları üzerine şunu yazdık: Kim bir kişiyi, bir kişiye karşılık yahut yeryüzünde bir fesat sebebiyle olmaksızın öldürürse, insanları toptan öldürmüş gibidir. Ve kim bir kişiye hayat verirse insanlara toptan hayat vermiş gibidir. Andolsun, resullerimiz onlara açık-seçik kanıtlar getirmişlerdir. Ama onlardan birçoğu bunun ardından da yeryüzünde zulüm ve azgınlığa sapmaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 6,
+      "ayah": 141,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "israf edenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ مَعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ وَالزَّيْتُونَ وَالرُّمَّانَ مُتَشَابِهًا وَغَيْرَ مُتَشَابِهٍ ۚ كُلُوا مِنْ ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ۖ وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "verseTransliteration": "Ve huvellezî enşee cennâtin ma’rûşâtin ve gayre ma’rûşâtin ven nahle vez zer’a muhtelifen ukuluhu vez zeytûne ver rummâne muteşâbihen ve gayre muteşâbih(muteşâbihin), kulû min semerihî izâ esmere ve âtû hakkahu yevme hasâdihî ve lâ tusrifû, innehu lâ yuhibbul musrifîn(musrifîne).",
+      "verseMeaning": "Çardaklı ve çardaksız bahçeleri, ürünleri çeşit çeşit hurmaları, sebzeleri, zeytinleri, narları, birbirine benzer ve benzemez biçimde oluşturan O´dur. Her birinin meyvesinden, olgunlaştığı zaman yiyin ve hasat gününde onun hakkını da verin. İsraf etmeyin, Allah israf edenleri sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 7,
+      "ayah": 31,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "israf edenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "verseTransliteration": "Yâ benî âdeme huzû zînetekum inde kulli mescidin ve kulû veşrebû ve lâ tusrifû, innehu lâ yuhıbbul musrifîn(musrifîne).",
+      "verseMeaning": "Ey ademoğulları! Tüm mescitlerde süslü, güzel giysilerinizi kuşanın. Yiyin, için fakat israf etmeyin. Allah israf edenleri sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 10,
+      "ayah": 12,
+      "formInAyah": "لِلْمُسْرِفِينَ",
+      "transliteration": "lilmusrifīne",
+      "gloss": "aşırıya gidenlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Ve izâ messel insâned durru deânâ li cenbihî ev kâiden ev kâimâ(kâimen), fe lemmâ keşefnâ anhu durrehu merre ke’en lem yed’unâ ilâ durrin messeh(messehu), kezâlike zuyyine lil musrifîne mâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "İnsanlara zorluk dokunduğu zaman; yan yatarken, otururken, ayaktayken bize yalvarır. Ama sıkıntısını çözdüğümüzde, kendisine dokunan bir zorluk yüzünden bize hiç yalvarmamış gibi çekip gider. Haksızlığa/aşırılığa sapanlara, yapmakta oldukları, işte böyle süslü gösterilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 10,
+      "ayah": 83,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "çok aşırı giden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَمَا آمَنَ لِمُوسَىٰ إِلَّا ذُرِّيَّةٌ مِنْ قَوْمِهِ عَلَىٰ خَوْفٍ مِنْ فِرْعَوْنَ وَمَلَئِهِمْ أَنْ يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِي الْأَرْضِ وَإِنَّهُ لَمِنَ الْمُسْرِفِينَ",
+      "verseTransliteration": "Fe mâ âmene li mûsâ illâ zurriyyetun min kavmihî alâ havfin min fir’avne ve melâihim en yeftinehum, ve inne fir’avne leâlin fîl ard(ardı) ve innehu le minel musrifîn(musrifîne).",
+      "verseMeaning": "Firavun ve kodamanlarının kendilerine kötülük etmelerinden korktukları için, kavmi arasından bir gençlik grubu dışında hiç kimse Mûsa´ya inanmadı. Çünkü Firavun, o toprakta gerçekten çok üstündü ve gerçekten sınır tanımaz azgınlardan biriydi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 21,
+      "ayah": 9,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "aşırı gidenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنْجَيْنَاهُمْ وَمَنْ نَشَاءُ وَأَهْلَكْنَا الْمُسْرِفِينَ",
+      "verseTransliteration": "Summe sadaknâhumul va’de fe enceynâhum ve men neşâu ve ehleknel musrifîn(musrifîne).",
+      "verseMeaning": "Sonra onlara verilen söze sadık kaldık da onları ve dilediklerimizi kurtardık. Ve israfa saplanıp haddi aşanları helâk ettik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 26,
+      "ayah": 151,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "aşırıların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ",
+      "verseTransliteration": "Ve lâ tutîû emral musrifîn(musrifîne).",
+      "verseMeaning": "\"Savurganlık edenlerin/haddi aşanların buyruğuna uymayın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 40,
+      "ayah": 28,
+      "formInAyah": "مُسْرِفٌ",
+      "transliteration": "musrifun",
+      "gloss": "aşırı giden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ أَتَقْتُلُونَ رَجُلًا أَنْ يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُمْ بِالْبَيِّنَاتِ مِنْ رَبِّكُمْ ۖ وَإِنْ يَكُ كَاذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَإِنْ يَكُ صَادِقًا يُصِبْكُمْ بَعْضُ الَّذِي يَعِدُكُمْ ۖ إِنَّ اللَّهَ لَا يَهْدِي مَنْ هُوَ مُسْرِفٌ كَذَّابٌ",
+      "verseTransliteration": "Ve kâle raculun mû’minun min âli fir’avne yektumu îmânehû e taktulûne raculen en yekûle rabbiyallâhu ve kad câekum bil beyyinâti min rabbikum, ve in yeku kâziben fe aleyhi kezibuh(kezibuhu), ve in yeku sâdikan yusibkum ba’dullezî yeidukum, innallâhe lâ yehdî men huve musrifun kezzâb(kezzâbun).",
+      "verseMeaning": "Firavun hanedanından, imanını gizleyen bir adam şöyle konuştu: \"Rabbim Allah´tır, dediği için bir adamı öldürüyor musunuz? Üstelik size, Rabbinizden açık seçik deliler de getirdi. Eğer yalancıysa yalancılığı kendi aleyhinedir. Eğer doğru sözlü ise size vaat ettiklerinden bir kısmı başınıza gelir. Kuşkusuz, Allah, haddi aşan yalancıları doğruya ulaştırmaz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 40,
+      "ayah": 34,
+      "formInAyah": "مُسْرِفٌ",
+      "transliteration": "musrifun",
+      "gloss": "aşırı giden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ جَاءَكُمْ يُوسُفُ مِنْ قَبْلُ بِالْبَيِّنَاتِ فَمَا زِلْتُمْ فِي شَكٍّ مِمَّا جَاءَكُمْ بِهِ ۖ حَتَّىٰ إِذَا هَلَكَ قُلْتُمْ لَنْ يَبْعَثَ اللَّهُ مِنْ بَعْدِهِ رَسُولًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ هُوَ مُسْرِفٌ مُرْتَابٌ",
+      "verseTransliteration": "Ve lekad câekum yûsufu min kablu bil beyyinâti fe mâ ziltum fî şekkin mimmâ câekum bih(bihî), hattâ izâ heleke kultum len yeb’asallâhu min ba’dihî resûlâ(resûlen), kezâlike yudıllullâhu men huve musrifun murtâb(murtâbun).",
+      "verseMeaning": "Yemin olsun, daha önce Yûsuf da size açık seçik mesajlar getirmişti de onun size getirdikleri hakkında hep kuşku duymuştunuz. Daha sonra o ölünce de şöyle demiştiniz: \"Allah ondan sonra bir daha asla resul göndermez.\" Allah, sınır tanımaz kuşkucuları işte böyle saptırır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 40,
+      "ayah": 43,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "aşırı gidenler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَا جَرَمَ أَنَّمَا تَدْعُونَنِي إِلَيْهِ لَيْسَ لَهُ دَعْوَةٌ فِي الدُّنْيَا وَلَا فِي الْآخِرَةِ وَأَنَّ مَرَدَّنَا إِلَى اللَّهِ وَأَنَّ الْمُسْرِفِينَ هُمْ أَصْحَابُ النَّارِ",
+      "verseTransliteration": "Lâ cereme ennemâ ted’ûnenî ileyhi leyse lehu da’vetun fîd dunyâ ve lâ fîl âhireti ve enne mereddenâ ilâllâhi ve ennel musrifîne hum ashâbun nâr(nâri).",
+      "verseMeaning": "\"Sizin beni çağırdığınız şeye, ne dünyada ne de âhirette asla ve asla dua edilemez/onun dünyada ve âhirette çağrı hakkı yoktur. Dönüşümüz-varışımız Allah´adır. Aşırılığa sapanlarsa ateş halkının ta kendileridir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 44,
+      "ayah": 31,
+      "formInAyah": "الْمُسْرِفِينَ",
+      "transliteration": "l-musrifīne",
+      "gloss": "sınırı aşanlar-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنْ فِرْعَوْنَ ۚ إِنَّهُ كَانَ عَالِيًا مِنَ الْمُسْرِفِينَ",
+      "verseTransliteration": "Min fir’avn(fir’avne), innehu kâne âliyen minel musrifîn(musrifîne).",
+      "verseMeaning": "Firavun´dan kurtardık. Firavun, haddi aşanların büyüklük taslayanlarından biriydi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْرِف",
+      "sura": 51,
+      "ayah": 34,
+      "formInAyah": "لِلْمُسْرِفِينَ",
+      "transliteration": "lilmusrifīne",
+      "gloss": "haddi aşanlar için",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مُسَوَّمَةً عِنْدَ رَبِّكَ لِلْمُسْرِفِينَ",
+      "verseTransliteration": "Musevvemeten inde rabbike lil musrifîn(musrifîne).",
+      "verseMeaning": "\"Rabbin katında, sınır tanımazlar için işaretlenmiş taşlar.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=srf"
+}

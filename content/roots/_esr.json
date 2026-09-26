@@ -1,0 +1,298 @@
+{
+  "id": "Esr",
+  "latinName": "Ayn-Sin-Ra",
+  "lettersArabic": "ع س ر",
+  "meanings": [
+    "to be difficult/hard, be hard to one another, hardship."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 12,
+  "lemmas": [
+    {
+      "formArabic": "تَعَاسَرْ",
+      "count": 1
+    },
+    {
+      "formArabic": "عَسِر",
+      "count": 1
+    },
+    {
+      "formArabic": "عُسْر",
+      "count": 5
+    },
+    {
+      "formArabic": "عُسْرَة",
+      "count": 2
+    },
+    {
+      "formArabic": "عُسْرَىٰ",
+      "count": 1
+    },
+    {
+      "formArabic": "عَسِير",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَعَاسَرْ",
+      "sura": 65,
+      "ayah": 6,
+      "formInAyah": "تَعَاسَرْتُمْ",
+      "transliteration": "teǎāsertum",
+      "gloss": "güçlük çekerseniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefâ’ul Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِنْ وُجْدِكُمْ وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ ۚ وَإِنْ كُنَّ أُولَاتِ حَمْلٍ فَأَنْفِقُوا عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا بَيْنَكُمْ بِمَعْرُوفٍ ۖ وَإِنْ تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُ أُخْرَىٰ",
+      "verseTransliteration": "Eskinû hunne min haysu sekentum min vucdikum ve lâ tudârrûhunne li tudayyikû aleyhinn(aleyhinne), ve in kunne ulâti hamlin fe enfikû aleyhinne hattâ yeda’ne hamle hunn(hunne), fe in erda’ne lekum fe âtûhunne ucûre hunn(hunne), ve’temirû beynekum bi ma’rûf(ma’rûfin), ve in teâsertum fe se turdıu lehû uhrâ.",
+      "verseMeaning": "O kadınları, imkânlarınız ölçüsünde, barındığınız yerin bir kısmında barındırın. Onları baskı altında tutmak için onlara zarar verme yönüne gitmeyin. Eğer hamile iseler yüklerini bırakıncaya kadar onlara nafaka verin. Eğer sizin için çocuk emziriyorlarsa, ücretlerini de verin. Aranızda örfe uygun biçimde konuşup tartışın. Eğer anlaşmakta zorluk çekerseniz o zaman, doğmuş olan çocuğu baba hesabına başka bir kadın emzirecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَسِر",
+      "sura": 54,
+      "ayah": 8,
+      "formInAyah": "عَسِرٌ",
+      "transliteration": "ǎsirun",
+      "gloss": "çetin",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "مُهْطِعِينَ إِلَى الدَّاعِ ۖ يَقُولُ الْكَافِرُونَ هَٰذَا يَوْمٌ عَسِرٌ",
+      "verseTransliteration": "Muhtıîne iled dâi, yekûlul kâfirûne hâzâ yevmun asir(asirun).",
+      "verseMeaning": "Boyunları büküktür çağıranın önünde. Derler ki o küfre saplananlar: \"Çok zorlu bir gün bu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْر",
+      "sura": 2,
+      "ayah": 185,
+      "formInAyah": "الْعُسْرَ",
+      "transliteration": "l-ǔsra",
+      "gloss": "güçlük",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ وَبَيِّنَاتٍ مِنَ الْهُدَىٰ وَالْفُرْقَانِ ۚ فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ ۖ وَمَنْ كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "verseTransliteration": "Şehru ramadânellezî unzile fîhil kur’ânu huden lin nâsi ve beyyinâtin minel hudâ vel furkân(furkâni), fe men şehide minkumuş şehra fel yesumh(yesumhu), ve men kâne marîdan ev alâ seferin fe iddetun min eyyâmin uhar(uhara) yurîdullâhu bikumul yusra ve lâ yurîdu bikumul usra, ve li tukmilûl iddete ve li tukebbirûllâhe alâ mâ hedâkum ve leallekum teşkurûn(teşkurûne).",
+      "verseMeaning": "Ramazan o aydır ki; insanlara kılavuz olan, iyi-kötü ayrımıyla hidayetten kanıtlar getiren Kur´an, onda indirilmiştir. O halde bu aya ulaşanınız onu oruçlu geçirsin. Hasta olan veya yolculuk halinde bulunan, tutamadığı gün sayısınca başka günlerde tutsun. Allah sizin için kolaylık ister; O sizin için zorluk istemez. Tutulmamış olan günleri tamamlamanızı, sizi doğru yola kılavuzladığı için Allah´ı yüceltmenizi ister. Ve sizin şükretmeniz umulmaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْر",
+      "sura": 18,
+      "ayah": 73,
+      "formInAyah": "عُسْرًا",
+      "transliteration": "ǔsran",
+      "gloss": "bir güçlük",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ وَلَا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا",
+      "verseTransliteration": "Kâle lâ tuâhıznî bimâ nesîtu ve lâ turhıknî min emrî usrâ(usren).",
+      "verseMeaning": "Mûsa dedi: \"Unuttuğum için beni azarlama; bu yaptığımdan dolayı da bana zorluk çıkarma.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْر",
+      "sura": 65,
+      "ayah": 7,
+      "formInAyah": "عُسْرٍ",
+      "transliteration": "ǔsrin",
+      "gloss": "bir güçlükten",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ ۖ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنْفِقْ مِمَّا آتَاهُ اللَّهُ ۚ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا ۚ سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "verseTransliteration": "Li yunfık zû seatin min seatih(seatihî), ve men kudire aleyhi rızkuhu fel yunfik mimmâ âtâhullâh(âtâhullâhu), lâ yukellifullâhu nefsen illâ mâ âtâhâ, seyec’alullâhu ba’de usrin yusrâ(yusren).",
+      "verseMeaning": "Geniş imkâna sahip olan bu geniş imkânından harcasın. Rızkı kendisine ölçü ile verilmiş olan da Allah´ın kendisine verdiğinden infak etsin. Allah hiçbir benliği, kendisine verdiği şey dışında yükümlü tutmaz. Allah, bir güçlükten sonra bir kolaylık yaratacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْر",
+      "sura": 94,
+      "ayah": 5,
+      "formInAyah": "الْعُسْرِ",
+      "transliteration": "l-ǔsri",
+      "gloss": "her güçlükle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "verseTransliteration": "Fe inne maal usri yusra(yusren).",
+      "verseMeaning": "Demek ki, zorluğun yanında bir kolaylık mutlaka var!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْر",
+      "sura": 94,
+      "ayah": 6,
+      "formInAyah": "الْعُسْرِ",
+      "transliteration": "l-ǔsri",
+      "gloss": "her güçlükle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "verseTransliteration": "İnne maal usri yusrâ(yusren).",
+      "verseMeaning": "Zorluğun yanında bir kolaylık muhakkak var!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْرَة",
+      "sura": 2,
+      "ayah": 280,
+      "formInAyah": "عُسْرَةٍ",
+      "transliteration": "ǔsratin",
+      "gloss": "darlık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ ۚ وَأَنْ تَصَدَّقُوا خَيْرٌ لَكُمْ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ve in kâne zû usratin fe naziratun ilâ meysereh(meyseretin) ve en tesaddekû hayrun lekum in kuntum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Eğer borçlu zorluk içinde ise eli genişleyinceye kadar beklenir. Borcunu sadaka olarak ona bağışlamanız sizin için daha hayırlıdır; eğer bilirseniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْرَة",
+      "sura": 9,
+      "ayah": 117,
+      "formInAyah": "الْعُسْرَةِ",
+      "transliteration": "l-ǔsrati",
+      "gloss": "güçlük",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنْصَارِ الَّذِينَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ مِنْ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُ بِهِمْ رَءُوفٌ رَحِيمٌ",
+      "verseTransliteration": "Lekad tâballâhu alen nebiyyi vel muhâcirîne vel ensârillezînet tebeûhu fî sâatil usreti min ba’di mâ kâde yezîgu kulûbu ferîkın minhum summe tâbe aleyhim, innehu bihim raûfun rahîm(rahîmun).",
+      "verseMeaning": "Yemin olsun ki, Allah, içlerinden bir grubun kalpleri kaymaya yüz tuttuktan sonra, peygambere ve o güçlük saatinde ona uymuş olan Muhacirlerle Ensar´a tövbe nasip etmiş, sonra da onların tövbelerini kabul buyurmuştur. Çünkü onlara karşı Raûf ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُسْرَىٰ",
+      "sura": 92,
+      "ayah": 10,
+      "formInAyah": "لِلْعُسْرَىٰ",
+      "transliteration": "lil’ǔsrā",
+      "gloss": "en güç(yolda gitmey)i",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+      "verseTransliteration": "Fe senuyessiruhu lil usrâ.",
+      "verseMeaning": "Biz onu, en zor olana sevk edeceğiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَسِير",
+      "sura": 25,
+      "ayah": 26,
+      "formInAyah": "عَسِيرًا",
+      "transliteration": "ǎsīran",
+      "gloss": "çetin",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَٰنِ ۚ وَكَانَ يَوْمًا عَلَى الْكَافِرِينَ عَسِيرًا",
+      "verseTransliteration": "El mulku yevmeizinil hakku lir rahmân(rahmâni), ve kâne yevmen alel kâfirîne asîrâ(asîran).",
+      "verseMeaning": "O gün gerçek mülk ve yönetim Rahman´ındır. Ve o, kâfirler için çok zorlu bir gündür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَسِير",
+      "sura": 74,
+      "ayah": 9,
+      "formInAyah": "عَسِيرٌ",
+      "transliteration": "ǎsīrun",
+      "gloss": "çetin",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+      "verseTransliteration": "Fe zâlike yevme izin yevmun asî(asîrun).",
+      "verseMeaning": "İşte o gün çok zorlu, çok çetin bir gündür."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Esr"
+}

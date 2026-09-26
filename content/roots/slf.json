@@ -1,0 +1,195 @@
+{
+  "id": "slf",
+  "latinName": "Sin-Lam-Fe",
+  "lettersArabic": "س ل ف",
+  "meanings": [
+    "Geçmişte olmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 8,
+  "lemmas": [
+    {
+      "formArabic": "أَسْلَفَتْ",
+      "count": 2
+    },
+    {
+      "formArabic": "سَلَف",
+      "count": 1
+    },
+    {
+      "formArabic": "سَلَفَ",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْلَفَتْ",
+      "sura": 10,
+      "ayah": 30,
+      "formInAyah": "أَسْلَفَتْ",
+      "transliteration": "eslefet",
+      "gloss": "önceden işlemiş olduğunun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "هُنَالِكَ تَبْلُو كُلُّ نَفْسٍ مَا أَسْلَفَتْ ۚ وَرُدُّوا إِلَى اللَّهِ مَوْلَاهُمُ الْحَقِّ ۖ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Hunâlike teblû kullu nefsin mâ eslefet ve ruddû ilallâhi mevlâhumul hakkı ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "İşte orada, her benlik önceden gönderdiği şeyi kendisi deneyecektir. Hepsi gerçek Mevlâ´larına döndürülmüş, iftira aracı yaptıkları şeyler kendilerini koyup gitmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْلَفَتْ",
+      "sura": 69,
+      "ayah": 24,
+      "formInAyah": "أَسْلَفْتُمْ",
+      "transliteration": "esleftum",
+      "gloss": "yaptığınız işlerden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ",
+      "verseTransliteration": "Kulû veşrebû henîen bimâ esleftum fîl eyyâmil hâliyeh(hâliyeti).",
+      "verseMeaning": "Geçmiş günlerde sunduklarınızın karşılığı olarak afiyetle yiyin, için."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَلَف",
+      "sura": 43,
+      "ayah": 56,
+      "formInAyah": "سَلَفًا",
+      "transliteration": "selefen",
+      "gloss": "geçmiş ataları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَجَعَلْنَاهُمْ سَلَفًا وَمَثَلًا لِلْآخِرِينَ",
+      "verseTransliteration": "Fe cealnâhum selefen ve meselen lil âhırîn(âhırîne).",
+      "verseMeaning": "Onları, sonra gelecekler için eski bir örnek yaptık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَلَفَ",
+      "sura": 2,
+      "ayah": 275,
+      "formInAyah": "سَلَفَ",
+      "transliteration": "selefe",
+      "gloss": "geçmişte",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَنْ جَاءَهُ مَوْعِظَةٌ مِنْ رَبِّهِ فَانْتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Ellezîne ye’kulûner ribâ lâ yekûmûne illâ kemâ yekûmullezî yetehabbetuhuş şeytânu minel mess(messi), zâlike bi ennehum kâlû innemal bey’u mislur ribâ, ve ehallallâhul bey’a ve harramer ribâ fe men câehu mev’izatun min rabbihî fentehâ fe lehu mâ selef(selefe), ve emruhû ilâllâh(ilâllâhi), ve men âde fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "O ribayı yiyenler, şeytanın bir dokunuşla çarptığı kişinin kalkışından başka türlü kalkamazlar. Bu böyledir, çünkü onlar, \"Alış-veriş de riba gibidir.\" demişlerdir. Oysa ki Allah, alış-verişi helal, ribayı haram kılmıştır. Kendisine Rabb´inden bir öğüt gelip de yaptığından vazgeçenin geçmişi kendisine, işi Allah´a kalmıştır. Yeniden ribaya dönene gelince, böyleleri ateşin dostlarıdır. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَلَفَ",
+      "sura": 4,
+      "ayah": 22,
+      "formInAyah": "سَلَفَ",
+      "transliteration": "selefe",
+      "gloss": "geçmişte",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا تَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ مِنَ النِّسَاءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُ كَانَ فَاحِشَةً وَمَقْتًا وَسَاءَ سَبِيلًا",
+      "verseTransliteration": "Ve lâ tenkihû mâ nekaha âbâukum minen nisâi, illâ mâ kad selef(selefe), innehu kâne fâhışeten ve maktâ(maktan) ve sâe sebîlâ(sebîlen).",
+      "verseMeaning": "Geçmişte kalanlar hariç, babalarınızın nikâhlamış olduğu kadınlarla evlenmeyin. Böyle bir şey açık bir edepsizlik, nefret gerektiren bir kötülüktür. Çirkin bir yoldur bu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَلَفَ",
+      "sura": 4,
+      "ayah": 23,
+      "formInAyah": "سَلَفَ",
+      "transliteration": "selefe",
+      "gloss": "geçmişte",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُمْ مِنَ الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي حُجُورِكُمْ مِنْ نِسَائِكُمُ اللَّاتِي دَخَلْتُمْ بِهِنَّ فَإِنْ لَمْ تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَنْ تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+      "verseTransliteration": "Hurrimet aleykum ummehâtukum ve benâtukum ve ehavâtukum ve ammâtukum ve halâtukum ve benâtul ahi ve benâtul uhti ve ummehâtukumullâtî erdâ’nekum ve ehavâtukum miner radâati ve ummehâtu nisâikum ve rabâibukumullâtî fî hucûrikum min nisâikumullâtî dehaltum bihinn(bihinne), fe in lem tekûnû dehaltum bihinne fe lâ cunâha aleykum, ve halâilu ebnâikumullezîne min aslâbikum ve en tecmeû beynel uhteyni illâ mâ kad selef(selefe), innallâhe kâne gafûran rahîmâ(rahîmen).",
+      "verseMeaning": "Size, şu kadınlarla evlenmek haram kılınmıştır: Analarınız, kızlarınız, kız kardeşleriniz, halalarınız, teyzeleriniz, erkek kardeş kızları, kız kardeş kızları, sizi emziren süt anneleriniz, süt kız kardeşleriniz, karılarınızın anneleri, kendileriyle birleştiğiniz hanımlarınızdan doğmuş olup evlerinizde oturan üvey kızlarınız -eğer anneleriyle birleşmemişseniz o takdirde sizin için bir günah yoktur- ve sulbünüzden gelen oğullarınızın karıları. İki kız kardeşi birlikte almanız da haram kılınmıştır. Eskide kalanlar müstesna. Allah çok affedici, çok merhametlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَلَفَ",
+      "sura": 5,
+      "ayah": 95,
+      "formInAyah": "سَلَفَ",
+      "transliteration": "selefe",
+      "gloss": "geçmişte",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ حُرُمٌ ۚ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ ۗ عَفَا اللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ ۗ وَاللَّهُ عَزِيزٌ ذُو انْتِقَامٍ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ taktulûs sayde ve entum hûrûm(hûrûmun) ve men katelehu minkum muteammiden fe cezâun mislu mâ katele min en neami yahkumu bihî zevâ adlin minkum hedyen bâligal ka’beti ev keffâratun taâmu mesâkîne ev adlu zâlike siyâmen li yezûka vebâle emrih(emrihî) afâllâhu amma selef(selefe) ve men âde fe yentakimullâhu minh(minhu) vallâhu azîzun zûntikâm(zûntikâmin).",
+      "verseMeaning": "Ey iman sahipleri! İhramda olduğunuz zaman av öldürmeyin. Sizden kim kasten onu öldürürse cezası şudur: Öldürdüğü hayvana denk deve-sığır, davar cinsinden, Kâbe´ye varacak kurbanlık bir hediye ki, içinizden adalet sahibi iki kişi belirleyecektir. Yahut yoksullara yedirme şeklinde bir keffâret, yahut buna denk oruç. Taki yaptığının vebalini tatsın. Allah, geçmişi affetmiştir. Kim bir daha yaparsa, Allah ondan öc alacaktır. Allah çok güçlüdür, öc alıcıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَلَفَ",
+      "sura": 8,
+      "ayah": 38,
+      "formInAyah": "سَلَفَ",
+      "transliteration": "selefe",
+      "gloss": "geçmiştekiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ لِلَّذِينَ كَفَرُوا إِنْ يَنْتَهُوا يُغْفَرْ لَهُمْ مَا قَدْ سَلَفَ وَإِنْ يَعُودُوا فَقَدْ مَضَتْ سُنَّتُ الْأَوَّلِينَ",
+      "verseTransliteration": "Kul lillezîne keferû in yentehû yugfer lehum mâ kad selef(selefe), ve in yeûdû fe kad madat sunnetul evvelîn(evvelîne).",
+      "verseMeaning": "Küfre sapanlara söyle: \"Eğer son verirlerse eskide kalmış olan, kendileri için affedilir. Eğer yeniden başlarlarsa, daha öncekilere uygulanan yol ve yöntem, eskisi gibi devam etmiş olacaktır.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=slf"
+}

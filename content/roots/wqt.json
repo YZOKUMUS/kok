@@ -1,0 +1,309 @@
+{
+  "id": "wqt",
+  "latinName": "Vav-Kaf-Te",
+  "lettersArabic": "و ق ت",
+  "meanings": [
+    "to fix, defined/determined/limited a thing as to time, appoint/declare/assign a time, measure of time (e.g. season)."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 13,
+  "lemmas": [
+    {
+      "formArabic": "أُقِّتَتْ",
+      "count": 1
+    },
+    {
+      "formArabic": "مَّوْقُوت",
+      "count": 1
+    },
+    {
+      "formArabic": "مِيقَٰت",
+      "count": 8
+    },
+    {
+      "formArabic": "وَقْت",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُقِّتَتْ",
+      "sura": 77,
+      "ayah": 11,
+      "formInAyah": "أُقِّتَتْ",
+      "transliteration": "uḳḳitet",
+      "gloss": "vakit belirlendiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا الرُّسُلُ أُقِّتَتْ",
+      "verseTransliteration": "Ve izer rusulu ukkıtet.",
+      "verseMeaning": "Resuller vakte bağlandığında,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّوْقُوت",
+      "sura": 4,
+      "ayah": 103,
+      "formInAyah": "مَوْقُوتًا",
+      "transliteration": "mevḳūten",
+      "gloss": "vakitli olarak",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+      "verseTransliteration": "Fe izâ kadaytumus salâte fezkurûllâhe kıyâmen ve kuûden ve alâ cunûbikum, fe izatma’nentum fe ekîmus salât(salâte), innes salâte kânet alel mu’minîne kitâben mevkûtâ(mevkûten).",
+      "verseMeaning": "Korku halindeki namazı tamamlayınca, artık Allah´ı ayakta, oturarak, yan yatmışken anın. Sükûnet bulduğunuzda, namazı tam bir biçimde yerine getirin. Namaz, müminler üzerine vakti belirlenmiş bir farz olmuştur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 2,
+      "ayah": 189,
+      "formInAyah": "مَوَاقِيتُ",
+      "transliteration": "mevāḳītu",
+      "gloss": "vakit ölçüleridir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ ۗ وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا وَلَٰكِنَّ الْبِرَّ مَنِ اتَّقَىٰ ۗ وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yes’elûneke anil ehilleh(ehilleti), kul hiye mevâkîtu lin nâsi vel hacc(haccı), ve leysel birru bi en te’tûl buyûte min zuhûrihâ ve lâkinnel birre menittekâ, ve’tûl buyûte min ebvâbihâ, vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Sana, doğan aylardan sorarlar. De ki: \"Onlar, insanların çeşitli yararları ve bir de hac için vakit ölçüleridir.\" Hayra ulaşmak evlere arkalarından girmeniz değildir. Hayra ulaşan o kişidir ki, takvaya sarılıp korunur. Evlere kapılarından girin. Allah´tan korkun ki kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 7,
+      "ayah": 142,
+      "formInAyah": "مِيقَاتُ",
+      "transliteration": "mīḳātu",
+      "gloss": "tayin ettiği vakit",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَارُونَ اخْلُفْنِي فِي قَوْمِي وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ الْمُفْسِدِينَ",
+      "verseTransliteration": "Ve vâadnâ mûsâ selâsîne leyleten ve etmemnâhâ bi aşrin fe temme mîkâtu rabbihî erbaîne leyleh(leyleten), ve kâle mûsâ li ahîhi hârûnahlufnî fî kavmî ve aslıh ve lâ tettebi’ sebîlel mufsidîn(mufsidîne).",
+      "verseMeaning": "Musa ile otuz gece için vaatleştik. Ve bunu, bir on ekleyerek tamamladık. Böylece Rabbinin belirlediği süre kırk geceye ulaştı. Musa, kardeşi Harun´a dedi ki: \"Toplumum içinde benim yerime sen geç, barışçı ol, bozguncuların yolunu izleme.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 7,
+      "ayah": 143,
+      "formInAyah": "لِمِيقَاتِنَا",
+      "transliteration": "limīḳātinā",
+      "gloss": "tayin ettiğimiz vakitte",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ أَرِنِي أَنْظُرْ إِلَيْكَ ۚ قَالَ لَنْ تَرَانِي وَلَٰكِنِ انْظُرْ إِلَى الْجَبَلِ فَإِنِ اسْتَقَرَّ مَكَانَهُ فَسَوْفَ تَرَانِي ۚ فَلَمَّا تَجَلَّىٰ رَبُّهُ لِلْجَبَلِ جَعَلَهُ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا ۚ فَلَمَّا أَفَاقَ قَالَ سُبْحَانَكَ تُبْتُ إِلَيْكَ وَأَنَا أَوَّلُ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve lemmâ câe mûsâ li mîkâtinâ ve kellemehu rabbuhu kâle rabbi erinî enzur ileyk(ileyke), kâle len terânî ve lakininzur ilel cebeli fe inistekarre mekânehu fe sevfe terânî fe lemmâ tecellâ rabbuhu lil cebeli cealehu dekkan ve harra mûsâ saıkan, fe lemmâ efaka kâle subhâneke tubtu ileyke ve ene evvelul mu’minîn(mu’minîne).",
+      "verseMeaning": "Musa, bizimle sözleştiği yere gelip Rabbi de kendisiyle konuşunca şöyle konuştu: \"Rabbim, göster bana kendini, göreyim seni.\" Dedi: \"Asla göremezsin beni. Ama şu dağa bak. Eğer o yerinde durabilirse, sen de beni görebileceksin.\" Rabbi dağa tecelli edince onu parça parça etti. Ve Musa baygın vaziyette yere yığıldı. Kendine gelince şöyle yakardı: \"Tespih ederim o yüce varlığını, tövbe edip sana yöneldim. İman edenlerin ilkiyim ben.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 7,
+      "ayah": 155,
+      "formInAyah": "لِمِيقَاتِنَا",
+      "transliteration": "limīḳātinā",
+      "gloss": "bizimle buluşma vakti için",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاخْتَارَ مُوسَىٰ قَوْمَهُ سَبْعِينَ رَجُلًا لِمِيقَاتِنَا ۖ فَلَمَّا أَخَذَتْهُمُ الرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُمْ مِنْ قَبْلُ وَإِيَّايَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا ۖ إِنْ هِيَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَنْ تَشَاءُ وَتَهْدِي مَنْ تَشَاءُ ۖ أَنْتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنْتَ خَيْرُ الْغَافِرِينَ",
+      "verseTransliteration": "Vahtâra mûsâ kavmehu seb’îne raculen li mîkâtinâ, fe lemmâ ehazet humur recfetu kâle rabbi lev şi’te ehlektehum min kablu ve iyyâye, e tuhlikunâ bi mâ feales sufehâu minnâ, in hiye illâ fitnetuk(fitnetuke), tudıllu bihâ men teşâu ve tehdî men teşâu ente veliyyunâ fâgfirlenâ verhamnâ ve ente hayrûl gâfirîn(gâfirîne).",
+      "verseMeaning": "Musa, bizimle buluşma vakti için toplumundan yetmiş adam seçti. Şiddetli sarsıntı onları yakalayınca Musa şöyle dedi: \"Rabbim, dileseydin, onları da beni de daha önce helak ederdin. İçimizdeki beyinsizlerin yaptıkları yüzünden bizi helak mı edeceksin? Bu iş senin imtihanından başka birşey değildir. Onunla dilediğini şaşırtır, dilediğine yol gösterirsin. Sen bizim Veli´mizsin. O halde affet bizi, acı bize. Sen affedenlerin en hayırlısısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 26,
+      "ayah": 38,
+      "formInAyah": "لِمِيقَاتِ",
+      "transliteration": "limīḳāti",
+      "gloss": "belirlenen vaktinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَعْلُومٍ",
+      "verseTransliteration": "Fe cumias seharatu li mîkâti yevmin ma’lûm(ma’lûmin).",
+      "verseMeaning": "Nihayet büyücüler belirlenen bir günün, belirlenen bir vaktinde bir araya getirildi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 44,
+      "ayah": 40,
+      "formInAyah": "مِيقَاتُهُمْ",
+      "transliteration": "mīḳātuhum",
+      "gloss": "varacağı gündür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ",
+      "verseTransliteration": "İnne yevmel faslı mîkâtuhum ecmaîn(ecmaîne).",
+      "verseMeaning": "Hiç kuşkusuz, ayrım günü, hepsinin buluşma zamanıdır/buluşma yeridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 56,
+      "ayah": 50,
+      "formInAyah": "مِيقَاتِ",
+      "transliteration": "mīḳāti",
+      "gloss": "buluşma vakti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَعْلُومٍ",
+      "verseTransliteration": "Le mecmûûne ilâ mîkâti yevmin ma’lûm(ma’lûmin).",
+      "verseMeaning": "Bilinen bir günün buluşma vakti/buluşma yerinde mutlaka biraraya getirileceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيقَٰت",
+      "sura": 78,
+      "ayah": 17,
+      "formInAyah": "مِيقَاتًا",
+      "transliteration": "mīḳāten",
+      "gloss": "belirlenmiş bir vakittir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+      "verseTransliteration": "İnne yevmel faslı kâne mîkâtâ(mîkâten).",
+      "verseMeaning": "Hiç kuşkusuz, o ayırma ve hüküm günü kesin olarak belirlenmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَقْت",
+      "sura": 7,
+      "ayah": 187,
+      "formInAyah": "لِوَقْتِهَا",
+      "transliteration": "liveḳtihā",
+      "gloss": "tam zamanında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِنْدَ رَبِّي ۖ لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ ۚ ثَقُلَتْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً ۗ يَسْأَلُونَكَ كَأَنَّكَ حَفِيٌّ عَنْهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِنْدَ اللَّهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Yes’elûneke anis sâ’ati eyyâne mursâhâ, kul innemâ ilmuhâ inde rabbî, lâ yucellîhâ li vaktihâ illâ huv(huve), sekulet fîs semâvâti vel ard(ardı), lâ te’tîkum illâ bagtete(bagteten), yes’elûneke ke enneke hafiyyun anhâ, kul innemâ ilmuhâ indallâhi ve lâkinne ekseren nâsi lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Ne zaman gelip çatacak diye kıyamet saatini soruyorlar sana. De ki: \"Ona ilişkin bilgi Rabbim katındadır. Onu, vakti geldiğinde belirginleştirecek olan yalnız O´dur. Göklere de yere de ağır gelmiştir o. O size ansızın gelecektir, başka değil.\" Sen onu iyice biliyormuşsun gibi sana soruyorlar. De ki: \"O´na ilişkin bilgi Allah katındadır, fakat insanların çokları bilmiyorlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَقْت",
+      "sura": 15,
+      "ayah": 38,
+      "formInAyah": "الْوَقْتِ",
+      "transliteration": "l-veḳti",
+      "gloss": "vaktin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+      "verseTransliteration": "İlâ yevmil vaktil ma’lûm(ma’lûmi).",
+      "verseMeaning": "\"Bilinen vaktin gününe kadar...\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَقْت",
+      "sura": 38,
+      "ayah": 81,
+      "formInAyah": "الْوَقْتِ",
+      "transliteration": "l-veḳti",
+      "gloss": "vaktin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+      "verseTransliteration": "İlâ yevmil vaktil ma’lûm(ma’lûmi).",
+      "verseMeaning": "\"O bilinen güne kadar.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wqt"
+}

@@ -1,0 +1,474 @@
+{
+  "id": "rbw",
+  "latinName": "Ra-Be-Vav",
+  "lettersArabic": "ر ب و",
+  "meanings": [
+    "Artmak, çoğalmak, kabarmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 20,
+  "lemmas": [
+    {
+      "formArabic": "أَرْبَىٰ",
+      "count": 2
+    },
+    {
+      "formArabic": "رَبَّيَ",
+      "count": 2
+    },
+    {
+      "formArabic": "رَبَتْ",
+      "count": 4
+    },
+    {
+      "formArabic": "رَبْوَة",
+      "count": 2
+    },
+    {
+      "formArabic": "رَّابِي",
+      "count": 1
+    },
+    {
+      "formArabic": "رَّابِيَة",
+      "count": 1
+    },
+    {
+      "formArabic": "رِّب",
+      "count": 1
+    },
+    {
+      "formArabic": "رِّبَوٰا",
+      "count": 7
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَرْبَىٰ",
+      "sura": 2,
+      "ayah": 276,
+      "formInAyah": "وَيُرْبِي",
+      "transliteration": "ve yurbī",
+      "gloss": "ve artırır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "verseTransliteration": "Yemhakullâhur ribâ ve yurbîs sadakât(sadakâti), vallâhu lâ yuhıbbu kulle keffârin esîm(esîmin).",
+      "verseMeaning": "Allah, ribadan beklenen artışı mahveder, sadakalar karşılığında artışlar getirir. Allah, nankörlüğe batmış günahkârların hiç birini sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَرْبَىٰ",
+      "sura": 16,
+      "ayah": 92,
+      "formInAyah": "أَرْبَىٰ",
+      "transliteration": "erbā",
+      "gloss": "daha çok",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ أَنْ تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+      "verseTransliteration": "Ve lâ tekûnû kelletî nekadat gazlehâ min ba’di kuvvetin enkâsâ(enkâsen), tettehızûne eymânekum dehalen beynekum en tekûne ummetun hiye erbâ min ummeh(ummetin), innemâ yeblûkumullâhu bih(bihî), ve le yubeyyinenne lekum yevmel kıyâmeti mâ kuntum fîhi tahtelifûn(tahtelifûne).",
+      "verseMeaning": "Yeminleri bozmada, ipliğini kuvvetle büktükten sonra bozup parçalayan karı gibi olmayın. Bir topluluk ötekinden daha zengin ve kalabalık çıktığı için yeminlerinizi aranızda bir hile aracı yapıyorsunuz. Allah sizi bununla imtihan ediyor; ihtilafa düştüğünüz şeyleri kıyamet günü size açık bir biçimde elbette gösterecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبَّيَ",
+      "sura": 17,
+      "ayah": 24,
+      "formInAyah": "رَبَّيَانِي",
+      "transliteration": "rabbeyānī",
+      "gloss": "beni nasıl yetiştirdilerse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, İkil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "verseTransliteration": "Vahfıd lehumâ cenâhaz zulli miner rahmeti ve kul rabbirhamhumâ kemâ rabbeyânî sagîrâ(sagîren).",
+      "verseMeaning": "Rahmetten yerlere eğilme kanadını onlar için indir ve de ki: \"Rabbim, merhametli davran onlara, tıpkı küçüklüğümde beni koruyup büyüttükleri gibi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبَّيَ",
+      "sura": 26,
+      "ayah": 18,
+      "formInAyah": "نُرَبِّكَ",
+      "transliteration": "nurabbike",
+      "gloss": "biz seni yetiştirmedik mi?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "verseTransliteration": "Kâle e lem nurabbike fînâ velîden ve lebiste fînâ min umurike sinîn(sinîne).",
+      "verseMeaning": "Firavun dedi: \"Biz seni aramızda, bir çocuk olarak koruyup beslemedik mi? Ömrünün nice yıllarını aramızda geçirdin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبَتْ",
+      "sura": 22,
+      "ayah": 5,
+      "formInAyah": "وَرَبَتْ",
+      "transliteration": "ve rabet",
+      "gloss": "ve kabarır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ۖ وَمِنْكُمْ مَنْ يُتَوَفَّىٰ وَمِنْكُمْ مَنْ يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ۚ وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+      "verseTransliteration": "Yâ eyyuhen nâsu in kuntum fî raybin minel ba’si fe innâ halaknâkum min turâbin summe min nutfetin summe min alakatin summe min mudgatin muhallekatin ve gayri muhallekatin li nubeyyine lekum, ve nukırru fîl erhâmi mâ neşâu ilâ ecelin musemmen summe nuhricukum tıflen summe li teblugû eşuddekum ve minkum men yuteveffâ ve minkum men yuraddu ilâ erzelil umuri li keylâ ya’leme min ba’di ilmin şey’â(şey’an), ve terel arda hâmideten fe izâ enzelnâ aleyhel mâehtezzet ve rabet ve enbetet min kulli zevcin behîc(behîcin).",
+      "verseMeaning": "Ey insanlar! Ölümden sonra dirilme konusunda kuşku içinde olabilirsiniz. Ama şu bir gerçek ki, biz sizi bir topraktan, sonra bir spermden, sonra bir embriyodan/döllenmiş bir karışımdan, sonra ne olduğu kısmen belirli, kısmen belirsiz bir et parçasından yarattık ki, size açık seçik beyanda bulunalım. Ve sizi rahimlerde, belirlenen bir süreye kadar dilediğimiz şekilde bekletiyoruz. Sonra sizi bir çocuk olarak çıkarıyoruz. Daha sonra da tam kuvvetinize ulaşmanızı sağlıyoruz. Bununla birlikte içinizden bir kısmı öldürülüyor, yine içinizden bir kısmı ilimden sonra bir şey bilmesin diye ömrün en basit ve düşük noktasına geri gönderiliyor. Yeryüzünü de sönmüş kül halinde görürsün. Nihayet onun üzerine suyu indirdiğimizde titrer, kabarır ve her güzel/bereketli çiftten bir şeyler bitirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبَتْ",
+      "sura": 30,
+      "ayah": 39,
+      "formInAyah": "يَرْبُو",
+      "transliteration": "yerbū",
+      "gloss": "artmaz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِنْدَ اللَّهِ ۖ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+      "verseTransliteration": "Ve mâ âteytum min riben li yerbuve fî emvâlin nâsi fe lâ yerbû indallâh(indallâhi), ve mâ âteytum min zekâtin turîdûne vechallâhi fe ulâike humul mud’ıfûn(mud’ıfûne).",
+      "verseMeaning": "İnsanların malları içinde artsın diye riba olarak verdiğiniz, Allah katında artmaz. Allah´ın yüzünü isteyerek verdiğiniz zekâta gelince, işte onu verenler kat kat artıranların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبَتْ",
+      "sura": 30,
+      "ayah": 39,
+      "formInAyah": "لِيَرْبُوَ",
+      "transliteration": "liyerbuve",
+      "gloss": "artması için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِنْدَ اللَّهِ ۖ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+      "verseTransliteration": "Ve mâ âteytum min riben li yerbuve fî emvâlin nâsi fe lâ yerbû indallâh(indallâhi), ve mâ âteytum min zekâtin turîdûne vechallâhi fe ulâike humul mud’ıfûn(mud’ıfûne).",
+      "verseMeaning": "İnsanların malları içinde artsın diye riba olarak verdiğiniz, Allah katında artmaz. Allah´ın yüzünü isteyerek verdiğiniz zekâta gelince, işte onu verenler kat kat artıranların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبَتْ",
+      "sura": 41,
+      "ayah": 39,
+      "formInAyah": "وَرَبَتْ",
+      "transliteration": "ve rabet",
+      "gloss": "ve kabarır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ أَنَّكَ تَرَى الْأَرْضَ خَاشِعَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ ۚ إِنَّ الَّذِي أَحْيَاهَا لَمُحْيِي الْمَوْتَىٰ ۚ إِنَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Ve min âyâtihî enneke terel arda hâşiaten fe izâ enzelnâ aleyhel mâehtezzet ve rebet, innellezî ahyâhâ le muhyîl mevtâ, innehu alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Sen, toprağı huşû halinde boynu bükük görüyorsun ya, işte o da Allah´ın ayetlerindendir. Onun üzerine suyu indirdiğimizde, o titrer ve kabarır. Hiç kuşkusuz, onu dirilten Muhyi ölüleri de mutlaka diriltecektir. O, her şey üzerinde güç sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبْوَة",
+      "sura": 2,
+      "ayah": 265,
+      "formInAyah": "بِرَبْوَةٍ",
+      "transliteration": "birabvetin",
+      "gloss": "tepe üzerinde bulunan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِنْ لَمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Ve meselullezîne yunfikûne emvâlehumubtigâe mardâtillâhi ve tesbîten min enfusihim ke meseli cennetin bi rabvetin esâbehâ vâbilun fe âtet ukulehâ dı’feyn(dı’feyni), fe in lem yusıbhâ vâbilun fe tall(tallun), vallâhu bimâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Allah´ın hoşnutluğunu kazanmak ve öz benliklerindekini kökleştirmek için infakta bulunanlara gelince, onların durumu kendisine bol yağmur isabet edip de ürününü iki kat veren bir bahçenin durumuna benzer. Böyle bir bahçeye bol yağmur düşmese de bir çisenti, bir nem bile yetişir. Allah, yapmakta olduklarınızı tam bir biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَبْوَة",
+      "sura": 23,
+      "ayah": 50,
+      "formInAyah": "رَبْوَةٍ",
+      "transliteration": "rabvetin",
+      "gloss": "bir tepeye",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا ابْنَ مَرْيَمَ وَأُمَّهُ آيَةً وَآوَيْنَاهُمَا إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ",
+      "verseTransliteration": "Ve cealnebne meryeme ve ummehû âyeten ve âveynâhumâ ilâ rabvetin zâti karârin ve maîn(maînin).",
+      "verseMeaning": "Meryem´in oğluyla annesini birer ayet kıldık ve onları oturmaya uygun pınarlı bir tepeye yerleştirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّابِي",
+      "sura": 13,
+      "ayah": 17,
+      "formInAyah": "رَابِيًا",
+      "transliteration": "rābiyen",
+      "gloss": "üste çıkan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ ابْتِغَاءَ حِلْيَةٍ أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ الْحَقَّ وَالْبَاطِلَ ۚ فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً ۖ وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ الْأَمْثَالَ",
+      "verseTransliteration": "Enzele mines semâi mâen fe sâlet evdiyetun bi kaderihâ fahtemeles seylu zebeden râbiyâ(râbiyen), ve mimmâ yûkıdûne aleyhi fîn nâribtigâe hılyetin ev metâın zebedun misluh(misluhu), kezâlike yadribullâhul hakka vel bâtıl(bâtıle), fe emmez zebedu fe yezhebu cufâ’(cufâen), ve emmâ mâ yenfaun nâse fe yemkusufîl ard(ardı), kezâlike yadrıbullâhul emsâl(emsâle).",
+      "verseMeaning": "Gökten bir su indirdi de vadiler, kendi ölçülerince/kaderlerine göre sel oldu, ardından da sel, üste çıkan köpüğü taşır hale geldi. Bir süs eşyası veya âlet yapmak isteğiyle ateşte körükledikleri şeylerde de benzeri bir köpük vardır. Allah hakla bâtılı işte böyle örneklendiriyor: Köpük, atılır gider; insanlara yararlı olansa toprakta kalır. Allah, işte bu şekilde örnekler verir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّابِيَة",
+      "sura": 69,
+      "ayah": 10,
+      "formInAyah": "رَابِيَةً",
+      "transliteration": "rābiyeten",
+      "gloss": "şiddeti gittikçe artan",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً",
+      "verseTransliteration": "Fe asav resûle rabbihim fe ehazehum ahzeten râbiyeh(râbiyeten).",
+      "verseMeaning": "Rablerinin resulüne isyan ettiler de O da onları, şiddeti arttıkça artan bir yakalayışla yakaladı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّب",
+      "sura": 30,
+      "ayah": 39,
+      "formInAyah": "رِبًا",
+      "transliteration": "riben",
+      "gloss": "riba (faiz)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِنْدَ اللَّهِ ۖ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+      "verseTransliteration": "Ve mâ âteytum min riben li yerbuve fî emvâlin nâsi fe lâ yerbû indallâh(indallâhi), ve mâ âteytum min zekâtin turîdûne vechallâhi fe ulâike humul mud’ıfûn(mud’ıfûne).",
+      "verseMeaning": "İnsanların malları içinde artsın diye riba olarak verdiğiniz, Allah katında artmaz. Allah´ın yüzünü isteyerek verdiğiniz zekâta gelince, işte onu verenler kat kat artıranların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 2,
+      "ayah": 275,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "riba (faiz)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَنْ جَاءَهُ مَوْعِظَةٌ مِنْ رَبِّهِ فَانْتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Ellezîne ye’kulûner ribâ lâ yekûmûne illâ kemâ yekûmullezî yetehabbetuhuş şeytânu minel mess(messi), zâlike bi ennehum kâlû innemal bey’u mislur ribâ, ve ehallallâhul bey’a ve harramer ribâ fe men câehu mev’izatun min rabbihî fentehâ fe lehu mâ selef(selefe), ve emruhû ilâllâh(ilâllâhi), ve men âde fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "O ribayı yiyenler, şeytanın bir dokunuşla çarptığı kişinin kalkışından başka türlü kalkamazlar. Bu böyledir, çünkü onlar, \"Alış-veriş de riba gibidir.\" demişlerdir. Oysa ki Allah, alış-verişi helal, ribayı haram kılmıştır. Kendisine Rabb´inden bir öğüt gelip de yaptığından vazgeçenin geçmişi kendisine, işi Allah´a kalmıştır. Yeniden ribaya dönene gelince, böyleleri ateşin dostlarıdır. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 2,
+      "ayah": 275,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "ribayı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَنْ جَاءَهُ مَوْعِظَةٌ مِنْ رَبِّهِ فَانْتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Ellezîne ye’kulûner ribâ lâ yekûmûne illâ kemâ yekûmullezî yetehabbetuhuş şeytânu minel mess(messi), zâlike bi ennehum kâlû innemal bey’u mislur ribâ, ve ehallallâhul bey’a ve harramer ribâ fe men câehu mev’izatun min rabbihî fentehâ fe lehu mâ selef(selefe), ve emruhû ilâllâh(ilâllâhi), ve men âde fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "O ribayı yiyenler, şeytanın bir dokunuşla çarptığı kişinin kalkışından başka türlü kalkamazlar. Bu böyledir, çünkü onlar, \"Alış-veriş de riba gibidir.\" demişlerdir. Oysa ki Allah, alış-verişi helal, ribayı haram kılmıştır. Kendisine Rabb´inden bir öğüt gelip de yaptığından vazgeçenin geçmişi kendisine, işi Allah´a kalmıştır. Yeniden ribaya dönene gelince, böyleleri ateşin dostlarıdır. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 2,
+      "ayah": 275,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "Riba (faiz)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَنْ جَاءَهُ مَوْعِظَةٌ مِنْ رَبِّهِ فَانْتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Ellezîne ye’kulûner ribâ lâ yekûmûne illâ kemâ yekûmullezî yetehabbetuhuş şeytânu minel mess(messi), zâlike bi ennehum kâlû innemal bey’u mislur ribâ, ve ehallallâhul bey’a ve harramer ribâ fe men câehu mev’izatun min rabbihî fentehâ fe lehu mâ selef(selefe), ve emruhû ilâllâh(ilâllâhi), ve men âde fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "O ribayı yiyenler, şeytanın bir dokunuşla çarptığı kişinin kalkışından başka türlü kalkamazlar. Bu böyledir, çünkü onlar, \"Alış-veriş de riba gibidir.\" demişlerdir. Oysa ki Allah, alış-verişi helal, ribayı haram kılmıştır. Kendisine Rabb´inden bir öğüt gelip de yaptığından vazgeçenin geçmişi kendisine, işi Allah´a kalmıştır. Yeniden ribaya dönene gelince, böyleleri ateşin dostlarıdır. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 2,
+      "ayah": 276,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "ribayı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "verseTransliteration": "Yemhakullâhur ribâ ve yurbîs sadakât(sadakâti), vallâhu lâ yuhıbbu kulle keffârin esîm(esîmin).",
+      "verseMeaning": "Allah, ribadan beklenen artışı mahveder, sadakalar karşılığında artışlar getirir. Allah, nankörlüğe batmış günahkârların hiç birini sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 2,
+      "ayah": 278,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "riba-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenûttekûllâhe ve zerû mâ bakiye miner ribâ in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Ey iman sahipleri, Allah´tan korkun. Ve eğer inanıyorsanız ribadan geri kalanı bırakın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 3,
+      "ayah": 130,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "riba",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً ۖ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ te’kulur ribâ ad’âfen mudâafeh(mudâafeten), vettekûllâhe leallekum tuflihûn(tuflihûne).",
+      "verseMeaning": "Ey iman sahipleri! Ribayı öyle kat kat katlayarak yemeyin. Allah´tan korkun ki kurtuluşa erebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّبَوٰا",
+      "sura": 4,
+      "ayah": 161,
+      "formInAyah": "الرِّبَا",
+      "transliteration": "r-ribā",
+      "gloss": "riba",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "verseTransliteration": "Ve ahzihimur ribâ ve kad nuhû anhu ve eklihim emvâlen nâsi bil bâtıl(bâtılı) ve a’tednâ lil kâfirîne minhum azâben elîmâ(elîmen).",
+      "verseMeaning": "Ve ribayı almaları yüzünden -oysaki ondan yasaklanmışlardı- ve haksız yollarla insanların mallarını yemeleri yüzünden onların küfre sapanlarına korkunç bir azap hazırladık."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rbw"
+}

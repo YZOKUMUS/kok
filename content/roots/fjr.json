@@ -1,0 +1,581 @@
+{
+  "id": "fjr",
+  "latinName": "Fe-Cim-Ra",
+  "lettersArabic": "ف ج ر",
+  "meanings": [
+    "İnkar etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 24,
+  "lemmas": [
+    {
+      "formArabic": "تَفْجِير",
+      "count": 2
+    },
+    {
+      "formArabic": "فَاجِر",
+      "count": 1
+    },
+    {
+      "formArabic": "فُجَّار",
+      "count": 4
+    },
+    {
+      "formArabic": "فُجِّرَتْ",
+      "count": 6
+    },
+    {
+      "formArabic": "فَجْر",
+      "count": 6
+    },
+    {
+      "formArabic": "فُجُور",
+      "count": 1
+    },
+    {
+      "formArabic": "يَتَفَجَّرُ",
+      "count": 1
+    },
+    {
+      "formArabic": "يَفْجُرَ",
+      "count": 2
+    },
+    {
+      "formArabic": "ٱنفَجَرَتْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفْجِير",
+      "sura": 17,
+      "ayah": 91,
+      "formInAyah": "تَفْجِيرًا",
+      "transliteration": "tefcīran",
+      "gloss": "gürül gürül",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِنْ نَخِيلٍ وَعِنَبٍ فَتُفَجِّرَ الْأَنْهَارَ خِلَالَهَا تَفْجِيرًا",
+      "verseTransliteration": "Ev tekûne leke cennetun min nahîlin ve inebin fe tufeccirel enhâre hılâlehâ tefcîrâ(tefcîren).",
+      "verseMeaning": "\"Yahut senin, hurmalardan, üzümlerden oluşan bir bahçen olmalı. Onların aralarından şarıl şarıl ırmaklar akıtmalısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفْجِير",
+      "sura": 76,
+      "ayah": 6,
+      "formInAyah": "تَفْجِيرًا",
+      "transliteration": "tefcīran",
+      "gloss": "fışkırtarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+      "verseTransliteration": "Aynen yeşrebu bihâ ibâdullâhi yufeccirûnehâ tefcîrâ(tefcîren).",
+      "verseMeaning": "Bir kaynak ki, Allah´ın kulları ondan içerler ve onu fışkırtarak akıtırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَاجِر",
+      "sura": 71,
+      "ayah": 27,
+      "formInAyah": "فَاجِرًا",
+      "transliteration": "fāciran",
+      "gloss": "ahlaksız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+      "verseTransliteration": "İnneke in tezerhum yudıllû ıbâdeke ve lâ yelidû illâ fâciren keffârâ(keffâre).",
+      "verseMeaning": "\"Çünkü eğer sen onları bırakırsan, kullarını saptırırlar ve kötülük üreten nankörden başkasını doğurmazlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجَّار",
+      "sura": 80,
+      "ayah": 42,
+      "formInAyah": "الْفَجَرَةُ",
+      "transliteration": "l-feceratu",
+      "gloss": "Hak’tan sapanlardır",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+      "verseTransliteration": "Ulâike humul keferetul fecerah(feceratu).",
+      "verseMeaning": "İşte bunlardır küfre sapanlar, kötülüğe batanlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجَّار",
+      "sura": 38,
+      "ayah": 28,
+      "formInAyah": "كَالْفُجَّارِ",
+      "transliteration": "kālfuccāri",
+      "gloss": "yoldan çıkanlar gibi (mi?)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ",
+      "verseTransliteration": "Em nec’alullezîne âmenû ve amilûs sâlihâti kel mufsidîne fîl ardı em nec’alul muttekîne kel fuccâr(fuccâri).",
+      "verseMeaning": "Yoksa biz, iman edip hakka ve barışa yönelik işler yapanları, yeryüzünde fesat çıkaranlarla aynı mı tutacağız? Yoksa takva sahiplerini, arsız sapıklar gibi mi yapacağız?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجَّار",
+      "sura": 82,
+      "ayah": 14,
+      "formInAyah": "الْفُجَّارَ",
+      "transliteration": "l-fuccāra",
+      "gloss": "kötüler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+      "verseTransliteration": "Ve innel fuccâre lefî cahîm(cahîmın).",
+      "verseMeaning": "Kötülerse cehennemin ta ortasında."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجَّار",
+      "sura": 83,
+      "ayah": 7,
+      "formInAyah": "الْفُجَّارِ",
+      "transliteration": "l-fuccāri",
+      "gloss": "sapanların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+      "verseTransliteration": "Kellâ inne kitâbel fuccâri le fî siccîn(siccînin).",
+      "verseMeaning": "Hayır, iş düşündükleri gibi değil! Rezilliğe batmışların kitabı, karanlık ve pis bir çukurun, Siccîn´in ta içindedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجِّرَتْ",
+      "sura": 17,
+      "ayah": 91,
+      "formInAyah": "فَتُفَجِّرَ",
+      "transliteration": "fe tufe ccira",
+      "gloss": "fışkırtmalısın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِنْ نَخِيلٍ وَعِنَبٍ فَتُفَجِّرَ الْأَنْهَارَ خِلَالَهَا تَفْجِيرًا",
+      "verseTransliteration": "Ev tekûne leke cennetun min nahîlin ve inebin fe tufeccirel enhâre hılâlehâ tefcîrâ(tefcîren).",
+      "verseMeaning": "\"Yahut senin, hurmalardan, üzümlerden oluşan bir bahçen olmalı. Onların aralarından şarıl şarıl ırmaklar akıtmalısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجِّرَتْ",
+      "sura": 18,
+      "ayah": 33,
+      "formInAyah": "وَفَجَّرْنَا",
+      "transliteration": "ve feccernā",
+      "gloss": "ve akıtmıştık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْئًا ۚ وَفَجَّرْنَا خِلَالَهُمَا نَهَرًا",
+      "verseTransliteration": "Kiltel cenneteyni âtet ukulehâ ve lem tazlim minhu şey’en ve feccernâ hılâlehumâ neherâ(neheren).",
+      "verseMeaning": "İki bağ da yemişlerini vermiş o adamdan hiçbir şeyi eksik bırakmamıştı. İkisinin ortasından bir de nehir fışkırtmışız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجِّرَتْ",
+      "sura": 36,
+      "ayah": 34,
+      "formInAyah": "وَفَجَّرْنَا",
+      "transliteration": "ve feccernā",
+      "gloss": "ve akıttık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَجَعَلْنَا فِيهَا جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ",
+      "verseTransliteration": "Ve cealnâ fîhâ cennâtin min nahîlin ve a’nâbin ve feccernâ fîhâ minel uyûn(uyûni).",
+      "verseMeaning": "Onda hurmalardan, üzümlerden bahçeler oluşturduk, ondan pınarlar fışkırttık;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجِّرَتْ",
+      "sura": 54,
+      "ayah": 12,
+      "formInAyah": "وَفَجَّرْنَا",
+      "transliteration": "ve feccernā",
+      "gloss": "ve fışkırttık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ",
+      "verseTransliteration": "Ve feccernel arda uyûnen feltekalmâu alâ emrin kad kudir(kudire).",
+      "verseMeaning": "Ve yardık/fışkırttık yeryüzünü pınar pınar. Sonunda kesin ölçülere bağlanmış bir oluş üzere birleşti sular."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجِّرَتْ",
+      "sura": 76,
+      "ayah": 6,
+      "formInAyah": "يُفَجِّرُونَهَا",
+      "transliteration": "yufeccirūnehā",
+      "gloss": "akıtırlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+      "verseTransliteration": "Aynen yeşrebu bihâ ibâdullâhi yufeccirûnehâ tefcîrâ(tefcîren).",
+      "verseMeaning": "Bir kaynak ki, Allah´ın kulları ondan içerler ve onu fışkırtarak akıtırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجِّرَتْ",
+      "sura": 82,
+      "ayah": 3,
+      "formInAyah": "فُجِّرَتْ",
+      "transliteration": "fuccirat",
+      "gloss": "fışkırtıldığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+      "verseTransliteration": "Ve izel bihâru fucciret.",
+      "verseMeaning": "Denizler fışkırtıldığı zaman,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَجْر",
+      "sura": 2,
+      "ayah": 187,
+      "formInAyah": "الْفَجْرِ",
+      "transliteration": "l-fecri",
+      "gloss": "şafağın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَىٰ نِسَائِكُمْ ۚ هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ ۗ عَلِمَ اللَّهُ أَنَّكُمْ كُنْتُمْ تَخْتَانُونَ أَنْفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنْكُمْ ۖ فَالْآنَ بَاشِرُوهُنَّ وَابْتَغُوا مَا كَتَبَ اللَّهُ لَكُمْ ۚ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ وَلَا تُبَاشِرُوهُنَّ وَأَنْتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "verseTransliteration": "Uhılle lekum leyletes sıyâmir refesu ilâ nisâikum hunne libâsun lekum ve entum libâsun lehun(lehunne) alîmallâhu ennekum kuntum tahtânûne enfusekum fe tâbe aleykum ve afâ ankum, fel âne bâşirûhunne vebtegû mâ keteballâhu lekum, ve kulû veşrabû hattâ yetebeyyene lekumul haytul ebyadu minel haytıl esvedi minel fecri, summe etimmus sıyâme ilel leyli, ve lâ tubâşirûhunne ve entum âkifûne fîl mesâcid(mesâcidi), tilke hudûdullâhi fe lâ takrabûhâ kezâlike yubeyyinullâhu âyâtihî lin nâsi leallehum yettekûn(yettekûne).",
+      "verseMeaning": "Oruç gecesi kadınlarınıza yaklaşmak size helal kılınmıştır. Onlar sizin için giysidir, siz de onlar için giysisiniz. Allah sizin öz benliklerinize yazık etmekte olduğunuzu bilmiş, tövbelerinizi kabul edip sizi affetmiştir. Artık şimdi onlara yaklaşın ve Allah´ın sizin için yazdığı şeyi arayın. Tan yerinin beyaz ipliği siyah ipliğinden sizce seçilinceye kadar yiyin için; sonra da orucu gece oluncaya değin tamamlayın. Mescitlerde itikâfta bulunduğunuz sırada zevcelerinizle cinsel temas kurmayın. İşte bunlar Allah´ın yasaklarıdır, bunlara yaklaşmayın. Allah, ayetlerini insanlara işte böyle açıklar ki korunabilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَجْر",
+      "sura": 17,
+      "ayah": 78,
+      "formInAyah": "الْفَجْرِ",
+      "transliteration": "l-fecri",
+      "gloss": "sabah",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+      "verseTransliteration": "Ekımis salâte li dulûkiş şemsi ilâ gasakıl leyli ve kur’ânel fecr(fecri), inne kur’ânel fecri kâne meşhûdâ(meşhûden).",
+      "verseMeaning": "Güneşin kaymasından/aşağı sarkmasından, gecenin kararmasına kadar namazı kıl. Sabah Kur´an´ını da gözet. Çünkü sabah Kur´an´ı tanıklarca izlenmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَجْر",
+      "sura": 17,
+      "ayah": 78,
+      "formInAyah": "الْفَجْرِ",
+      "transliteration": "l-fecri",
+      "gloss": "sabahın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+      "verseTransliteration": "Ekımis salâte li dulûkiş şemsi ilâ gasakıl leyli ve kur’ânel fecr(fecri), inne kur’ânel fecri kâne meşhûdâ(meşhûden).",
+      "verseMeaning": "Güneşin kaymasından/aşağı sarkmasından, gecenin kararmasına kadar namazı kıl. Sabah Kur´an´ını da gözet. Çünkü sabah Kur´an´ı tanıklarca izlenmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَجْر",
+      "sura": 24,
+      "ayah": 58,
+      "formInAyah": "الْفَجْرِ",
+      "transliteration": "l-fecri",
+      "gloss": "sabah",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ ۚ مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلَاةِ الْعِشَاءِ ۚ ثَلَاثُ عَوْرَاتٍ لَكُمْ ۚ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ ۚ طَوَّافُونَ عَلَيْكُمْ بَعْضُكُمْ عَلَىٰ بَعْضٍ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû li yeste’zinkumullezîne meleket eymânukum vellezîne lem yeblugûl hulume minkum selâse merrât(merrâtin), min kabli salâtil fecri, ve hînetedaûne siyâbekum minez zahîrat(zahîrati), ve min ba’di salâtil ışâi, selâsu avrâtin lekum, leyse aleykum ve lâ aleyhim cunâhun ba’de hunn(hunne), tavvâfûne aleykum ba’dukum alâ ba’d(ba’dın), kezâlike yubeyyinullâhu lekumul âyât(âyâti), vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Ey iman edenler! Ellerinizin altında bulunanlarla, ergenlik yaşına gelmemiş olanlarınız sizden üç durumda izin istesinler: Sabah namazından önce, öğlen vaktinde elbiselerinizi çıkardığınızda, akşam kılınan namazdan sonra... Kaygılanacağınız üç vakittir bunlar. Bunlar dışında size de onlara da bir günah yoktur. Aranızda dolaşırlar, birbirinize bakabilirsiniz. Allah, ayetleri size işte böyle açıklıyor. Allah Alîm´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَجْر",
+      "sura": 89,
+      "ayah": 1,
+      "formInAyah": "وَالْفَجْرِ",
+      "transliteration": "velfecri",
+      "gloss": "andolsun fecre",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْفَجْرِ",
+      "verseTransliteration": "Vel fecr(fecri).",
+      "verseMeaning": "Yemin olsun tan yerinin ağırma vaktine,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَجْر",
+      "sura": 97,
+      "ayah": 5,
+      "formInAyah": "الْفَجْرِ",
+      "transliteration": "l-fecri",
+      "gloss": "tan yeri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+      "verseTransliteration": "Selâmun, hiye hattâ matlaıl fecr(fecri).",
+      "verseMeaning": "Bir esenlik ve huzur vardır; sürüp gider o, tan yeri ağarıncaya kadar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُجُور",
+      "sura": 91,
+      "ayah": 8,
+      "formInAyah": "فُجُورَهَا",
+      "transliteration": "fucūrahā",
+      "gloss": "bozukluğunu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+      "verseTransliteration": "Fe elhemehâ fucûrehâ ve takvâhâ.",
+      "verseMeaning": "Ardından da ona bozukluğunu ve takvasını ilham edene ki,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتَفَجَّرُ",
+      "sura": 2,
+      "ayah": 74,
+      "formInAyah": "يَتَفَجَّرُ",
+      "transliteration": "yetefecceru",
+      "gloss": "fışkırır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "verseTransliteration": "Summe kaset kulûbukum min ba’di zâlike fe hiye kel hıcâreti ev eşeddu kasveh(kasveten), ve inne minel hıcâreti lemâ yetefecceru minhul enhâr(enhâru), ve inne minhâ lemâ yeşşakkaku fe yahrucu minhul mâu, ve inne minhâ lemâyehbitu min haşyetillâh(haşyetillâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Sonra bunun ardından kalpleriniz yine kaskatı kesildi. Taş gibidir o. Belki daha da katıdır. Taşların bazıları var ki, ondan ırmaklar fışkırır. Bazıları var ki, çatır çatır yarılır da içinden su çıkar. Öylesi var ki, Allah korkusundan aşağılara düşer. Allah, yapıp durduklarınızdan gafil değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَفْجُرَ",
+      "sura": 17,
+      "ayah": 90,
+      "formInAyah": "تَفْجُرَ",
+      "transliteration": "tefcura",
+      "gloss": "fışkırtıncaya",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالُوا لَنْ نُؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ الْأَرْضِ يَنْبُوعًا",
+      "verseTransliteration": "Ve kâlû len nu’mine leke hattâ tefcure lenâ minel ardı yenbûâ(yenbûan).",
+      "verseMeaning": "Dediler ki: \"Bizim için yerden bir pınar fışkırtmadığın sürece sana asla inanmayacağız!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَفْجُرَ",
+      "sura": 75,
+      "ayah": 5,
+      "formInAyah": "لِيَفْجُرَ",
+      "transliteration": "liyefcura",
+      "gloss": "yalanlamak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ",
+      "verseTransliteration": "Bel yurîdul insânu li yefcure emâmeh(emâmehu).",
+      "verseMeaning": "Fakat insan kendi önünde rezillik sergilemeyi ister."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنفَجَرَتْ",
+      "sura": 2,
+      "ayah": 60,
+      "formInAyah": "فَانْفَجَرَتْ",
+      "transliteration": "fenfecerat",
+      "gloss": "fışkırmıştı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ ۖ كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+      "verseTransliteration": "Ve izisteskâ mûsâ li kavmihî fe kulnâdrib bi asâkel hacer(hacere) fenfeceret minhusnetâ aşrete aynâ(aynen), kad alime kullu unâsin meşrebehum kulû veşrebû min rızkıllâhi ve lâ ta’sev fîl ardı mufsidîn(mufsidîne).",
+      "verseMeaning": "Bir zamanlar Mûsa, toplumu için su istemişti de biz, \"Değneğinle şu taşa vur!\" demiştik. Taştan hemen oniki göze fışkırmıştı. Her bölük insan kendilerine özgü su kaynağını bilmişti. \"Allah´ın rızkından yiyin, için; yeryüzünde bozgunculuk yaparak şuna buna saldırmayın.\" demiştik."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fjr"
+}

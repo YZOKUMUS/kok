@@ -1,0 +1,618 @@
+{
+  "id": "dry",
+  "latinName": "Dal-Ra-Ye",
+  "lettersArabic": "د ر ي",
+  "meanings": [
+    "Bilmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 29,
+  "lemmas": [
+    {
+      "formArabic": "أَدْرَىٰ",
+      "count": 17
+    },
+    {
+      "formArabic": "تَدْرِى",
+      "count": 12
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 10,
+      "ayah": 16,
+      "formInAyah": "أَدْرَاكُمْ",
+      "transliteration": "edrākum",
+      "gloss": "ve size hiç bildirmezdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ لَوْ شَاءَ اللَّهُ مَا تَلَوْتُهُ عَلَيْكُمْ وَلَا أَدْرَاكُمْ بِهِ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِنْ قَبْلِهِ ۚ أَفَلَا تَعْقِلُونَ",
+      "verseTransliteration": "Kul lev sâallâhu mâ televtuhû aleykum ve lâ edrâkum bihî, fe kad lebistu fîkum umuren min kablih(kablihî), e fe lâ ta´kilûn(ta´kilûne).",
+      "verseMeaning": "De ki: \"Allah dileseydi, onu size okumazdım, onu size bildirmezdi de. Ondan önce içinizde bir ömür kalmıştım. Hâlâ aklınızı kullanmayacak mısınız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 33,
+      "ayah": 63,
+      "formInAyah": "يُدْرِيكَ",
+      "transliteration": "yudrīke",
+      "gloss": "bilirsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِنْدَ اللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيبًا",
+      "verseTransliteration": "Yes’eluken nâsu anis sâah(sâati), kul innemâ ilmuhâ indallâh(indallâhi), ve mâ yudrîke lealles sâate tekûnu karîbâ(karîben).",
+      "verseMeaning": "İnsanlar sana kıyametin saatinden soruyorlar. De ki: \"Ona ilişkin bilgi Allah katındadır.\" Ne bilirsin, belki de o saat yakındır!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 42,
+      "ayah": 17,
+      "formInAyah": "يُدْرِيكَ",
+      "transliteration": "yudrīke",
+      "gloss": "bilirsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ الَّذِي أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ",
+      "verseTransliteration": "Allahullezî enzelel kitâbe bil hakkı vel mîzân(mîzâne) ve mâ yudrîke lealles sâate karîb(karîbun).",
+      "verseMeaning": "Gerçeğe ilişkin Kitap´ı ve adalet ölçüsünü indiren o Allah´tır. Nereden bileceksin, belki de kıyamet saati çok yakındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 69,
+      "ayah": 3,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "bileceksin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا الْحَاقَّةُ",
+      "verseTransliteration": "Ve mâ edrâke mel hâkkah(hâkkatu).",
+      "verseMeaning": "O hâkkanın niteliğini sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 74,
+      "ayah": 27,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sen nereden bileceksin?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا سَقَرُ",
+      "verseTransliteration": "Ve mâ edrâke mâ sekar(sekaru).",
+      "verseMeaning": "Bilir misin nedir Sekar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 77,
+      "ayah": 14,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "bileceksin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ",
+      "verseTransliteration": "Ve mâ edrâke mâ yevmul fasl(fasli).",
+      "verseMeaning": "Ayrım ve hüküm gününü sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 80,
+      "ayah": 3,
+      "formInAyah": "يُدْرِيكَ",
+      "transliteration": "yudrīke",
+      "gloss": "bilirsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+      "verseTransliteration": "Ve mâ yudrîke leallehu yezzekkâ.",
+      "verseMeaning": "Nereden bilirsin, belki de o arınıp temizlenecek."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 82,
+      "ayah": 17,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "verseTransliteration": "Ve mâ edrâke mâ yevmud dîn(dîni).",
+      "verseMeaning": "Din gününün ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 82,
+      "ayah": 18,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "verseTransliteration": "Summe mâ edrâke mâ yevmud dîn(dîni).",
+      "verseMeaning": "Evet, din gününün ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 83,
+      "ayah": 8,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+      "verseTransliteration": "Ve mâ edrâke mâ siccîn(siccînun).",
+      "verseMeaning": "Siccîn´in ne olduğunu sana gösteren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 83,
+      "ayah": 19,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+      "verseTransliteration": "Ve mâ edrâke mâ ılliyyûn(ılliyyûne).",
+      "verseMeaning": "İlliyyûn´un ne olduğunu sana anlatan nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 86,
+      "ayah": 2,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+      "verseTransliteration": "Ve mâ edrâke met târik(târiku).",
+      "verseMeaning": "Nereden bileceksin sen nedir Târık?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 90,
+      "ayah": 12,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+      "verseTransliteration": "Ve mâ edrâke mel akabeh(akabetu).",
+      "verseMeaning": "Sarp yokuşun ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 97,
+      "ayah": 2,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+      "verseTransliteration": "Ve mâ edrâke mâ leyletul kadr(kadri).",
+      "verseMeaning": "Kadir Gecesi´nin niteliğini sana gösteren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 101,
+      "ayah": 3,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+      "verseTransliteration": "Ve mâ edrâke mel kâriah(kâriatu).",
+      "verseMeaning": "Kaaria´nın ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 101,
+      "ayah": 10,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "sana bildiren",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+      "verseTransliteration": "Ve mâ edrâke mâhiyeh(mâhiyeh).",
+      "verseMeaning": "Onun ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَدْرَىٰ",
+      "sura": 104,
+      "ayah": 5,
+      "formInAyah": "أَدْرَاكَ",
+      "transliteration": "edrāke",
+      "gloss": "bilir misin?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+      "verseTransliteration": "Ve mâ edrâke mel hutameh(hutametu).",
+      "verseMeaning": "Hutame´nin ne olduğunu sana öğreten nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 4,
+      "ayah": 11,
+      "formInAyah": "تَدْرُونَ",
+      "transliteration": "tedrūne",
+      "gloss": "bilmezsiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Yûsîkumullâhu fî evlâdikum liz zekeri mislu hazzıl unseyeyn(unseyeyni), fe in kunne nisâen fevkasneteyni fe le hunne sulusâ mâ terek(tereke), ve in kânet vâhideten fe lehan nısf(nısfu) ve li ebeveyhi li kulli vâhidin min humâs sudusu mimmâ tereke in kâne lehu veled(veledun), fe in lem yekun lehu veledun ve verisehû ebevâhu fe li ummihis sulus(sulusu), fe in kâne lehû ıhvetun fe li ummihis sudusu, min ba’di vasiyyetin yûsî bihâ evdeyn(deynin), âbâukum ve ebnâukum, lâ tedrûne eyyuhum akrabu lekum nef’â(nef’en), ferîdaten minallâh(minallâhi) innallâhe kâne alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Allah size çocuklarınızla ilgili olarak şunu öneriyor: Erkek için, iki dişinin payı kadar. İkiden fazla kadın iseler ölenin bıraktığının üçte ikisi onlarındır. Eğer çocuk sadece bir kadınsa, mirasın yarısı onundur. Ölenin çocuğu varsa, geriye bıraktığından ana-babanın her biri için altıda bir hisse olacaktır. Ölenin çocuğu yoksa ve kendisine ana-babası mirasçı olmuşsa bu durumda anasına üçte bir düşer. Eğer kardeşleri varsa, anasının payı, yapacağı vasiyetten ve borcundan arta kalanın altıda biridir. Babalarınız var, oğullarınız var. Siz bunlardan hangisinin yarar bakımından size daha yakın olduğunu bilemezsiniz. Allah´tan bir buyruğu önemseyin. Hiç kuşkusuz Allah herşeyi bilir, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 21,
+      "ayah": 109,
+      "formInAyah": "أَدْرِي",
+      "transliteration": "edrī",
+      "gloss": "bilmem",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "فَإِنْ تَوَلَّوْا فَقُلْ آذَنْتُكُمْ عَلَىٰ سَوَاءٍ ۖ وَإِنْ أَدْرِي أَقَرِيبٌ أَمْ بَعِيدٌ مَا تُوعَدُونَ",
+      "verseTransliteration": "Fe in tevellev fe kul âzentukum alâ sevâ’(sevâin), ve in edrî e karîbun em baîdun mâ tûadûn(tûadûne).",
+      "verseMeaning": "Eğer yüz çevirirlerse de ki: \"Hepinize aynı şekilde, aynı düzeyde açıkladım. Artık bilmiyorum, tehdit edildiğiniz şey yakın mıdır, uzak mıdır?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 21,
+      "ayah": 111,
+      "formInAyah": "أَدْرِي",
+      "transliteration": "edrī",
+      "gloss": "bilmem",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَىٰ حِينٍ",
+      "verseTransliteration": "Ve in edrî leallehu fitnetun lekum ve metâun ilâ hîn(hînin).",
+      "verseMeaning": "Bilmiyorum, belki de o, sizin için bir fitnedir. Belirli bir süreye kadar bir nimetlendirmedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 31,
+      "ayah": 34,
+      "formInAyah": "تَدْرِي",
+      "transliteration": "tedrī",
+      "gloss": "bilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ ۖ وَمَا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+      "verseTransliteration": "İnnallâhe indehu ilmus sâah(sâati), ve yunezzilul gays(gayse), ve ya’lemu mâ fîl erhâm(erhâmi), ve mâ tedrî nefsun mâzâ teksibu gadâ(gaden), ve mâ tedrî nefsun bi eyyi ardın temût(temûtu), innallâhe alîmun habîr(habîrun).",
+      "verseMeaning": "O kıyamet saatine ilişkin bilgi Allah katındadır. Yağmuru O yağdırır. O, rahimlerde olanı da bilir. Hiçbir benlik yarın ne kazanacağını bilmez. Ve hiçbir kimse hangi yerde öleceğini bilmez. Allah Alîm´dir, Habîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 31,
+      "ayah": 34,
+      "formInAyah": "تَدْرِي",
+      "transliteration": "tedrī",
+      "gloss": "bilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ ۖ وَمَا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+      "verseTransliteration": "İnnallâhe indehu ilmus sâah(sâati), ve yunezzilul gays(gayse), ve ya’lemu mâ fîl erhâm(erhâmi), ve mâ tedrî nefsun mâzâ teksibu gadâ(gaden), ve mâ tedrî nefsun bi eyyi ardın temût(temûtu), innallâhe alîmun habîr(habîrun).",
+      "verseMeaning": "O kıyamet saatine ilişkin bilgi Allah katındadır. Yağmuru O yağdırır. O, rahimlerde olanı da bilir. Hiçbir benlik yarın ne kazanacağını bilmez. Ve hiçbir kimse hangi yerde öleceğini bilmez. Allah Alîm´dir, Habîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 42,
+      "ayah": 52,
+      "formInAyah": "تَدْرِي",
+      "transliteration": "tedrī",
+      "gloss": "biliyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا ۚ مَا كُنْتَ تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَٰكِنْ جَعَلْنَاهُ نُورًا نَهْدِي بِهِ مَنْ نَشَاءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve kezâlike evhaynâ ileyke rûhan min emrinâ, mâ kunte tedrî mel kitâbu ve lel îmânu ve lâkin cealnâhu nûren nehdî bihî men neşâu min ibâdinâ, ve inneke le tehdî ilâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "İşte böylece sana da emrimizden bir ruh vahyettik. Sen, kitap nedir, iman nedir bilmezdin. Fakat biz onu, kullarımızdan dilediğimizi kendisiyle kılavuzladığımız bir nur yaptık. Hiç kuşkusuz, sen, dosdoğru bir yola kılavuzluk etmektesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 45,
+      "ayah": 32,
+      "formInAyah": "نَدْرِي",
+      "transliteration": "nedrī",
+      "gloss": "bilmiyoruz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُمْ مَا نَدْرِي مَا السَّاعَةُ إِنْ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "verseTransliteration": "Ve izâ kîle inne va’dallâhi hakkun ves sâatu lâ reybe fîhâ kultum mâ nedrî mes sâatu in nezunnu illâ zannen ve mâ nahnu bi musteykınîn(musteykınîne).",
+      "verseMeaning": "Hani, size, \"Hiç kuşkusuz, Allah´ın vaadi haktır, kıyamet saatinde de şüphe yoktur\" dendiğinde, siz şöyle demiştiniz: \"Saat nedir, bilmiyoruz. Sadece birşeyler var sanıyoruz; kesin bir bilgimiz olmadığı için inanmıyoruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 46,
+      "ayah": 9,
+      "formInAyah": "أَدْرِي",
+      "transliteration": "edrī",
+      "gloss": "bilmem",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قُلْ مَا كُنْتُ بِدْعًا مِنَ الرُّسُلِ وَمَا أَدْرِي مَا يُفْعَلُ بِي وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ وَمَا أَنَا إِلَّا نَذِيرٌ مُبِينٌ",
+      "verseTransliteration": "Kul mâ kuntu bid’an miner rusuli ve mâ edrî mâ yuf’alu bî ve lâ bikum, in ettebiu illâ mâ yûhâ ileyye ve mâ ene illâ nezîrun mubîn(mubînun).",
+      "verseMeaning": "De ki: \"Ben, resuller içinden bir türedi değilim! Bana ve size ne yapılacağını da bilmiyorum. Bana vahyedilenden başkasına da uymam! Ve ben, açıkça uyaran bir elçiden başkası da değilim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 65,
+      "ayah": 1,
+      "formInAyah": "تَدْرِي",
+      "transliteration": "tedrī",
+      "gloss": "bilmezsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu izâ tallaktumun nisâe fe tallikûhunne li iddetihinne ve ahsûl iddeh(iddete), vettekûllâhe rabbekum, lâ tuhricûhunne min buyûtihinne ve lâ yahrucne illâ en ye’tîne bi fâhişetin mubeyyineh(mubeyyinetin), ve tilke hudûdullâh(hudûdullâhi), ve men yeteadde hudûdallâhi fe kad zaleme nefseh(nefsetu), lâ tedrî leallallâhe yuhdısu ba’de zâlike emrâ(emren).",
+      "verseMeaning": "Ey Peygamber! Kadınları boşadığınız zaman iddetlerine doğru boşayın ve iddeti iyi sayın! Rabbiniz olan Allah´tan korkun! Onları evlerinden çıkarmayın; onlar da çıkmasınlar. Apaçık ve belgeli bir yüzsüzlük yapmaları durumu müstesna. İşte bunlar Allah´ın sınırlarıdır. Allah´ın sınırlarını çiğneyen kendi benliğine zulmetmiş olur. Bilemezsin, belki Allah bundan sonra yeni bir iş/oluş ortaya çıkarır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 69,
+      "ayah": 26,
+      "formInAyah": "أَدْرِ",
+      "transliteration": "edri",
+      "gloss": "bilmeseydim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "verseTransliteration": "Ve lem edri mâ hısâbiyeh.",
+      "verseMeaning": "\"Hesabımın ne olduğunu hiç bilmemiş olsaydım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 72,
+      "ayah": 10,
+      "formInAyah": "نَدْرِي",
+      "transliteration": "nedrī",
+      "gloss": "bilmiyoruz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+      "verseTransliteration": "Ve ennâ lâ nedrî eşerrun urîde bi men fîl ardı em erâde bi him rabbuhum reşedâ(reşeden).",
+      "verseMeaning": "\"Doğrusu, bilmiyoruz, yeryüzündeki şuurlulara şer mi istendi, yoksa Rableri onlar için doğru ve güzel olanı mı istemiştir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدْرِى",
+      "sura": 72,
+      "ayah": 25,
+      "formInAyah": "أَدْرِي",
+      "transliteration": "edrī",
+      "gloss": "bilmem",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا",
+      "verseTransliteration": "Kul in edrî e karîbun mâ tûadûne em yec’alu lehu rabbî emedâ(emedan).",
+      "verseMeaning": "De ki: \"Bilmiyorum, size vaat edilen şey yakın mıdır yoksa Rabbim onun için uzun bir süre mi koyacaktır?\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=dry"
+}

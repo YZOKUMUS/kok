@@ -1,0 +1,120 @@
+{
+  "id": "gsq",
+  "latinName": "Gayn-Sin-Kaf",
+  "lettersArabic": "غ س ق",
+  "meanings": [
+    "karanlık olmak"
+  ],
+  "derivativeNotes": [
+    "Ğaseḳ - ilk koyu karanlık",
+    "Ğassaḳ - irin, kokan artık su,- gözün kararması - karanlığın artması, herhangi bir şeyin akması, dökülmesi - kokan içki veya su, hamimin zıttı olan çok soğuk ve fena olan. Dolgunluk - soğukluk.",
+    "Ğasiḳ - karanlık gece, şiddetli karanlık, gece karanlığı, şafağı kaybolmuş gece"
+  ],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "غَاسِق",
+      "count": 1
+    },
+    {
+      "formArabic": "غَسَّاق",
+      "count": 2
+    },
+    {
+      "formArabic": "غَسَق",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَاسِق",
+      "sura": 113,
+      "ayah": 3,
+      "formInAyah": "غَاسِقٍ",
+      "transliteration": "ğāsiḳin",
+      "gloss": "gecenin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "verseTransliteration": "Ve min şerri gâsikın izâ vekab(vekabe).",
+      "verseMeaning": "Çöktüğü zaman karanlığın/gelip çattığı zaman göz perdelenmesinin/tutulduğu zaman Ay´ın/battığı zaman Güneş´in/taştığı zaman şehvetin/soktuğu zaman yılanın/ümit kırdığı zaman musibetin şerrinden!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَسَّاق",
+      "sura": 38,
+      "ayah": 57,
+      "formInAyah": "وَغَسَّاقٌ",
+      "transliteration": "ve ğassāḳun",
+      "gloss": "ve kokuşmuşdur",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "هَٰذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ",
+      "verseTransliteration": "Hâzâ fel yezûkûhu hamiymun ve gassâk(gassâkun).",
+      "verseMeaning": "İşte burada! Hadi, tatsınlar onu: Kaynar su, kokuşmuş irin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَسَّاق",
+      "sura": 78,
+      "ayah": 25,
+      "formInAyah": "وَغَسَّاقًا",
+      "transliteration": "ve ğassāḳan",
+      "gloss": "ve irin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "verseTransliteration": "İllâ hamîmen ve gassâkâ(gassâkan).",
+      "verseMeaning": "Sadece kaynar su, atık su,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَسَق",
+      "sura": 17,
+      "ayah": 78,
+      "formInAyah": "غَسَقِ",
+      "transliteration": "ğaseḳi",
+      "gloss": "kararmasına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+      "verseTransliteration": "Ekımis salâte li dulûkiş şemsi ilâ gasakıl leyli ve kur’ânel fecr(fecri), inne kur’ânel fecri kâne meşhûdâ(meşhûden).",
+      "verseMeaning": "Güneşin kaymasından/aşağı sarkmasından, gecenin kararmasına kadar namazı kıl. Sabah Kur´an´ını da gözet. Çünkü sabah Kur´an´ı tanıklarca izlenmektedir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=gsq"
+}

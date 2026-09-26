@@ -1,0 +1,68 @@
+{
+  "id": "sEd",
+  "latinName": "Sin-Ayn-Dal",
+  "lettersArabic": "س ع د",
+  "meanings": [
+    "Mutlu olmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "سُعِدُ",
+      "count": 1
+    },
+    {
+      "formArabic": "سَعِيد",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُعِدُ",
+      "sura": 11,
+      "ayah": 108,
+      "formInAyah": "سُعِدُوا",
+      "transliteration": "suǐdū",
+      "gloss": "mutlu olan(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ ۖ عَطَاءً غَيْرَ مَجْذُوذٍ",
+      "verseTransliteration": "Ve emmellezîne suidû fe fîl cenneti hâlidîne fîhâ mâ dâmetis semâvâtu vel ardu illâ mâ şâe rabbuk(rabbuke), atâen gayre meczûz(meczûzin).",
+      "verseMeaning": "Mutluluğa erdirilenlere gelince, onlar cennettedirler. Rabbinin dilemesi hariç, gökler ve yer durdukça onlar, hep orada kalacaklardır. Kesintisiz bir lütuf olarak..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَعِيد",
+      "sura": 11,
+      "ayah": 105,
+      "formInAyah": "وَسَعِيدٌ",
+      "transliteration": "ve seǐydun",
+      "gloss": "(kimi de) mutludur",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِ ۚ فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ",
+      "verseTransliteration": "Yevme ye’ti lâ tekellemu nefsun illâ bi iznih(iznihî), fe minhum şakıyyun ve saîd(saîdun).",
+      "verseMeaning": "O geldiği gün hiçbir benlik, O´nun izni olmadan söz söyleyemez. Onların bir kısmı bahtsız, bir kısmı mutludur."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sEd"
+}

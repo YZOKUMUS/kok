@@ -1,0 +1,69 @@
+{
+  "id": "nkb",
+  "latinName": "Nun-Kef-Be",
+  "lettersArabic": "ن ك ب",
+  "meanings": [
+    "to go a side, swerve from, render unhappy (circumstances), blow oblique (wind), defend, protect, incline, hurt, throw a thing away, deviate, turn aside."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "مَنَاكِب",
+      "count": 1
+    },
+    {
+      "formArabic": "نَٰكِبُون",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنَاكِب",
+      "sura": 67,
+      "ayah": 15,
+      "formInAyah": "مَنَاكِبِهَا",
+      "transliteration": "menākibihā",
+      "gloss": "onun omuzlarında (yeryüzünde)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ",
+      "verseTransliteration": "Huvellezî ceale lekumul arda zelûlen femşû fî menâkibihâ ve kulû min rızkıh(rızkıhî), ve ileyhin nuşûr(nuşûru).",
+      "verseMeaning": "O, yeri sizin için boyun eğer yaptı. Haydi, onun omuzlarında yürüyün ve Allah´ın rızıklarından yiyin. Dönüş O´nadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَٰكِبُون",
+      "sura": 23,
+      "ayah": 74,
+      "formInAyah": "لَنَاكِبُونَ",
+      "transliteration": "lenākibūne",
+      "gloss": "sapıyorlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ لَنَاكِبُونَ",
+      "verseTransliteration": "Ve innellezîne lâ yu’minûne bil âhıreti anis sırâtı le nâkibûn(nâkibûne).",
+      "verseMeaning": "Ama âhirete inanmayanlar, o yoldan hep yan çiziyorlar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nkb"
+}

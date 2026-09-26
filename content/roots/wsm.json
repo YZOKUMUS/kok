@@ -1,0 +1,70 @@
+{
+  "id": "wsm",
+  "latinName": "Vav-Sin-Mim",
+  "lettersArabic": "و س م",
+  "meanings": [
+    "Damgalamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "مُتَوَسِّمِين",
+      "count": 1
+    },
+    {
+      "formArabic": "نَسِمُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُتَوَسِّمِين",
+      "sura": 15,
+      "ayah": 75,
+      "formInAyah": "لِلْمُتَوَسِّمِينَ",
+      "transliteration": "lilmutevessimīne",
+      "gloss": "işaretten anlayanlara",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tefa’ul Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tefa’ul Kalıbı",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ",
+      "verseTransliteration": "İnne fî zâlike le âyâtin lil mutevessimîn (mutevessimîne).",
+      "verseMeaning": "Hiç kuşkusuz, bunda, işaretlerden anlam çıkaranlar için ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَسِمُ",
+      "sura": 68,
+      "ayah": 16,
+      "formInAyah": "سَنَسِمُهُ",
+      "transliteration": "senesimuhu",
+      "gloss": "biz onu damgalayacağız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "سَنَسِمُهُ عَلَى الْخُرْطُومِ",
+      "verseTransliteration": "Se nesimuhu alel hurtûm(hurtûmi).",
+      "verseMeaning": "Yakında biz onun hortumu üzerine damga basacağız/burnunu sürteceğiz."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wsm"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "Hss",
+  "latinName": "Ha-Sin-Sin",
+  "lettersArabic": "ح س س",
+  "meanings": [
+    "Öldürmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 6,
+  "lemmas": [
+    {
+      "formArabic": "أَحَسَّ",
+      "count": 3
+    },
+    {
+      "formArabic": "تَحُسُّ",
+      "count": 1
+    },
+    {
+      "formArabic": "تَحَسَّسُ",
+      "count": 1
+    },
+    {
+      "formArabic": "حَسِيس",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَحَسَّ",
+      "sura": 3,
+      "ayah": 52,
+      "formInAyah": "أَحَسَّ",
+      "transliteration": "eHasse",
+      "gloss": "sezdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَلَمَّا أَحَسَّ عِيسَىٰ مِنْهُمُ الْكُفْرَ قَالَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ آمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ",
+      "verseTransliteration": "Fe lemmâ ehassa îsâ min humul kufre kâle men ensârî ilâllâh(ilâllâhi), kâlel havâriyyûne nahnu ensârullâh(ensârullâhi), âmennâ billâh(billâhi), veşhed bi ennâ muslimûn(muslimûne).",
+      "verseMeaning": "İsa onlardan inkârı sezince şöyle konuştu: \"Allah´a gidişte benim yardımcılarım kim?\" Havâriler dediler ki: \"Biz Allah´ın yardımcılarıyız. Allah´a iman ettik biz. Tanık ol, biz müslümanlarız/Allah´a teslim olanlarız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَحَسَّ",
+      "sura": 19,
+      "ayah": 98,
+      "formInAyah": "تُحِسُّ",
+      "transliteration": "tuHissu",
+      "gloss": "hissediyor-",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هَلْ تُحِسُّ مِنْهُمْ مِنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا",
+      "verseTransliteration": "Ve kem ehleknâ kablehum min karn(karnin), hel tuhıssu minhum min ehadin ev tesmeu lehum rikzâ(rikzen).",
+      "verseMeaning": "Biz onlardan önce de nice kuşaklar helâk ettik. Onlardan herhangi birini hissediyor musun, yahut onların bir iniltisini duyuyor musun?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَحَسَّ",
+      "sura": 21,
+      "ayah": 12,
+      "formInAyah": "أَحَسُّوا",
+      "transliteration": "eHassū",
+      "gloss": "hissettikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا أَحَسُّوا بَأْسَنَا إِذَا هُمْ مِنْهَا يَرْكُضُونَ",
+      "verseTransliteration": "Fe lemmâ ehassû be’senâ izâ hum minhâ yerkudûn(yerkudûne).",
+      "verseMeaning": "Şiddetimizi hissettiklerinde hiç vakit geçirmeksizin oradan dört nala kaçıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَحُسُّ",
+      "sura": 3,
+      "ayah": 152,
+      "formInAyah": "تَحُسُّونَهُمْ",
+      "transliteration": "teHussūnehum",
+      "gloss": "onları öldürdüğünüz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُمْ بِإِذْنِهِ ۖ حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُمْ مِنْ بَعْدِ مَا أَرَاكُمْ مَا تُحِبُّونَ ۚ مِنْكُمْ مَنْ يُرِيدُ الدُّنْيَا وَمِنْكُمْ مَنْ يُرِيدُ الْآخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنْكُمْ ۗ وَاللَّهُ ذُو فَضْلٍ عَلَى الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve lekad sadakakumullâhu va’dehû iz tehussûnehum bi iznih(iznihî), hattâ izâ feşiltum ve tenâza’tum fîl emri ve asaytum min ba’di mâ erâkum mâ tuhıbbûn(tuhıbbûne), minkum men yurîdud dunyâ ve minkum men yurîdul âhireh(âhirete), summe sarafekum anhum li yebteliyekum, ve lekad afâ ankum, vallâhu zû fadlin alel mu’minîn(mu’minîne).",
+      "verseMeaning": "Andolsun ki, siz onları Allah´ın izniyle öldürmekteyken, Allah size vaadini doğrulamıştı. Nihayet siz korkuya kapıldınız, yapılacak iş hususunda çekiştiniz. Ve Allah, sevdiğiniz şeyi size gösterdikten sonra isyan ettiniz. İçinizden bir kısmı dünyayı istiyordu, bir kısmınız ise âhireti istiyordu. Sonra sizi imtihan etmek için onlardan uzaklaştırdı. Yemin olsun, sizi affetmişti. Allah, müminlere karşı lütuf sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَحَسَّسُ",
+      "sura": 12,
+      "ayah": 87,
+      "formInAyah": "فَتَحَسَّسُوا",
+      "transliteration": "fe teHassesū",
+      "gloss": "araştırın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "verseTransliteration": "Yâ beniyyezhebû fe tehassesû min yûsufe ve ehîhi ve lâ te’yesû min revhillâh(revhıllâhi), innehu lâ ye’yesu min revhillâhi illel kavmul kâfirûn(kâfirûne).",
+      "verseMeaning": "\"Ey oğullarım! Gidin, artık Yûsuf´u ve kardeşini bulmak için dikkat kesilin. Allah´ın rahmetinden ümit kesmeyin; çünkü, Allah´ın rahmetinden de, küfre sapanlar topluluğundan başkası ümit kesmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَسِيس",
+      "sura": 21,
+      "ayah": 102,
+      "formInAyah": "حَسِيسَهَا",
+      "transliteration": "Hasīsehā",
+      "gloss": "onun uğultusunu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِي مَا اشْتَهَتْ أَنْفُسُهُمْ خَالِدُونَ",
+      "verseTransliteration": "Lâ yesme’ûne hasîsehâ, ve hum fî meştehet enfusuhum hâlidûn(hâlidûne).",
+      "verseMeaning": "Onun uğultusunu duymazlar. Onlar, gönüllerinin istediği şeyler içinde sürekli yaşayacaklardır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Hss"
+}

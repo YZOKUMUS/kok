@@ -1,0 +1,988 @@
+{
+  "id": "SrT",
+  "latinName": "Sad-Ra-Ta",
+  "lettersArabic": "ص ر ط",
+  "meanings": [
+    "a path which is even, wide enough and can be trodden without difficulty. A road/way/path, long sword."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 45,
+  "lemmas": [
+    {
+      "formArabic": "صِرَٰط",
+      "count": 45
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 1,
+      "ayah": 6,
+      "formInAyah": "الصِّرَاطَ",
+      "transliteration": "S-SirāTa",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "verseTransliteration": "İhdinas sırâtel mustakîm(mustakîme).",
+      "verseMeaning": "Dosdoğru giden yola ilet bizi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 1,
+      "ayah": 7,
+      "formInAyah": "صِرَاطَ",
+      "transliteration": "SirāTa",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "verseTransliteration": "Sırâtallezîne en’amte aleyhim gayril magdûbi aleyhim ve lâd dâllîn(dâllîne).",
+      "verseMeaning": "Kendilerine nimet verdiklerinin, üzerlerine gazap dökülmemişlerin, karanlık ve şaşkınlığa saplanmamışların yoluna..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 2,
+      "ayah": 142,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yol-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَنْ قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا ۚ قُلْ لِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Se yekûlus sufehâu minen nâsi mâ vellâhum an kıbletihimulletî kânû aleyhâ kul lillâhil meşrıku vel magrıb(magrıbu), yehdî men yeşâu ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "İnsanlar içinden bazı beyinsizler: \"Onları, yönelmekte oldukları kıbleden ne çevirdi?\" diyecekler. De ki: \"Doğu da Allah´ın, batı da. O, dilediğini dosdoğru yola kılavuzlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 2,
+      "ayah": 213,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللَّهُ النَّبِيِّينَ مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ ۚ وَمَا اخْتَلَفَ فِيهِ إِلَّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ بَغْيًا بَيْنَهُمْ ۖ فَهَدَى اللَّهُ الَّذِينَ آمَنُوا لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ ۗ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Kânen nâsu ummeten vâhıdeten fe beasallâhun nebiyyîne mubeşşirîne ve munzirîne, ve enzele meahumul kitâbe bil hakkı li yahkume beynen nâsi fî mâhtelefû fîh(fîhi), ve mâhtelefe fîhi illellezîne ûtûhu min ba’di mâ câethumul beyyinâtu bagyen beynehum, fe hedâllâhullezîne âmenû li mâhtelefû fîhi minel hakkı bi iznih(iznihî), vallâhu yehdî men yeşâu ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "İnsanlar bir tek ümmet idi. Sonra Allah, peygamberleri müjdeleyiciler ve uyarıcılar olarak gönderdi. Onlarla beraber, anlaşmazlığa düştükleri konularda, insanlar arasında hükmetsinler diye gerçeği taşıyan Kitap´ı hak olarak indirdi. O Kitap´ta anlaşmazlığa düşenler, o Kitap´ın bizzat muhataplarından başkası değildi. Bunlar, kendilerine açık kanıtlar geldikten sonra sırf aralarındaki kıskançlık ve azgınlık yüzünden, çekişmeye girdiler. Sonra Allah kendi izniyle, inananları, üzerinde tartışmaya girdikleri gerçeğe tekrar ulaştırdı, Allah, dilediği kişiyi/dileyeni doğru yola iletir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 3,
+      "ayah": 51,
+      "formInAyah": "صِرَاطٌ",
+      "transliteration": "SirāTun",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۗ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "verseTransliteration": "İnnallâhe rabbî ve rabbikum fa’budûh(fa’budûhu), hâzâ sırâtun mustakîm(mustakîmun).",
+      "verseMeaning": "\"Allah benim de Rabbimdir, sizin de Rabbinizdir; o halde, O´na kulluk edin. İşte bu, dosdoğru bir yoldur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 3,
+      "ayah": 101,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكَيْفَ تَكْفُرُونَ وَأَنْتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ ۗ وَمَنْ يَعْتَصِمْ بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve keyfe tekfurûne ve entum tutlâ aleykum âyâtullâhi ve fîkum resûluh(resûluhu), ve men ya’tesim billâhi fe kad hudiye ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Allah´ın ayetleri size okunuyor, Resulü de aranızda; peki, nasıl küfre sapıyorsunuz? Kim Allah´a sarılırsa dosdoğru yola iletilmiştir o..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 4,
+      "ayah": 68,
+      "formInAyah": "صِرَاطًا",
+      "transliteration": "SirāTen",
+      "gloss": "bir yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا",
+      "verseTransliteration": "Ve le hedeynâhum sırâten mustekîmâ(mustekîmen).",
+      "verseMeaning": "Ve onları dosdoğru bir yola elbette kılavuzlardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 4,
+      "ayah": 175,
+      "formInAyah": "صِرَاطًا",
+      "transliteration": "SirāTen",
+      "gloss": "bir yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُسْتَقِيمًا",
+      "verseTransliteration": "Fe emmellezîne âmenû billâhi va’tesamû bihî fe se yudhıluhum fî rahmetin minhu ve fadlın ve yehdîhim ileyhi sırâtan mustekîmâ (mustekîmen).",
+      "verseMeaning": "Allah´a inanıp O´na sarılanları O, kendisinden bir rahmetin ve lütfun içine sokacak ve onları kendisine ulaşan dosdoğru bir yola kılavuzlayacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 5,
+      "ayah": 16,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "bir yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Yehdî bihillâhu menittebea rıdvânehu subules selâmi ve yuhricuhum minez zulumâti ilen nûri bi iznihî ve yehdîhim ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Allah, rızasına uyanları o Kitap´la esenlik ve barış yollarına iletir ve onları kendi izniyle karanlıklardan aydınlığa çıkarıp şaşmayan ve sapmayan dosdoğru yola kılavuzlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 6,
+      "ayah": 39,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ ۗ مَنْ يَشَإِ اللَّهُ يُضْلِلْهُ وَمَنْ يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Vellezîne kezzebû bi âyâtinâ summun ve bukmun fîz zulumât(zulumâti), men yeşâillâhu yudlilhu, ve men yeşe’ yec’alhu alâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Bizim ayetlerimizi yalanlayanlar, karanlıklara gömülmüş sağır ve dilsizlerdir. Allah, dilediği/dileyen kişiyi şaşırtır, dilediğini/dileyeni de dosdoğru yol üzerine koyar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 6,
+      "ayah": 87,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ ۖ وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve min âbâihim ve zurriyyâtihim ve ihvânihim, vectebeynâhum ve hedeynâhum ilâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "Atalarından, soylarından, kardeşlerinden bir kısmını da... Onları seçtik ve onları dosdoğru bir yola kılavuzladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 6,
+      "ayah": 126,
+      "formInAyah": "صِرَاطُ",
+      "transliteration": "SirāTu",
+      "gloss": "yolu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَهَٰذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَذَّكَّرُونَ",
+      "verseTransliteration": "Ve hâzâ sırâtu rabbike mustekîm(mustekîmen), kad fassalnâl âyâti li kavmin yezzekkerûn(yezzekkerûne).",
+      "verseMeaning": "Rabbinin yolu işte budur; dosdoğru, kıvamında... Biz öğüt alan bir topluluğa ayetleri ayrıntılı bir biçimde açıkladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 6,
+      "ayah": 153,
+      "formInAyah": "صِرَاطِي",
+      "transliteration": "SirāTī",
+      "gloss": "benim yolum",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَنْ سَبِيلِهِ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "verseTransliteration": "Ve enne hâzâ sırâtî mustekîmen fettebiûh(fettebiûhu), ve lâ tettebiûs subule fe teferreka bikum an sebîlih(sebîlihi), zâlikum vassâkum bihî leallekum tettekûn(tettekûne).",
+      "verseMeaning": "Bu benim dosdoğru yolumdur, onu izleyin, başka yolları izlemeyin! Yoksa bu hal sizi O´nun yolundan uzaklaştırıp parçalara böler. Sakınıp korunasınız diye O bunu önermiştir size."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 6,
+      "ayah": 161,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Kul innenî hedânî rabbî ilâ sırâtın mustekîm(mustekîmin) dînen kıyamen millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "De ki: \"Beni, dosdoğru yola Rabbim iletmiştir. Güçlü, pürüzsüz bir dine, hanîf olan İbrahim´in milletine. Müşriklerden değildi o.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 7,
+      "ayah": 16,
+      "formInAyah": "صِرَاطَكَ",
+      "transliteration": "SirāTake",
+      "gloss": "senin yolunun üstüne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ فَبِمَا أَغْوَيْتَنِي لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ",
+      "verseTransliteration": "Kâle fe bimâ agveytenî le ak´udenne lehum sırâtekel mustekîm(mustekîme).",
+      "verseMeaning": "Dedi: \"Beni azdırmana yemin ederim ki, onları saptırmak için senin dosdoğru yolun üzerine kurulacağım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 7,
+      "ayah": 86,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ تُوعِدُونَ وَتَصُدُّونَ عَنْ سَبِيلِ اللَّهِ مَنْ آمَنَ بِهِ وَتَبْغُونَهَا عِوَجًا ۚ وَاذْكُرُوا إِذْ كُنْتُمْ قَلِيلًا فَكَثَّرَكُمْ ۖ وَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ",
+      "verseTransliteration": "Ve lâ tak’udû bikulli sırâtın tû’ıdûne ve tasuddûne an sebîlillâhi men âmene bihî ve tebgûnehâ ivecen vezkurû iz kuntum kalîlen fe kesserekum vanzurû keyfe kâne âkıbetul mufsidîn(mufsidîne).",
+      "verseMeaning": "\"Her yol üstünde oturup da tehdit savurarak Allah yolundan O´na inananları çevirmeyin. Yolun çarpığını isteyip durmayın. Hatırlayın ki, siz az idiniz, O sizi çoğalttı. Bir bakın, nasılmış bozguncuların sonu!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 10,
+      "ayah": 25,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاللَّهُ يَدْعُو إِلَىٰ دَارِ السَّلَامِ وَيَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Vallâhu yed´û ilâ dâris selâm(selâmi), ve yehdî men yeşâu ilâ sırâtin mustekîm(mustekîmin).",
+      "verseMeaning": "Allah, esenlik yurduna çağırır ve dilediğini dosdoğru bir yola kılavuzlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 11,
+      "ayah": 56,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُمْ ۚ مَا مِنْ دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا ۚ إِنَّ رَبِّي عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "İnnî tevekkeltu alâllâhi rabbî ve rabbikum, mâ min dâbbetin illâ huve âhızun bi nâsıyetihâ, inne rabbî alâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "\"Ben, benim de Rabbim, sizin de Rabbiniz olan Allah´a dayanıp güvendim. Hiçbir canlı yoktur ki O, onu perçeminden yakalamış olmasın. Hiç kuşkusuz benim Rabbim dosdoğru bir yol üzerindedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 14,
+      "ayah": 1,
+      "formInAyah": "صِرَاطِ",
+      "transliteration": "SirāTi",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
+      "verseTransliteration": "Elif lâm râ kitâbun enzelnâhu ileyke li tuhricen nâse minez zulûmâti ilen nûri bi izni rabbihim ilâ sırâtıl azîzil hamîd(hamîdi).",
+      "verseMeaning": "Elif, Lâm, Râ. Bir kitaptır bu. Ki indirdik sana, çıkarasın diye insanları Rablerinin izniyle karanlıklardan nura; Hamîd, Azîz olanın yoluna..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 15,
+      "ayah": 41,
+      "formInAyah": "صِرَاطٌ",
+      "transliteration": "SirāTun",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ هَٰذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ",
+      "verseTransliteration": "Kâle hâzâ sırâtun aleyye mustekîm(mustekîmun).",
+      "verseMeaning": "Buyurdu: \"İşte bana varan dosdoğru yol budur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 16,
+      "ayah": 76,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَضَرَبَ اللَّهُ مَثَلًا رَجُلَيْنِ أَحَدُهُمَا أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَيْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَاهُ أَيْنَمَا يُوَجِّهْهُ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِي هُوَ وَمَنْ يَأْمُرُ بِالْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve daraballâhu meselen raculeyni ehaduhumâ ebkemu lâ yakdiru alâ şey’in ve huve kellun alâ mevlâhu eynemâ yuveccihhu lâ ye’ti bi hayr(hayrin), hel yestevî huve ve men ye’muru bil adli ve huve alâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Allah şöyle bir örnekleme de yaptı: İki adam; birisi dilsiz; hiçbir şeye gücü yetmez, efendisi/yöneticisi üstüne sadece bir yük. Efendi onu nereye gönderse hiçbir hayır getiremez. Şimdi bu adam, dosdoğru bir yol üzerinde bulunup adaletle emreden kişi ile aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 16,
+      "ayah": 121,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "شَاكِرًا لِأَنْعُمِهِ ۚ اجْتَبَاهُ وَهَدَاهُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Şâkiren li en’umih(en’umihî), ictebâhu ve hudâhu ilâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "O´nun nimetlerine şükrediyordu. Allah onu seçip yüceltti ve dosdoğru bir yola kılavuzladı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 19,
+      "ayah": 36,
+      "formInAyah": "صِرَاطٌ",
+      "transliteration": "SirāTun",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "verseTransliteration": "Ve innallâhe rabbî ve rabbukum fa’budûh(fa’budûhu), hâzâ sırâtun mustekîm(mustekîmun).",
+      "verseMeaning": "Şüphesiz, Allah, benim de Rabbimdir, sizin de Rabbinizdir. O halde O´na ibadet edin. Dosdoğru yol budur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 19,
+      "ayah": 43,
+      "formInAyah": "صِرَاطًا",
+      "transliteration": "SirāTen",
+      "gloss": "bir yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَبَتِ إِنِّي قَدْ جَاءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ فَاتَّبِعْنِي أَهْدِكَ صِرَاطًا سَوِيًّا",
+      "verseTransliteration": "Yâ ebeti innî kad câenî minel ilmi mâ lem ye’tike fettebi’nî ehdike sırâtan seviyyâ(seviyyen).",
+      "verseMeaning": "\"Babacığım, bana ilimden, sana ulaşmayan bir nasip geldi. O halde bana uy ki, seni düzgün bir yola ileteyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 20,
+      "ayah": 135,
+      "formInAyah": "الصِّرَاطِ",
+      "transliteration": "S-SirāTi",
+      "gloss": "yolun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ كُلٌّ مُتَرَبِّصٌ فَتَرَبَّصُوا ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدَىٰ",
+      "verseTransliteration": "Kul kullun muterebbisun fe terabbesû, fe se ta’lemûne men ashâbus sırâtıs seviyyi ve menihtedâ.",
+      "verseMeaning": "De ki: \"Herkes bekleyip gözetlemede; hadi siz de bekleyip gözetleyin! Yakında bileceksiniz dosdoğru yolu izleyenler kimlermiş, hidayete eren kimmiş!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 22,
+      "ayah": 24,
+      "formInAyah": "صِرَاطِ",
+      "transliteration": "SirāTi",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَىٰ صِرَاطِ الْحَمِيدِ",
+      "verseTransliteration": "Ve hudû ilet tayyibî minel kavli ve hudû ilâ sırâtıl hamîd(hamîdi).",
+      "verseMeaning": "Sözün güzeline ve tatlısına ulaştırılmışlardır; Hamîd olan Allah´ın yoluna ulaştırılmışlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 22,
+      "ayah": 54,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ مِنْ رَبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ ۗ وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve li ya’lemellezîne ûtul ılme ennehul hakku min rabbike fe yu’minû bihî fe tuhbite lehu kulûbuhum, ve innallâhe le hâdillezîne âmenû ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Kendilerine ilim verilenler onun, senin Rabbinden bir hak olduğunu bilsinler, ona inansınlar da kalpleri ona saygı duysun diye böyle yapılmıştır. Şu bir gerçek ki Allah Hâdî´dir, iman edenleri dosdoğru yola mutlaka ulaştıracaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 23,
+      "ayah": 73,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "bir yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve inneke le ted’ûhum ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Şu bir gerçek ki, sen onları dosdoğru bir yola çağırıyorsun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 23,
+      "ayah": 74,
+      "formInAyah": "الصِّرَاطِ",
+      "transliteration": "S-SirāTi",
+      "gloss": "yol-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ لَنَاكِبُونَ",
+      "verseTransliteration": "Ve innellezîne lâ yu’minûne bil âhıreti anis sırâtı le nâkibûn(nâkibûne).",
+      "verseMeaning": "Ama âhirete inanmayanlar, o yoldan hep yan çiziyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 24,
+      "ayah": 46,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَقَدْ أَنْزَلْنَا آيَاتٍ مُبَيِّنَاتٍ ۚ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Le kad enzelnâ âyâtin mubeyyinât(mubeyyinâtin), vallâhu yehdî men yeşâu ilâ sırâtın mustakîm(mustakîmin).",
+      "verseMeaning": "Yemin olsun, biz açık seçik bilgiler veren ayetler indirdik. Allah, dilediğini/dileyeni dosdoğru yola iletiyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 34,
+      "ayah": 6,
+      "formInAyah": "صِرَاطِ",
+      "transliteration": "SirāTi",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ هُوَ الْحَقَّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
+      "verseTransliteration": "Ve yerellezîne ûtûl ılmellezî unzile ileyke min rabbike huvel hakka ve yehdî ilâ sırâtıl azîzil hamîd(hamîdi).",
+      "verseMeaning": "Kendilerine ilim verilenler, Rabbinden sana indirilenin, hakkın ta kendisi olduğunu, Hamîd ve Azîz olan Allah´ın yoluna kılavuzladığını görürler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 36,
+      "ayah": 4,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "bir yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Alâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "Dosdoğru bir yol üzerindesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 36,
+      "ayah": 61,
+      "formInAyah": "صِرَاطٌ",
+      "transliteration": "SirāTun",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "verseTransliteration": "Ve eni’budûnî, hâzâ sırâtun mustekîm(mustekîmun).",
+      "verseMeaning": "\"Bana ibadet edin, dosdoğru yol budur!\" demedim mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 36,
+      "ayah": 66,
+      "formInAyah": "الصِّرَاطَ",
+      "transliteration": "S-SirāTa",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَىٰ أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّىٰ يُبْصِرُونَ",
+      "verseTransliteration": "Ve lev neşâu le tamesnâ alâ a’yunihim festebekûs sırâta fe ennâ yubsırûn(yubsırûne).",
+      "verseMeaning": "Dilesek, gözlerini siler, onları elbette kör ederiz. O zaman yola koyulmak isterler ama nasıl görecekler?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 37,
+      "ayah": 23,
+      "formInAyah": "صِرَاطِ",
+      "transliteration": "SirāTi",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ",
+      "verseTransliteration": "Min dûnillâhi fehdûhum ilâ sırâtıl cahîm(cahîmi).",
+      "verseMeaning": "Allah´tan başka tapınmış olduklarını. Sürün onları cehennemin yoluna."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 37,
+      "ayah": 118,
+      "formInAyah": "الصِّرَاطَ",
+      "transliteration": "S-SirāTa",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "verseTransliteration": "Ve hedeynâ humes sırâtal mustekîm(mustekîme).",
+      "verseMeaning": "Her ikisini dosdoğru yola kılavuzladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 38,
+      "ayah": 22,
+      "formInAyah": "الصِّرَاطِ",
+      "transliteration": "S-SirāTi",
+      "gloss": "yolun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِذْ دَخَلُوا عَلَىٰ دَاوُودَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَاحْكُمْ بَيْنَنَا بِالْحَقِّ وَلَا تُشْطِطْ وَاهْدِنَا إِلَىٰ سَوَاءِ الصِّرَاطِ",
+      "verseTransliteration": "İz dehalû alâ dâvûde fe fezia minhum kâlû lâ tehaf, hasmâni begâ ba’dunâ alâ ba’dın fahkum beynenâ bil hakkı ve lâ tuştıt vehdinâ ilâ sevâis sırât(sırâtı).",
+      "verseMeaning": "Davûd´un yanına girmişlerdi de onlardan korkmuştu. \"Korkma!\" dediler, \"biz iki davacıyız. Birimiz ötekinin hakkını çiğnedi. Şimdi sen, aramızda hak ile hükmet, adaletsizlik etme. Bizi yolun denge noktasına ilet.!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 42,
+      "ayah": 52,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِنْ أَمْرِنَا ۚ مَا كُنْتَ تَدْرِي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَٰكِنْ جَعَلْنَاهُ نُورًا نَهْدِي بِهِ مَنْ نَشَاءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Ve kezâlike evhaynâ ileyke rûhan min emrinâ, mâ kunte tedrî mel kitâbu ve lel îmânu ve lâkin cealnâhu nûren nehdî bihî men neşâu min ibâdinâ, ve inneke le tehdî ilâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "İşte böylece sana da emrimizden bir ruh vahyettik. Sen, kitap nedir, iman nedir bilmezdin. Fakat biz onu, kullarımızdan dilediğimizi kendisiyle kılavuzladığımız bir nur yaptık. Hiç kuşkusuz, sen, dosdoğru bir yola kılavuzluk etmektesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 42,
+      "ayah": 53,
+      "formInAyah": "صِرَاطِ",
+      "transliteration": "SirāTi",
+      "gloss": "yoluna",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "صِرَاطِ اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ أَلَا إِلَى اللَّهِ تَصِيرُ الْأُمُورُ",
+      "verseTransliteration": "Sırâtıllâhillezî lehu mâ fîs semâvâti ve mâ fîl ard(ardı), e lâ ilâllâhi tesîrul umûr(umûru).",
+      "verseMeaning": "Göklerde ve yerdeki her şeyin sahibi olan Allah´ın yoludur o. Gözünüzü açın, bütün iş ve oluşlar Allah´a varır!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 43,
+      "ayah": 43,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "Festemsik billezî ûhıye ileyk(ileyke), inneke alâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "Sen, sana vahyedilene sımsıkı sarıl! Hiç kuşkusuz, sen, dosdoğru bir yol üzerindesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 43,
+      "ayah": 61,
+      "formInAyah": "صِرَاطٌ",
+      "transliteration": "SirāTun",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنَّهُ لَعِلْمٌ لِلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَاتَّبِعُونِ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "verseTransliteration": "Ve innehu le ilmun lis sâati, fe lâ temterunne bihâ vettebiûni, hâzâ sırâtun mustekîm(mustekîmun).",
+      "verseMeaning": "Hiç kuşkusuz o, kıyamet saati için bir bilgidir. O halde sakın o saat hakkında şüpheye düşmeyin; bana uyun. Dosdoğru yol budur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 43,
+      "ayah": 64,
+      "formInAyah": "صِرَاطٌ",
+      "transliteration": "SirāTun",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ اللَّهَ هُوَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "verseTransliteration": "İnnellâhe huve rabbî ve rabbukum fa’budûh(fa’budûhu), hâzâ sırâtun mustekîm(mustekîmun).",
+      "verseMeaning": "\"Kuşkusuz, Allah hem benim Rabbimdir hem sizin Rabbiniz. O halde O´na kulluk/ibadet edin! İşte bu, dosdoğru bir yoldur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 48,
+      "ayah": 2,
+      "formInAyah": "صِرَاطًا",
+      "transliteration": "SirāTen",
+      "gloss": "bir yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا",
+      "verseTransliteration": "Li yagfire lekallâhu mâ tekaddeme min zenbike ve mâ teahhare ve yutimme ni’metehu aleyke ve yehdiyeke sırâtan mustekîmâ(mustekîmen).",
+      "verseMeaning": "Ki Allah senin günahından geçmiş olanı da gelecek olanı da bağışlasın, nimetini senin üzerinde tamamlasın ve seni dosdoğru bir yola kılavuzlasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 48,
+      "ayah": 20,
+      "formInAyah": "صِرَاطًا",
+      "transliteration": "SirāTen",
+      "gloss": "yola",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَعَدَكُمُ اللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِ وَكَفَّ أَيْدِيَ النَّاسِ عَنْكُمْ وَلِتَكُونَ آيَةً لِلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَاطًا مُسْتَقِيمًا",
+      "verseTransliteration": "Vaadekumullâhu megânime kesîreten te’huzûnehâ fe accele lekum hâzihî ve keffe eydiyen nâsi ankum, ve li tekûne âyeten lil mu’minîne ve yehdiyekum sırâtan mustekîmâ(mustekîmen).",
+      "verseMeaning": "Allah size, elde edeceğiniz birçok ganimetler vaat etti. Şunu da size aceleden verdi ve insanların ellerini de sizden uzak tuttu ki bu, inananlara bir ibret olsun ve Allah sizi dosdoğru yola kılavuzlasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِرَٰط",
+      "sura": 67,
+      "ayah": 22,
+      "formInAyah": "صِرَاطٍ",
+      "transliteration": "SirāTin",
+      "gloss": "yol",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَفَمَنْ يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّنْ يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+      "verseTransliteration": "E fe men yemşî mukibben alâ vechihî ehdâ emmen yemşî seviyyen alâ sırâtın mustekîm(mustekîmin).",
+      "verseMeaning": "Peki, yüzüstü kapanarak yürüyen mi daha düzgün gider yoksa dosdoğru yol üzerinde dik ve düzgün yürüyen mi?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=SrT"
+}

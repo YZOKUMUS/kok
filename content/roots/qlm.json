@@ -1,0 +1,107 @@
+{
+  "id": "qlm",
+  "latinName": "Kaf-Lam-Mim",
+  "lettersArabic": "ق ل م",
+  "meanings": [
+    "to cut, pierce. qalam - pen, headless arrow used in casting lots."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "قَلَم",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَلَم",
+      "sura": 3,
+      "ayah": 44,
+      "formInAyah": "أَقْلَامَهُمْ",
+      "transliteration": "eḳlāmehum",
+      "gloss": "(kur’a) oklarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَامَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ",
+      "verseTransliteration": "Zâlike min enbâil gaybi nûhîhi ileyk(ileyke), ve mâ kunte ledeyhim iz yulkûne eklâmehum eyyuhum yekfulu meryeme, ve mâ kunte ledeyhim iz yahtesımûn(yahtesımûne).",
+      "verseMeaning": "Bu, gayb haberlerindendir ki, sana vahyediyoruz. Onlar, Meryem´in bakımını kimin üstleneceğini belirlemek için kalemlerini atarlarken sen yanlarında değildin. Çekiştikleri sırada da yanlarında değildin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَلَم",
+      "sura": 31,
+      "ayah": 27,
+      "formInAyah": "أَقْلَامٌ",
+      "transliteration": "eḳlāmun",
+      "gloss": "kalem",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ أَنَّمَا فِي الْأَرْضِ مِنْ شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ كَلِمَاتُ اللَّهِ ۗ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "Ve lev enne mâ fîl ardı min şeceretin aklâmun vel bahru yemudduhu min ba’dihî seb’atu ebhurin mâ nefidet kelimâtullâh(kelimâtullâhi), innellâhe azîzun hakîm(hakîmun).",
+      "verseMeaning": "Eğer yeryüzündeki ağaçlar kalem olsa, deniz de arkasında yedi deniz daha katılarak yardımcı olsa, Allah´ın kelimeleri tükenmez. Allah Azîz´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَلَم",
+      "sura": 68,
+      "ayah": 1,
+      "formInAyah": "وَالْقَلَمِ",
+      "transliteration": "velḳalemi",
+      "gloss": "kaleme andolsun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ",
+      "verseTransliteration": "Nûn vel kalemi ve mâ yesturûn(yesturûne).",
+      "verseMeaning": "Nûn! Yemin olsun kaleme ve satır satır yazdıklarına"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَلَم",
+      "sura": 96,
+      "ayah": 4,
+      "formInAyah": "بِالْقَلَمِ",
+      "transliteration": "bil-ḳalemi",
+      "gloss": "kalemle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+      "verseTransliteration": "Ellezî alleme bil kalem(kalemi).",
+      "verseMeaning": "O´dur kalemle öğreten!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qlm"
+}

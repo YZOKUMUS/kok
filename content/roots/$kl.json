@@ -1,0 +1,67 @@
+{
+  "id": "$kl",
+  "latinName": "Şin-Kef-Lam",
+  "lettersArabic": "ش ك ل",
+  "meanings": [
+    "to mark, fashion, shackle. shakilatun - likeness, mode, way, manner, disposition, rule of conduct, fashion, peculiar manner. shakl - similitude/likeness."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "شَاكِلَت",
+      "count": 1
+    },
+    {
+      "formArabic": "شَكْل",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَاكِلَت",
+      "sura": 17,
+      "ayah": 84,
+      "formInAyah": "شَاكِلَتِهِ",
+      "transliteration": "şākiletihi",
+      "gloss": "kendi karakteri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
+      "verseTransliteration": "Kul kullun ya’melu alâ şâkiletih(şâkiletihî), fe rabbukum a’lemu bi men huve ehdâ sebîlâ(sebîlen).",
+      "verseMeaning": "De ki: \"Herkes, kendi varlık yapısına uygun iş görür. Yolca daha doğru gidenin kim olduğunu Rabbiniz daha iyi bilir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَكْل",
+      "sura": 38,
+      "ayah": 58,
+      "formInAyah": "شَكْلِهِ",
+      "transliteration": "şeklihi",
+      "gloss": "ona (azaba) benzer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَآخَرُ مِنْ شَكْلِهِ أَزْوَاجٌ",
+      "verseTransliteration": "Ve âharu min şeklihî ezvâc(ezvâcun).",
+      "verseMeaning": "Ve o türden bir başkası daha: Çifter çifter."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24kl"
+}

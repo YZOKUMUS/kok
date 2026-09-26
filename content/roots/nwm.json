@@ -1,0 +1,219 @@
+{
+  "id": "nwm",
+  "latinName": "Nun-Vav-Mim",
+  "lettersArabic": "ن و م",
+  "meanings": [
+    "to sleep, slumber, become calm, abate, dull, be numbed, dose."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 9,
+  "lemmas": [
+    {
+      "formArabic": "مَنَام",
+      "count": 4
+    },
+    {
+      "formArabic": "نَائِمُون",
+      "count": 2
+    },
+    {
+      "formArabic": "نَوْم",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنَام",
+      "sura": 8,
+      "ayah": 43,
+      "formInAyah": "مَنَامِكَ",
+      "transliteration": "menāmike",
+      "gloss": "uykunda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِذْ يُرِيكَهُمُ اللَّهُ فِي مَنَامِكَ قَلِيلًا ۖ وَلَوْ أَرَاكَهُمْ كَثِيرًا لَفَشِلْتُمْ وَلَتَنَازَعْتُمْ فِي الْأَمْرِ وَلَٰكِنَّ اللَّهَ سَلَّمَ ۗ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "İz yurîkehumullâhu fî menâmike kalîlen, ve lev erâkehum kesîren le feşiltum ve le tenâza´tum fîl emri ve lâkinnallâhe sellem(selleme), innehu alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Allah onları sana uykunda az gösteriyordu. Eğer onları sana çok gösterseydi, yılgınlığa düşer, işi kotarmada çekişmeye başlardınız. Ama Allah, sizi selamete çıkardı. O, göğüslerin içindekini çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنَام",
+      "sura": 30,
+      "ayah": 23,
+      "formInAyah": "مَنَامُكُمْ",
+      "transliteration": "menāmukum",
+      "gloss": "uyumanızdır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ مَنَامُكُمْ بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَسْمَعُونَ",
+      "verseTransliteration": "Ve min âyâtihî menâmukum bil leyli ven nehâri vebtigâukum min fadlih(fadlihi), inne fî zâlike le âyâtin li kavmin yesmeûn(yesmeûne).",
+      "verseMeaning": "Gece ve gündüz uyumanız, onun lütfundan nasip aramanız da O´nun ayetlerindendir. Bunda, işitebilen bir toplum için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنَام",
+      "sura": 37,
+      "ayah": 102,
+      "formInAyah": "الْمَنَامِ",
+      "transliteration": "l-menāmi",
+      "gloss": "uykuda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
+      "verseTransliteration": "Fe lemmâ belega meahus sa’ye kâle yâ buneyye innî erâ fîl menâmi ennî ezbehuke fanzur mâzâ terâ, kâle yâ ebetif’al mâ tû’meru setecidunî inşâallâhu mines sâbirîn(sâbirîne).",
+      "verseMeaning": "Çocuk onunla birlikte koşacak yaşa gelince, İbrahim dedi: \"Yavrucuğum, uykuda/düşte görüyorum ki ben seni boğazlıyorum. Bak bakalım sen ne görürsün/sen ne dersin?\" \"Babacığım, dedi, emrolduğun şeyi yap! Allah dilerse beni sabredenlerden bulacaksın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَنَام",
+      "sura": 39,
+      "ayah": 42,
+      "formInAyah": "مَنَامِهَا",
+      "transliteration": "menāmihā",
+      "gloss": "uykularında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا ۖ فَيُمْسِكُ الَّتِي قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْأُخْرَىٰ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Allâhu yeteveffel enfuse hîne mevtihâ velletî lem temut fî menâmihâ, fe yumsikulletî kadâ aleyhel mevte ve yursilul uhrâ ilâ ecelin musemmâ(musemmen), inne fî zâlike le âyâtin li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Allah, canları, ölümleri sırasında alır, ölmeyenleri de uykuları sırasında. Sonra, haklarında ölüm hükmü verdiklerini alıkoyar; ötekileri, belirlenen bir süreye kadar salıverir. Bunda, iyice düşünen bir toplum için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَائِمُون",
+      "sura": 7,
+      "ayah": 97,
+      "formInAyah": "نَائِمُونَ",
+      "transliteration": "nāimūne",
+      "gloss": "uyurlarken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَفَأَمِنَ أَهْلُ الْقُرَىٰ أَنْ يَأْتِيَهُمْ بَأْسُنَا بَيَاتًا وَهُمْ نَائِمُونَ",
+      "verseTransliteration": "E fe emine ehlul kurâ en ye’tiyehum be’sunâ beyâten ve hum nâimûn(nâimûne).",
+      "verseMeaning": "O kentlerin halkı, uyudukları bir sırada, şiddetimizin bir gece kendilerine gelmeyeceğinden emin mi idiler?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَائِمُون",
+      "sura": 68,
+      "ayah": 19,
+      "formInAyah": "نَائِمُونَ",
+      "transliteration": "nāimūne",
+      "gloss": "uyurlarken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ",
+      "verseTransliteration": "Fe tâfe aleyhâ tâifun min rabbike ve hum nâimûn(nâimûne).",
+      "verseMeaning": "Ama onlar uyumaktayken, Rabbinden gelen bir dolaşıcı bahçeyi dolaştı da,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَوْم",
+      "sura": 2,
+      "ayah": 255,
+      "formInAyah": "نَوْمٌ",
+      "transliteration": "nevmun",
+      "gloss": "bir uyku",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      "verseTransliteration": "Allâhu lâ ilâhe illâ huvel hayyul kayyûm(kayyûmu), lâ te’huzuhu sinetun ve lâ nevm(nevmun), lehu mâ fîs semâvâti ve mâ fil ard(ardı), menzellezî yeşfeu indehû illâ bi iznih(iznihî) ya’lemu mâ beyne eydîhim ve mâ halfehum, ve lâ yuhîtûne bi şey’in min ilmihî illâ bi mâ şâe, vesia kursiyyuhus semâvâti vel ard(arda), ve lâ yeûduhu hıfzuhumâ ve huvel aliyyul azîm(azîmu).",
+      "verseMeaning": "Allah´tan başka ilâh yok. Hayy´dır O, sürekli diridir; Kayyûm´dur O, kudretin kaynağıdır. Ne gaflet yaklaşır O´na ne kendinden geçme ne de uyku. Göklerde ne var, yerde ne varsa yalnız O´nun dur. O´nun huzurunda, bizzat O´nun izni olmadıkça, kim şefaat edebilir! O, insanların önden gönderdiklerini de bilir, arkada bıraktıklarını da!... İnsanlar O´nun bilgisinden, bizzat kendisinin dilediği dışında, hiç bir şeyi kavrayıp kuşatamazlar. O´nun kürsüsü, gökleri ve yeri çepeçevre kuşatmıştır. Göklerin ve yerin korunması O´na hiç de zor gelmez. Aliy´dir O, yüceliği sınırsızdır; Azîm´dir O, büyüklüğü sınırsızdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَوْم",
+      "sura": 25,
+      "ayah": 47,
+      "formInAyah": "وَالنَّوْمَ",
+      "transliteration": "ve nnevme",
+      "gloss": "ve uykuyu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا وَجَعَلَ النَّهَارَ نُشُورًا",
+      "verseTransliteration": "Ve huvellezî ceale lekumul leyle libâsen ven nevme subâten ve cealen nehâre nuşûrâ(nuşûren).",
+      "verseMeaning": "O´dur sizin için geceyi elbise, uykuyu dinlence yapan. Gündüzü, dağılıp yayılma zamanı yapan da O´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَوْم",
+      "sura": 78,
+      "ayah": 9,
+      "formInAyah": "نَوْمَكُمْ",
+      "transliteration": "nevmekum",
+      "gloss": "uykunuzu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "verseTransliteration": "Ve cealnâ nevmekum subâtâ(subâten).",
+      "verseMeaning": "Sizin uykunuzu bir dinlenme/bir rahatlama/bir tür ölüm yaptık."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nwm"
+}

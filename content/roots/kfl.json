@@ -1,0 +1,246 @@
+{
+  "id": "kfl",
+  "latinName": "Kef-Fe-Lam",
+  "lettersArabic": "ك ف ل",
+  "meanings": [
+    "Kefil olmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 10,
+  "lemmas": [
+    {
+      "formArabic": "أَكْفِلْ",
+      "count": 1
+    },
+    {
+      "formArabic": "كَفَّلَ",
+      "count": 1
+    },
+    {
+      "formArabic": "كِفْل",
+      "count": 4
+    },
+    {
+      "formArabic": "كَفِيل",
+      "count": 1
+    },
+    {
+      "formArabic": "يَكْفُلُ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَكْفِلْ",
+      "sura": 38,
+      "ayah": 23,
+      "formInAyah": "أَكْفِلْنِيهَا",
+      "transliteration": "ekfilnīhā",
+      "gloss": "onu da bana ver",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ هَٰذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِي فِي الْخِطَابِ",
+      "verseTransliteration": "İnne hâzâ ahî lehu tis’un ve tis’ûne na’ceten ve liye na’cetun vâhidetun fe kâle ekfilnîhâ ve azzenî fîl hıtâb(hıtâbi).",
+      "verseMeaning": "\"Şu benim kardeşimdir. Kendisinin doksan dokuz koyunu var. Benimse bir tek koyunum var. Buna rağmen, onu da bana ver dedi ve tartışmada bana galip geldi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَّلَ",
+      "sura": 3,
+      "ayah": 37,
+      "formInAyah": "وَكَفَّلَهَا",
+      "transliteration": "ve keffelehā",
+      "gloss": "ve onun bakımını üstlendi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا ۖ قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ ۖ إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Fe tekabbelehâ rabbuhâ bi kabûlin hasenin ve enbetehâ nebâten hasenen, ve keffelehâ zekeriyyâ kullemâ dehale aleyhâ zekeriyyal mihrâbe, vecede indehâ rızkâ(rızkan), kâle yâ meryemu ennâ leki hâzâ kâlet huve min indillâh(indillâhi), innallâhe yerzuku men yeşâu bi gayri hısâb(hısâbın).",
+      "verseMeaning": "Allah, onu güzel bir kabulle kabul etti ve onu güzel bir bitki gibi besleyip büyüttü. Onu, Zekeriyya´nın korumasına verdi. Zekeriyya, mihrapta onun yanına her girdiğinde, orada bir rızık bulur ve sorardı: \"Meryem, bu sana nereden?\" Meryem de \"Bu, Allah katındandır; çünkü Allah dilediğini hesapsızca rızıklandırır.\" derdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كِفْل",
+      "sura": 4,
+      "ayah": 85,
+      "formInAyah": "كِفْلٌ",
+      "transliteration": "kiflun",
+      "gloss": "bir payı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+      "verseTransliteration": "Men yeşfa’ şefâaten haseneten yekun lehû nasîbun minhâ ve men yeşfa’ şefâaten seyyieten yekun lehu kiflun minh(minhâ) ve kânallâhu alâ kulli şey’in mukîtâ(mukîten).",
+      "verseMeaning": "Kim güzel bir işe aracı olursa ondan ona bir pay vardır. Kim kötü bir şeye aracı olursa ondan da ona bir pay vardır. Allah herşeye, herkese gıda ulaştırır, Mukît´tir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كِفْل",
+      "sura": 21,
+      "ayah": 85,
+      "formInAyah": "الْكِفْلِ",
+      "transliteration": "l-kifli",
+      "gloss": "(ve Zu’)l-Kifl’i",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِنَ الصَّابِرِينَ",
+      "verseTransliteration": "Ve ismâîle ve idrîse ve zelkifl(zelkifli), kullun mines sâbirîn(sâbirîne).",
+      "verseMeaning": "İsmail, İdris, Zülkifl, hepsi sabredenlerdendi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كِفْل",
+      "sura": 38,
+      "ayah": 48,
+      "formInAyah": "الْكِفْلِ",
+      "transliteration": "l-kifli",
+      "gloss": "ve Zülkifil’i",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ ۖ وَكُلٌّ مِنَ الْأَخْيَارِ",
+      "verseTransliteration": "Vezkur ismâîle velyesea ve zel kifl(kifli), ve kullun minel ahyâr(ahyâri).",
+      "verseMeaning": "İsmail´i, Elyese´i, Zülkifll´i de an! Hepsi seçkinlerdendi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كِفْل",
+      "sura": 57,
+      "ayah": 28,
+      "formInAyah": "كِفْلَيْنِ",
+      "transliteration": "kifleyni",
+      "gloss": "iki pay",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenût tekûllâhe ve âminû bi resûlihî yû’tikum kifleyni min rahmetihî ve yec’al lekum nûren temşûne bihî ve yagfir lekum, vallâhu gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Ey iman edenler! Allah´tan korkun ve onun resulüne inanın ki size rahmetinden iki nasip versin: Size, kendisiyle yol açacağınız bir ışık lütfetsin ve sizi affetsin. Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفِيل",
+      "sura": 16,
+      "ayah": 91,
+      "formInAyah": "كَفِيلًا",
+      "transliteration": "kefīlen",
+      "gloss": "kefil (şahid)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ اللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "verseTransliteration": "Ve evfû bi ahdillâhi izâ ahedtum ve lâ tenkudûl eymâne ba’de tevkîdihâ ve kad cealtumullâhe aleykum kefîlâ(kefîlen), innallâhe ya’lemu mâ tef’alûn(tef’alûne).",
+      "verseMeaning": "Antlaşma yaptığınızda, Allah´a verdiğiniz söze vefa gösterin. Bağlayıp pekiştirdikten sonra yeminlerinizi bozmayın. Çünkü, kendinize Allah´ı kefil yapmış durumdasınız. Allah, yaptıklarınızı biliyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَكْفُلُ",
+      "sura": 3,
+      "ayah": 44,
+      "formInAyah": "يَكْفُلُ",
+      "transliteration": "yekfulu",
+      "gloss": "kefil olacak (diye)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَامَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ",
+      "verseTransliteration": "Zâlike min enbâil gaybi nûhîhi ileyk(ileyke), ve mâ kunte ledeyhim iz yulkûne eklâmehum eyyuhum yekfulu meryeme, ve mâ kunte ledeyhim iz yahtesımûn(yahtesımûne).",
+      "verseMeaning": "Bu, gayb haberlerindendir ki, sana vahyediyoruz. Onlar, Meryem´in bakımını kimin üstleneceğini belirlemek için kalemlerini atarlarken sen yanlarında değildin. Çekiştikleri sırada da yanlarında değildin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَكْفُلُ",
+      "sura": 20,
+      "ayah": 40,
+      "formInAyah": "يَكْفُلُهُ",
+      "transliteration": "yekfuluhu",
+      "gloss": "ona bakacak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+      "verseTransliteration": "İz temşî uhtuke fe tekûlu hel edullukum alâ men yekfuluh(yekfuluhu), fe reca’nâke ilâ ummike key takarre aynuhâ ve lâ tahzen(tahzene), ve katelte nefsen fe necceynâke minel gammi ve fetennâke futûnâ(futûnen), fe lebiste sinîne fî ehli medyene summe ci’te alâ kaderin yâ mûsâ.",
+      "verseMeaning": "\"Hani, kızkardeşin gidiyor, şöyle diyordu: ´Onun bakımını üstlenecek kişiyi size göstereyim mi?´ Nihayet, seni annene geri döndürdük ki, gözü aydın olsun, tasalanmasın. Sen bir de adam öldürmüştün. O zaman seni gamdan kurtarmıştık. Seni iyice bir imtihana çekmiştik. Bunun ardından sen Medyen halkı arasında yıllarca kaldın. Sonra, belirlenen bir vakitte/bir kadere göre geliverdin, ey Mûsa!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَكْفُلُ",
+      "sura": 28,
+      "ayah": 12,
+      "formInAyah": "يَكْفُلُونَهُ",
+      "transliteration": "yekfulūnehu",
+      "gloss": "onun bakımını üstlenecek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
+      "verseTransliteration": "Ve harremnâ aleyhil merâdıa min kablu fe kâlet hel edullukum alâ ehli beytin yekfulûnehu lekum ve hum lehu nâsıhûn(nâsıhûne).",
+      "verseMeaning": "Biz daha önce ona, süt emziren kadınları haram kılmıştık. Bu sırada kızkardeşi dedi ki: \"Onun bakımını sizin için üstlenecek, onu eğitip öğretmeyi yüklenecek bir ev halkını size tanıtayım mı?\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=kfl"
+}

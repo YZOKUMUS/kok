@@ -1,0 +1,89 @@
+{
+  "id": "hzm",
+  "latinName": "he-Za-Mim",
+  "lettersArabic": "ه ز م",
+  "meanings": [
+    "Yenmek, hezimete uğratmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "مَهْزُوم",
+      "count": 1
+    },
+    {
+      "formArabic": "هَزَمُ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهْزُوم",
+      "sura": 38,
+      "ayah": 11,
+      "formInAyah": "مَهْزُومٌ",
+      "transliteration": "mehzūmun",
+      "gloss": "bozguna uğratılacak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "جُنْدٌ مَا هُنَالِكَ مَهْزُومٌ مِنَ الْأَحْزَابِ",
+      "verseTransliteration": "Cundun mâ hunâlike mehzûmun minel ahzâb(ahzâbi).",
+      "verseMeaning": "Kabilelerden oluşmuş, sözüm ona bir ordudur bu; şurada bozguna uğratılacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَزَمُ",
+      "sura": 2,
+      "ayah": 251,
+      "formInAyah": "فَهَزَمُوهُمْ",
+      "transliteration": "fehezemūhum",
+      "gloss": "derken onları bozdular",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَهَزَمُوهُمْ بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتِ الْأَرْضُ وَلَٰكِنَّ اللَّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ",
+      "verseTransliteration": "Fe hezemûhum bi iznillâhi, ve katele dâvudu câlûte ve âtâhullâhul mulke vel hikmete ve allemehu mimmâ yeşâu, ve lev lâ def’ullâhin nâse, bâ’dahum bi ba’din le fesedetil ardu ve lâkinnallâhe zû fadlin alel âlemîn(âlemîne).",
+      "verseMeaning": "Nihayet Allah´ın izniyle onları bozguna uğrattılar. Ve Dâvud Câlût´u öldürdü. Ve Allah, Dâvud´a mülk/saltanat ve hikmet verdi. Ve ona dilediği şeylerden öğretti. Eğer Allah´ın, bazı insanları diğer bazılarıyla savması olmasaydı, yeryüzü bozguna uğrardı. Ama Allah âlemlere karşı çok lütufkardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَزَمُ",
+      "sura": 54,
+      "ayah": 45,
+      "formInAyah": "سَيُهْزَمُ",
+      "transliteration": "seyuhzemu",
+      "gloss": "bozulacak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ",
+      "verseTransliteration": "Se yuhzemul cem’u ve yuvellûned dubur(dubura).",
+      "verseMeaning": "O topluluk, bozguna uğratılacak ve arkalarını dönüp kaçacaklar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hzm"
+}

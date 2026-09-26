@@ -1,0 +1,68 @@
+{
+  "id": "rqd",
+  "latinName": "Ra-Kaf-Dal",
+  "lettersArabic": "ر ق د",
+  "meanings": [
+    "to sleep, lull, be dull, ragged, overlook. ruqud - sleeping. marqad - bed, sleeping place, grave."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "رُقُود",
+      "count": 1
+    },
+    {
+      "formArabic": "مَّرْقَد",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رُقُود",
+      "sura": 18,
+      "ayah": 18,
+      "formInAyah": "رُقُودٌ",
+      "transliteration": "ruḳūdun",
+      "gloss": "uyudukları halde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ ۖ وَكَلْبُهُمْ بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ ۚ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+      "verseTransliteration": "Ve tahsebuhum eykâzan ve hum rukûd(rukûdun), ve nukallibuhum zâtel yemîni ve zâteş şimâl(şimâli), ve kelbuhum bâsitun zirâayhi bil vasîd(vasîdi), levittala´te aleyhim le velleyte minhum firâren ve le muli´te minhum ru´bâ(ru´ben).",
+      "verseMeaning": "Sen onları uyanıktırlar sanırsın; oysaki onlar uykudadırlar. Onları sağ tarafa da sol tarafa da çeviririz. Köpekleri de iki kolunu girişe uzatıp yaymıştır. Onların durumunu görseydin kesinlikle onlardan yüz çevirip kaçırdın. Ve onlardan içinde mutlaka korku doldurulurdu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّرْقَد",
+      "sura": 36,
+      "ayah": 52,
+      "formInAyah": "مَرْقَدِنَا",
+      "transliteration": "merḳadinā",
+      "gloss": "yattığımız yer-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ الرَّحْمَٰنُ وَصَدَقَ الْمُرْسَلُونَ",
+      "verseTransliteration": "Kâlû yâ veylenâ men beasenâ min merkadinâ, hâzâ mâ vaader rahmânuve sadakal murselûn(murselûne).",
+      "verseMeaning": "Şöyle diyecekler: \"Vay başımıza gelene! Kim kaldırdı bizi mezarımızdan? Rahman´ın vaat ettiği işte bu! Peygamberler doğru söylemişler.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rqd"
+}

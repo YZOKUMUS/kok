@@ -1,0 +1,66 @@
+{
+  "id": "gly",
+  "latinName": "Gayn-Lam-Ye",
+  "lettersArabic": "غ ل ي",
+  "meanings": [
+    "Kaynamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "غَلْى",
+      "count": 1
+    },
+    {
+      "formArabic": "يَغْلِى",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَلْى",
+      "sura": 44,
+      "ayah": 46,
+      "formInAyah": "كَغَلْيِ",
+      "transliteration": "keğalyi",
+      "gloss": "kaynaması gibi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَغَلْيِ الْحَمِيمِ",
+      "verseTransliteration": "Ke galyil hamîm(hamîmi).",
+      "verseMeaning": "Sıcak suyun kaynaması gibi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَغْلِى",
+      "sura": 44,
+      "ayah": 45,
+      "formInAyah": "يَغْلِي",
+      "transliteration": "yeğlī",
+      "gloss": "kaynar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ",
+      "verseTransliteration": "Kel muhl(muhli), yaglî fîl butûn(butûni).",
+      "verseMeaning": "Erimiş maden misali, karınlarda kaynar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=gly"
+}

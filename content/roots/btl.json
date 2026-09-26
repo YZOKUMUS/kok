@@ -1,0 +1,72 @@
+{
+  "id": "btl",
+  "latinName": "Be-Te-Lam",
+  "lettersArabic": "ب ت ل",
+  "meanings": [
+    "cut it off, severed it, separate, was/became alone, detach oneself and devote, devote exclusively, apply, striving, laboring or exerting, becoming wide between the shoulders, obligatory or something made so."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "تَبَتَّلْ",
+      "count": 1
+    },
+    {
+      "formArabic": "تَبْتِيل",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَبَتَّلْ",
+      "sura": 73,
+      "ayah": 8,
+      "formInAyah": "وَتَبَتَّلْ",
+      "transliteration": "ve tebettel",
+      "gloss": "ve yönel",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "verseTransliteration": "Vezkurisme rabbike ve tebettel ileyhi tebtîlâ(tebtîlen).",
+      "verseMeaning": "Rabbinin adını an ve tüm benliğinle O´na yönel!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَبْتِيل",
+      "sura": 73,
+      "ayah": 8,
+      "formInAyah": "تَبْتِيلًا",
+      "transliteration": "tebtīlen",
+      "gloss": "bütün gönlünle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "verseTransliteration": "Vezkurisme rabbike ve tebettel ileyhi tebtîlâ(tebtîlen).",
+      "verseMeaning": "Rabbinin adını an ve tüm benliğinle O´na yönel!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=btl"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kbd",
+  "latinName": "Kef-Be-Dal",
+  "lettersArabic": "ك ب د",
+  "meanings": [
+    "hit/hurt/smote/wound his liver, affect anyone painfully (e.g. by intense cold), purpose a thing, to distress, to endure a thing."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "كَبَد",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَبَد",
+      "sura": 90,
+      "ayah": 4,
+      "formInAyah": "كَبَدٍ",
+      "transliteration": "kebedin",
+      "gloss": "zorluk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+      "verseTransliteration": "Lekad halaknel insâne fî kebed(kebedin).",
+      "verseMeaning": "Biz insanı gerçekten bir sıkıntı ve zorluk içinde yarattık."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=kbd"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "xmd",
+  "latinName": "Kh-Mim-Dal",
+  "lettersArabic": "خ م د",
+  "meanings": [
+    "To subside, be utterly extinguished (a fire); it's flaming or blazing ceasing, faint or swoon, be allayed (fever or vehemence of a fever), be still/motionless and silent (Al-Qamoos & Tajul-Arus), dispose and submit oneself to an affair or event, be silent and dead, become like extinguished ashes."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "خَٰمِدِين",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰمِدِين",
+      "sura": 21,
+      "ayah": 15,
+      "formInAyah": "خَامِدِينَ",
+      "transliteration": "ḣāmidīne",
+      "gloss": "sönmüş ateş (gibi)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّىٰ جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ",
+      "verseTransliteration": "Fe mâ zâlet tilke da’vâhum hattâ cealnâhum hasîden hâmidîn(hâmidîne).",
+      "verseMeaning": "Bu davaları sürüp giderken biz onları kökten biçiverdik, sönüp silindiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰمِدِين",
+      "sura": 36,
+      "ayah": 29,
+      "formInAyah": "خَامِدُونَ",
+      "transliteration": "ḣāmidūne",
+      "gloss": "sönüverdiler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ",
+      "verseTransliteration": "İn kânet illâ sayhaten vâhıdetenfe izâ hum hâmidûn(hâmidûne).",
+      "verseMeaning": "Olan, sadece korkunç titreşimli bir sesti. Ve bir anda söndüverdiler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xmd"
+}

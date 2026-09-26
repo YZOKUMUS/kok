@@ -1,0 +1,69 @@
+{
+  "id": "qHm",
+  "latinName": "Kaf-Ha-Mim",
+  "lettersArabic": "ق ح م",
+  "meanings": [
+    "to rush, enter, undertake, attempt (the uphill path), make haste, try, plunge, invade, jump, impel, embark boldly."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "مُّقْتَحِم",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱقْتَحَمَ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّقْتَحِم",
+      "sura": 38,
+      "ayah": 59,
+      "formInAyah": "مُقْتَحِمٌ",
+      "transliteration": "muḳteHimun",
+      "gloss": "(cehenneme) girecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "هَٰذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ ۖ لَا مَرْحَبًا بِهِمْ ۚ إِنَّهُمْ صَالُو النَّارِ",
+      "verseTransliteration": "Hâzâ fevcun muktehımun meakum, lâ merhaben bihim, innehum sâlûn nâr(nâri).",
+      "verseMeaning": "Şöyle denilir: \"İşte sizinle birlikte direnişe geçen bir grup. ´Merhaba´ yok onlara! Onlar ateşe salınıyorlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱقْتَحَمَ",
+      "sura": 90,
+      "ayah": 11,
+      "formInAyah": "اقْتَحَمَ",
+      "transliteration": "ḳteHame",
+      "gloss": "o atılamadı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+      "verseTransliteration": "Fe laktehamel akabete.",
+      "verseMeaning": "Akabeye, sarp yokuşa atılamadı o."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qHm"
+}

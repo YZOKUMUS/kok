@@ -1,0 +1,2049 @@
+{
+  "id": "sbH",
+  "latinName": "Sin-Be-Ha",
+  "lettersArabic": "س ب ح",
+  "meanings": [
+    "Yüzmek, akmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 92,
+  "lemmas": [
+    {
+      "formArabic": "تَسْبِيح",
+      "count": 2
+    },
+    {
+      "formArabic": "سَبَّحَ",
+      "count": 42
+    },
+    {
+      "formArabic": "سَبْح",
+      "count": 2
+    },
+    {
+      "formArabic": "سُبْحَٰن",
+      "count": 41
+    },
+    {
+      "formArabic": "سَّٰبِحَٰت",
+      "count": 1
+    },
+    {
+      "formArabic": "مُسَبِّحُون",
+      "count": 2
+    },
+    {
+      "formArabic": "يَسْبَحُ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَسْبِيح",
+      "sura": 17,
+      "ayah": 44,
+      "formInAyah": "تَسْبِيحَهُمْ",
+      "transliteration": "tesbīHahum",
+      "gloss": "onların tesbihlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "Tusebbihu lehus semâvâtus seb’u vel ardu ve men fîhinn(fîhinne), ve in min şey’in illâ yusebbihu bi hamdihî ve lâkin lâ tefkahûne tesbîhahum, innehu kâne halîmen gafûrâ(gafûren).",
+      "verseMeaning": "Yedi gök, yerküre ve bunların içindekiler O´nu tespih ederler. Hiçbir şey yoktur ki, O´nu överek tespih etmesin; fakat siz onların tespihlerini fark edemezsiniz. O Halîm´dir, Gafûr´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَسْبِيح",
+      "sura": 24,
+      "ayah": 41,
+      "formInAyah": "وَتَسْبِيحَهُ",
+      "transliteration": "ve tesbīHahu",
+      "gloss": "ve tesbihini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ۗ وَاللَّهُ عَلِيمٌ بِمَا يَفْعَلُونَ",
+      "verseTransliteration": "E lem tera ennallâhe yusebbihu lehu men fîs semâvâti vel ardı vet tayru sâffât(sâffâtin), kullun kad alime salâtehu ve tesbîhah(tesbîhahu), vallâhu alîmun bimâ yef’alûn(yef’alûne).",
+      "verseMeaning": "Görmedin mi, göklerdeki ve yerdeki şuurlular da bölük bölük olmuş kuşlar da Allah´ı tespih etmektedir. Her biri kendine özgü duasını, kendine özgü tespihini bilmiştir. Allah, onların yapmakta olduklarını çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 2,
+      "ayah": 30,
+      "formInAyah": "نُسَبِّحُ",
+      "transliteration": "nusebbiHu",
+      "gloss": "tesbih ediyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Ve iz kâle rabbuke lil melâiketi innî câilun fîl ardı halîfeh(halîfeten), kâlû e tec’alu fîhâ men yufsidu fîhâ ve yesfikud dimâ(dimâe), ve nahnu nusebbihu bi hamdike ve nukaddisu lek(leke), kâle innî a’lemu mâ lâ tâ’lemûn(tâ’lemûne).",
+      "verseMeaning": "Bir zamanlar Rabb´in meleklere: \"Ben, yeryüzünde bir halife atayacağım.\" demişti de onlar şöyle konuşmuşlardı: \"Orada bozgunculuk etmekte olan, kan döken birini mi atayacaksın? Oysaki bizler, seni hamd ile tespih ediyoruz; seni kutsayıp yüceltiyoruz.\" Allah şöyle dedi: \"Şu bir gerçek ki ben, sizin bilmediklerinizi bilmekteyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 3,
+      "ayah": 41,
+      "formInAyah": "وَسَبِّحْ",
+      "transliteration": "ve sebbiH",
+      "gloss": "ve (O’nu) tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالَ رَبِّ اجْعَلْ لِي آيَةً ۖ قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَاذْكُرْ رَبَّكَ كَثِيرًا وَسَبِّحْ بِالْعَشِيِّ وَالْإِبْكَارِ",
+      "verseTransliteration": "Kâle rabbic’al lî âyeh(âyeten), kâle âyetuke ellâ tukellimen nâse selâsete eyyâmin illâ remzâ(remzan), vezkur rabbeke kesîran ve sebbih bil aşiyyi vel ibkâr(ibkâri).",
+      "verseMeaning": "Zekeriyya dedi: \"Rabbim, bana bir belirti ver.\" Allah buyurdu: \"Sana belirti şudur: \"İnsanlarla üç gün, işaretleşme dışında konuşmayacaksın. Rabbini çok an. Akşam-sabah tespih et.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 7,
+      "ayah": 206,
+      "formInAyah": "وَيُسَبِّحُونَهُ",
+      "transliteration": "ve yusebbiHūnehu",
+      "gloss": "ve O’nu tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ عِنْدَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ ۩",
+      "verseTransliteration": "İnnellezîne inde rabbike lâ yestekbirûne an ibadetihî ve yusebbihûnehu ve lehu yescudûn(yescudûne). (SECDE ÂYETİ)",
+      "verseMeaning": "Rabbinin katında olanlar, büyüklük taslayıp O´na kulluktan yüz çevirmezler; O´nu tespih ederler ve yalnız O´na secde ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 13,
+      "ayah": 13,
+      "formInAyah": "وَيُسَبِّحُ",
+      "transliteration": "ve yusebbiHu",
+      "gloss": "ve tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ وَيُرْسِلُ الصَّوَاعِقَ فَيُصِيبُ بِهَا مَنْ يَشَاءُ وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ",
+      "verseTransliteration": "Ve yusebbihur ra’du bi hamdihî vel melâiketu min hîfetih(hîfetihî), ve yursilus savâıka fe yusîbu bihâ men ye?âu ve hum yucâdilûne fillâh(fillâhi), ve huve ?edîdul mihâl(mihâli).",
+      "verseMeaning": "Gök gürültüsü O´nu hamd ile tespih eder; melekler de O´ndan ürpererek... Yıldırımlar gönderir de onlarla dilediğini çarpar. Allah, tuzak kuranların hilelerini başlarına geçirmede çok güçlü olduğu halde, onlar O´na karşı mücadele edip duruyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 15,
+      "ayah": 98,
+      "formInAyah": "فَسَبِّحْ",
+      "transliteration": "fesebbiH",
+      "gloss": "(o halde) tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِدِينَ",
+      "verseTransliteration": "Fe sebbih bi hamdi rabbike ve kun mines sâcidîn(sâcidîne).",
+      "verseMeaning": "Şimdi sen, Rabbine hamd ile tespih et ve secde edenlerden ol!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 17,
+      "ayah": 44,
+      "formInAyah": "تُسَبِّحُ",
+      "transliteration": "tusebbiHu",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "Tusebbihu lehus semâvâtus seb’u vel ardu ve men fîhinn(fîhinne), ve in min şey’in illâ yusebbihu bi hamdihî ve lâkin lâ tefkahûne tesbîhahum, innehu kâne halîmen gafûrâ(gafûren).",
+      "verseMeaning": "Yedi gök, yerküre ve bunların içindekiler O´nu tespih ederler. Hiçbir şey yoktur ki, O´nu överek tespih etmesin; fakat siz onların tespihlerini fark edemezsiniz. O Halîm´dir, Gafûr´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 17,
+      "ayah": 44,
+      "formInAyah": "يُسَبِّحُ",
+      "transliteration": "yusebbiHu",
+      "gloss": "tesbih etmeyen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "Tusebbihu lehus semâvâtus seb’u vel ardu ve men fîhinn(fîhinne), ve in min şey’in illâ yusebbihu bi hamdihî ve lâkin lâ tefkahûne tesbîhahum, innehu kâne halîmen gafûrâ(gafûren).",
+      "verseMeaning": "Yedi gök, yerküre ve bunların içindekiler O´nu tespih ederler. Hiçbir şey yoktur ki, O´nu överek tespih etmesin; fakat siz onların tespihlerini fark edemezsiniz. O Halîm´dir, Gafûr´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 19,
+      "ayah": 11,
+      "formInAyah": "سَبِّحُوا",
+      "transliteration": "sebbiHū",
+      "gloss": "tesbih edin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَخَرَجَ عَلَىٰ قَوْمِهِ مِنَ الْمِحْرَابِ فَأَوْحَىٰ إِلَيْهِمْ أَنْ سَبِّحُوا بُكْرَةً وَعَشِيًّا",
+      "verseTransliteration": "Fe harece alâ kavmihî minel mihrâbi fe evhâ ileyhim en sebbihû bukreten ve aşiyyâ(aşiyyen).",
+      "verseMeaning": "Bunun üzerine Zekeriyya, yakarış yerinden ayrılıp halkının karşısına geçti ve onlara \"sabah akşam tespih edin\" diye işaret verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 20,
+      "ayah": 33,
+      "formInAyah": "نُسَبِّحَكَ",
+      "transliteration": "nusebbiHake",
+      "gloss": "seni tesbih edelim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "كَيْ نُسَبِّحَكَ كَثِيرًا",
+      "verseTransliteration": "Key nusebbihake kesîrâ(kesîren).",
+      "verseMeaning": "\"Taki seni çokça tespih edelim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 20,
+      "ayah": 130,
+      "formInAyah": "فَسَبِّحْ",
+      "transliteration": "fe sebbiH",
+      "gloss": "tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kable gurûbihâ, ve min ânâil leyli fe sebbih ve etrâfen nehâri lealleke terdâ.",
+      "verseMeaning": "Artık, onların söylediklerine sabret; Güneş´in doğuşundan önce de batışından önce de Rabbini överek tespih et! Gecenin bazı saatleriyle gündüzün iki ucunda da tespih et ki, hoşnutluğa erebilesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 20,
+      "ayah": 130,
+      "formInAyah": "وَسَبِّحْ",
+      "transliteration": "ve sebbiH",
+      "gloss": "ve tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kable gurûbihâ, ve min ânâil leyli fe sebbih ve etrâfen nehâri lealleke terdâ.",
+      "verseMeaning": "Artık, onların söylediklerine sabret; Güneş´in doğuşundan önce de batışından önce de Rabbini överek tespih et! Gecenin bazı saatleriyle gündüzün iki ucunda da tespih et ki, hoşnutluğa erebilesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 21,
+      "ayah": 20,
+      "formInAyah": "يُسَبِّحُونَ",
+      "transliteration": "yusebbiHūne",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ",
+      "verseTransliteration": "Yusebbihûnel leyle ven nehâre lâ yefturûn(yefturûne).",
+      "verseMeaning": "Gece ve gündüz tespih ederler, bıkıp usanmazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 21,
+      "ayah": 79,
+      "formInAyah": "يُسَبِّحْنَ",
+      "transliteration": "yusebbiHne",
+      "gloss": "tesbih eden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا ۚ وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ ۚ وَكُنَّا فَاعِلِينَ",
+      "verseTransliteration": "Fe fehhemnâhâ suleymân(suleymâne), ve kullen âteynâ hukmen ve ılmen ve sehharnâ mea dâvudel cibâle yusebbihne vet tayr(tayre), ve kunnâ fâılîn(fâılîne).",
+      "verseMeaning": "Onu Süleyman´a derhal kavrattık. Herbirine hükümdarlık ve bilgi verdik. Dâvud´a dağları boyun eğdirdik. Kuşlarla beraber tespih ediyorlardı. Yapmak isteyince yapanlarız biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 24,
+      "ayah": 36,
+      "formInAyah": "يُسَبِّحُ",
+      "transliteration": "yusebbiHu",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ",
+      "verseTransliteration": "Fî buyûtin ezinallâhu en turfea ve yuzkere fîhesmuhu yusebbihu lehu fîhâ bil guduvvi vel âsâl(âsâli).",
+      "verseMeaning": "Kandil, Allah´ın yükseltilmesine ve içinde adının anılmasına izin verdiği evlerdedir. Orada sabah akşam O´nu tespih eder."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 24,
+      "ayah": 41,
+      "formInAyah": "يُسَبِّحُ",
+      "transliteration": "yusebbiHu",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ۗ وَاللَّهُ عَلِيمٌ بِمَا يَفْعَلُونَ",
+      "verseTransliteration": "E lem tera ennallâhe yusebbihu lehu men fîs semâvâti vel ardı vet tayru sâffât(sâffâtin), kullun kad alime salâtehu ve tesbîhah(tesbîhahu), vallâhu alîmun bimâ yef’alûn(yef’alûne).",
+      "verseMeaning": "Görmedin mi, göklerdeki ve yerdeki şuurlular da bölük bölük olmuş kuşlar da Allah´ı tespih etmektedir. Her biri kendine özgü duasını, kendine özgü tespihini bilmiştir. Allah, onların yapmakta olduklarını çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 25,
+      "ayah": 58,
+      "formInAyah": "وَسَبِّحْ",
+      "transliteration": "ve sebbiH",
+      "gloss": "ve tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِ ۚ وَكَفَىٰ بِهِ بِذُنُوبِ عِبَادِهِ خَبِيرًا",
+      "verseTransliteration": "Ve tevekkel alel hayyillezî lâ yemûtu ve sebbih bi hamdih(hamdihî), ve kefâ bihî bi zunûbi ibâdihî habîrâ(habîren).",
+      "verseMeaning": "O hiç ölmeyecek diriye, o Hayy olana dayanıp güven, O´nu överek tespih et. Kullarının günahlarından O´nun haberdar olması yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 32,
+      "ayah": 15,
+      "formInAyah": "وَسَبَّحُوا",
+      "transliteration": "ve sebbeHū",
+      "gloss": "ve tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا وَسَبَّحُوا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩",
+      "verseTransliteration": "İnnemâ yu’minu bi âyâtinellezîne izâ zukkirû bihâ harrû succeden ve sebbehû bi hamdi rabbihim ve hum lâ yestekbirûn(yestekbirûne).",
+      "verseMeaning": "Bizim ayetlerimize o kimseler inanır ki, onlarla kendilerine öğüt verildiğinde, secdelere kapanırlar ve hiç böbürlenmeyerek Rablerine hamt ile tespih ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 33,
+      "ayah": 42,
+      "formInAyah": "وَسَبِّحُوهُ",
+      "transliteration": "ve sebbiHūhu",
+      "gloss": "ve O’nu tesbih edin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "verseTransliteration": "Ve sebbihûhu bukreten ve asîlâ(asîlen).",
+      "verseMeaning": "O´nu sabah akşam tespih edin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 38,
+      "ayah": 18,
+      "formInAyah": "يُسَبِّحْنَ",
+      "transliteration": "yusebbiHne",
+      "gloss": "tesbih ederlerdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَاقِ",
+      "verseTransliteration": "İnnâ sahharnel cibâle meahu yusebbıhne bil aşiyyi vel işrâk(işrâkı).",
+      "verseMeaning": "Dağları onunla birlikte buyruk altına almıştık: Akşam sabah birlikte tespih ederlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 39,
+      "ayah": 75,
+      "formInAyah": "يُسَبِّحُونَ",
+      "transliteration": "yusebbiHūne",
+      "gloss": "tesbih ettiklerini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَتَرَى الْمَلَائِكَةَ حَافِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِيَ بَيْنَهُمْ بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Ve terel melâikete hâffîne min havlil arşı yusebbihûne bi hamdi rabbihim, ve kudıye beynehum bil hakkı ve kıylel hamdu lillâhi rabbil âlemîn(âlemîne).",
+      "verseMeaning": "Melekleri de arşın çevresini kuşatarak Rablerinin hamdiyle tespih eder halde görürsün. Aralarında hakla hüküm verilmiştir. Nihayet şöyle denir: \"Hamd alemlerin Rabbi´ne özgüdür!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 40,
+      "ayah": 7,
+      "formInAyah": "يُسَبِّحُونَ",
+      "transliteration": "yusebbiHūne",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ",
+      "verseTransliteration": "Ellezîne yahmilûnel arşa ve men havlehu yusebbihûne bi hamdi rabbihim ve yu’minûne bihî ve yestagfirûne lillezîne âmenû, rabbenâ vesi’te kulle şey’in rahmeten ve ilmen fagfir lillezîne tâbû vettebeû sebîleke vekıhim azâbel cahîm(cahîmi).",
+      "verseMeaning": "Arşı yüklenip taşıyanlar ve onun çevresindeki şuurlular Rablerinin hamdi ile tespih ederler ve ona inanırlar. İman sahipleri için de şöyle af dilerler: \"Rabbimiz! Sen herşeyi rahmet ve ilim halinde kuşattın. Tövbe edip senin yoluna uymuş olanları bağışla. Ve onları cehenem azabından koru!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 40,
+      "ayah": 55,
+      "formInAyah": "وَسَبِّحْ",
+      "transliteration": "ve sebbiH",
+      "gloss": "ve an",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنْبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْإِبْكَارِ",
+      "verseTransliteration": "Fasbir inne va’dallâhi hakkun vestagfir li zenbike ve sebbih bi hamdi rabbike bil aşiyyi vel ibkâr(ibkâri).",
+      "verseMeaning": "Öyleyse sabret! Kuşkun olmasın ki, Allah´ın vaadi haktır. Günahın için af dile. Akşam ve sabah, Rabbini överek tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 41,
+      "ayah": 38,
+      "formInAyah": "يُسَبِّحُونَ",
+      "transliteration": "yusebbiHūne",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْأَمُونَ ۩",
+      "verseTransliteration": "Fe inistekberû fellezîne inde rabbike yusebbihûne lehu bil leyli ven nehâri ve hum lâ yes’emûn(yes’emûne).",
+      "verseMeaning": "Eğer büyüklük taslarlarsa bilsinler ki, Rabbin katındakiler hiç usanmadan, gece ve gündüz O´nu tespih ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 42,
+      "ayah": 5,
+      "formInAyah": "يُسَبِّحُونَ",
+      "transliteration": "yusebbiHūne",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ ۚ وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَنْ فِي الْأَرْضِ ۗ أَلَا إِنَّ اللَّهَ هُوَ الْغَفُورُ الرَّحِيمُ",
+      "verseTransliteration": "Tekâdus semâvâtu yetefattarne min fevkıhinne vel melâiketu yusebbihûne bi hamdi rabbihim ve yestagfirûne li men fîl ard(ardı), e lâ innellâhe huvel gafûrur rahîm(rahîmu).",
+      "verseMeaning": "Gökler, üstlerinden çatlayacak gibi titreşiyor. Melekler de Rablerinin hamdiyle tespih ediyorlar ve yeryüzündekiler için af diliyorlar. Gözünüzü açıp kendinize gelin! Allah´tır ancak hep affeden, hep merhamet eden."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 48,
+      "ayah": 9,
+      "formInAyah": "وَتُسَبِّحُوهُ",
+      "transliteration": "ve tusebbiHūhu",
+      "gloss": "ve O’nu tesbih edesiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "verseTransliteration": "Li tu’minû billâhi ve resûlihî ve tuazzirûhu ve tuvakkırûh(tuvakkırûhu), ve tusebbihûhu bukreten ve asîlâ(asîlen).",
+      "verseMeaning": "Allah´a ve resulüne inanasınız, O´nu destekleyesiniz, O´nu yüce bilesiniz ve sabah akşam O´nu tespih edesiniz diye."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 50,
+      "ayah": 39,
+      "formInAyah": "وَسَبِّحْ",
+      "transliteration": "ve sebbiH",
+      "gloss": "ve tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kablel gurûb(gurûbi).",
+      "verseMeaning": "Artık onların söylediklerine sabret ve Güneş´in doğuşundan önce de batışından önce de Rabbinin hamdiyle tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 50,
+      "ayah": 40,
+      "formInAyah": "فَسَبِّحْهُ",
+      "transliteration": "fesebbiHhu",
+      "gloss": "O’nu tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ",
+      "verseTransliteration": "Ve minel leyli fe sebbihhu ve edbâres sucûdi.",
+      "verseMeaning": "Gecenin bir kısmında ve secdelerin arkalarından O´nu tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 52,
+      "ayah": 48,
+      "formInAyah": "وَسَبِّحْ",
+      "transliteration": "ve sebbiH",
+      "gloss": "ve tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "verseTransliteration": "Vasbir li hukmi rabbike fe inneke bi a’yuninâ, ve sebbih bi hamdi rabbike hîne tekûmu.",
+      "verseMeaning": "Rabbinin hükmüne sabret! Kuşkusuz, sen bizim gözlerimizin önündesin. Kalktığında, Rabbinin hamdiyle tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 52,
+      "ayah": 49,
+      "formInAyah": "فَسَبِّحْهُ",
+      "transliteration": "fesebbiHhu",
+      "gloss": "O’nu tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ",
+      "verseTransliteration": "Ve minel leyli fe sebbihhu ve idbâren nucûmi.",
+      "verseMeaning": "Gecenin bir bölümünde ve yıldızların ardından da O´nu tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 56,
+      "ayah": 74,
+      "formInAyah": "فَسَبِّحْ",
+      "transliteration": "fesebbiH",
+      "gloss": "öyleyse yücelt",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "verseTransliteration": "Fe sebbih bismi rabbikel azîm(azîmi).",
+      "verseMeaning": "O halde o yüce Rabbinin adını tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 56,
+      "ayah": 96,
+      "formInAyah": "فَسَبِّحْ",
+      "transliteration": "fesebbiH",
+      "gloss": "öyleyse tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "verseTransliteration": "Fe sebbih bismi rabbikel azîm(azîmi).",
+      "verseMeaning": "Artık, o yüce Rabbinin adını tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 57,
+      "ayah": 1,
+      "formInAyah": "سَبَّحَ",
+      "transliteration": "sebbeHa",
+      "gloss": "tesbih etmiştir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Sebbeha lillâhi mâ fîs semâvâti vel ard(ardı), ve huvel azîzul hakîm(hakîmu).",
+      "verseMeaning": "Göklerde ve yerdeki her şey Allah´ı tespih etmektedir. Azîz´dir O, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 59,
+      "ayah": 1,
+      "formInAyah": "سَبَّحَ",
+      "transliteration": "sebbeHa",
+      "gloss": "tesbih eder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Sebbeha lillâhi mâ fîs semâvâti ve mâ fîl ard(ardı), ve huvel azîzul hakîm(hakîmu).",
+      "verseMeaning": "Göklerde ne var, yerde ne varsa Allah´ı tespih etmiştir. Azîz´dir O, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 59,
+      "ayah": 24,
+      "formInAyah": "يُسَبِّحُ",
+      "transliteration": "yusebbiHu",
+      "gloss": "tesbih ederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Huvallâhul hâlikul bâriûl musavviru lehul esmâul husnâ, yusebbihu lehu mâ fîs semâvâti vel ard(ardı) ve huvel azîzul hakîm(hakîmu).",
+      "verseMeaning": "Allah´tır O! Haalik, Bâri´, Musavvir´dir O! En güzel isimler/Esmâül Hüsna O´nundur. Göklerde ne var, yerde ne varsa O´nu tespih eder. Azîz´dir O, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 61,
+      "ayah": 1,
+      "formInAyah": "سَبَّحَ",
+      "transliteration": "sebbeHa",
+      "gloss": "tesbih etmektedir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Sebbeha lillâhi mâ fîs semâvâti ve mâ fîl ard(ardı), ve huvel âzîzul hakîm(hakîmu).",
+      "verseMeaning": "Göklerde ne var, yerde ne varsa Allah´ı tespih etmiştir. Azîz´dir O, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 62,
+      "ayah": 1,
+      "formInAyah": "يُسَبِّحُ",
+      "transliteration": "yusebbiHu",
+      "gloss": "tesbih etmektedir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+      "verseTransliteration": "Yusebbihu lillâhi mâ fîs semâvâti ve mâ fîl ardıl melikil kuddûsil azîzil hakîm(hakîmi).",
+      "verseMeaning": "Göklerdekiler ve yerdekiler o Melik, o Kuddûs, o Azîz, o Hakîm Allah´ı tespih ediyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 64,
+      "ayah": 1,
+      "formInAyah": "يُسَبِّحُ",
+      "transliteration": "yusebbiHu",
+      "gloss": "tesbih etmektedir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Yusebbihu lillâhi mâ fîs semâvâti ve mâ fîl ard(ardı), le hul mulku ve le hul hamdu ve huve alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Göklerdekiler ve yerdekiler Allah´ı tespih ediyor. O´nundur mülk ve yönetim; O´nun içindir tüm övgüler. Her şeye gücü yetendir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 68,
+      "ayah": 28,
+      "formInAyah": "تُسَبِّحُونَ",
+      "transliteration": "tusebbiHūne",
+      "gloss": "tesbih etmeniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُلْ لَكُمْ لَوْلَا تُسَبِّحُونَ",
+      "verseTransliteration": "Kâle evsatuhum e lem ekul lekum levlâ tusebbihûn(tusebbihûne).",
+      "verseMeaning": "Ortancaları/ılımlı olanı şöyle dedi: \"Ben size söylemedim mi? Tespih etseydiniz ya!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 69,
+      "ayah": 52,
+      "formInAyah": "فَسَبِّحْ",
+      "transliteration": "fesebbiH",
+      "gloss": "öyleyse tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "verseTransliteration": "Fe sebbıh bismi rabbikel azîm(azîmi).",
+      "verseMeaning": "Hadi artık, yüce Rabbinin adını tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 76,
+      "ayah": 26,
+      "formInAyah": "وَسَبِّحْهُ",
+      "transliteration": "ve sebbiHhu",
+      "gloss": "ve O’nu tesbih eyle",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "verseTransliteration": "Ve minel leyli fescud lehu ve sebbihhu leylen tavîlâ(tavîlen).",
+      "verseMeaning": "Gecenin bir kısmında da O´na secde et! Ve geceleyin O´nu uzunca tespih et/uzun bir gece boyu O´nu tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 87,
+      "ayah": 1,
+      "formInAyah": "سَبِّحِ",
+      "transliteration": "sebbiHi",
+      "gloss": "tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+      "verseTransliteration": "Sebbihısme rabbikel a’lâ.",
+      "verseMeaning": "Rabbinin o yüce adını tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبَّحَ",
+      "sura": 110,
+      "ayah": 3,
+      "formInAyah": "فَسَبِّحْ",
+      "transliteration": "fesebbiH",
+      "gloss": "o halde tesbih et",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "verseTransliteration": "Fe sebbih bi hamdi rabbike vestagfirh(vestagfirhu), innehu kâne tevvâbâ(tevvâben).",
+      "verseMeaning": "Tespih et Rabbini O´na hamt ile! Ve O´ndan af dile! Çünkü O, Tevvâb´dır, günahları affeder sınırsız bir şekilde"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبْح",
+      "sura": 73,
+      "ayah": 7,
+      "formInAyah": "سَبْحًا",
+      "transliteration": "sebHen",
+      "gloss": "uğraşacağın şeyler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+      "verseTransliteration": "İnne leke fîn nehâri sebhan tavîlâ(tavîlen).",
+      "verseMeaning": "Kuşkusuz, gündüz boyu senin için uzun bir dolaşma/yoğun bir uğraş vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَبْح",
+      "sura": 79,
+      "ayah": 3,
+      "formInAyah": "سَبْحًا",
+      "transliteration": "sebHen",
+      "gloss": "yüzerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالسَّابِحَاتِ سَبْحًا",
+      "verseTransliteration": "Ves sâbihâti sebhâ(sebhan).",
+      "verseMeaning": "Yemin olsun, boşlukta yahut suda yüzüp gidenlere,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 2,
+      "ayah": 32,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "Seni tesbih ederiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ",
+      "verseTransliteration": "Kâlû subhâneke lâ ilme lenâ illâ mâ allemtenâ inneke entel alîmul hakîm(hakîmu).",
+      "verseMeaning": "Dediler ki: \"Yücedir şanın senin. Bize öğretmiş olduğunun dışında bilgimiz yok bizim. Sen, yalnız sen Alîm´sin, her şeyi en iyi şekilde bilirsin; Hakîm´sin, her şeyin bütün hikmetlerine sahipsin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 2,
+      "ayah": 116,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ بَلْ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَهُ قَانِتُونَ",
+      "verseTransliteration": "Ve kâlûttehazellâhu veleden, subhâneh(subhânehu), bel lehu mâ fîs semâvâti vel ard(ardı), kullun lehu kânitûn(kânitûne).",
+      "verseMeaning": "\"Allah çocuk edindi.\" dediler. Haşâ! Böyle bir şeyden arınmıştır O! Tam aksine, göklerdekiler de yerdekiler de O´na aittir. Bunların tümü O´nun önünde boyun bükmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 3,
+      "ayah": 191,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "sen yücesin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+      "verseTransliteration": "Ellezîne yezkurûnallâhe kıyâmen ve kuûden ve alâ cunûbihim ve yetefekkerûne fî halkıs semâvâti vel ard(ardı), rabbenâ mâ halakte hâzâ bâtılâ(bâtılan), subhâneke fekınâ azâben nâr(nârı).",
+      "verseMeaning": "Aklı ve gönlü işletenler o kişilerdir ki, ayakta, otururken, yan yatarken hep Allah´ı zikrederler; göklerin ve yerin yaratılışı hakkında derin derin düşünürler: \"Ey Rabbimiz! Sen bunu boşuna yaratmadın. Şanın yücedir senin. Ateş azabından koru bizi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 4,
+      "ayah": 171,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Yâ ehlel kitâbi lâ taglû fî dînikum ve lâ tekûlû alâllâhi illel hakk(hakka) innemel mesîhu îsebnu meryeme resûlullâhi ve kelimetuh(kelimetuhu), elkâhâ ilâ meryeme ve rûhun minh(minhu), fe âminû billâhi ve rusulih(rusulihî), ve lâ tekûlû selâseh(selâsetun) intehû hayran lekum innemâllâhu ilâhun vâhid(vâhidun), subhânehû en yekûne lehu veled(veledun), lehu mâ fîs semâvâti ve mâ fîl ard(ardı) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "Ey Ehlikitap! Dininizde aşırılığa gidip doymazlık etmeyin! Allah hakkında gerçek dışı bir şey söylemeyin! Meryem oğlu İsa Mesih, Allah´ın resulü ve kelimesidir. Onu, kendisinden bir ruhla beraber Meryem´e atmıştır. Artık Allah´a ve resullerine inanın. \"Üçtür!\" demeyin. Son verin, sizin için daha iyi olur. Allah Vâhid´dir, tek ve biricik ilahtır. Kendisi için bir çocuk olmasından arınmıştır O. Yalnız O´nundur göklerdekiler ve yerdekiler. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 5,
+      "ayah": 116,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "sen yücesin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَٰهَيْنِ مِنْ دُونِ اللَّهِ ۖ قَالَ سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ ۚ إِنْ كُنْتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ ۚ تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ ۚ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+      "verseTransliteration": "Ve iz kâlellâhu yâ îsebne meryeme e ente kulte lin nâsittehizûnî ve ummiye ilâheyni min dûnillâh(dûnillâhi) kâle subhâneke mâ yekûnu lî en ekûle mâ leyse lî bi hakk(hakkın) in kuntu kultuhu fe kad alimteh(alimtehu) ta’lemû mâ fî nefsî ve lâ a’lemu mâ fî nefsik(nefsike) inneke ente allemul guyûb(guyûbi).",
+      "verseMeaning": "Allah şunu da söyledi: \"Ey Meryem oğlu İsa! Allah´ın yanında beni ve annemi de iki tanrı olarak kabul edin diye insanlara sen mi söyledin?\" İsa dedi: \"Hâşâ! Tespih ederim seni. Hakkım olmayan bir şeyi söylemek benim haddime değildir. Eğer onu söylemişsem sen onu elbette bilirsin. Sen benim içimde olanı bilirsin ama ben senin zatında olanı bilmem. Çünkü sen, evet sen, gaybları çok iyi bilensin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 6,
+      "ayah": 100,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلُوا لِلَّهِ شُرَكَاءَ الْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا لَهُ بَنِينَ وَبَنَاتٍ بِغَيْرِ عِلْمٍ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Ve cealû lillâhi şurekâel cinne ve halakahum ve harakû lehu benîne ve benâtin bi gayri ilm(ilmin), subhânehu ve teâlâ ammâ yasifûn(yasifûne).",
+      "verseMeaning": "Allah´a bir de cinleri/gözle görülmeyen yaratıkları ortak koştular. Oysaki, onları O yaratmıştır. Bilgisizce O´na oğullar ve kızlar isnat etme saçmalığını gösterdiler. Şanı yücedir O´nun! Onların nitelemelerinin ötesindedir O!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 7,
+      "ayah": 143,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "Sen yücesin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمَّا جَاءَ مُوسَىٰ لِمِيقَاتِنَا وَكَلَّمَهُ رَبُّهُ قَالَ رَبِّ أَرِنِي أَنْظُرْ إِلَيْكَ ۚ قَالَ لَنْ تَرَانِي وَلَٰكِنِ انْظُرْ إِلَى الْجَبَلِ فَإِنِ اسْتَقَرَّ مَكَانَهُ فَسَوْفَ تَرَانِي ۚ فَلَمَّا تَجَلَّىٰ رَبُّهُ لِلْجَبَلِ جَعَلَهُ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا ۚ فَلَمَّا أَفَاقَ قَالَ سُبْحَانَكَ تُبْتُ إِلَيْكَ وَأَنَا أَوَّلُ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve lemmâ câe mûsâ li mîkâtinâ ve kellemehu rabbuhu kâle rabbi erinî enzur ileyk(ileyke), kâle len terânî ve lakininzur ilel cebeli fe inistekarre mekânehu fe sevfe terânî fe lemmâ tecellâ rabbuhu lil cebeli cealehu dekkan ve harra mûsâ saıkan, fe lemmâ efaka kâle subhâneke tubtu ileyke ve ene evvelul mu’minîn(mu’minîne).",
+      "verseMeaning": "Musa, bizimle sözleştiği yere gelip Rabbi de kendisiyle konuşunca şöyle konuştu: \"Rabbim, göster bana kendini, göreyim seni.\" Dedi: \"Asla göremezsin beni. Ama şu dağa bak. Eğer o yerinde durabilirse, sen de beni görebileceksin.\" Rabbi dağa tecelli edince onu parça parça etti. Ve Musa baygın vaziyette yere yığıldı. Kendine gelince şöyle yakardı: \"Tespih ederim o yüce varlığını, tövbe edip sana yöneldim. İman edenlerin ilkiyim ben.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 9,
+      "ayah": 31,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا مِنْ دُونِ اللَّهِ وَالْمَسِيحَ ابْنَ مَرْيَمَ وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا إِلَٰهًا وَاحِدًا ۖ لَا إِلَٰهَ إِلَّا هُوَ ۚ سُبْحَانَهُ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "İttehazû ahbârehum ve ruhbânehum erbâben min dûnillâhi vel mesîhabne meryem(meryeme), ve mâ umirû illâ li ya´budû ilâhen vâhidâ (vâhiden),lâ ilâhe illâ huve, subhânehu ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Allah´ın yanında hahamlarını ve ruhbanlarını da rabler edindiler. Meryem oğlu Mesih´i de öyle. Oysa kendilerine, tek olan Allah´tan başkasına ibadet/kulluk etmemeleri emredilmişti. İlah yok o tek Allah´tan başka. Onların ortak koştuklarından arınmıştır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 10,
+      "ayah": 10,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "senin şanın pek yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَامٌ ۚ وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Da´vâhum fîhâ subhânekellâhumme ve tehiyyetuhum fîhâ selâm(selâmun), ve âhıru da´vâhum enil hamdulillâhi rabbil âlemîn(âlemîne).",
+      "verseMeaning": "Orada onların yakarışı, \"Tespih ederiz seni ey Allahımız!\" ve birbirlerine esenlik dilemeleri, \"selam\" şeklindedir. Ve onların son çağırışları şudur: Bütün övgüler âlemlerin Rabbi Allah´adır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 10,
+      "ayah": 18,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ وَيَقُولُونَ هَٰؤُلَاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ ۚ قُلْ أَتُنَبِّئُونَ اللَّهَ بِمَا لَا يَعْلَمُ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Ve ya´budûne min dûnillâhi mâ lâ yedurruhum ve lâ yenfeuhum ve yekûlûne hâulâi şufeâunâ indallâh(indallâhi), kul e tunebbiûnâllâhe bimâ lâ ya´lemu fîs semâvâti ve lâ fîl ard(ardı), subhânehu ve teâlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Allah´ın yanında bir de kendilerine zarar veremeyen, yarar sağlayamayan şeylere kulluk ediyorlar ve şöyle diyorlar: \"Bunlar bizim Allah katındaki şefaatçılarımızdır.\" De onlara: \"Allah´a, göklerde ve yerde bilmediği şeyleri mi haber veriyorsunuz?\" Şanı yücedir O´nun, ortak koştuklarından arınmıştır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 10,
+      "ayah": 68,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O bundan münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ هُوَ الْغَنِيُّ ۖ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ إِنْ عِنْدَكُمْ مِنْ سُلْطَانٍ بِهَٰذَا ۚ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Kâlûttehazallâhu veleden subhâneh(subhânehu), huvel ganiy(ganiyyu), lehu mâ fîs semâvâti ve mâ fîl ard(ardı), in indekum min sultânin bi hâzâ, e tekûlûne alâllâhi mâ lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "\"Allah çocuk edindi!\" dediler. Hâşâ! Allah bundan arınmıştır! O Ganî´dir, hiçbir şeye muhtaç olmaz! Göklerdekiler de yerdekiler de O´nundur. Elinizde, söylediğinize ilişkin hiçbir kanıt yok. Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 12,
+      "ayah": 108,
+      "formInAyah": "وَسُبْحَانَ",
+      "transliteration": "ve subHāne",
+      "gloss": "ve şanı yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Kul hâzihî sebîlî ed’û ilallâhi alâ basîretin ene ve menittebeanî, ve subhânallâhi ve mâ ene minel muşrikîn(muşrikîne).",
+      "verseMeaning": "De ki: \"İşte benim yolum budur. Ben, Allah´a basîret üzere çağırırım/dua ederim. Beni izleyenler de... Şanı yücedir Allah´ın! Ben müşriklerden değilim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 16,
+      "ayah": 1,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "(Allah) uzaktır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Etâ emrullâhi fe lâ testa’cilûh(testa’cilûhu), subhânehu ve teâlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Allah´ın emri geldi. Onunla yüzyüze gelmekte acele etmeyin. Tüm varlığın tespih ettiğidir o Allah. Arınmıştır onların şirk koştuklarından."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 16,
+      "ayah": 57,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "şanı yüce olan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ ۙ وَلَهُمْ مَا يَشْتَهُونَ",
+      "verseTransliteration": "Ve yec’alûne lillâhil benâti subhânehu ve lehum mâ yeştehûn(yeştehûne).",
+      "verseMeaning": "Tutuyor, Allah´a kızları nispet ediyorlar. Hâşâ! O, bunlardan arınmıştır. İştah duydukları şeyler de kendilerinin mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 17,
+      "ayah": 1,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "eksiklikten uzaktır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
+      "verseTransliteration": "Subhânellezî esrâ bi abdihî leylen minel mescidil harâmi ilel mescidil aksallezî bâreknâ havlehu li nuriyehu min âyâtinâ, innehu huves semîul basîr(basîru).",
+      "verseMeaning": "Bütün varlıkların tespihi o kudretdir ki, ayetlerimizden bazılarını kendisine gösterelim/kendisini ayetlerimizden bir parça olarak gösterelim diye kulunu, gecenin birinde Mescit-i Haram´dan, çevresini bereketlendirdiğimiz Mescid-i Aksa´ya yürütmüştür. Hiç kuşkusuz, O´dur Semî´ ve Basîr."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 17,
+      "ayah": 43,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "(haşa) münezzehtir O",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا",
+      "verseTransliteration": "Subhânehu ve teâlâ ammâ yekûlûne uluvven kebîrâ(kebîren).",
+      "verseMeaning": "O hep tespih edilen, onların söylediklerinden çok uzak ve çok yüksek; hem de ölçüye sığmayacak kadar yüksek..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 17,
+      "ayah": 93,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "şanı yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا بَشَرًا رَسُولًا",
+      "verseTransliteration": "Ev yekûne leke beytun min zuhrufin ev terkâ fîs semâ(semâi), ve len nu’mine li rukıyyike hattâ tunezzile aleynâ kitâben nakreuh(nakreuhu), kul subhâne rabbî hel kuntu illâ beşeren resûlâ(resûlen).",
+      "verseMeaning": "\"Yahut altından bir evin olmalı, yahut göğe yükselmelisin. Ancak senin göğe çıktığına, okuyacağımız bir kitabı bize indireceğin zamana kadar, asla inanmayız!\" De ki: \"Rabbimin şanı yücedir. Ben, insan bir resulden başka neyim ki?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 17,
+      "ayah": 108,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "şanı yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَقُولُونَ سُبْحَانَ رَبِّنَا إِنْ كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+      "verseTransliteration": "Ve yekûlûne subhâne rabbinâ in kâne va’du rabbinâ le mef’ûlâ(mef’ûlen).",
+      "verseMeaning": "Ve diyorlar: \"Rabbimizin şanı yücedir, Rabbimizin vaadi mutlaka gerçekleşecektir!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 19,
+      "ayah": 35,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O’nun şanı yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ ۖ سُبْحَانَهُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Mâ kâne lillâhi en yettehıze min veledin subhâneh(subhânehu), izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Bir oğul edinmek Allah´a asla yakışmaz. O´nun şanı yücedir. Bir iş ve oluşa karar verdi mi, ona sadece \"Ol!\" der, o hemen oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 21,
+      "ayah": 22,
+      "formInAyah": "فَسُبْحَانَ",
+      "transliteration": "fesubHāne",
+      "gloss": "yüce(münezzeh)dir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا ۚ فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Lev kâne fîhimâ âlihetun illâllâhu le fesedetâ, fe subhânallâhi rabbil arşi ammâ yasıfûn(yasıfûne).",
+      "verseMeaning": "Eğer, yerde gökte Allah´tan başka tanrılar olsaydı, o ikisi de mutlaka fesada uğrardı. Arşın Rabbi o Allah, onların nitelendirmelerinden yücedir, uzaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 21,
+      "ayah": 26,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُكْرَمُونَ",
+      "verseTransliteration": "Ve kâlûttehazer rahmânu veleden subhâneh(subhânehu), bel ıbâdun mukremûn(mukremûne).",
+      "verseMeaning": "\"Rahman çocuk edindi\" dediler. Hâşâ, bundan arınmıştır O! Onlar, lütuflandırılmış kullardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 21,
+      "ayah": 87,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "senin şanın yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَذَا النُّونِ إِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ أَنْ لَنْ نَقْدِرَ عَلَيْهِ فَنَادَىٰ فِي الظُّلُمَاتِ أَنْ لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "verseTransliteration": "Ve zennûni iz zehebe mugâdıben fe zanne en len nakdire aleyhi fe nâdâ fiz zulumâti en lâ ilâhe illâ ente subhâneke innî kuntu minez zâlimîn(zâlimîne).",
+      "verseMeaning": "Ve Zünnûn. Hani kızarak gitmişti de ona asla güç yetiremeyeceğimizi/ölçüyü kendisine uygulamayacağımızı sanmıştı. Sonra, karanlıkların bağrında şöyle yakardı: \"Senden başka ilah yok, tespih ederim seni. Kuşkusuz, ben zalimlerden oldum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 23,
+      "ayah": 91,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "münezehtir (uzaktır)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَا اتَّخَذَ اللَّهُ مِنْ وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَذَهَبَ كُلُّ إِلَٰهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Mettehazallâhu min veledin ve mâ kâne meahu min ilâhin izen le zehebe kullu ilâhin bimâ halaka ve le alâ ba’duhum alâ ba’d(ba’dın), subhânallâhi ammâ yasıfûn(yasıfûne).",
+      "verseMeaning": "Allah, çocuk filan edinmemiştir. O´nunla beraber herhangi bir ilah da yoktur. Eğer böyle olsaydı, her ilah kendi yarattığını yok ederdi ve mutlaka biri ötekine üstün gelmeye çalışırdı. Allah´ın şanı onların nitelendirmelerinden yücedir, arınmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 24,
+      "ayah": 16,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "Seni tenzih ederiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَوْلَا إِذْ سَمِعْتُمُوهُ قُلْتُمْ مَا يَكُونُ لَنَا أَنْ نَتَكَلَّمَ بِهَٰذَا سُبْحَانَكَ هَٰذَا بُهْتَانٌ عَظِيمٌ",
+      "verseTransliteration": "Ve lev lâ iz semi’tumûhu kultum mâ yekûnu lenâ en netekelleme bi hâzâ subhâneke hâzâ buhtânun azîm(azîmun).",
+      "verseMeaning": "Onu duyduğunuzda, \"Bu konuda söz söylememiz bize yakışmaz; hâşâ, bu büyük bir iftiradır\" demeniz gerekmez miydi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 25,
+      "ayah": 18,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "senin şanın yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا سُبْحَانَكَ مَا كَانَ يَنْبَغِي لَنَا أَنْ نَتَّخِذَ مِنْ دُونِكَ مِنْ أَوْلِيَاءَ وَلَٰكِنْ مَتَّعْتَهُمْ وَآبَاءَهُمْ حَتَّىٰ نَسُوا الذِّكْرَ وَكَانُوا قَوْمًا بُورًا",
+      "verseTransliteration": "Kâlû subhâneke mâ kâne yenbegî lenâ en nettehıze min dûnike min evliyâe ve lâkin metta’tehum ve âbâehum hattâ nesûz zikre, ve kânû kavmen bûra(bûren).",
+      "verseMeaning": "Derler ki: \"Tespih ederiz seni; seni bırakıp da başka dostlar edinmek bize yaraşmazdı. Ama sen onları ve atalarını öylesine nimetlendirdin ki, zikiri/Kur´an´ı unuttular ve helâke giden bir topluluk oldular.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 27,
+      "ayah": 8,
+      "formInAyah": "وَسُبْحَانَ",
+      "transliteration": "ve subHāne",
+      "gloss": "eksikliklerden münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَمَّا جَاءَهَا نُودِيَ أَنْ بُورِكَ مَنْ فِي النَّارِ وَمَنْ حَوْلَهَا وَسُبْحَانَ اللَّهِ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Fe lemmâ câehâ nûdiye en bûrike men fîn nâri ve men havlehâ, ve subhânallâhi rabbil âlemîn(âlemîne).",
+      "verseMeaning": "Mûsa ateşe vardığında şöyle çağrıldı. \"Ateşteki kimse de ateşin çevresindekiler de kutsal ve bereketli kılınmıştır. Ve âlemlerin Rabbi olan Allah, bütün eksiklik ve iğretiliklerden arınmıştır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 28,
+      "ayah": 68,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ الْخِيَرَةُ ۚ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Ve rabbuke yahluku mâ yeşâu ve yahtâr(yahtâru), mâ kâne lehumul hıyarat(hıyaratu), subhânallâhi ve teâlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Rabbin dilediğini yaratır ve seçer. Seçim onların değil/onların seçme hakkı yok. Allah, onların ortak koştuklarından yücedir, arınmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 30,
+      "ayah": 17,
+      "formInAyah": "فَسُبْحَانَ",
+      "transliteration": "fesubHāne",
+      "gloss": "öyle ise tesbih edin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "verseTransliteration": "Fe subhânallâhi hîne tumsûne ve hîne tusbıhûn(tusbıhûne).",
+      "verseMeaning": "O halde tespih Allah için. Akşama erdiğinizde de sabaha erdiğinizde de..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 30,
+      "ayah": 40,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِنْ شُرَكَائِكُمْ مَنْ يَفْعَلُ مِنْ ذَٰلِكُمْ مِنْ شَيْءٍ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Allâhullezî halakakum summe rezekakum summe yumîtukum summe yuhyîkum, hel min şurekâikum men yef’alu min zâlikum min şey’(şey’in), subhânehu ve teâlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Allah´tır ki sizi yaratmış, sonra rızıklandırmıştır. Sonra sizi öldürüyor, sonra diriltiyor. Peki, ortak koştuklarınızdan biri var mı, bunlardan birşeyi yapabilecek? Yücedir, arınmıştır onların ortak koştuklarından O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 34,
+      "ayah": 41,
+      "formInAyah": "سُبْحَانَكَ",
+      "transliteration": "subHāneke",
+      "gloss": "sen yücesin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا سُبْحَانَكَ أَنْتَ وَلِيُّنَا مِنْ دُونِهِمْ ۖ بَلْ كَانُوا يَعْبُدُونَ الْجِنَّ ۖ أَكْثَرُهُمْ بِهِمْ مُؤْمِنُونَ",
+      "verseTransliteration": "Kâlû subhâneke ente veliyyunâ min dûnihim, bel kânû ya’budûnel cinn(cinne), ekseruhum bihim mû’minûn(mû’minûne).",
+      "verseMeaning": "Melekler derler ki: \"Tespih ederiz seni! Bizim Velî´miz sendin, onlar değil. Doğrusu şu ki, onlar cinlere tapıyorlardı. Onların çoğu cinlere iman etmekteydi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 36,
+      "ayah": 36,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "ne yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ وَمِنْ أَنْفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+      "verseTransliteration": "Subhânellezî halakal ezvâce kullehâ mimmâ tunbitulardu ve min enfusihim ve mimmâ lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Şanı yücedir o Allah´ın ki toprağın bitirdiklerinden, onların öz benliklerinden ve nice bilmediklerinden bütün çiftleri yaratmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 36,
+      "ayah": 83,
+      "formInAyah": "فَسُبْحَانَ",
+      "transliteration": "fesubHāne",
+      "gloss": "yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+      "verseTransliteration": "Fe subhânellezî bi yedihî melekûtu kulli şey’in ve ileyhi turceûn(turceûne).",
+      "verseMeaning": "Herşeyin kaynağı/egemenliği elinde olan o yaratıcının şanı çok yücedir! Sonunda O´na döndürüleceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 37,
+      "ayah": 159,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "(münezzehtir) yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Subhânallâhi ammâ yasifûn(yasifûne).",
+      "verseMeaning": "Allah arınmıştır bunların nitelemelerinden."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 37,
+      "ayah": 180,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Subhâne rabbike rabbil izzeti ammâ yasifûn(yasifûne).",
+      "verseMeaning": "Senin Rabbinin, o ululuk ve kudretin Rabbinin şanı yücedir onların verdiği sıfatlardan..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 39,
+      "ayah": 4,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O (bundan münezzehtir) yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَوْ أَرَادَ اللَّهُ أَنْ يَتَّخِذَ وَلَدًا لَاصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَاءُ ۚ سُبْحَانَهُ ۖ هُوَ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+      "verseTransliteration": "Lev erâdallâhu en yettehıze veleden lastafâ mimmâ yahluku mâ yeşâu subhâneh(subhânehu), huvallâhul vâhıdul kahhâr(kahhâru).",
+      "verseMeaning": "Eğer Allah bir çocuk edinmek isteseydi, yaratmakta olduklarından dilediğini seçerdi. Böyle birşeyden arınmıştır O. Allah´tır, Vahid´dir, Kahhar´dır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 39,
+      "ayah": 67,
+      "formInAyah": "سُبْحَانَهُ",
+      "transliteration": "subHānehu",
+      "gloss": "O münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّمَاوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Ve mâ kaderûllâhe hakka kadrihî vel ardu cemîan kabdatuhu yevmel kıyâmeti ves semâvâtu matviyyâtun bi yemînih(yemînihi), subhânehu ve te’âlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Allah´ı, kadrine/şanına yaraşır şekilde tanıyamadılar. Oysaki kıyamet günü, yeryüzü tamamen O´nun avucudur/avucundadır; gökler de O´nun sağ elinde/kudretinde dürülmüş haldedir. Şanı yücedir O´nun; arınmıştır onların ortak koştuklarından."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 43,
+      "ayah": 13,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "şanı yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِتَسْتَوُوا عَلَىٰ ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا اسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+      "verseTransliteration": "Li testevû alâ zuhûrihî summe tezkurû ni’mete rabbikum izesteveytum aleyhi, ve tekûlû subhânellezî sehhare lenâ hâzâ ve mâ kunnâ lehu mukrinîn(mukrinîne).",
+      "verseMeaning": "Ki onların sırtlarına kurulasınız, sonra oraya kurulduğunuzda, Rabbinizin nimetini hatırlayıp da şöyle diyesiniz: \"Adı ve kudreti yücedir bunu bizim emrimize verenin! Yoksa biz bunu kendimize yanaştıramazdık.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 43,
+      "ayah": 82,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "münezzehtir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "سُبْحَانَ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Subhâne rabbis semâvâti vel ardı rabbil arşi ammâ yasıfûn(yasıfûne).",
+      "verseMeaning": "Göklerin ve yerin Rabbi, arşın Rabbi onların nitelendirmelerinden arınmıştır, yücedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 52,
+      "ayah": 43,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "şanı yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Em lehum ilâhun gayrullâh(gayrullâhi), subhânallâhi ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Yoksa Allah´tan başka bir ilahları mı var? Uzaktır Allah, onların ortak koştuklarından."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 59,
+      "ayah": 23,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "yücedir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Huvallâhullezî lâ ilâhe illâ huve, elmelikul kuddûsus selâmul mû’minul muheyminul azîzul cebbârul mutekebbir(mutekebbiru), subhânallâhi ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Öyle Allah ki O, ilah yok O´ndan gayrı! Melik, Kuddûs, Selâm, Mümin, Müheymin, Azîz, Cebbâr, Mütekebbir. Allah, onların ortak koşmalarından yücedir, arınmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُبْحَٰن",
+      "sura": 68,
+      "ayah": 29,
+      "formInAyah": "سُبْحَانَ",
+      "transliteration": "subHāne",
+      "gloss": "tesbih ederiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ",
+      "verseTransliteration": "Kâlû subhâne rabbinâ innâ kunnâ zâlimîn(zâlimîne).",
+      "verseMeaning": "O zaman dediler ki: \"Tespih ederiz seni, ey Rabbimiz! Gerçekten biz zalimler olduk.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَّٰبِحَٰت",
+      "sura": 79,
+      "ayah": 3,
+      "formInAyah": "وَالسَّابِحَاتِ",
+      "transliteration": "ve ssābiHāti",
+      "gloss": "yüzüp gidenlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالسَّابِحَاتِ سَبْحًا",
+      "verseTransliteration": "Ves sâbihâti sebhâ(sebhan).",
+      "verseMeaning": "Yemin olsun, boşlukta yahut suda yüzüp gidenlere,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسَبِّحُون",
+      "sura": 37,
+      "ayah": 143,
+      "formInAyah": "الْمُسَبِّحِينَ",
+      "transliteration": "l-musebbiHīne",
+      "gloss": "tesbih edenlerden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ",
+      "verseTransliteration": "Fe lev lâ ennehu kâne minel musebbihîn(musebbihîne).",
+      "verseMeaning": "Eğer tespih edenlerden olmasaydı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسَبِّحُون",
+      "sura": 37,
+      "ayah": 166,
+      "formInAyah": "الْمُسَبِّحُونَ",
+      "transliteration": "l-musebbiHūne",
+      "gloss": "o tesbih edenler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ",
+      "verseTransliteration": "Ve innâ le nahnul musebbihûn(musebbihûne).",
+      "verseMeaning": "O durmadan tespih edenler elbette biziz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْبَحُ",
+      "sura": 21,
+      "ayah": 33,
+      "formInAyah": "يَسْبَحُونَ",
+      "transliteration": "yesbeHūne",
+      "gloss": "yüzmektedir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+      "verseTransliteration": "Ve huvellezî halakal leyle ven nehâre veş şemse vel kamer(kamere), kullun fî felekin yesbehûn(yesbehûne).",
+      "verseMeaning": "O odur ki, geceyi, gündüzü, Güneş´i ve Ay´ı yarattı. Her biri bir yörüngede yüzmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْبَحُ",
+      "sura": 36,
+      "ayah": 40,
+      "formInAyah": "يَسْبَحُونَ",
+      "transliteration": "yesbeHūne",
+      "gloss": "yüzmektedirler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+      "verseTransliteration": "Leş şemsu yenbegî lehâ en tudrikel kamere ve lel leylu sâbikun nehâr(nehâri), ve kullun fî felekin yesbehûn(yesbehûne).",
+      "verseMeaning": "Güneş´in Ay´a ulaşıp çatması gerekmiyor. Gecenin de gündüzü geçmesi gerekmez. Her biri bir yörüngede yüzmektedir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sbH"
+}

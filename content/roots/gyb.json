@@ -1,0 +1,1303 @@
+{
+  "id": "gyb",
+  "latinName": "Gayn-Ye-Be",
+  "lettersArabic": "غ ي ب",
+  "meanings": [
+    "absent/remote/hidden/concealed, absent from the range or beyond the reach of perception by sense or of mental perception, unseen/invisible, slander, backbite, hidden reality, absent one."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 60,
+  "lemmas": [
+    {
+      "formArabic": "غَائِبَة",
+      "count": 1
+    },
+    {
+      "formArabic": "غَائِبِين",
+      "count": 3
+    },
+    {
+      "formArabic": "غَيْب",
+      "count": 49
+    },
+    {
+      "formArabic": "غُيُوب",
+      "count": 4
+    },
+    {
+      "formArabic": "غَيَٰبَت",
+      "count": 2
+    },
+    {
+      "formArabic": "يَغْتَب",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَائِبَة",
+      "sura": 27,
+      "ayah": 75,
+      "formInAyah": "غَائِبَةٍ",
+      "transliteration": "ğāibetin",
+      "gloss": "gizli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ مُبِينٍ",
+      "verseTransliteration": "Ve mâ min gâibetin fîs semâi vel ardı illâ fî kitâbin mubîn(mubînin).",
+      "verseMeaning": "Yerde ve gökte hiçbir gayb yoktur ki, açıklayıcı bir Kitap´ta olmasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَائِبِين",
+      "sura": 7,
+      "ayah": 7,
+      "formInAyah": "غَائِبِينَ",
+      "transliteration": "ğāibīne",
+      "gloss": "onlardan uzak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَنَقُصَّنَّ عَلَيْهِمْ بِعِلْمٍ ۖ وَمَا كُنَّا غَائِبِينَ",
+      "verseTransliteration": "Fe le nekussanne aleyhim bi ilmin ve mâ kunnâ gâibîn(gâibîne).",
+      "verseMeaning": "Onlara bir ilmin tanıklığında bütün serüveni mutlaka anlatacağız. Biz olup bitenlerden habersiz değildik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَائِبِين",
+      "sura": 27,
+      "ayah": 20,
+      "formInAyah": "الْغَائِبِينَ",
+      "transliteration": "l-ğāibīne",
+      "gloss": "kayıplardan-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ",
+      "verseTransliteration": "Ve tefekkadat tayra fe kâle mâliye lâ eral hudhude em kâne minel gâibîn(gâibîne).",
+      "verseMeaning": "Kuşları teftiş etti de dedi ki: \"Hüdhüd´ü neden göremiyorum, yoksa kayıplara mı karıştı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَائِبِين",
+      "sura": 82,
+      "ayah": 16,
+      "formInAyah": "بِغَائِبِينَ",
+      "transliteration": "biğāibīne",
+      "gloss": "kaybolacak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+      "verseTransliteration": "Ve mâ hum anhâ bi gâibîn(gâibîne).",
+      "verseMeaning": "Onlar ondan, görülmeyecek şekilde uzaklaşmış değillerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 2,
+      "ayah": 3,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "gaybde(gizlide)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "verseTransliteration": "Ellezîne yu’minûne bil gaybi ve yukîmûnes salâte ve mimmâ razaknâhum yunfikûn(yunfikûne).",
+      "verseMeaning": "Ki onlar, gayba inananlar, namazı kılanlardır. Ve kendilerine rızk olarak verdiklerimizden, başkalarına pay çıkaranlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 2,
+      "ayah": 33,
+      "formInAyah": "غَيْبَ",
+      "transliteration": "ğaybe",
+      "gloss": "gayblarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+      "verseTransliteration": "Kâle yâ âdemu enbi’hum bi esmâihim, fe lemmâ enbeehum bi esmâihim, kâle e lem ekul lekum innî a’lemu gaybes semâvâti vel ardı ve a’lemu mâ tubdûne ve mâ kuntum tektumûn(tektumûne).",
+      "verseMeaning": "Allah buyurdu: \"Ey Âdem, haber ver onlara onların adlarını.\" Adem onlara onların adlarını haber verince, Allah şöyle buyurdu: \"Dememiş miydim ben size! Ki ben, göklerin ve yerin gaybını en iyi bilenim. Ve ben, sizin açığa vurduklarınızı da saklayageldiklerinizi de en iyi biçimde bilmekteyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 3,
+      "ayah": 44,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görünmez alemin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَامَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ",
+      "verseTransliteration": "Zâlike min enbâil gaybi nûhîhi ileyk(ileyke), ve mâ kunte ledeyhim iz yulkûne eklâmehum eyyuhum yekfulu meryeme, ve mâ kunte ledeyhim iz yahtesımûn(yahtesımûne).",
+      "verseMeaning": "Bu, gayb haberlerindendir ki, sana vahyediyoruz. Onlar, Meryem´in bakımını kimin üstleneceğini belirlemek için kalemlerini atarlarken sen yanlarında değildin. Çekiştikleri sırada da yanlarında değildin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 3,
+      "ayah": 179,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا كَانَ اللَّهُ لِيَذَرَ الْمُؤْمِنِينَ عَلَىٰ مَا أَنْتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ الْخَبِيثَ مِنَ الطَّيِّبِ ۗ وَمَا كَانَ اللَّهُ لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلَٰكِنَّ اللَّهَ يَجْتَبِي مِنْ رُسُلِهِ مَنْ يَشَاءُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۚ وَإِنْ تُؤْمِنُوا وَتَتَّقُوا فَلَكُمْ أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "Mâ kânallâhu li yezerel mu’minîne alâ mâ entum aleyhi hattâ yemîzel habîse minet tayyib(tayyibi), ve mâ kânallâhu li yutliakum alel gaybi ve lâkinnallâhe yectebî min rusulihî men yeşâu fe âminû billâhi ve rusulih(rusulihî), ve in tu’minû ve tettekû fe lekum ecrun azîm(azîmun).”",
+      "verseMeaning": "Allah, müminleri şu üzerinde bulunduğunuz halde bırakmayacaktır. Sonuçta pisi temizden ayıracaktır. Allah sizi gaybı bilir duruma da getirmeyecektir. Şu var ki Allah, resullerinden dilediğini seçer. O halde Allah´a ve resullerine inanın. Eğer inanır, korunursanız sizin için büyük bir ödül vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 4,
+      "ayah": 34,
+      "formInAyah": "لِلْغَيْبِ",
+      "transliteration": "lilğaybi",
+      "gloss": "gizliyi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ ۚ وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "verseTransliteration": "Er ricâlu kavvâmûne alen nisâi bi mâ faddalallâhu ba’dahum alâ ba’dın ve bi mâ enfekû min emvâlihim fes sâlihâtu kânitâtun hâfizâtun lil gaybi bi mâ hafizallâh(hafizallâhu) vellâtî tehâfûne nuşûzehunne fe ızûhunne vehcurûhunn(vehcurûhunne) fîl medâcıı vadrıbûhunne fe in ata’nekum fe lâ tebgû aleyhinne sebîlâ(sebîlen) innallâhe kâne aliyyen kebîrâ(kebîren).",
+      "verseMeaning": "Erkekler; kadınları gözetip kollayıcıdırlar. Şundan ki, Allah, insanların bazılarını bazılarından üstün kılmıştır ve erkekler mallarından bol bol harcamışlardır. İyi ve temiz kadınlar saygılıdırlar; Allah´ın kendilerini koruduğu gibi, gizliliği gereken şeyi korurlar. Sadakatsizlik ve iffetsizliklerinden korktuğunuz kadınlara önce öğüt verin, sonra onları yataklarında yalnız bırakın ve nihayet onları evden çıkarın/bulundukları yerden başka yere gönderin! Bunun üzerine size saygılı davranırlarsa artık onlar aleyhine başka bir yol aramayın. Allah çok yücedir, sınırsızca büyüktür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 5,
+      "ayah": 94,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "gizlide",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللَّهُ مَنْ يَخَافُهُ بِالْغَيْبِ ۚ فَمَنِ اعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû le yebluvennekumullâhu bi şey’in mines saydı tenâluhu eydîkum ve rimâhukum li ya’lemallâhu men yahâfuhu bil gayb(gaybi), fe meni’tedâ ba’de zâlike fe lehu azâbun elîm(elîmun).",
+      "verseMeaning": "Ey iman sahipleri! Allah sizi, ellerinizin ve mızraklarınızın erişeceği av türünden bir şeyle mutlaka deneyecektir ki, gözün fark edemediği alanlarda O´ndan kim korkuyor bilsin. Bundan sonra azıp sınırı çiğneyen için korkunç bir azap olacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 6,
+      "ayah": 50,
+      "formInAyah": "الْغَيْبَ",
+      "transliteration": "l-ğaybe",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ لَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ لَكُمْ إِنِّي مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ ۚ قُلْ هَلْ يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+      "verseTransliteration": "Kul lâ ekûlu lekum indî hazâinullâhi ve lâ a’lemul gaybe ve lâ ekûlu lekum innî melek(melekun), in ettebiu illâ mâ yûhâ ileyy(ileyye), kul hel yestevîl a’mâ vel basîr(basîru),e fe lâ tetefekkerûn(tetefekkerûne).",
+      "verseMeaning": "Onlara şunu söyle: \"Ben size Allah´ın hazineleri yanımdadır demiyorum. Gaybı da bilmem ben! Size ben bir meleğim de demiyorum. Yalnız bana vahyedilene uyarım ben!\" Sor onlara: \"Körle gören bir olur mu? Hâlâ düşünmüyor musunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 6,
+      "ayah": 59,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gayb’ın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ ۚ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِي ظُلُمَاتِ الْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِي كِتَابٍ مُبِينٍ",
+      "verseTransliteration": "Ve indehu mefâtihul gaybi lâ ya’lemuhâ illâ huve, ve ya’lemu mâ fîl berri vel bahr(bahri), ve mâ teskutu min varakatin illâ ya’lemuhâ ve lâ habbetin fî zulumâtil ardı ve lâ ratbin ve lâ yâbisin illâ fî kitâbin mubîn(mubînin).",
+      "verseMeaning": "Gaybın anahtarları O´nun yanındadır; onları O´ndan başkası bilmez. O, karada ve denizde olanı da bilir. O´nun bilgisi dışında bir yaprak bile düşmez. Toprağın karanlıklarındaki bir dâne, yaş ve kuru her şey apaçık bir Kitap´ın içindedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 6,
+      "ayah": 73,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gizliyi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۖ وَيَوْمَ يَقُولُ كُنْ فَيَكُونُ ۚ قَوْلُهُ الْحَقُّ ۚ وَلَهُ الْمُلْكُ يَوْمَ يُنْفَخُ فِي الصُّورِ ۚ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+      "verseTransliteration": "Ve huvellezî halakas semâvâti vel arda bil hakk(hakkı), ve yevme yekûlu kun fe yekûn(yekûnu), kavluhul hakk(hakku), ve lehul mulku yevme yunfehu fîs sûr(sûri), âlimul gaybi veş şehâdeh(şehâdeti), ve huvel hakîmul habîr(habîru).",
+      "verseMeaning": "Gökleri ve yeri hak olarak yaratan da O´dur. \"Ol!\" dediği gün, hemen oluverir. Sözü haktır O´nun. Sûra üfleneceği gün de mülk ve yönetim O´nundur. Âlim´dir, görünmeyeni de görüneni de bilen O´dur. O´dur Hakîm, O´dur Habîr."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 7,
+      "ayah": 188,
+      "formInAyah": "الْغَيْبَ",
+      "transliteration": "l-ğaybe",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ لَا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَاءَ اللَّهُ ۚ وَلَوْ كُنْتُ أَعْلَمُ الْغَيْبَ لَاسْتَكْثَرْتُ مِنَ الْخَيْرِ وَمَا مَسَّنِيَ السُّوءُ ۚ إِنْ أَنَا إِلَّا نَذِيرٌ وَبَشِيرٌ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "Kul lâ emliku li nefsî nef’an ve lâ darran illâ mâşaallâh(mâşaallâhu), ve lev kuntu a’lemul gaybe lesteksertu minel hayri ve mâ messeniyes sûu in ene illâ nezîrun ve beşîrun li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "De ki: \"Ben kendi nefsime, Allah´ın dilediğinden başka ne bir yarar sağlayabilirim ne de bir zarar verebilirim. Eğer gaybı bilseydim elbette daha çok hayır yapardım. Ama bana kötülük dokunmamıştır bile. Ben, inanan bir topluluk için bir uyarıcı ve müjdeciden başkası değilim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 9,
+      "ayah": 94,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görülmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُلْ لَا تَعْتَذِرُوا لَنْ نُؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا اللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ya´tezirûne ileykum izâ reca´tum ileyhim, kul lâ ta´tezirû len nu´mine lekum kad nebbe enallâhu min ahbârikum, ve se yerallâhu amelekum ve resûluhu summe tureddûne ilâ âlimil gaybi veş şehâdetî fe yunebbiukum bi mâ kuntum ta´melûn(ta´melûne).",
+      "verseMeaning": "Dönüp yanlarına geldiğinizde sizden özür dilerler. De ki: \"Özür dilemeyin. Size asla inanmayacağız. Allah bize sizin hallerinizden birçoğunu haber vermiştir. Yapıp ettiğinizi Allah da resulü de görecektir. Sonra görünmeyen ve görünen âlemleri bilenin huzuruna çıkarılacaksınız da O size yapmakta olduklarınızı haber verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 9,
+      "ayah": 105,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görülmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve kuli’melû fe se yerallâhu amelekum ve resûluhu vel mu’minûn(mu’minûne), ve se tureddûne ilâ âlimil gaybi veş şehâdeti fe yunebbiukum bi mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "De ki: \"İş yapıp değer üretin; yapıp ürettiğinizi Allah da resulü de müminler de görecektir. Ve siz, görülmeyen âlemi de görülen âlemi de bilenin huzuruna döndürüleceksiniz, O size, yapıp ettiklerinizi bir bir haber verecektir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 10,
+      "ayah": 20,
+      "formInAyah": "الْغَيْبُ",
+      "transliteration": "l-ğaybu",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَقُولُونَ لَوْلَا أُنْزِلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ ۖ فَقُلْ إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ",
+      "verseTransliteration": "Ve yekûlûne lev lâ unzile aleyhi âyetun min rabbih(rabbihi), fe kul innemel gaybu lillâhi fentezirû, innî meakum minel muntazirîn(muntazirîne).",
+      "verseMeaning": "Şöyle derler: \"Ona Rabbinden bir mucize indirilseydi ya!\" De ki: \"Gayb, Allah´ın tekelinde. Hadi bekleyin; sizinle birlikte ben de bekleyenlerdenim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 11,
+      "ayah": 31,
+      "formInAyah": "الْغَيْبَ",
+      "transliteration": "l-ğaybe",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ إِنِّي مَلَكٌ وَلَا أَقُولُ لِلَّذِينَ تَزْدَرِي أَعْيُنُكُمْ لَنْ يُؤْتِيَهُمُ اللَّهُ خَيْرًا ۖ اللَّهُ أَعْلَمُ بِمَا فِي أَنْفُسِهِمْ ۖ إِنِّي إِذًا لَمِنَ الظَّالِمِينَ",
+      "verseTransliteration": "Ve lâ ekûlu lekum indî hazâinullâhi ve lâ a’lemul gaybe ve lâ ekûlu innî melekun ve lâ ekûlu lillezîne tezderî a’yunukum len yu’tiyehumullâhu hayrâ(hayren), allâhu a’lemu bimâ fî enfusihim, innî izen le minez zâlimîn(zâlimîne).",
+      "verseMeaning": "\"Ben size demiyorum ki, Allah´ın hazineleri benim yanımdadır. Ben gaybı bilmem. Ben bir meleğim de demiyorum. Ama gözlerinizin horlayarak baktığı kişiler için, ´Allah bunlara hiçbir hayır vermeyecek´ diyemem. Onların benliklerinde neyin saklı olduğunu Allah daha iyi bilir. Başka türlü davranırsam kesinlikle zalimlerden olurum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 11,
+      "ayah": 49,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "تِلْكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهَا إِلَيْكَ ۖ مَا كُنْتَ تَعْلَمُهَا أَنْتَ وَلَا قَوْمُكَ مِنْ قَبْلِ هَٰذَا ۖ فَاصْبِرْ ۖ إِنَّ الْعَاقِبَةَ لِلْمُتَّقِينَ",
+      "verseTransliteration": "Tilke min enbâil gaybi nûhîhâ ileyk(ileyke), mâ kunte ta´lemuhâ ente ve lâ kavmuke min kabli hâzâ, fasbır, innel âkıbete lil muttekîn(muttekîne).",
+      "verseMeaning": "İşte bunlar, sana vahyetmekte olduğumuz gayb haberlerindendir. Bundan önce onları sen de bilmiyordun, toplumun da... Artık sabırlı ol! Sonuç, takvaya sarılanlarındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 11,
+      "ayah": 123,
+      "formInAyah": "غَيْبُ",
+      "transliteration": "ğaybu",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَيْهِ يُرْجَعُ الْأَمْرُ كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "verseTransliteration": "Ve lillâhi gaybus semâvâti vel ardı ve ileyhi yurceul emru kulluhu fa’budhu ve tevekkel aleyh(aleyhi), ve mâ rabbuke bi gâfilin ammâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Göklerin ve yerin gizli bilgileri Allah´a aittir. Tüm iş ve oluş O´na döndürülür. O halde O´na kulluk et, O´na dayanıp güven! Rabbin, yapmakta olduklarınızdan habersiz değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 12,
+      "ayah": 52,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "arkadan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ",
+      "verseTransliteration": "Zâlike li ya’leme ennî lem ehunhu bil gaybi ve ennallâhe lâ yehdî keydel hâinîn(hâinîne).",
+      "verseMeaning": "\"Gerçeği söylüyorum ki, Yûsuf, gıyabında ona hainlik etmediğimi, Allah´ın, hainlerin tuzağını başarıya ulaştırmayacağını bilsin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 12,
+      "ayah": 81,
+      "formInAyah": "لِلْغَيْبِ",
+      "transliteration": "lilğaybi",
+      "gloss": "gaybın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ارْجِعُوا إِلَىٰ أَبِيكُمْ فَقُولُوا يَا أَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
+      "verseTransliteration": "Irciû ilâ ebîkum fe kûlû yâ ebânâ innebneke serak(seraka), ve mâ şehidnâ illâ bimâ alimnâ ve mâ kunnâ lil gaybi hâfizîn(hâfizîne).",
+      "verseMeaning": "Babanıza dönüp şöyle deyin: \"Ey babamız, oğlun hırsızlık etti. Biz sadece bildiğimize tanıklık ettik. Biz gaybı bilenler değiliz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 12,
+      "ayah": 102,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنْتَ لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "verseTransliteration": "Zâlike min enbâil gaybi nûhîhi ileyk(ileyke), ve mâ kunte ledeyhim iz ecmaû emrehum ve hum yemkurûn(yemkurûne).",
+      "verseMeaning": "İşte bunlar, sana vahyettiğimiz gayb haberlerindendir. Onlar birlikte karar verip tuzak kurarlarken sen yanlarında değildin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 13,
+      "ayah": 9,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gizliyi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْكَبِيرُ الْمُتَعَالِ",
+      "verseTransliteration": "Âlimul gaybi veş şehâdetil kebîrul muteâl(muteâli).",
+      "verseMeaning": "Gaybı da görünen âlemi de bilendir/Âlim´dir O... Kebîr, sınırsızca büyük O´dur; Müteâl, sonsuzca yüce O´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 16,
+      "ayah": 77,
+      "formInAyah": "غَيْبُ",
+      "transliteration": "ğaybu",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَا أَمْرُ السَّاعَةِ إِلَّا كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Ve lillâhi gaybus semâvâti vel ard(ardı), ve mâ emrus sâati illâ kelemhıl basari ev huve akreb(akrebu), innallâhe alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Göklerin ve yerin gaybı Allah´ındır. O saate/dünyanın sonuna ilişkin emirse bir göz açıp yummak gibi, hatta ondan da yakındır. Allah her şeye kadirdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 18,
+      "ayah": 22,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görülmeyene",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُلْ رَبِّي أَعْلَمُ بِعِدَّتِهِمْ مَا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا",
+      "verseTransliteration": "Se yekûlûne selâsetun râbiuhum kelbuhum, ve yekûlûne hamsetun sâdisuhum kelbuhum recmen bil gayb(gaybi), ve yekûlûne seb´atun ve sâminuhum kelbuhum, kul rabbî a´lemu bi ıddetihim mâ ya´lemuhum illâ kalîl(kalîlun), fe lâ tumâri fîhim illâ mirâen zâhirâ(zâhiren), ve lâ testefti fîhim minhum ehâdâ(ehâden).",
+      "verseMeaning": "\"Üç kişiydiler, dördüncüleri köpekleriydi.\" diyecekler. Şunu da diyecekler: \"Beş kişiydiler, altıncıları köpekleriydi.\" Gaybı taşlamaktır/bilinmeyen şey hakkında atıp tutmaktır bu. Şöyle de derler: \"Yedi kişidirler, sekizincileri de köpekleridir.\" De ki: \"Onların sayısını Rabbim daha iyi bilir. Onlar hakkında bilgisi olan, çok azdır.\" O halde, onlar hakkında yüzeysel bir tartışma dışında hiçbir çekişmeye girme. Onlar hakkında, konuşup duranlardan hiç kimseye bir şey sorma."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 18,
+      "ayah": 26,
+      "formInAyah": "غَيْبُ",
+      "transliteration": "ğaybu",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلِ اللَّهُ أَعْلَمُ بِمَا لَبِثُوا ۖ لَهُ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَبْصِرْ بِهِ وَأَسْمِعْ ۚ مَا لَهُمْ مِنْ دُونِهِ مِنْ وَلِيٍّ وَلَا يُشْرِكُ فِي حُكْمِهِ أَحَدًا",
+      "verseTransliteration": "Kulillâhu a´lemu bimâ lebisû, lehu gaybus semâvâti vel ard(ardı), ebsır bihî ve esmı´, mâ lehum min dûnihî min veliyyin ve lâ yuşriku fî hukmihî ehadâ(ehaden).",
+      "verseMeaning": "De ki: \"Onların ne kadar kaldıklarını Allah daha iyi bilir. O´nun elindedir göklerin ve yerin gaybı. Ne güzel görendir O, ne güzel işitendir. Onların, O´ndan başka bir dostları da yoktur. Ve O, hükmüne hiç kimseyi ortak etmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 19,
+      "ayah": 61,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "gıyaben",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمَٰنُ عِبَادَهُ بِالْغَيْبِ ۚ إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا",
+      "verseTransliteration": "Cennâti adninilletî vaader rahmânu ibâdehu bil gayb(gaybi), innehu kâne va’duhu me’tiyyâ(me’tiyyen).",
+      "verseMeaning": "Rahman´ın, kullarına gaybda vaat ettiği Adn cennetlerine girecekler. Kuşkusuz, O´nun vaadi yerine gelir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 19,
+      "ayah": 78,
+      "formInAyah": "الْغَيْبَ",
+      "transliteration": "l-ğaybe",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "verseTransliteration": "Ettalaal gaybe emittehaze inder rahmâni ahdâ(ahden).",
+      "verseMeaning": "Bu adam gaybı mı öğrendi, yoksa Rahman katında bir söz mü aldı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 21,
+      "ayah": 49,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görmeden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَهُمْ مِنَ السَّاعَةِ مُشْفِقُونَ",
+      "verseTransliteration": "Ellezîne yahşevne rabbehum bil gaybi ve hum mines sâati muşfikûn(muşfikûne).",
+      "verseMeaning": "O korunanlar ki, hiç görmeden Rablerinden korkarlar. Kıyamet saatinden de ürperirler onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 23,
+      "ayah": 92,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görünmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "verseTransliteration": "Âlimil gaybi veş şehâdeti fe teâlâ ammâ yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Gözle görülmeyeni de görüleni de bilendir O. Uzaktır onların ortak koştuklarından."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 27,
+      "ayah": 65,
+      "formInAyah": "الْغَيْبَ",
+      "transliteration": "l-ğaybe",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ لَا يَعْلَمُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا اللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+      "verseTransliteration": "Kul lâ ya’lemu men fîs semâvâti vel ardıl gaybe illallâh(illallâhu) ve mâ yeş’urûne eyyâne yub’asûn(yub’asûne).",
+      "verseMeaning": "De ki: \"Göklerde ve yerde, Allah´tan başka hiç kimse gaybı bilmez. Ne zaman dirileceklerini de bilmezler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 32,
+      "ayah": 6,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görünmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ",
+      "verseTransliteration": "Zâlike âlimul gaybi veş şehâdetil azîzur rahîm(rahîmu).",
+      "verseMeaning": "İşte budur Allah! Gaybı da görüneni de bilen O´dur. Azîz´dir o, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 34,
+      "ayah": 3,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا لَا تَأْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ وَلَا أَصْغَرُ مِنْ ذَٰلِكَ وَلَا أَكْبَرُ إِلَّا فِي كِتَابٍ مُبِينٍ",
+      "verseTransliteration": "Ve kâlellezîne keferû lâ te’tînes sâah(sâatu), kul belâ ve rabbî le te’tiyennekum âlimil gayb(gaybi), lâ ya’zubu anhu miskâlu zerretin fîs semâvâti ve lâ fîl ardı ve lâ asgaru min zâlike ve lâ ekberu illâ fî kitâbin mubîn(mubînin).",
+      "verseMeaning": "Küfre sapanlar şöyle dediler: \"Kıyamet saati bize gelmez!\" De ki: \"Hayır, öyle değil! Gaybı bilen Rabbime yemin olsun ki, o size mutlaka ve mutlaka gelecektir! Göklerde ve yerde zerre miktarı bir şey bile Rabbimden gizli kalmaz.\" Zerreden daha küçük veya daha büyük hiçbir istisna olmamak üzere, her şey apaçık bir Kitap´ta belirlenmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 34,
+      "ayah": 14,
+      "formInAyah": "الْغَيْبَ",
+      "transliteration": "l-ğaybe",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِ إِلَّا دَابَّةُ الْأَرْضِ تَأْكُلُ مِنْسَأَتَهُ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ الْجِنُّ أَنْ لَوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا لَبِثُوا فِي الْعَذَابِ الْمُهِينِ",
+      "verseTransliteration": "Fe lemmâ kadaynâ aleyhil mevte mâ dellehum alâ mevtihî illâ dâbbetul ardı te’kulu minseeteh(minseetehu), fe lemmâ harre tebeyyenetil cinnu en lev kânû ya’lemûnel gaybe mâ lebisû fîl azâbil muhîn(muhîni).",
+      "verseMeaning": "Sonunda, Süleyman için ölüm hükmünü verdiğimizde, onun ölümünü, değneğini yiyen dâbbetül arzdan/ağaç kurtçuğundan başkası onlara göstermedi. Süleyman yere yığılınca, açıkça anlaşıldı ki, eğer cinler gaybı bilmiş olsalardı, o alçaltıcı azap içinde bekleyip durmazlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 34,
+      "ayah": 53,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görülmeyene",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَدْ كَفَرُوا بِهِ مِنْ قَبْلُ ۖ وَيَقْذِفُونَ بِالْغَيْبِ مِنْ مَكَانٍ بَعِيدٍ",
+      "verseTransliteration": "Ve kad keferû bihî min kabl(kablu), ve yakzifûne bil gaybi min mekânin baîd(baîdin).",
+      "verseMeaning": "Daha önce inkâr etmişlerdi onu. Gayba taş atıp duruyorlardı o uzak yerden."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 35,
+      "ayah": 18,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görmeden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ ۗ إِنَّمَا تُنْذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَأَقَامُوا الصَّلَاةَ ۚ وَمَنْ تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَإِلَى اللَّهِ الْمَصِيرُ",
+      "verseTransliteration": "Ve lâ tezirû vâziretun vizre uhrâ, ve in ted’u muskaletun ilâ himlihâ lâ yuhmel minhu şey’un ve lev kâne zâ kurbâ, innemâ tunzirullezîne yahşevne rabbehum bil gaybi ve ekâmûs salâh(salâte), ve men tezekkâ fe innemâ yetezekkâ li nefsih(nefsihî), ve ilâllâhil masîr(masîru).",
+      "verseMeaning": "Hiçbir günahkâr, bir başkasının günahını yüklenmez. Yükü ağır gelen, onu taşımaya çağırsa bile, kendisinden hiçbir şey yüklenilmez. Akraba bile olsa... Sen ancak Rablerinden için için korkanları ve namaz kılanları uyarırsın. Arınıp temizlenen, kendi benliği için arınıp temizlenir. Dönüş Allah´adır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 35,
+      "ayah": 38,
+      "formInAyah": "غَيْبِ",
+      "transliteration": "ğaybi",
+      "gloss": "gaybını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ عَالِمُ غَيْبِ السَّمَاوَاتِ وَالْأَرْضِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "İnnallâhe âlimu gaybis semâvâti vel ard(ardı), innehu alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Allah, göklerin ve yerin gaybını bilendir/Âlim´dir. O, göğüslerin özündekini de çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 36,
+      "ayah": 11,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görmeden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "verseTransliteration": "İnnemâ tunziru menittebeaz zikre ve haşiyer rahmâne bil gayb(gaybi), fe beşşirhu bi magfiretin ve ecrin kerîm(kerîmin).",
+      "verseMeaning": "Sen ancak o zikire/Kur´an´a uyan ve görmediği halde Rahman´dan korkan kimseyi uyarırsın. Böylesini, bir bağışlanma ve seçkin bir ödülle müjdele!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 39,
+      "ayah": 46,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görülmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلِ اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِي مَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+      "verseTransliteration": "Kulillâhumme fâtıras semâvâti vel ardı âlimel gaybi veş şehâdeti ente tahkumu beyne ıbâdike fî mâ kânû fîhi yahtelifûn(yahtelifûne).",
+      "verseMeaning": "De ki: \"Ey Allah´ım! Ey gökleri ve yeri yaratan, ey görülemeyeni ve görüleni bilen! Sen hüküm vereceksin kulların arasında, ihtilaf ettikleri şeyler hakkında.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 49,
+      "ayah": 18,
+      "formInAyah": "غَيْبَ",
+      "transliteration": "ğaybe",
+      "gloss": "gizlisini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "İnnallâhe ya’lemu gaybes semâvâti vel ard(ardı), vallâhu basîrun bimâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Şu bir gerçek ki, Allah göklerin ve yerin gaybını bilir. Allah, yaptıklarınızı iyice görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 50,
+      "ayah": 33,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görmeden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَنْ خَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ",
+      "verseTransliteration": "Men haşiyer rahmâne bil gaybi ve câe bi kalbin munîbin.",
+      "verseMeaning": "Görmediği halde Rahman´dan ürperen ve Allah´a yönelik bir kalp getiren herkese..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 52,
+      "ayah": 41,
+      "formInAyah": "الْغَيْبُ",
+      "transliteration": "l-ğaybu",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "verseTransliteration": "Em indehumul gaybu fe hum yektubûn (yektubûne).",
+      "verseMeaning": "Yoksa gayb yanlarında da yazıp duruyorlar mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 53,
+      "ayah": 35,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gayb’ın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَعِنْدَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَىٰ",
+      "verseTransliteration": "E indehu ilmul gaybi fe huve yerâ.",
+      "verseMeaning": "Gaybın bilgisi onun yanında da o mu görüyor?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 57,
+      "ayah": 25,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "gaybda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+      "verseTransliteration": "Lekad erselnâ rusulenâ bil beyyinâti ve enzelnâ meahumul kitâbe vel mîzâne li yekûmen nâsu bil kıst(kıstı), ve enzelnel hadîde fîhi be’sun şedîdun ve menâfiu lin nâsi ve li ya’lemallâhu men yensuruhu ve rusulehu bil gayb(gaybi), innellâhe kavîyyun azîz(azîzun).",
+      "verseMeaning": "Yemin olsun, biz, resullerimizi açık seçik delillerle gönderdik ve onlarla birlikte Kitap´ı ve ölçüyü de indirdik ki, insanlar adaleti ayakta tutsunlar/adaletle doğrulsunlar. Ve demiri de indirdik. Onda zorlu bir kuvvet ve insanlar için birçok yarar vardır. Allah bu sayede, kendisine ve resullerine, gayba inanarak kimin yardım edeceğini bilecektir. Allah Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 59,
+      "ayah": 22,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görülmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
+      "verseTransliteration": "Huvallâhullezî lâ ilâhe illâ huve, âlimul gaybi veş şehâdeh(şehâdeti), huver rahmânur rahîm(rahîmu).",
+      "verseMeaning": "Öyle Allah ki O, tanrı yok O´ndan başka. Gaybı da görünen âlemi de bilen O! Rahman O, Rahîm O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 62,
+      "ayah": 8,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görünmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Kul innel mevtellezî tefirrûne minhu fe innehu mulâkîkum summe tureddûne ilâ âlimil gaybi veş şehâdeti fe yunebbiukum bi mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "Şunu da söyle: \"O kaçmakta olduğunuz ölüm, işte o, size mutlaka ulaşacaktır. Sonra, görülmeyeni de görüleni de bilene döndürüleceksiniz. O, size yapıp etmiş olduklarınızı haber verecektir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 64,
+      "ayah": 18,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "görünmeyeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Âlimul gaybi veş şehâdetil azîzul hakîm(hakîmu).",
+      "verseMeaning": "Görünmeyen ve görünen âlemleri bilendir O; Azîz´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 67,
+      "ayah": 12,
+      "formInAyah": "بِالْغَيْبِ",
+      "transliteration": "bil-ğaybi",
+      "gloss": "görmedikleri halde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "verseTransliteration": "İnnellezîne yahşevne rabbehum bil gaybi lehum magfiretun ve ecrun kebîr(kebîrun).",
+      "verseMeaning": "Görmedikleri halde Rablerinden ürperenlere gelince, onlar için bir bağışlanma ve büyük bir ödül vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 68,
+      "ayah": 47,
+      "formInAyah": "الْغَيْبُ",
+      "transliteration": "l-ğaybu",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "verseTransliteration": "Em inde humul gaybu fehum yektubûn(yektubûne).",
+      "verseMeaning": "Yoksa gayb, yanlarında da onlar mı yazıyorlar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 72,
+      "ayah": 26,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gaybı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+      "verseTransliteration": "Âlimul gaybi fe lâ yuzhiru alâ gaybihî ehadâ(ehaden).",
+      "verseMeaning": "Gaybı bilendir O. Gaybı konusunda hiç kimseyi yardımcı yapmıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 72,
+      "ayah": 26,
+      "formInAyah": "غَيْبِهِ",
+      "transliteration": "ğaybihi",
+      "gloss": "gizli bilgisini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+      "verseTransliteration": "Âlimul gaybi fe lâ yuzhiru alâ gaybihî ehadâ(ehaden).",
+      "verseMeaning": "Gaybı bilendir O. Gaybı konusunda hiç kimseyi yardımcı yapmıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيْب",
+      "sura": 81,
+      "ayah": 24,
+      "formInAyah": "الْغَيْبِ",
+      "transliteration": "l-ğaybi",
+      "gloss": "gayb",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+      "verseTransliteration": "Ve mâ huve alel gaybi bi danîn(danînin).",
+      "verseMeaning": "O, gayb konusunda cimri değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غُيُوب",
+      "sura": 5,
+      "ayah": 109,
+      "formInAyah": "الْغُيُوبِ",
+      "transliteration": "l-ğuyūbi",
+      "gloss": "gizlileri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+      "verseTransliteration": "Yevme yecmeullâhur rusule fe yekûlu mâzâ ucibtum kâlû lâ ilme lenâ inneke ente allâmul guyûb(guyûbi).",
+      "verseMeaning": "Allah, resulleri bir araya getireceği gün şöyle der: \"Size ne cevap verildi?\" Şöyle derler: \"Hiçbir bilgimiz yok. Gaybları en iyi biçimde bilen sensin, sen!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غُيُوب",
+      "sura": 5,
+      "ayah": 116,
+      "formInAyah": "الْغُيُوبِ",
+      "transliteration": "l-ğuyūbi",
+      "gloss": "gizlileri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَٰهَيْنِ مِنْ دُونِ اللَّهِ ۖ قَالَ سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ ۚ إِنْ كُنْتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ ۚ تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ ۚ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+      "verseTransliteration": "Ve iz kâlellâhu yâ îsebne meryeme e ente kulte lin nâsittehizûnî ve ummiye ilâheyni min dûnillâh(dûnillâhi) kâle subhâneke mâ yekûnu lî en ekûle mâ leyse lî bi hakk(hakkın) in kuntu kultuhu fe kad alimteh(alimtehu) ta’lemû mâ fî nefsî ve lâ a’lemu mâ fî nefsik(nefsike) inneke ente allemul guyûb(guyûbi).",
+      "verseMeaning": "Allah şunu da söyledi: \"Ey Meryem oğlu İsa! Allah´ın yanında beni ve annemi de iki tanrı olarak kabul edin diye insanlara sen mi söyledin?\" İsa dedi: \"Hâşâ! Tespih ederim seni. Hakkım olmayan bir şeyi söylemek benim haddime değildir. Eğer onu söylemişsem sen onu elbette bilirsin. Sen benim içimde olanı bilirsin ama ben senin zatında olanı bilmem. Çünkü sen, evet sen, gaybları çok iyi bilensin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غُيُوب",
+      "sura": 9,
+      "ayah": 78,
+      "formInAyah": "الْغُيُوبِ",
+      "transliteration": "l-ğuyūbi",
+      "gloss": "gizlileri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَاهُمْ وَأَنَّ اللَّهَ عَلَّامُ الْغُيُوبِ",
+      "verseTransliteration": "E lem ya’lemû ennallâhe ya’lemu sırrehum ve necvâhum ve ennallâhe allamul guyûb(guyûbi).",
+      "verseMeaning": "Bilmediler mi ki, Allah onların sırrını da fısıldaşmalarını da bilir; Allah gaybları çok iyi bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غُيُوب",
+      "sura": 34,
+      "ayah": 48,
+      "formInAyah": "الْغُيُوبِ",
+      "transliteration": "l-ğuyūbi",
+      "gloss": "gaybleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ إِنَّ رَبِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ",
+      "verseTransliteration": "Kul inne rabbî yakzifu bil hakk(hakkı), allâmul guyûb(guyûbi).",
+      "verseMeaning": "De ki: \"Benim Rabbim, gerçeği ortaya koyar. Gaybları en iyi bilen O´dur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيَٰبَت",
+      "sura": 12,
+      "ayah": 10,
+      "formInAyah": "غَيَابَتِ",
+      "transliteration": "ğayābeti",
+      "gloss": "dibine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ قَائِلٌ مِنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِنْ كُنْتُمْ فَاعِلِينَ",
+      "verseTransliteration": "Kâle kâilun minhum lâ taktulû yûsufe ve elkûhu fî gayâbetil cubbi yel-tekithu ba’dus seyyâreti in kuntum fâilîn(fâilîne).",
+      "verseMeaning": "İçlerinden söz alan biri şöyle konuştu: \"Yûsuf´u öldürmeyin. Onu bir kuyunun dibine bırakın; gelip geçen kafilelerden biri onu bulup alır. Yapacaksanız böyle yapın!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">غَيَٰبَت",
+      "sura": 12,
+      "ayah": 15,
+      "formInAyah": "غَيَابَتِ",
+      "transliteration": "ğayābeti",
+      "gloss": "dibine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَنْ يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ ۚ وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "verseTransliteration": "Fe lemmâ zehebû bihî ve ecmeû en yec’alûhu fî gayâbetil cubb(cubbi), ve evhaynâ ileyhi le tunebbiennehum bi emrihim hâzâ ve hum lâ yeş’urûn(yeş’urûne).",
+      "verseMeaning": "Onu götürüp kuyunun dibine koymaya karar verdiklerinde biz de ona şöyle vahyettik: \"Yemin olsun ki sen onlara, şu yaptıklarını hiç farkında olmayacakları bir sırada haber vereceksin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَغْتَب",
+      "sura": 49,
+      "ayah": 12,
+      "formInAyah": "يَغْتَبْ",
+      "transliteration": "yeğteb",
+      "gloss": "arkasından çekiştirmesin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ",
+      "verseTransliteration": "Yâ eyyyuhellezîne âmenûctenibû kesîran minez zanni, inne ba’daz zanni ismun, ve lâ tecessesû ve lâ yagteb ba’dukum ba’dâ(ba’dan), e yuhıbbu ehadukum en ye’kule lahme ahîhi meyten fe kerihtumûh(kerihtumûhu), vettekullâh(vettekullâhe), innallâhe tevvâbun rahîm(rahîmun).",
+      "verseMeaning": "Ey iman edenler! Zandan çok sakının! Çünkü zannın bir kısmı günahtır. Sinsi casuslar gibi ayıp aramayın! Gıybet ederek biriniz ötekini arkasından çekiştirmesin! Sizden biri, ölmüş kardeşinin etini yemek ister mi? Bakın bundan iğrendiniz. Allah´tan sakının! Hiç kuşkusuz, Allah tövbeleri çok kabul eden, rahmeti sonsuz olandır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=gyb"
+}

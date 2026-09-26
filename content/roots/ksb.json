@@ -1,0 +1,1418 @@
+{
+  "id": "ksb",
+  "latinName": "Kef-Sin-Be",
+  "lettersArabic": "ك س ب",
+  "meanings": [
+    "Kazanmak, edinmek. Yaptığın bir şeyin karşılığı, herhangi bir şeyi kazanmak, kâr etmek, toplamak, kesp etmek, elde etmek, yüklenmek."
+  ],
+  "derivativeNotes": [
+    "Kesb - Mal, para, savaş, dava, dostluk, bilgi vb şeyler] kazanmak, kazanç ve kâr. İnsanın mal kazanmak gibi, bir fayda elde edeceğini, bir pay alacağını düşündüğü şeyleri elde etmesi anlamına gelir. Bu kelime, insanın bir fayda sağlayacağını, bir menfaat elde edeceğini düşünürken, bununla kendine zarar verecek bir şeye yol açması için de kullanılır. İnsanın hem kendi kazancı için hem de başkası için kazandıkları için kullanılır. Bu kavram, Kur’ân-ı Kerim’de hem güzel işlerin yapılmasında hem de günâhların işlenmesinde kullanılmıştır.",
+    "İktisab - insanın kendisi için kazandıkları için kullanılır."
+  ],
+  "turkishDerivatives": [
+    "kesp",
+    "iktisap",
+    "kisve (iktisa",
+    "kispet)",
+    "müktesep"
+  ],
+  "cognates": [],
+  "totalOccurrencesInQuran": 67,
+  "lemmas": [
+    {
+      "formArabic": "كَسَبَ",
+      "count": 62
+    },
+    {
+      "formArabic": "ٱكْتَسَبَ",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 79,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazandıklarından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ",
+      "verseTransliteration": "Fe veylun lillezîne yektubûnel kitâbe bi eydîhim summe yekûlûne hâzâ min indillâhi li yeşterû bihî semenen kalîlâ(kalîlen), fe veylun lehum mimmâ ketebet eydîhim ve veylun lehum mimmâ yeksibûn(yeksibûne).",
+      "verseMeaning": "Yazıklar olsun o kişilere ki, Kitap´ı kendi elleriyle yazarlar da sonra onunla basit bir karşılık satın alsınlar diye, \"İşte bu, Allah katındandır!\" derler. Vay haline onların, ellerinin yazdıkları yüzünden! Vay haline onların, kazanıp durdukları yüzünden!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 81,
+      "formInAyah": "كَسَبَ",
+      "transliteration": "kesebe",
+      "gloss": "kazanır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بَلَىٰ مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Belâ men kesebe seyyieten ve ehâtat bihî hatîetuhu fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "İş onların sandığı gibi değil. Kötülük ve çirkinlik kazanan, suçu kendisini kuşatmış olan kişiler, ateşin dostudurlar. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 134,
+      "formInAyah": "كَسَبْتُمْ",
+      "transliteration": "kesebtum",
+      "gloss": "sizin kazandıklarınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Tilke ummetun kad halet, lehâ mâ kesebet ve lekum mâ kesebtum, ve lâ tus’elûne ammâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "İşte bunlar bir ümmetti, gelip geçtiler. Kazandıkları kendilerinindir. Sizin kazandıklarınız da sizin olacaktır. Siz onların yapıp ettiklerinden sorguya çekilmeyeceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 134,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "onların kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Tilke ummetun kad halet, lehâ mâ kesebet ve lekum mâ kesebtum, ve lâ tus’elûne ammâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "İşte bunlar bir ümmetti, gelip geçtiler. Kazandıkları kendilerinindir. Sizin kazandıklarınız da sizin olacaktır. Siz onların yapıp ettiklerinden sorguya çekilmeyeceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 141,
+      "formInAyah": "كَسَبْتُمْ",
+      "transliteration": "kesebtum",
+      "gloss": "sizin kazandıklarınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Tilke ummetun kad halet lehâ mâ kesebet ve lekum mâ kesebtum ve lâ tus’elûne ammâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "İşte bunlar bir ümmetti, gelip geçtiler. Kazandıkları kendilerine. Sizin kazandığınız da size. Onların yapıp ettiklerinden siz sorumlu olmayacaksınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 141,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Tilke ummetun kad halet lehâ mâ kesebet ve lekum mâ kesebtum ve lâ tus’elûne ammâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "İşte bunlar bir ümmetti, gelip geçtiler. Kazandıkları kendilerine. Sizin kazandığınız da size. Onların yapıp ettiklerinden siz sorumlu olmayacaksınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 202,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazandıklarından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ لَهُمْ نَصِيبٌ مِمَّا كَسَبُوا ۚ وَاللَّهُ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "Ulâike lehum nasîbun mimmâ kesebû vallâhu serîul hısâb(hısâbi).",
+      "verseMeaning": "İşte böyle diyenlere kazandıklarından bir nasip vardır. Allah, hesabı çok çabuk görür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 225,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+      "verseTransliteration": "Lâ yuâhızukumullâhu bil lagvi fî eymânikum ve lâkin yuâhızukum bi mâ kesebet kulûbukum vallâhu gafûrun halîm(halîmun).",
+      "verseMeaning": "Allah sizi, dil sürçmesi sonucu lağv olarak yaptığınız yeminlerinizden sorumlu tutmaz; ama O sizi kalplerinizin kazandığından hesaba çeker. Allah Gafûr´dur, çok affeder; Halîm´dir, çok yumuşak davranır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 264,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُمْ بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا ۖ لَا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِمَّا كَسَبُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tubtılû sadakâtikum bil menni vel ezâ, kellezî yunfiku mâlehu riâen nâsi ve lâ yu’minu billâhi vel yevmil âhır(âhıri), fe meseluhu ke meseli safvânin aleyhi turâbun fe esâbehu vâbilun fe terakehu saldâ(salden), lâ yakdirûne alâ şey’in mimmâ kesebû vallâhu lâ yehdîl kavmel kâfirîn(kâfirîne).",
+      "verseMeaning": "Ey iman sahipleri! Allah´a ve âhıret gününe inanmadığı halde, insanlara riya için malını infak eden kişi gibi, sadakalarınızı başa kakmak ve eza etmek suretiyle boşa çıkarmayın. Böylesinin durumu, üzerinde biraz toprak varken tepesine şiddetli bir yağmur inip kendisini cascavlak bırakmış yalçın bir kayanın haline benzer. Böyleleri, kazandıklarından hiç bir şey elde edemezler. Allah, küfre sapan bir topluluğu doğruya ve güzele kılavuzlamaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 267,
+      "formInAyah": "كَسَبْتُمْ",
+      "transliteration": "kesebtum",
+      "gloss": "kazandıklarınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِنْ طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُمْ مِنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ وَلَسْتُمْ بِآخِذِيهِ إِلَّا أَنْ تُغْمِضُوا فِيهِ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû enfikû min tayyibâti mâ kesebtum ve mimmâ ahracnâ lekum minel ard(ardı), ve lâ teyemmemûl habîse minhu tunfikûne ve lestum bi âhızîhı illâ en tugmidû fîh(fîhî), va’lemû ennallâhe ganiyyun hamîd(hamîdun).",
+      "verseMeaning": "Ey iman sahipleri! Kazandıklarınızın ve yerden sizin için çıkarmış olduklarımızın temiz ve güzellerinden infak edin. Kendinizin göz yummadan alıcısı olmadığınız pis/bayağı şeyleri vermeye kalkmayın. Bilin ki Allah Ganî´dir, cömertliğine sınır yoktur; Hamîd´dir, bütün övgülerin sahibidir/övgüye layık olanları gereğince över."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 281,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandıysa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Vettekû yevmen turceûne fîhî ilâllâhi summe tuveffâ kullu nefsin mâ kesebet ve hum lâ yuzlemûn(yuzlemûne).",
+      "verseMeaning": "Korkun o günden ki, onda Allah´a döndürüleceksiniz. Sonra her benliğe kazanmış olduğu tam bir biçimde verilecektir. Onlar hiç bir zulme uğratılmayacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 2,
+      "ayah": 286,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Lâ yukellifullâhu nefsen illâ vus’ahâ lehâ mâ kesebet ve aleyhâ mektesebet rabbenâ lâ tuâhıznâ in nesînâ ev ahta’nâ, rabbenâ ve lâ tahmil aleynâ ısran kemâ hameltehu alellezîne min kablinâ, rabbenâ ve lâ tuhammilnâ mâ lâ tâkate lenâ bih(bihî), va’fu annâ, vagfir lenâ, verhamnâ, ente mevlânâ fensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Allah hiç bir benliğe, yaratılış kapasitesinin üstünde bir yük yüklemez/teklifte bulunmaz. Her benliğin yaptığı iyilik kendi lehine, işlediği kötülük kendi aleyhinedir/kişinin hem kendisi hem başkaları için kazandığı onun lehine, yalnız kendi nefsi için kazandığı onun aleyhinedir/kişinin kendi emeği ile kazandığı lehine, başkalarının sırtından kazandığı aleyhinedir. \"Ey Rabb´imiz! Unutur yahut hata edersek bizi hesaba çekme. Ey Rabb´imiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Ey Rabb´imiz! Bize, güç yetiremeyeceğimiz şeyleri de yükleme. Affet bizi, bağışla bizi, acı bize. Sen bizim Mevlâ´mızsın. Küfre sapanlar topluluğuna karşı yardım et bize!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 3,
+      "ayah": 25,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَكَيْفَ إِذَا جَمَعْنَاهُمْ لِيَوْمٍ لَا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Fe keyfe izâ cema’nâhum li yevmin lâ raybe fîhi ve vuffiyet kullu nefsin mâ kesebet ve hum lâ yuzlemûn(yuzlemûne).",
+      "verseMeaning": "Peki, o kendisinde kuşku bulunmayan günde, onları biraraya topladığımız vakit halleri nice olacak! O gün her benlik, kazandığının karşılığını tam almıştır. Onlar, hiçbir zulme uğratılmazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 3,
+      "ayah": 155,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıkları işlerden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ تَوَلَّوْا مِنْكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ إِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُوا ۖ وَلَقَدْ عَفَا اللَّهُ عَنْهُمْ ۗ إِنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
+      "verseTransliteration": "İnnellezîne tevellev minkum yevmel tekal cem’âni, inne mestezellehumuş şeytânu bi ba’di mâ kesebû, ve lekad afâllâhu anhum innallâhe gafûrun halîm(halîmun).",
+      "verseMeaning": "İki topluluğun karşılaştığı gün geri dönüp gidenleriniz var ya, yaptıkları bazı işler yüzünden şeytan onların ayağını kaydırmak istemişti. Andolsun, Allah onları yine de affetti. Allah Gafûr´dur, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 3,
+      "ayah": 161,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ۚ وَمَنْ يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيَامَةِ ۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Ve mâ kâne li nebiyyin en yagull(yagulle), ve men yaglul ye’ti bimâ galle yevmel kıyâmeh(kıyâmeti), summe tuveffâ kullu nefsin mâ kesebet ve hum lâ yuzlemûn(yuzlemûne).",
+      "verseMeaning": "Bir peygamberin emanete hıyanet etmesi/kamu malından aşırması olacak şey değildir. Her kim hıyanet eder, kamu malından bir şey aşırırsa, aşırdığını kıyamet günü yüklenip getirir. Sonra her benliğe; kazandığı tam olarak ödenir. Hiç birine zulmedilmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 4,
+      "ayah": 88,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُمْ بِمَا كَسَبُوا ۚ أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ ۖ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+      "verseTransliteration": "Fe mâ lekum fil munâfikîne fieteyni vallâhu erkesehum bi mâ kesebû e turîdûne en tehdû men edallallâh(edallallâhu), ve men yudlilillâhu fe len tecide lehu sebîlâ(sebîlen).",
+      "verseMeaning": "Size ne oluyor da münafıklar hakkında iki gruba ayrılıyorsunuz? Allah onları kazandıkları yüzünden baş aşağı etmişken, Allah´ın saptırdığını yola getirmek mi istiyorsunuz? Allah´ın şaşırttığına sen asla yol sağlayamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 4,
+      "ayah": 111,
+      "formInAyah": "يَكْسِبْ",
+      "transliteration": "yeksib",
+      "gloss": "işlerse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Ve men yeksib ismen fe innemâ yeksibuhu alâ nefsih(nefsihî) ve kânallâhu alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Günah kazanan onu kendi nefsi aleyhine kazanır. Allah Alîm ve Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 4,
+      "ayah": 111,
+      "formInAyah": "يَكْسِبُهُ",
+      "transliteration": "yeksibuhu",
+      "gloss": "onu kazanır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Ve men yeksib ismen fe innemâ yeksibuhu alâ nefsih(nefsihî) ve kânallâhu alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Günah kazanan onu kendi nefsi aleyhine kazanır. Allah Alîm ve Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 4,
+      "ayah": 112,
+      "formInAyah": "يَكْسِبْ",
+      "transliteration": "yeksib",
+      "gloss": "işlerse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا",
+      "verseTransliteration": "Ve men yeksib hatîeten ev ismen summe yermi bihî berîen fe kadihtemele buhtânen ve ismen mubînâ(mubînen).",
+      "verseMeaning": "Kim bir hata yahut günah işler de sonra onunla bir suçsuzu itham ederse hiç kuşkusuz, büyük bir iftira ve açık bir günah yüklenmiş olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 5,
+      "ayah": 38,
+      "formInAyah": "كَسَبَا",
+      "transliteration": "kesebā",
+      "gloss": "yaptıklarına",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, İkil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "Ves sâriku ves sârikatu faktaû eydiyehumâ cezâen bimâ kesebâ nekâlen minallâh(minallâhi) vallâhu azîzun hakîm(hakîmun).",
+      "verseMeaning": "Hırsızlık yapan erkek ve kadının, yaptıklarına karşılık Allah´tan bir ceza olarak ellerini kesin. Allah Azîz´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 3,
+      "formInAyah": "تَكْسِبُونَ",
+      "transliteration": "teksibūne",
+      "gloss": "kazandığınızı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَهُوَ اللَّهُ فِي السَّمَاوَاتِ وَفِي الْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+      "verseTransliteration": "Ve huvellâhu fîs semâvâti ve fîl ard(ardı), ya’lemu sirrakum ve cehrekum ve ya’lemu mâ teksibûn(teksibûne).",
+      "verseMeaning": "O, göklerde de Allah´tır, yerde de. O, sizin iç dünyanızı da bilir, açığa vurduklarınızı da. Neler kazanmakta olduğunuzu da bilir O!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 70,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseTransliteration": "Ve zerillezînettehazû dînehum leiben ve lehven ve garrethumul hayâtud dunyâ ve zekkir bihî en tubsele nefsun bimâ kesebet, leyse lehâ min dûnillâhi veliyyun ve lâ şefî’(şefîun), ve in ta’dil kulle adlin lâ yu’haz minhâ, ulâikellezîne ubsilû bimâ kesebû, lehum şarâbun min hamîmin ve azâbun elîmun bimâ kânû yekfurûn(yekfurûne).",
+      "verseMeaning": "Dinlerini oyun ve eğlence haline getirmiş, dünya hayatı kendilerini aldatmış olanları bırak da o Kur´an ile şunu hatırlat: Bir kişi, kendi elinin üretip kazandığına teslim edilirse onun, Allah dışında ne bir dostu kalır ne de şefaatçısı. Her türlü fidyeyi verse de ondan kabul edilmez. İşte bunlar, kazandıklarına teslim edilmişlerdir. Nankörlük ettiklerinden ötürü onlar için kaynar sudan bir içki ve korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 70,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazandıklarından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseTransliteration": "Ve zerillezînettehazû dînehum leiben ve lehven ve garrethumul hayâtud dunyâ ve zekkir bihî en tubsele nefsun bimâ kesebet, leyse lehâ min dûnillâhi veliyyun ve lâ şefî’(şefîun), ve in ta’dil kulle adlin lâ yu’haz minhâ, ulâikellezîne ubsilû bimâ kesebû, lehum şarâbun min hamîmin ve azâbun elîmun bimâ kânû yekfurûn(yekfurûne).",
+      "verseMeaning": "Dinlerini oyun ve eğlence haline getirmiş, dünya hayatı kendilerini aldatmış olanları bırak da o Kur´an ile şunu hatırlat: Bir kişi, kendi elinin üretip kazandığına teslim edilirse onun, Allah dışında ne bir dostu kalır ne de şefaatçısı. Her türlü fidyeyi verse de ondan kabul edilmez. İşte bunlar, kazandıklarına teslim edilmişlerdir. Nankörlük ettiklerinden ötürü onlar için kaynar sudan bir içki ve korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 120,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazananlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَذَرُوا ظَاهِرَ الْإِثْمِ وَبَاطِنَهُ ۚ إِنَّ الَّذِينَ يَكْسِبُونَ الْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا يَقْتَرِفُونَ",
+      "verseTransliteration": "Ve zerû zâhirel ismi ve bâtıneh(bâtınehu), innellezîne yeksibûnel isme seyuczevne bimâ kânû yakterifûn(yakterifûne).",
+      "verseMeaning": "Günahın açığını da bırakın, gizlisini de. Günah kazananlar yapıp ettiklerinin karşılığını yakında göreceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 129,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Ve kezâlike nuvellî ba’daz zâlimîne ba’dan bimâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "İşte biz, zalimlerin bir kısmını bir kısmına, kazanır oldukları şeyler yüzünden bu şekilde dost/yardımcı/yönetici/önder yaparız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 158,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazanmamış olan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "هَلْ يَنْظُرُونَ إِلَّا أَنْ تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ رَبُّكَ أَوْ يَأْتِيَ بَعْضُ آيَاتِ رَبِّكَ ۗ يَوْمَ يَأْتِي بَعْضُ آيَاتِ رَبِّكَ لَا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِيمَانِهَا خَيْرًا ۗ قُلِ انْتَظِرُوا إِنَّا مُنْتَظِرُونَ",
+      "verseTransliteration": "Hel yanzurûne illâ en te’tiyehumul melâiketu ev ye’tiye rabbuke ev ye’tiye ba’du âyâti rabbik(rabbike), yevme ye’tî ba’du âyâti rabbike lâ yenfeu nefsen îmânuhâ lem tekun âmenet min kablu ev kesebet fî îmânihâ hayrâ(hayran), kul intezırû innâ muntezırûn(muntezırûne).",
+      "verseMeaning": "Neyi bekliyorlar? Kendilerine meleklerin gelmesini mi, Rabbinin gelmesini mi, yoksa Rabbinin bazı mucizelerinin gelmesini mi? Rabbinin bazı mucizeleri geldiği gün, daha önce iman etmemiş yahut imanında bir hayır sahibi olamamış kişiye imanı hiçbir yarar sağlamayacaktır. De ki: \"Bekleyin! Doğrusu biz de bekliyoruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 6,
+      "ayah": 164,
+      "formInAyah": "تَكْسِبُ",
+      "transliteration": "teksibu",
+      "gloss": "kazanmaz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "قُلْ أَغَيْرَ اللَّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُمْ مَرْجِعُكُمْ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+      "verseTransliteration": "Kul e gayrallâhi ebgî rabben ve huve rabbu kulli şey’(şey’in), ve lâ teksibu kullu nefsin illâ aleyh(aleyhâ), ve lâ teziru vâziretun vizre uhrâ, summe ilâ rabbikum merciukum fe yunebbiukum bimâ kuntum fîhi tahtelifûn(tahtelifûne).",
+      "verseMeaning": "Şunu da söyle: \"Allah herşeyin Rabbi iken O´ndan başka rab mı arayayım? Her benliğin kazandığı kendi üstünde kalır. Hiçbir günahkâr, bir başka günahkârın yükünü taşımaz. Nihayet dönüşünüz Rabbinizedir. Tartışmaya girdiğiniz şeyleri O size haber verecektir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 7,
+      "ayah": 39,
+      "formInAyah": "تَكْسِبُونَ",
+      "transliteration": "teksibūne",
+      "gloss": "kazanıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالَتْ أُولَاهُمْ لِأُخْرَاهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِنْ فَضْلٍ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْسِبُونَ",
+      "verseTransliteration": "Ve kâlet ûlâhum li uhrâhum fe mâ kâne lekum aleynâ min fadlin fe zûkûl azâbe bimâ kuntum teksibûn(teksibûne).",
+      "verseMeaning": "Öncekiler de sonrakiler için şöyle konuşurlar: \"Artık sizin, bizim üzerimizde bir üstünlüğünüz yok. O halde kazandıklarınıza karşılık azabı tadın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 7,
+      "ayah": 96,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَاءِ وَالْأَرْضِ وَلَٰكِنْ كَذَّبُوا فَأَخَذْنَاهُمْ بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Ve lev enne ehlel kurâ âmenû vettekav le fetahnâ aleyhim berekâtin mines semâi vel ardı ve lâkin kezzebû fe ehaznâhum bimâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "O medeniyetlerin halkı inanıp korunsalardı, elbette ki üzerlerine gökten ve yerden bereketler saçardım. Ama yalanladılar, biz de onları, kazanır olduklarıyla yakalayıverdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 9,
+      "ayah": 82,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا جَزَاءً بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Fel yadhakû kalîlen vel yebkû kesîrâ(kesîren), cezâen bi mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Kazanır oldukları yüzünden artık az gülsünler, çok ağlasınlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 9,
+      "ayah": 95,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "سَيَحْلِفُونَ بِاللَّهِ لَكُمْ إِذَا انْقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا عَنْهُمْ ۖ فَأَعْرِضُوا عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَاهُمْ جَهَنَّمُ جَزَاءً بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Se yahlifûne billâhi lekum izenkalebtum ileyhim li tu´ridû anhum, fe a´rıdû anhum, innehum ricsun ve me’vâhum cehennem (cehennemu), cezâen bi mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Yanlarına döndüğünüzde kendilerini paylamaktan vazgeçesiniz diye Allah´a yemin edecekler. Vazgeçin onlardan, çünkü hepsi pisliktir. Kazandıklarının karşılığı olarak, varacakları yer cehennemdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 10,
+      "ayah": 8,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Ulâike me´vâhumun nâru bimâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Kazandıkları şeyler yüzünden varış yerleri ateş olacakların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 10,
+      "ayah": 27,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazanan(lara)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ كَسَبُوا السَّيِّئَاتِ جَزَاءُ سَيِّئَةٍ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ ۖ مَا لَهُمْ مِنَ اللَّهِ مِنْ عَاصِمٍ ۖ كَأَنَّمَا أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِنَ اللَّيْلِ مُظْلِمًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Vellezîne kesebûs seyyiâti cezâu seyyietin bi mislihâ ve terhekuhum zilleh(zilletun), mâ lehum minallâhi min âsim(âsimin), ke ennemâ ugsîyet vucûhuhum kita´an minel leyli muzlimâ(muzlimen), ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Kötülük kazananlara ise kötülüğün miktarınca karşılık vardır. Ama yüzlerini bir zillet de kaplar. Onları Allah´tan kurtaracak kimse yoktur. Yüzleri gece parçalarından karanlıklarla kaplanmış gibidir. Ateşin dostlarıdır bunlar. Sürekli kalıcıdırlar içinde."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 10,
+      "ayah": 52,
+      "formInAyah": "تَكْسِبُونَ",
+      "transliteration": "teksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ الْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنْتُمْ تَكْسِبُونَ",
+      "verseTransliteration": "Summe kîle lillezîne zalemû zûkû azâbel huld(huldi), hel tuczevne illâ bimâ kuntum teksibûn(teksibûne).",
+      "verseMeaning": "Sonra, zulmedenlere şöyle denecek: \"Sonsuzluğun azabını/sonsuz azabı tadın! Kazandığınız şeyler dışında bir şeyle cezalandırılmayacaksınız!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 13,
+      "ayah": 33,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "yaptığı işin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ وَجَعَلُوا لِلَّهِ شُرَكَاءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّئُونَهُ بِمَا لَا يَعْلَمُ فِي الْأَرْضِ أَمْ بِظَاهِرٍ مِنَ الْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا مَكْرُهُمْ وَصُدُّوا عَنِ السَّبِيلِ ۗ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+      "verseTransliteration": "E fe men huve kâimun alâ kulli nefsin bi mâ kesebet, ve cealû lillâhi şurekâ’(şurekâe), kul semmûhum, em tunebbiûnehu bi mâ lâ ya’lemu fîl ardı em bi zâhirin minel kavl(kavli), bel zuyyine lillezîne keferû mekruhum ve suddû anis sebîl(sebîli), ve men yudlilillâhu fe mâ lehu min hâd(hâdin).",
+      "verseMeaning": "Allah´a ortaklar tanıdılar. Peki, her benliğin yaptığı işin başında duranla bunlar bir mi? De ki: \"Onları isimlendirin. Yoksa siz Allah´a, yeryüzünde bilmediği birşey mi haber veriyorsunuz? Yoksa, anlamsız bir laf mı ediyorsunuz?\" Hayır, küfre sapanlara, tuzakları süslü gösterildi de yoldan döndürüldüler. Allah´ın şaşırttığına kılavuzluk edecek yok."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 13,
+      "ayah": 42,
+      "formInAyah": "تَكْسِبُ",
+      "transliteration": "teksibu",
+      "gloss": "kazandığını",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَقَدْ مَكَرَ الَّذِينَ مِنْ قَبْلِهِمْ فَلِلَّهِ الْمَكْرُ جَمِيعًا ۖ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ ۗ وَسَيَعْلَمُ الْكُفَّارُ لِمَنْ عُقْبَى الدَّارِ",
+      "verseTransliteration": "Ve kad mekerellezîne min kablihim fe lillâhil mekru cemîâ(cemîan),ya’lemu mâ teksibu kullu nefs(nefsin), ve se ya’lemul kuffâru li men ukbed dâr(dâri).",
+      "verseMeaning": "Onlardan öncekiler de tuzak kurmuştu, ama tüm tuzaklar Allah´ındır. Her benliğin ne kazandığını O bilir. Kâfirler de bilecek sonsuzluk yurdu kimindir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 14,
+      "ayah": 18,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ أَعْمَالُهُمْ كَرَمَادٍ اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ ۖ لَا يَقْدِرُونَ مِمَّا كَسَبُوا عَلَىٰ شَيْءٍ ۚ ذَٰلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+      "verseTransliteration": "Meselullezîne keferû bi rabbihim a’mâluhum ke remâdinişteddet bihir rîhu fî yevmin âsıf(âsıfin), lâ yakdirûne mimmâ kesebû alâ şey’(şey’in), zâlike huved dalâlul baîd(baîdu).",
+      "verseMeaning": "Rablerine nankörlük edenlerin amelleri, fırtınalı bir günde rüzgârın tarumar ettiği küle benzer. Kazandıklarından hiçbir şey elde edemezler. İşte bu, dönüşü olmayan sapıklığın ta kendisidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 14,
+      "ayah": 51,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لِيَجْزِيَ اللَّهُ كُلَّ نَفْسٍ مَا كَسَبَتْ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "Li yecziyallâhu kulle nefsin mâ kesebet, innallâhe serîul hısâb(hısâbi).",
+      "verseMeaning": "Çünkü Allah, her benliği kendi kazandığıyla karşı karşıya getirecektir. Allah, hesabı çok çabuk görür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 15,
+      "ayah": 84,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَمَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Fe mâ agnâ anhum mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Kazanıp durdukları şeylerin kendilerine hiçbir yararı olmadı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 18,
+      "ayah": 58,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıklariyle",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُمْ بِمَا كَسَبُوا لَعَجَّلَ لَهُمُ الْعَذَابَ ۚ بَلْ لَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِهِ مَوْئِلًا",
+      "verseTransliteration": "Ve rabbukel gafûru zur rahmeh(rahmeti), lev yuâhızuhum bi mâ kesebû le accele lehumul azâb(azâbe), bel lehum mev’ıdun len yecidû min dûnihî mev’ilâ(mev’ilen).",
+      "verseMeaning": "O affedici, o rahmet sahibi Rabbin, onları, kazandıkları yüzünden hesaba çekseydi, kendileri için azabı mutlaka çabuklaştırırdı. Böyle olmamıştır, ama onlar için, hiçbir kaçıp kurtulma imkânı bulamayacakları bir hesap sorma zamanı öngörülmüştür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 30,
+      "ayah": 41,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ",
+      "verseTransliteration": "Zaharel fesâdu fîl berri vel bahri bimâ kesebet eydin nâsi, li yuzîkahum ba’dallezî amilû leallehum yerciûn(yerciûne).",
+      "verseMeaning": "İnsanların ellerinin kazanmış oldukları yüzünden denizde ve karada bozgun çıktı. Allah onlara, yaptıklarının bir kısmını tattırıyor ki geri dönebilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 31,
+      "ayah": 34,
+      "formInAyah": "تَكْسِبُ",
+      "transliteration": "teksibu",
+      "gloss": "kazanacağını",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ ۖ وَمَا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+      "verseTransliteration": "İnnallâhe indehu ilmus sâah(sâati), ve yunezzilul gays(gayse), ve ya’lemu mâ fîl erhâm(erhâmi), ve mâ tedrî nefsun mâzâ teksibu gadâ(gaden), ve mâ tedrî nefsun bi eyyi ardın temût(temûtu), innallâhe alîmun habîr(habîrun).",
+      "verseMeaning": "O kıyamet saatine ilişkin bilgi Allah katındadır. Yağmuru O yağdırır. O, rahimlerde olanı da bilir. Hiçbir benlik yarın ne kazanacağını bilmez. Ve hiçbir kimse hangi yerde öleceğini bilmez. Allah Alîm´dir, Habîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 35,
+      "ayah": 45,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıkları işler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ فَإِنَّ اللَّهَ كَانَ بِعِبَادِهِ بَصِيرًا",
+      "verseTransliteration": "Ve lev yûâhızullâhun nâse bimâ kesebû mâ tereke alâ zahrihâ min dâbbetin, ve lâkin yûahhıruhum ilâ ecelin musemmâ(musemmen), fe izâ câe eceluhum fe innallâhe kâne bi ibâdihî basîrâ(basîren).",
+      "verseMeaning": "Eğer Allah, insanları, kazandıkları yüzünden hesaba çekseydi, yerkürenin sırtında hiçbir canlı bırakmazdı. Ne var ki, onları belirli bir süreye kadar, ecelleri gelinceye kadar erteliyor. Allah, kullarını iyice görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 36,
+      "ayah": 65,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "El yevme nahtimu alâ efvâhihim ve tukellimunâ eydîhim ve teşhedu erculuhum bimâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "O gün, ağızlarını mühürleyeceğiz. Bize elleri konuşacak, ayakları da kazanmış olduklarına tanıklık edecek."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 39,
+      "ayah": 24,
+      "formInAyah": "تَكْسِبُونَ",
+      "transliteration": "teksibūne",
+      "gloss": "kazanıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَفَمَنْ يَتَّقِي بِوَجْهِهِ سُوءَ الْعَذَابِ يَوْمَ الْقِيَامَةِ ۚ وَقِيلَ لِلظَّالِمِينَ ذُوقُوا مَا كُنْتُمْ تَكْسِبُونَ",
+      "verseTransliteration": "E fe men yettekî bi vechihî sûel azâbi yevmel kıyâme(kıyâmeti), ve kıyle liz zâlimîne zûkû mâ kuntum teksibûn(teksibûne).",
+      "verseMeaning": "Zalimlere, \"kazanmış olduğunuzu tadın!\" denildiğinde, kıyamet günü o kötü azaptan yüzünü kim koruyabilir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 39,
+      "ayah": 48,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıkları işlerin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَبَدَا لَهُمْ سَيِّئَاتُ مَا كَسَبُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "verseTransliteration": "Ve bedâ lehum seyyiâtu mâ kesebû ve hâka bihim mâ kânû bihî yestehziûn(yestehziûne).",
+      "verseMeaning": "Kazanmış olduklarının çirkinlikleri, önlerinde belirmiş; alay edegeldikleri şey kendilerini sarıvermiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 39,
+      "ayah": 50,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَدْ قَالَهَا الَّذِينَ مِنْ قَبْلِهِمْ فَمَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Kad kâlehellezîne min kablihim fe mâ agnâ anhum mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Onlardan öncekiler de bunu söylemişlerdi ama kazandıkları şeyler kendilerine hiçbir yarar sağlamamıştı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 39,
+      "ayah": 51,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıklarının",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَصَابَهُمْ سَيِّئَاتُ مَا كَسَبُوا ۚ وَالَّذِينَ ظَلَمُوا مِنْ هَٰؤُلَاءِ سَيُصِيبُهُمْ سَيِّئَاتُ مَا كَسَبُوا وَمَا هُمْ بِمُعْجِزِينَ",
+      "verseTransliteration": "Fe esâbehum seyyiâtu mâ kesebû, vellezîne zalemû min hâulâi se yusîbuhum seyyiâtu mâ kesebû ve mâ hum bi mu’cizîn(bimu’cizîne).",
+      "verseMeaning": "Sonunda, kazanmış olduklarının çirkinlikleri yakalarına yapışmıştı. Şunların zulmedenlerine de kazandıklarının kötülükleri gelip çatacaktır. Ve onlar kimseyi aciz de bırakamayacaklar/onlar bunu etkisiz de bırakamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 39,
+      "ayah": 51,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazandıklarının",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَصَابَهُمْ سَيِّئَاتُ مَا كَسَبُوا ۚ وَالَّذِينَ ظَلَمُوا مِنْ هَٰؤُلَاءِ سَيُصِيبُهُمْ سَيِّئَاتُ مَا كَسَبُوا وَمَا هُمْ بِمُعْجِزِينَ",
+      "verseTransliteration": "Fe esâbehum seyyiâtu mâ kesebû, vellezîne zalemû min hâulâi se yusîbuhum seyyiâtu mâ kesebû ve mâ hum bi mu’cizîn(bimu’cizîne).",
+      "verseMeaning": "Sonunda, kazanmış olduklarının çirkinlikleri yakalarına yapışmıştı. Şunların zulmedenlerine de kazandıklarının kötülükleri gelip çatacaktır. Ve onlar kimseyi aciz de bırakamayacaklar/onlar bunu etkisiz de bırakamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 40,
+      "ayah": 17,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığıyle",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "الْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ الْيَوْمَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "El yevme tuczâ kullu nefsin bimâ kesebet, lâ zulmel yevm(yevme), innallâhe serîul hisâb(hisâbi).",
+      "verseMeaning": "Bugün her benlik kazandığıyla cezalandırılır. Zulüm yok bugün! Allah, hesabı çabucak görür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 40,
+      "ayah": 82,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۚ كَانُوا أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَمَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "E fe lem yesîrû fîl ardı fe yenzurû keyfe kâne âkıbetullezîne min kablihim, kânû eksere minhum ve eşedde kuvveten ve âsâren fîl ardı femâ agnâ anhum mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Yeryüzünde dolaşıp da kendilerinden öncekilerin sonu nice olmuş diye bakmıyorlar mı? Öncekiler bunlardan sayıca daha çok, kuvvetçe daha zorlu ve yeryüzündeki eserler bakımından daha üstün idiler. Ama kazanmış oldukları şeyler, kendilerine hiçbir yarar sağlamadı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 41,
+      "ayah": 17,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "yapıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَىٰ عَلَى الْهُدَىٰ فَأَخَذَتْهُمْ صَاعِقَةُ الْعَذَابِ الْهُونِ بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Ve emmâ semûdu fe hedeynâhum festehabbûl amâ alel hudâ fe ehazethum sâıkatul azâbil hûni bimâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Semûd´a gelince, biz onlara kılavuzluk ettik ama onlar körlüğü hidayete tercih ettiler. Bunun üzerine, kazandıkları yüzünden, alçaltıcı azabın yıldırımı onları yakaladı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 42,
+      "ayah": 22,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıkları işler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ ۗ وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي رَوْضَاتِ الْجَنَّاتِ ۖ لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+      "verseTransliteration": "Terez zâlimîne muşfikîne mimmâ kesebû ve huve vâkıun bihim, vellezîne âmenû ve amilûs sâlihâti fî ravdâtil cennât(cennâti), lehum mâ yeşâûne inde rabbihim zâlike huvel fadlul kebîr(kebîru).",
+      "verseMeaning": "Kazandıkları, tepelerine inerken o zalimlerin korkudan titrediklerini göreceksin. İman edip hayra ve barışa yönelik işler yapanlarsa cennetlerin bahçelerindedir. Rableri katında kendileri için, diledikleri herşey vardır. İşte budur o büyük lütuf."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 42,
+      "ayah": 30,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "yaptığı (işler)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ",
+      "verseTransliteration": "Ve mâ esâbekum min musîbetin fe bi mâ kesebet eydîkum ve ya’fû an kesîr(kesîrin).",
+      "verseMeaning": "Size gelip çatan her musibet ellerinizin kazandığı yüzündendir. Allah birçoklarını da affediyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 42,
+      "ayah": 34,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "yaptıkları (işler)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا وَيَعْفُ عَنْ كَثِيرٍ",
+      "verseTransliteration": "Ev yûbıkhunne bimâ kesebû ve ya’fu an kesîr(kesîrin).",
+      "verseMeaning": "Yahut onları, içindekilerin kazançları yüzünden mahveder. Ama birçoğunu affediyor;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 45,
+      "ayah": 10,
+      "formInAyah": "كَسَبُوا",
+      "transliteration": "kesebū",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مِنْ وَرَائِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِي عَنْهُمْ مَا كَسَبُوا شَيْئًا وَلَا مَا اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "verseTransliteration": "Min verâihim cehennem(cehennemu), ve lâ yugnî anhum mâ kesebû şey’en ve lâ mattehazû min dûnillâhi evliyâe, ve lehum azâbun azîm(azîmun).",
+      "verseMeaning": "Arkalarından cehennem! Kazanmış oldukları da Allah dışında edindikleri veliler de onlara hiçbir yarar sağlamayacaktır. Çok büyük bir azap vardır onlar için."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 45,
+      "ayah": 14,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "yapıyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لِلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ اللَّهِ لِيَجْزِيَ قَوْمًا بِمَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Kul lillezîne âmenû yagfirû lillezîne lâ yercûne eyyâmallâhi li yecziye kavmen bi mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "İman edenlere söyle: \"Allah´ın günlerini ummayanları affetsinler ki, O, bir toplumu kazandıklarıyla cezalandırsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 45,
+      "ayah": 22,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "verseTransliteration": "Ve halakallâhus semâvâti vel arda bil hakkı ve li tuczâ kullu nefsin bimâ kesebet ve hum lâ yuzlemûn(yuzlemûne).",
+      "verseMeaning": "Ve Allah, gökleri ve yeri hak olarak yarattı. Ta ki her benlik, kazancının karşılığıyla, hiç kimse zulme uğratılmaksızın, yüz yüze getirilsin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 52,
+      "ayah": 21,
+      "formInAyah": "كَسَبَ",
+      "transliteration": "kesebe",
+      "gloss": "kendi kazandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ ۚ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ",
+      "verseTransliteration": "Vellezîne âmenû vettebeathum zurriyyetuhum bi îmânin elhaknâ bihim zurriyyetehum ve mâ eletnâhum min amelihim min şey’in, kullumriin bi mâ kesebe rehînun.",
+      "verseMeaning": "İman edip zürriyetleri de imanda kendilerine uyanların, soy soplarını da kendilerine katmışızdır. Ve kendi amellerinden kendilerinin hiçbir şeyini eksiltmemişizdir. Her kişi, kazandığı karşılığında bir rehindir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 74,
+      "ayah": 38,
+      "formInAyah": "كَسَبَتْ",
+      "transliteration": "kesebet",
+      "gloss": "kazandığıyle",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+      "verseTransliteration": "Kullu nefsin bimâ kesebet rehîneh(rehînetun).",
+      "verseMeaning": "Her benlik öz kazancının bir karşılığıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 83,
+      "ayah": 14,
+      "formInAyah": "يَكْسِبُونَ",
+      "transliteration": "yeksibūne",
+      "gloss": "kazanıyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "Kellâ bel râne alâ kulûbihim mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "İşin esası o değil! Onların kazanmakta oldukları, kalplerinin üstünde pas oluşturmuştur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَسَبَ",
+      "sura": 111,
+      "ayah": 2,
+      "formInAyah": "كَسَبَ",
+      "transliteration": "kesebe",
+      "gloss": "kazandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "verseTransliteration": "Mâ agnâ anhu mâluhu ve mâ keseb(kesebe).",
+      "verseMeaning": "Ne malı kurtardı onu ne de kazandığı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱكْتَسَبَ",
+      "sura": 2,
+      "ayah": 286,
+      "formInAyah": "اكْتَسَبَتْ",
+      "transliteration": "ktesebet",
+      "gloss": "işlediği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Lâ yukellifullâhu nefsen illâ vus’ahâ lehâ mâ kesebet ve aleyhâ mektesebet rabbenâ lâ tuâhıznâ in nesînâ ev ahta’nâ, rabbenâ ve lâ tahmil aleynâ ısran kemâ hameltehu alellezîne min kablinâ, rabbenâ ve lâ tuhammilnâ mâ lâ tâkate lenâ bih(bihî), va’fu annâ, vagfir lenâ, verhamnâ, ente mevlânâ fensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Allah hiç bir benliğe, yaratılış kapasitesinin üstünde bir yük yüklemez/teklifte bulunmaz. Her benliğin yaptığı iyilik kendi lehine, işlediği kötülük kendi aleyhinedir/kişinin hem kendisi hem başkaları için kazandığı onun lehine, yalnız kendi nefsi için kazandığı onun aleyhinedir/kişinin kendi emeği ile kazandığı lehine, başkalarının sırtından kazandığı aleyhinedir. \"Ey Rabb´imiz! Unutur yahut hata edersek bizi hesaba çekme. Ey Rabb´imiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Ey Rabb´imiz! Bize, güç yetiremeyeceğimiz şeyleri de yükleme. Affet bizi, bağışla bizi, acı bize. Sen bizim Mevlâ´mızsın. Küfre sapanlar topluluğuna karşı yardım et bize!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱكْتَسَبَ",
+      "sura": 4,
+      "ayah": 32,
+      "formInAyah": "اكْتَسَبُوا",
+      "transliteration": "ktesebū",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ ۚ لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا اكْتَسَبْنَ ۚ وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ ۗ إِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "verseTransliteration": "Ve lâ tetemennev mâ faddalallâhû bihî ba’dakum alâ ba’d(ba’dın), lir ricâli nasîbun mimmektesebû ve lin nisâi nasîbun mimmektesebn(mimmektesebne), ves’elûllâhe min fadlih(fadlihî) innallâhe kâne bi kulli şey’in alîmâ(alîmen).",
+      "verseMeaning": "Allah´ın, bir kısmınıza bir kısmınızdan farklı olarak lütfettiği şeyleri isteyip durmayın. Erkeklere kendi kazandıklarından bir pay var; kadınlara da kendi kazandıklarından bir pay var. Allah´tan, O´nun lütfunu isteyin! Allah, herşeyi iyice bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱكْتَسَبَ",
+      "sura": 4,
+      "ayah": 32,
+      "formInAyah": "اكْتَسَبْنَ",
+      "transliteration": "ktesebne",
+      "gloss": "kazandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Dişil, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ ۚ لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا اكْتَسَبْنَ ۚ وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ ۗ إِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا",
+      "verseTransliteration": "Ve lâ tetemennev mâ faddalallâhû bihî ba’dakum alâ ba’d(ba’dın), lir ricâli nasîbun mimmektesebû ve lin nisâi nasîbun mimmektesebn(mimmektesebne), ves’elûllâhe min fadlih(fadlihî) innallâhe kâne bi kulli şey’in alîmâ(alîmen).",
+      "verseMeaning": "Allah´ın, bir kısmınıza bir kısmınızdan farklı olarak lütfettiği şeyleri isteyip durmayın. Erkeklere kendi kazandıklarından bir pay var; kadınlara da kendi kazandıklarından bir pay var. Allah´tan, O´nun lütfunu isteyin! Allah, herşeyi iyice bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱكْتَسَبَ",
+      "sura": 24,
+      "ayah": 11,
+      "formInAyah": "اكْتَسَبَ",
+      "transliteration": "ktesebe",
+      "gloss": "işledi (ise)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِنْكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا لَكُمْ ۖ بَلْ هُوَ خَيْرٌ لَكُمْ ۚ لِكُلِّ امْرِئٍ مِنْهُمْ مَا اكْتَسَبَ مِنَ الْإِثْمِ ۚ وَالَّذِي تَوَلَّىٰ كِبْرَهُ مِنْهُمْ لَهُ عَذَابٌ عَظِيمٌ",
+      "verseTransliteration": "İnnellezîne câû bil ifki usbetun minkum, lâ tahsebûhu şerren lekum, bel huve hayrun lekum, li kullimriin minhum mektesebe minel ism(ismi), vellezî tevellâ kibrehu minhum lehu azâbun azîm(azîmun).",
+      "verseMeaning": "O ifki/yalan haberi/iftirayı getirenler, içinizden bir gruptur. Onu sizin için şer sanmayın. Aksine o, sizin için bir hayırdır. Onlardan her kişiye o günahtan kazandığı vardır. Onların, günahın büyüğünü yönetenine de büyük bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱكْتَسَبَ",
+      "sura": 33,
+      "ayah": 58,
+      "formInAyah": "اكْتَسَبُوا",
+      "transliteration": "ktesebū",
+      "gloss": "yaptıklarının",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَانًا وَإِثْمًا مُبِينًا",
+      "verseTransliteration": "Vellezîne yu’zûnel mu’minîne vel mu’minâti bi gayri mektesebû fe kadihtemelû buhtânen ve ismen mubînâ(mubînen).",
+      "verseMeaning": "Mümin erkeklerle mümin kadınları, yapmadıkları bir şeyden dolayı rahatsız edenler, bir iftira ve açık bir günah yüklenmişlerdir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=ksb"
+}

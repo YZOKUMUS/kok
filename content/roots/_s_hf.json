@@ -1,0 +1,225 @@
+{
+  "id": "SHf",
+  "latinName": "Sad-Ha-Fe",
+  "lettersArabic": "ص ح ف",
+  "meanings": [
+    "to write or read, dig. sahfatun (pl. sihaaf) - hollow, large dish. sahiifa - surface of the earth. sahiifatun (pl. suhuf) - heap of a book."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 9,
+  "lemmas": [
+    {
+      "formArabic": "صِحَاف",
+      "count": 1
+    },
+    {
+      "formArabic": "صُحُف",
+      "count": 8
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صِحَاف",
+      "sura": 43,
+      "ayah": 71,
+      "formInAyah": "بِصِحَافٍ",
+      "transliteration": "biSiHāfin",
+      "gloss": "tepsiler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ ۖ وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ ۖ وَأَنْتُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Yutâfu aleyhim bi sıhâfin min zehebin ve ekvâb(ekvâbin), ve fîhâ mâ teştehîhil enfusu ve telezzul a’yun(a’yunu), ve entum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Çevrelerinde altın tepsiler, kadehler dolaştırılır. Orada, nefislerin arzu duyacağı, gözlerin zevkleneceği her şey vardır. Ve siz orada sürekli kalacaksınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 20,
+      "ayah": 133,
+      "formInAyah": "الصُّحُفِ",
+      "transliteration": "S-SuHufi",
+      "gloss": "Kitap’larda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالُوا لَوْلَا يَأْتِينَا بِآيَةٍ مِنْ رَبِّهِ ۚ أَوَلَمْ تَأْتِهِمْ بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَىٰ",
+      "verseTransliteration": "Ve kâlû lev lâ ye’tînâ bi âyetin min rabbih(rabbihî), e ve lem te’tihim beyyinetu mâ fîs suhufil ûlâ.",
+      "verseMeaning": "Dediler ki: \"Rabbinden bize bir mucize getirseydi ya!\" Peki, önceki sayfalardaki açık kanıt onlara gelmedi mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 53,
+      "ayah": 36,
+      "formInAyah": "صُحُفِ",
+      "transliteration": "SuHufi",
+      "gloss": "sahifelerinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ",
+      "verseTransliteration": "Em lem yunebbe’ bimâ fî suhufi mûsâ.",
+      "verseMeaning": "Yoksa haber verilmedi mi ona, Mûsa´nın sayfalarındakiler?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 74,
+      "ayah": 52,
+      "formInAyah": "صُحُفًا",
+      "transliteration": "SuHufen",
+      "gloss": "sahifeler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً",
+      "verseTransliteration": "Bel yurîdu kullumriin minhum en yu’tâ suhufen muneşşereh (muneşşereten).",
+      "verseMeaning": "İçlerinden her kişi de istiyor ki, kendisine açılıp saçılmış sayfalar verilsin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 80,
+      "ayah": 13,
+      "formInAyah": "صُحُفٍ",
+      "transliteration": "SuHufin",
+      "gloss": "sahifeler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِي صُحُفٍ مُكَرَّمَةٍ",
+      "verseTransliteration": "Fî suhufin mukerrameh(mukerrametin).",
+      "verseMeaning": "Kutsanan bereketli sayfalardadır o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 81,
+      "ayah": 10,
+      "formInAyah": "الصُّحُفُ",
+      "transliteration": "S-SuHufu",
+      "gloss": "defterler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+      "verseTransliteration": "Ve izes suhufu nuşiret.",
+      "verseMeaning": "Sayfalar açılıp göz önüne konduğunda,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 87,
+      "ayah": 18,
+      "formInAyah": "الصُّحُفِ",
+      "transliteration": "S-SuHufi",
+      "gloss": "sahifelerde de",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+      "verseTransliteration": "İnne hâzâ le fîs suhufîl ûlâ.",
+      "verseMeaning": "Hiç kuşkusuz, bu Kur´an, ilk sayfalarda da elbette vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 87,
+      "ayah": 19,
+      "formInAyah": "صُحُفِ",
+      "transliteration": "SuHufi",
+      "gloss": "sayfalarında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+      "verseTransliteration": "Suhufi ibrâhîme ve mûsâ.",
+      "verseMeaning": "İbrahim´in ve Mûsa´nın sayfalarında."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صُحُف",
+      "sura": 98,
+      "ayah": 2,
+      "formInAyah": "صُحُفًا",
+      "transliteration": "SuHufen",
+      "gloss": "sahifeler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+      "verseTransliteration": "Resûlun minallâhi yetlû suhufen mutahharah(mutahhareten).",
+      "verseMeaning": "Allah tarafından gönderilen, tertemiz sayfalar okuyan bir resul gelinceye dek."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=SHf"
+}

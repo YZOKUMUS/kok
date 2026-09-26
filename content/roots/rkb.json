@@ -1,0 +1,363 @@
+{
+  "id": "rkb",
+  "latinName": "Ra-Kef-Be",
+  "lettersArabic": "ر ك ب",
+  "meanings": [
+    "Binmek (ata, gemiye)"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 15,
+  "lemmas": [
+    {
+      "formArabic": "رَّكْب",
+      "count": 1
+    },
+    {
+      "formArabic": "رِكَاب",
+      "count": 1
+    },
+    {
+      "formArabic": "رَكِبَ",
+      "count": 9
+    },
+    {
+      "formArabic": "رُكْبَان",
+      "count": 1
+    },
+    {
+      "formArabic": "رَكَّبَ",
+      "count": 1
+    },
+    {
+      "formArabic": "رَكُوب",
+      "count": 1
+    },
+    {
+      "formArabic": "مُّتَرَاكِب",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَّكْب",
+      "sura": 8,
+      "ayah": 42,
+      "formInAyah": "وَالرَّكْبُ",
+      "transliteration": "ve rrakbu",
+      "gloss": "ve kervan da",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ أَنْتُمْ بِالْعُدْوَةِ الدُّنْيَا وَهُمْ بِالْعُدْوَةِ الْقُصْوَىٰ وَالرَّكْبُ أَسْفَلَ مِنْكُمْ ۚ وَلَوْ تَوَاعَدْتُمْ لَاخْتَلَفْتُمْ فِي الْمِيعَادِ ۙ وَلَٰكِنْ لِيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا لِيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَيَّ عَنْ بَيِّنَةٍ ۗ وَإِنَّ اللَّهَ لَسَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "İz entum bil udvetid dunyâ ve hum bil udvetil kusvâ verrekbu esfele minkum, ve lev tevâadtum lahteleftum fîl mîâdi ve lâkin li yakdiyallâhu emren kâne mef´ûlen li yehlike men heleke an beyyinetin ve yahyâ men hayye an beyyineh(beyyinetin), ve innallâhe le semî´un alîm(alîmun).",
+      "verseMeaning": "O vakit siz, vadinin beri yamacında idiniz, onlarsa öte yamacında idiler. Kervan sizden daha aşağıda idi. Sözleşmiş olsaydınız buluşma yer ve saatinde ayrılığa düşerdiniz. Ama Allah, olması kararlaştırılan işi yerine getirmek istiyordu. Ta ki, ölen beyyine üzerine ölsün, yaşayan da beyyine üzerine yaşasın. Allah elbette ki çok iyi işitir, çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِكَاب",
+      "sura": 59,
+      "ayah": 6,
+      "formInAyah": "رِكَابٍ",
+      "transliteration": "rikābin",
+      "gloss": "deve",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ اللَّهَ يُسَلِّطُ رُسُلَهُ عَلَىٰ مَنْ يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Ve mâ efâ allâhu alâ resûlihî minhum fe mâ evceftum aleyhi min haylin ve lâ rikâbin ve lâkinnallâhe yusallitu rusulehu alâ men yeşâu, vallâhu alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Allah´ın onlardan resulüne aktardığı ganimetlere gelince, siz onun için ne at bindiniz ne deve sürdünüz; ama Allah, resullerini dilediği kimselerin üzerine salar. Allah her şeyi yapmakta sonsuz kudret sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 11,
+      "ayah": 41,
+      "formInAyah": "ارْكَبُوا",
+      "transliteration": "rkebū",
+      "gloss": "haydi binin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا ۚ إِنَّ رَبِّي لَغَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Ve kâlerkebû fîhâ bismillâhi mecrâhâ ve mursâhâ, inne rabbî le gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Nûh dedi: \"Binin içine! Onun akıp gitmesi de demir atması da Allah´ın adıyladır. Benim Rabbim elbette ki Gafûr´dur, Rahîm´dir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 11,
+      "ayah": 42,
+      "formInAyah": "ارْكَبْ",
+      "transliteration": "rkeb",
+      "gloss": "gel bin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَهِيَ تَجْرِي بِهِمْ فِي مَوْجٍ كَالْجِبَالِ وَنَادَىٰ نُوحٌ ابْنَهُ وَكَانَ فِي مَعْزِلٍ يَا بُنَيَّ ارْكَبْ مَعَنَا وَلَا تَكُنْ مَعَ الْكَافِرِينَ",
+      "verseTransliteration": "Ve hiye tecrî bihim fî mevcin kel cibâli ve nâdâ nûhunibnehu ve kâne fî ma´zilin yâ buneyyerkeb meanâ ve lâ tekun meal kâfirîn(kâfirîne).",
+      "verseMeaning": "Gemi onları, dağlar gibi dalgalar üstünden yürütüp götürüyordu. Nûh onlardan ayrı bir yerde duran oğluna seslendi: \"Oğulcuğum, bizimle beraber bin, kâfirlerle beraber olma.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 16,
+      "ayah": 8,
+      "formInAyah": "لِتَرْكَبُوهَا",
+      "transliteration": "literkebūhā",
+      "gloss": "binmeniz için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Vel hayle vel bigâle vel hamîre li terkebûhâ ve zîneh(zîneten), ve yahluku mâ lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Hem binesiniz diye hem de bir süs olarak atları, katırları, eşekleri de yarattı. Ve bilemeyeceğiniz daha neler yaratır O..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 18,
+      "ayah": 71,
+      "formInAyah": "رَكِبَا",
+      "transliteration": "rakibā",
+      "gloss": "bindikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, İkil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَانْطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا",
+      "verseTransliteration": "Fentalakâ, hattâ izâ rakibâ fîs sefîneti harakahâ kâle e haraktehâ li tugrika ehlehâ, lekad ci’te şey’en imrâ(imren).",
+      "verseMeaning": "İkisi birlikte yola koyudular. Bir süre sonra gemiye bindiklerinde, tuttu gemiyi deliverdi. Mûsa dedi: \"İçindekileri boğmak için mi deldin onu? Vallahi korkunç bir iş yaptın!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 29,
+      "ayah": 65,
+      "formInAyah": "رَكِبُوا",
+      "transliteration": "rakibū",
+      "gloss": "bindikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
+      "verseTransliteration": "Fe izâ rakibû fîl fulki deavûllâhe muhlisîne lehud dîn(dîne), fe lemmâ neccâhum ilel berri izâ hum yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Gemiye bindiklerinde, dini Allah´a özgüleyerek yalvarıp yakarırlar. Fakat Allah onları kurtarıp karaya çıkardığında, bir bakmışsın ortak koşuyorlar;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 36,
+      "ayah": 42,
+      "formInAyah": "يَرْكَبُونَ",
+      "transliteration": "yerkebūne",
+      "gloss": "binecekleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
+      "verseTransliteration": "Ve halaknâ lehum min mislihî mâ yerkebûn(yerkebûne).",
+      "verseMeaning": "Onlar için gemilere benzer, binecekleri başka şeyler de yarattık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 40,
+      "ayah": 79,
+      "formInAyah": "لِتَرْكَبُوا",
+      "transliteration": "literkebū",
+      "gloss": "binmeniz için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَنْعَامَ لِتَرْكَبُوا مِنْهَا وَمِنْهَا تَأْكُلُونَ",
+      "verseTransliteration": "Allâhullezî ceale lekumul en’âme li terkebû minhâ ve minhâ te’kulûn(te’kulûne).",
+      "verseMeaning": "Bir kısmından binek edinesiniz, bir kısmından yiyesiniz diye sizin için hayvanları yaratan, O Allah´tır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 43,
+      "ayah": 12,
+      "formInAyah": "تَرْكَبُونَ",
+      "transliteration": "terkebūne",
+      "gloss": "bineceğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْكَبُونَ",
+      "verseTransliteration": "Vellezî halakal ezvâce kullehâve ceale lekum minel fulki vel enâmi mâ terkebûn(terkebûne).",
+      "verseMeaning": "Tüm çiftleri de yaratan O´dur. Ve O, sizin için gemilerden ve hayvanlardan binmekte olduğunuz şeylere de vücut verdi;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكِبَ",
+      "sura": 84,
+      "ayah": 19,
+      "formInAyah": "لَتَرْكَبُنَّ",
+      "transliteration": "leterkebunne",
+      "gloss": "siz mutlaka bineceksiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ",
+      "verseTransliteration": "Le terkebunne tabakan an tabakın.",
+      "verseMeaning": "Ki siz boyuttan boyuta/halden hale mutlaka geçeceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رُكْبَان",
+      "sura": 2,
+      "ayah": 239,
+      "formInAyah": "رُكْبَانًا",
+      "transliteration": "rukbānen",
+      "gloss": "binmiş olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا ۖ فَإِذَا أَمِنْتُمْ فَاذْكُرُوا اللَّهَ كَمَا عَلَّمَكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ",
+      "verseTransliteration": "Fe in hıftum fe ricâlen ev rukbânâ(rukbânen), fe izâ emintum, fezkurûllâhe kemâ allemekum mâ lem tekûnû ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Bir korku ve endişe duyarsanız yürüyerek veya binit üzerinde kılın. Güvene kavuştuğunuzda bilmediğiniz şeyleri size öğrettiği şekilde Allah´ı zikredin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكَّبَ",
+      "sura": 82,
+      "ayah": 8,
+      "formInAyah": "رَكَّبَكَ",
+      "transliteration": "rakkebeke",
+      "gloss": "( o şekilde) seni terkib etti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ",
+      "verseTransliteration": "Fî eyyi sûretin mâ şâe rekkebek(rekkebeke).",
+      "verseMeaning": "Dilediği herhangi bir biçimde seni oluşturdu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَكُوب",
+      "sura": 36,
+      "ayah": 72,
+      "formInAyah": "رَكُوبُهُمْ",
+      "transliteration": "rakūbuhum",
+      "gloss": "binekleridir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+      "verseTransliteration": "Ve zellelnâhâ lehum fe minhâ rakûbuhum ve minhâ ye’kulûn(ye’kulûne).",
+      "verseMeaning": "O hayvanları bunlara boyun eğdirdik. Onlardan binekleri vardır ve onlardan bir kısmını da yiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّتَرَاكِب",
+      "sura": 6,
+      "ayah": 99,
+      "formInAyah": "مُتَرَاكِبًا",
+      "transliteration": "muterākiben",
+      "gloss": "birbiri üzerine binmiş",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Tefâ’ul Kalıbı",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِبًا وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّاتٍ مِنْ أَعْنَابٍ وَالزَّيْتُونَ وَالرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَابِهٍ ۗ انْظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ ۚ إِنَّ فِي ذَٰلِكُمْ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "Ve huvellezî enzele mines semâi mâ’(mâen), fe ahrecnâ bihî nebate kulli şey’in fe ahrecnâ minhu hadıran nuhricu minhu habben muterâkibâ(muterâkiben), ve minen nahli min tal’ıhâ kınvânun dâniyetun ve cennâtin min a’nâbin vez zeytûne ver rummâne muştebihen ve gayre muteşâbih(muteşâbihin), unzurû ilâ semerihî izâ esmere ve yen’ıh(yen’ıhî), inne fî zâlikum le âyâtin li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Size gökten su indiren de O´dur! Biz o suyla her şeyin bitkisini çıkardık. Ondan da bir yeşillik çıkardık. O yeşillikten birbiri üzerine binmiş dâneler çıkardık. Hurma ağacının da tomurcuğundan sarkan salkımlar, üzümlerden bağlar, zeytin, nar çıkardık. Birbirine benzeyeni var, benzemeyeni var. Meyve verdiğinde ve meyveler olgunlaştığında bir bakın onun ürününe! Bu size gösterilenlerde, iman eden bir topluluk için, çok ibret vardır!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rkb"
+}

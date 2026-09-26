@@ -1,0 +1,474 @@
+{
+  "id": "Hlm",
+  "latinName": "Ha-Lam-Mim",
+  "lettersArabic": "ح ل م",
+  "meanings": [
+    "To dream, have a vision. Attain to puberty. Experience an emission of seminal fluid (whether awake or in sleep), dream of copulation in sleep. To be forbearing or clement, to forgive and conceal offences, to be moderate/gentle/deliberate/leisurely in manner, patient."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 21,
+  "lemmas": [
+    {
+      "formArabic": "حُلُم",
+      "count": 6
+    },
+    {
+      "formArabic": "حَلِيم",
+      "count": 15
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُلُم",
+      "sura": 12,
+      "ayah": 44,
+      "formInAyah": "أَحْلَامٍ",
+      "transliteration": "eHlāmin",
+      "gloss": "düşler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا أَضْغَاثُ أَحْلَامٍ ۖ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+      "verseTransliteration": "Kâlû adgâsu ahlâm(ahlâmin), ve mâ nahnu bi te’vîlil ahlâmi bi âlimîn(âlimîne).",
+      "verseMeaning": "Dediler ki: \"Bunlar, demet demet hayallerden ibarettir. Biz, hayal ve kuruntuların yorumunu bilenler değiliz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُلُم",
+      "sura": 12,
+      "ayah": 44,
+      "formInAyah": "الْأَحْلَامِ",
+      "transliteration": "l-eHlāmi",
+      "gloss": "düşlerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا أَضْغَاثُ أَحْلَامٍ ۖ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+      "verseTransliteration": "Kâlû adgâsu ahlâm(ahlâmin), ve mâ nahnu bi te’vîlil ahlâmi bi âlimîn(âlimîne).",
+      "verseMeaning": "Dediler ki: \"Bunlar, demet demet hayallerden ibarettir. Biz, hayal ve kuruntuların yorumunu bilenler değiliz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُلُم",
+      "sura": 21,
+      "ayah": 5,
+      "formInAyah": "أَحْلَامٍ",
+      "transliteration": "eHlāmin",
+      "gloss": "hayallerdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِآيَةٍ كَمَا أُرْسِلَ الْأَوَّلُونَ",
+      "verseTransliteration": "Bel kâlû adgâsu ahlâmin belifterâhu bel huve şâır(şâırun), fel ye’tinâ bi âyetin kemâ ursilel evvelûn(evvelûne).",
+      "verseMeaning": "Şöyle de dediler: \"Saçma sapan rüyalar bunlar! Belki de uydurduğu bir yalandır. Belki de bir şairdir o. Hadi bir mucize getirsin bize, öncekilere gönderildiği gibi...\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُلُم",
+      "sura": 24,
+      "ayah": 58,
+      "formInAyah": "الْحُلُمَ",
+      "transliteration": "l-Hulume",
+      "gloss": "erginliğe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ ۚ مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلَاةِ الْعِشَاءِ ۚ ثَلَاثُ عَوْرَاتٍ لَكُمْ ۚ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ ۚ طَوَّافُونَ عَلَيْكُمْ بَعْضُكُمْ عَلَىٰ بَعْضٍ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû li yeste’zinkumullezîne meleket eymânukum vellezîne lem yeblugûl hulume minkum selâse merrât(merrâtin), min kabli salâtil fecri, ve hînetedaûne siyâbekum minez zahîrat(zahîrati), ve min ba’di salâtil ışâi, selâsu avrâtin lekum, leyse aleykum ve lâ aleyhim cunâhun ba’de hunn(hunne), tavvâfûne aleykum ba’dukum alâ ba’d(ba’dın), kezâlike yubeyyinullâhu lekumul âyât(âyâti), vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Ey iman edenler! Ellerinizin altında bulunanlarla, ergenlik yaşına gelmemiş olanlarınız sizden üç durumda izin istesinler: Sabah namazından önce, öğlen vaktinde elbiselerinizi çıkardığınızda, akşam kılınan namazdan sonra... Kaygılanacağınız üç vakittir bunlar. Bunlar dışında size de onlara da bir günah yoktur. Aranızda dolaşırlar, birbirinize bakabilirsiniz. Allah, ayetleri size işte böyle açıklıyor. Allah Alîm´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُلُم",
+      "sura": 24,
+      "ayah": 59,
+      "formInAyah": "الْحُلُمَ",
+      "transliteration": "l-Hulume",
+      "gloss": "erginlik çağına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا بَلَغَ الْأَطْفَالُ مِنْكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا كَمَا اسْتَأْذَنَ الَّذِينَ مِنْ قَبْلِهِمْ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Ve izâ belegal etfâlu minkumul hulume felyeste´zinû kemeste´zenellezîne min kablihim, kezâlike yubeyyinullâhu lekum âyâtih(âyâtihî), vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Çocuklarınız ergenlik çağına ulaştığında, kendilerinden öncekilerin izin istediği gibi izin istesinler. Allah size ayetleri işte böyle açıklıyor. Allah her şeyi bilir, hikmeti sınırsızdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُلُم",
+      "sura": 52,
+      "ayah": 32,
+      "formInAyah": "أَحْلَامُهُمْ",
+      "transliteration": "eHlāmuhum",
+      "gloss": "akılları (mı?)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+      "verseTransliteration": "Em te’muruhum ahlâmuhum bi hâzâ em hum kavmun tâgûn (tâgûne).",
+      "verseMeaning": "Acaba bunu onlara hayalleri mi emrediyor yoksa bunlar azmış bir topluluk mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 2,
+      "ayah": 225,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+      "verseTransliteration": "Lâ yuâhızukumullâhu bil lagvi fî eymânikum ve lâkin yuâhızukum bi mâ kesebet kulûbukum vallâhu gafûrun halîm(halîmun).",
+      "verseMeaning": "Allah sizi, dil sürçmesi sonucu lağv olarak yaptığınız yeminlerinizden sorumlu tutmaz; ama O sizi kalplerinizin kazandığından hesaba çeker. Allah Gafûr´dur, çok affeder; Halîm´dir, çok yumuşak davranır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 2,
+      "ayah": 235,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُمْ بِهِ مِنْ خِطْبَةِ النِّسَاءِ أَوْ أَكْنَنْتُمْ فِي أَنْفُسِكُمْ ۚ عَلِمَ اللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَٰكِنْ لَا تُوَاعِدُوهُنَّ سِرًّا إِلَّا أَنْ تَقُولُوا قَوْلًا مَعْرُوفًا ۚ وَلَا تَعْزِمُوا عُقْدَةَ النِّكَاحِ حَتَّىٰ يَبْلُغَ الْكِتَابُ أَجَلَهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي أَنْفُسِكُمْ فَاحْذَرُوهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lâ cunâhe aleykum fîmâ arradtum bihî min hitbetin nisâi ev eknentum fî enfusikum, alimallâhu ennekum se tezkurûnehunne ve lâkin lâ tuvâıdûhunne sirran illâ en tekûlû kavlen ma’rûfâ(ma’rûfen), ve lâ ta’zimû ukdeten nikâhı hattâ yeblugal kitâbu eceleh(ecelehu), va’lemû ennallâhe ya’lemu mâ fî enfusikum fahzerûh(fahzerûhu), va’lemû ennallâhe gafûrun halîm(halîmun).",
+      "verseMeaning": "İddet bekleyen kadınlara evlenme isteğinizi dolaylı yoldan anlatmanızda veya böyle bir şeyi içinizde saklamanızda sizin için hiç bir günah yoktur. Allah bilmiştir ki, siz onları mutlaka anacaksınız, unutmayacaksınız. Bu sırada onlarla, örfün normal göreceği sözlerle konuşma dışında gizli bir buluşma için anlaşmayın. Ve zorunlu olan süre doluncaya kadar nikahı bağlamaya girişmeyin. Bilin ki Allah, benliklerinizin içindekini bilir. O´ndan sakının. Ve bilin ki Allah çok affedicidir, çok yumuşak davranışlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 2,
+      "ayah": 263,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَوْلٌ مَعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِنْ صَدَقَةٍ يَتْبَعُهَا أَذًى ۗ وَاللَّهُ غَنِيٌّ حَلِيمٌ",
+      "verseTransliteration": "Kavlun ma’rûfun ve magfiretun, hayrun min sadakatin yetbeuhâ ezâ(ezen), vallâhu ganiyyun halîm(halîmun).",
+      "verseMeaning": "Güzel, yapıcı bir söz, bir bağışlama, ardından bir eziyet gelen sadakadan daha üstündür. Allah Ganî´dir, cömertliğine sınır yoktur; Halîm´dir, hoşgörüsüne sınır yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 3,
+      "ayah": 155,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ تَوَلَّوْا مِنْكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ إِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُوا ۖ وَلَقَدْ عَفَا اللَّهُ عَنْهُمْ ۗ إِنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
+      "verseTransliteration": "İnnellezîne tevellev minkum yevmel tekal cem’âni, inne mestezellehumuş şeytânu bi ba’di mâ kesebû, ve lekad afâllâhu anhum innallâhe gafûrun halîm(halîmun).",
+      "verseMeaning": "İki topluluğun karşılaştığı gün geri dönüp gidenleriniz var ya, yaptıkları bazı işler yüzünden şeytan onların ayağını kaydırmak istemişti. Andolsun, Allah onları yine de affetti. Allah Gafûr´dur, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 5,
+      "ayah": 101,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِنْ تَسْأَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ عَفَا اللَّهُ عَنْهَا ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tes’elû an eşyâe in tubde lekum tesu’kum, ve in tes’elû anhâ hîne yunezzelul kur’ânu tubde lekum afâllâhu anhâ vallâhu gafûrun hâlîm(hâlîmun).",
+      "verseMeaning": "Ey iman sahipleri! Size açıklandığında canınızı sıkacak şeylerle ilgili soru sormayın. Kur´an indirilmekte iken onları sorarsanız size açıklanır. Allah onlardan vazgeçmiştir. Allah Gafûr´dur, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 9,
+      "ayah": 114,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "yumuşak huylu idi",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا كَانَ اسْتِغْفَارُ إِبْرَاهِيمَ لِأَبِيهِ إِلَّا عَنْ مَوْعِدَةٍ وَعَدَهَا إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُ أَنَّهُ عَدُوٌّ لِلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ حَلِيمٌ",
+      "verseTransliteration": "Ve mâ kânestigfâru ibrâhîme li ebîhi illâ an mev’ıdetin vaadehâ iyyâh(iyyâhu), fe lemmâ tebeyyene lehû ennehuaduvvun lillâhi teberre’e minh(minhu), inne ibrâhîme le evvâhun halîm(halîmun).",
+      "verseMeaning": "İbrahim´in, babası için af dilemesi, sadece ona verdiği bir söz yüzündendi. Onun Allah düşmanı olduğu kendisi için açıklık kazanınca, ondan uzaklaştı. Şu bir gerçek ki, İbrahim başkaları için gamlanıp ah eden ince yürekli, yumuşak bir insandı/tam bir evvâhtı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 22,
+      "ayah": 59,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَيُدْخِلَنَّهُمْ مُدْخَلًا يَرْضَوْنَهُ ۗ وَإِنَّ اللَّهَ لَعَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Le yudhılennehum mudhalen yerdavneh(yerdavnehu), ve innallâhe le alîmun halîm(halîmun).",
+      "verseMeaning": "Onları, razı olacakları bir yere elbette sokacaktır. Allah elbette ki, Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 33,
+      "ayah": 51,
+      "formInAyah": "حَلِيمًا",
+      "transliteration": "Halīmen",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ ۖ وَمَنِ ابْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰ أَنْ تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَا آتَيْتَهُنَّ كُلُّهُنَّ ۚ وَاللَّهُ يَعْلَمُ مَا فِي قُلُوبِكُمْ ۚ وَكَانَ اللَّهُ عَلِيمًا حَلِيمًا",
+      "verseTransliteration": "Turcî men teşâu minhunne ve tu’vî ileyke men teşâu, ve menibtegayte mimmen azelte fe lâ cunâha aleyk(aleyke), zâlike ednâ en tekarre a’yunuhunne ve lâ yahzenne ve yerdayne bimâ âteytehunne kulluhunn(kulluhunne), vallâhu ya’lemu mâ fî kulûbikum ve kânallâhu alîmen halîmâ.",
+      "verseMeaning": "Onlardan dilediğini geriye bırakırsın, dilediğini yanına alırsın. Bir süre için uzaklaştığın hanımlarından dilediğini yanına almanda bir sakınca yoktur. Onların gözlerinin aydınlanmasında, tasalanmalarında ve kendilerine verdiğinle hepsinin hoşnut olmasında bu daha uygun bir yoldur. Allah sizin kalplerinizde olanı bilir. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 37,
+      "ayah": 101,
+      "formInAyah": "حَلِيمٍ",
+      "transliteration": "Halīmin",
+      "gloss": "halim",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ",
+      "verseTransliteration": "Fe beşşernâhu bi gulâmin halîm(halîmin).",
+      "verseMeaning": "Bunun üzerine biz, İbrahim´e yumuşak huylu bir oğlan müjdeledik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 64,
+      "ayah": 17,
+      "formInAyah": "حَلِيمٌ",
+      "transliteration": "Halīmun",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ شَكُورٌ حَلِيمٌ",
+      "verseTransliteration": "İn tukridûllâhe kardan hasenen yudâıfhu lekum ve yagfir lekum, vallâhu şekûrun halîm(halîmun).",
+      "verseMeaning": "Eğer Allah´a gönül hoşluğuyla bir şey borç verirseniz O, onu sizin için katlayarak artırır ve sizin hatalarınızı bağışlar. Allah Şekûr´dur, şükredenlere karşılık verir; Halîm´dir, yumuşak ve merhametli davranır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 11,
+      "ayah": 75,
+      "formInAyah": "لَحَلِيمٌ",
+      "transliteration": "leHalīmun",
+      "gloss": "çok yumuşak huylu idi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ",
+      "verseTransliteration": "İnne ibrâhîme le halîmun evvâhun munîb(munîbun).",
+      "verseMeaning": "İbrahim, gerçekten yufka yürekli bir insandı; herkes için ah eder, içini çekerdi, yalvarıp yakarırdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 11,
+      "ayah": 87,
+      "formInAyah": "الْحَلِيمُ",
+      "transliteration": "l-Halīmu",
+      "gloss": "yufka yürekli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالُوا يَا شُعَيْبُ أَصَلَاتُكَ تَأْمُرُكَ أَنْ نَتْرُكَ مَا يَعْبُدُ آبَاؤُنَا أَوْ أَنْ نَفْعَلَ فِي أَمْوَالِنَا مَا نَشَاءُ ۖ إِنَّكَ لَأَنْتَ الْحَلِيمُ الرَّشِيدُ",
+      "verseTransliteration": "Kâlû yâ şuaybu e salâtuke te’muruke en netruke mâ ya’budu âbâunâ ev en nef’ale fî emvâlinâ mâ neşâ’(neşâu), inneke le entel halîmur reşîd(reşîdu).",
+      "verseMeaning": "Dediler ki: \"Ey Şuayb! Namazın mı emrediyor sana, atalarımızın tapar olduğunu terk etmemizi yahut mallarımızda dilediğimiz gibi davranmaktan vazgeçmemizi? Esasında sen; gerçekten yumuşak huylu, olgun bir insansın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 17,
+      "ayah": 44,
+      "formInAyah": "حَلِيمًا",
+      "transliteration": "Halīmen",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "Tusebbihu lehus semâvâtus seb’u vel ardu ve men fîhinn(fîhinne), ve in min şey’in illâ yusebbihu bi hamdihî ve lâkin lâ tefkahûne tesbîhahum, innehu kâne halîmen gafûrâ(gafûren).",
+      "verseMeaning": "Yedi gök, yerküre ve bunların içindekiler O´nu tespih ederler. Hiçbir şey yoktur ki, O´nu överek tespih etmesin; fakat siz onların tespihlerini fark edemezsiniz. O Halîm´dir, Gafûr´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَلِيم",
+      "sura": 35,
+      "ayah": 41,
+      "formInAyah": "حَلِيمًا",
+      "transliteration": "Halīmen",
+      "gloss": "halimdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يُمْسِكُ السَّمَاوَاتِ وَالْأَرْضَ أَنْ تَزُولَا ۚ وَلَئِنْ زَالَتَا إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِنْ بَعْدِهِ ۚ إِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+      "verseTransliteration": "İnnallâhe yumsikus semâvâti vel arda en tezûlâ, ve le in zâletâ in emsekehumâ min ehadin min ba’dih(ba’dihî), innehu kâne halîmen gafûrâ(gafûran).",
+      "verseMeaning": "Allah, gökleri ve yeri, yok olup gitmesinler diye tutuyor. Yemin olsun, eğer çöküp giderlerse, O´ndan başka hiç kimse onları tutamaz. Halîm´dir O, Gafûr´dur."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Hlm"
+}

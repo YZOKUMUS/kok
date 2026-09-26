@@ -1,0 +1,425 @@
+{
+  "id": "xSm",
+  "latinName": "Kh-Sad-Mim",
+  "lettersArabic": "خ ص م",
+  "meanings": [
+    "Contend in an altercation, dispute/litigate in a sound or valid manner, to say a thing such as may cause the listener to refrain/desist from his assertion/plea/claim, overcome someone in an altercation, antagonize, put a thing on the edge/side or corner of something."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 18,
+  "lemmas": [
+    {
+      "formArabic": "تَخَاصُم",
+      "count": 1
+    },
+    {
+      "formArabic": "خَصْم",
+      "count": 3
+    },
+    {
+      "formArabic": "خَصِمُون",
+      "count": 1
+    },
+    {
+      "formArabic": "خَصِيم",
+      "count": 5
+    },
+    {
+      "formArabic": "ٱخْتَصَمُ",
+      "count": 8
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَخَاصُم",
+      "sura": 38,
+      "ayah": 64,
+      "formInAyah": "تَخَاصُمُ",
+      "transliteration": "teḣāSumu",
+      "gloss": "tartışmasıdır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tefâ’ul Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ ذَٰلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ",
+      "verseTransliteration": "İnne zâlike le hakkun tehâsumu ehlin nâr(nâri).",
+      "verseMeaning": "İşte bu, kesin gerçektir. Ateş halkının çekişmesi gerçekleşecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصْم",
+      "sura": 22,
+      "ayah": 19,
+      "formInAyah": "خَصْمَانِ",
+      "transliteration": "ḣismāni",
+      "gloss": "iki hasım taraf",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ",
+      "verseTransliteration": "Hâzâni hasmânihtesamû fî rabbihim fellezîne keferû kuttıat lehum siyâbun min nâr(nârin), yusabbu min fevkı ruûsihumul hamîm(hamîmu).",
+      "verseMeaning": "İşte şu iki hasım, Rableri hakkında çekişip durmuşlardır. Sonuçta küfre sapanlar için ateşten giysiler biçilmiştir. Başlarının üstünden de kaynar su dökülmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصْم",
+      "sura": 38,
+      "ayah": 21,
+      "formInAyah": "الْخَصْمِ",
+      "transliteration": "l-ḣismi",
+      "gloss": "davacıların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهَلْ أَتَاكَ نَبَأُ الْخَصْمِ إِذْ تَسَوَّرُوا الْمِحْرَابَ",
+      "verseTransliteration": "Ve hel etâke nebeul hasm(hasmi), iz tesevverûl mihrâb(mihrâbe).",
+      "verseMeaning": "Geldi mi sana, o çekişme hikâyesinin haberi? Hani, o hasımlar, duvarı aşarak mihraba ulaşmışlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصْم",
+      "sura": 38,
+      "ayah": 22,
+      "formInAyah": "خَصْمَانِ",
+      "transliteration": "ḣismāni",
+      "gloss": "biz iki davacıyız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ دَخَلُوا عَلَىٰ دَاوُودَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَاحْكُمْ بَيْنَنَا بِالْحَقِّ وَلَا تُشْطِطْ وَاهْدِنَا إِلَىٰ سَوَاءِ الصِّرَاطِ",
+      "verseTransliteration": "İz dehalû alâ dâvûde fe fezia minhum kâlû lâ tehaf, hasmâni begâ ba’dunâ alâ ba’dın fahkum beynenâ bil hakkı ve lâ tuştıt vehdinâ ilâ sevâis sırât(sırâtı).",
+      "verseMeaning": "Davûd´un yanına girmişlerdi de onlardan korkmuştu. \"Korkma!\" dediler, \"biz iki davacıyız. Birimiz ötekinin hakkını çiğnedi. Şimdi sen, aramızda hak ile hükmet, adaletsizlik etme. Bizi yolun denge noktasına ilet.!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصِمُون",
+      "sura": 43,
+      "ayah": 58,
+      "formInAyah": "خَصِمُونَ",
+      "transliteration": "ḣaSimūne",
+      "gloss": "kavgacı",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالُوا أَآلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ",
+      "verseTransliteration": "Ve kâlû e âlihetunâ hayrun em huve, mâ darebûhu leke illâ cedelâ(cedelen), bel hum kavmun hasımûn(hasımûne).",
+      "verseMeaning": "Dediler ki: \"Bizim tanrılarımız mı hayırlı, o mu?\" Bunu sana sadece çekişme olsun diye örnek verdiler. Çekişmeyi seven bir toplumdur onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصِيم",
+      "sura": 2,
+      "ayah": 204,
+      "formInAyah": "الْخِصَامِ",
+      "transliteration": "l-ḣiSāmi",
+      "gloss": "hasımların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا وَيُشْهِدُ اللَّهَ عَلَىٰ مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ",
+      "verseTransliteration": "Ve minen nâsi men yu’cibuke kavluhu fîl hayâtid dunyâ ve yuşhidullâhe alâ mâ fî kalbihî, ve huve eleddul hısâm(hısâmi).",
+      "verseMeaning": "İnsanlardan öylesi vardır ki, onun dünya hayatına ilişkin sözü senin hoşuna gider ve o, kalbindekine Allah´ı tanık tutar. Oysa ki o, düşmanların en yamanıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصِيم",
+      "sura": 4,
+      "ayah": 105,
+      "formInAyah": "خَصِيمًا",
+      "transliteration": "ḣaSīmen",
+      "gloss": "savunucusu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ لِلْخَائِنِينَ خَصِيمًا",
+      "verseTransliteration": "İnnâ enzelnâ ileykel kitâbe bil hakkı li tahkume beynen nâsi bimâ erâkallâh(erâkallâhu), ve lâ tekun lil hâinîne hasîmâ(hasîmen).",
+      "verseMeaning": "Kuşku yok ki, biz bu Kitap´ı sana, insanlar arasında Allah´ın sana gösterdiği ile hükmedesin diye hak olarak indirdik. Sakın hainlere yardakçı olma!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصِيم",
+      "sura": 16,
+      "ayah": 4,
+      "formInAyah": "خَصِيمٌ",
+      "transliteration": "ḣaSīmun",
+      "gloss": "bir hasım (olup çıktı)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "خَلَقَ الْإِنْسَانَ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ",
+      "verseTransliteration": "Halakal insâne min nutfetin fe izâ huve hasîmun mubin(mubînun).",
+      "verseMeaning": "İnsanı bir spermden yarattı. Bir de bakmışsın insan, açıkça kafa tutan bir hasım oluvermiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصِيم",
+      "sura": 36,
+      "ayah": 77,
+      "formInAyah": "خَصِيمٌ",
+      "transliteration": "ḣaSīmun",
+      "gloss": "bir hasım",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ",
+      "verseTransliteration": "E ve lem yerel insânu ennâ halaknâhu min nutfetin fe iza huve hasîmun mubîn(mubînun).",
+      "verseMeaning": "Görmedi mi insan, kendisini bir spermden yarattığımızı! Bir de bize açık bir hasım kesilmiştir o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَصِيم",
+      "sura": 43,
+      "ayah": 18,
+      "formInAyah": "الْخِصَامِ",
+      "transliteration": "l-ḣiSāmi",
+      "gloss": "mücadelede",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ مُبِينٍ",
+      "verseTransliteration": "E ve men yuneşşeu fîl hılyeti ve huve fîl hısâmi gayru mubîn(mubînin).",
+      "verseMeaning": "Süs içinde yetiştirilen, fakat çekişme ve savaşta yetersiz kalanı, öyle mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 3,
+      "ayah": 44,
+      "formInAyah": "يَخْتَصِمُونَ",
+      "transliteration": "yeḣteSimūne",
+      "gloss": "birbirleriyle çekiştikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَامَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ",
+      "verseTransliteration": "Zâlike min enbâil gaybi nûhîhi ileyk(ileyke), ve mâ kunte ledeyhim iz yulkûne eklâmehum eyyuhum yekfulu meryeme, ve mâ kunte ledeyhim iz yahtesımûn(yahtesımûne).",
+      "verseMeaning": "Bu, gayb haberlerindendir ki, sana vahyediyoruz. Onlar, Meryem´in bakımını kimin üstleneceğini belirlemek için kalemlerini atarlarken sen yanlarında değildin. Çekiştikleri sırada da yanlarında değildin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 22,
+      "ayah": 19,
+      "formInAyah": "اخْتَصَمُوا",
+      "transliteration": "ḣteSamū",
+      "gloss": "çekişen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ",
+      "verseTransliteration": "Hâzâni hasmânihtesamû fî rabbihim fellezîne keferû kuttıat lehum siyâbun min nâr(nârin), yusabbu min fevkı ruûsihumul hamîm(hamîmu).",
+      "verseMeaning": "İşte şu iki hasım, Rableri hakkında çekişip durmuşlardır. Sonuçta küfre sapanlar için ateşten giysiler biçilmiştir. Başlarının üstünden de kaynar su dökülmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 26,
+      "ayah": 96,
+      "formInAyah": "يَخْتَصِمُونَ",
+      "transliteration": "yeḣteSimūne",
+      "gloss": "çekişerek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ",
+      "verseTransliteration": "Kâlû ve hum fîhâ yahtesımûn(yahtesımûne).",
+      "verseMeaning": "Onun içinde birbiriyle çekişirlerken şöyle derler:"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 27,
+      "ayah": 45,
+      "formInAyah": "يَخْتَصِمُونَ",
+      "transliteration": "yeḣteSimūne",
+      "gloss": "birbiriyle çekişen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ أَرْسَلْنَا إِلَىٰ ثَمُودَ أَخَاهُمْ صَالِحًا أَنِ اعْبُدُوا اللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+      "verseTransliteration": "Ve lekad erselnâ ilâ semûde ehâhum sâlihan eni’budûllâhe fe izâhum ferîkâni yahtesımûn(yahtesımûne).",
+      "verseMeaning": "Yemin olsun, Semûd´a da kardeşleri Sâlih´i, şunu tebliğ etmek üzere gönderdik: \"Allah´a kulluk/ibadet edin.\" Bir de ne görelim, onlar birbiriyle boğuşan iki fırka oluvermişler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 36,
+      "ayah": 49,
+      "formInAyah": "يَخِصِّمُونَ",
+      "transliteration": "yeḣiSSimūne",
+      "gloss": "çekişip dururlarken",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+      "verseTransliteration": "Mâ yenzurûne illâ sayhaten vâhıdeten te’huzuhum ve hum yahıssımûn(yahıssımûne).",
+      "verseMeaning": "Sadece korkunç titreşimli bir sesi bekliyorlar. Onlar çekişip dururlarken, o ses kendilerini enseleyecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 38,
+      "ayah": 69,
+      "formInAyah": "يَخْتَصِمُونَ",
+      "transliteration": "yeḣteSimūne",
+      "gloss": "tartıştıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَإِ الْأَعْلَىٰ إِذْ يَخْتَصِمُونَ",
+      "verseTransliteration": "Mâ kâne liye min ilmin bil meleil a’lâ iz yahtesımûn(yahtesimûne).",
+      "verseMeaning": "\"Onlar tartışırlarken, o yüce konsey hakkında benim hiçbir bilgim yoktu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 39,
+      "ayah": 31,
+      "formInAyah": "تَخْتَصِمُونَ",
+      "transliteration": "teḣteSimūne",
+      "gloss": "davalaşacaksınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ عِنْدَ رَبِّكُمْ تَخْتَصِمُونَ",
+      "verseTransliteration": "Summe innekum yevmel kıyâmeti ınde rabbikum tahtasımûn(tahtasımûne).",
+      "verseMeaning": "Sonra siz, kıyamet günü Rabbinizin huzurunda davalaşacaksınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱخْتَصَمُ",
+      "sura": 50,
+      "ayah": 28,
+      "formInAyah": "تَخْتَصِمُوا",
+      "transliteration": "teḣteSimū",
+      "gloss": "çekişmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ",
+      "verseTransliteration": "Kâle lâ tahtesımû ledeyye ve kad kaddemtu ileykum bil vaîdi.",
+      "verseMeaning": "Allah buyurdu: \"Huzurumda çekişmeyin! Ben size uyarıyı çok önceden göndermiştim.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xSm"
+}

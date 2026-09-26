@@ -1,0 +1,432 @@
+{
+  "id": "nwb",
+  "latinName": "Nun-Vav-Be",
+  "lettersArabic": "ن و ب",
+  "meanings": [
+    "Bir şeyin gidip gelmesi, dönüşümlü olması, sıra ile dönmesi. Sürekli gidip tekrar yuvasına döndüğünden bal arısına da nevb adı verilmiştir."
+  ],
+  "derivativeNotes": [
+    "İnâbe - yönelme, gönül verme, Hak’ka teslimiyetle yönelme. Ona tövbe ve samimi amelle dönüş yapmak.",
+    "Münîb - Allah’a yönelen"
+  ],
+  "turkishDerivatives": [
+    "nöbet",
+    "inâbe",
+    "münavebe",
+    "naip (istinabe)",
+    "niyabet"
+  ],
+  "cognates": [],
+  "totalOccurrencesInQuran": 18,
+  "lemmas": [
+    {
+      "formArabic": "أَنَابَ",
+      "count": 11
+    },
+    {
+      "formArabic": "مُّنِيب",
+      "count": 7
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 11,
+      "ayah": 88,
+      "formInAyah": "أُنِيبُ",
+      "transliteration": "unību",
+      "gloss": "gönülden yönelirim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِنْ كُنْتُ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّي وَرَزَقَنِي مِنْهُ رِزْقًا حَسَنًا ۚ وَمَا أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَا أَنْهَاكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ ۚ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "verseTransliteration": "Kâle yâ kavmi e reeytum in kuntu alâ beyyinetin min rabbî ve rezekanî minhu rızkan hasenâ(hasenen), ve mâ urîdu en uhâlifekum ilâ mâ enhâkum anh(anhu), in urîdu illel ıslâha mesteta’tu, ve mâ tevfîkî illâ billâh(billâhi), aleyhi tevekkeltu ve ileyhi unîb(unîbu).",
+      "verseMeaning": "Dedi: \"Ey toplumum! Ya ben Rabbimden bir beyyine üzerindeysem, bana lütfundan güzel bir rızık vermişse!... Size yasakladığım şeylerde, size söylediğimin aksine davranmak istemiyorum. Gücüm ölçüsünde barış ve iyilikten başka bir şey de istemiyorum. Başarım ancak Allah´ın desteğiyledir. Yalnız O´na güvendim ben, yalnız O´na yöneliyorum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 13,
+      "ayah": 27,
+      "formInAyah": "أَنَابَ",
+      "transliteration": "enābe",
+      "gloss": "yönelen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنْزِلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ ۗ قُلْ إِنَّ اللَّهَ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ أَنَابَ",
+      "verseTransliteration": "Ve yekûlullezîne keferû lev lâ unzile aleyhi âyetun min rabbih(rabbihi), kul innallâhe yudillu men yeşâu ve yehdî ileyhi men enâb(enâbe).",
+      "verseMeaning": "Küfre sapanlar derler ki: \"Rabbinden ona bir mucize indirilseydi ya!\" De ki: \"Allah dilediğini/dileyeni saptırır. Doğruya yöneleni de kendisine iletir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 31,
+      "ayah": 15,
+      "formInAyah": "أَنَابَ",
+      "transliteration": "enābe",
+      "gloss": "yönelen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا ۖ وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ ۚ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve in câhedâke alâ en tuşrike bî mâ leyse leke bihî ilmun fe lâ tutı’humâ ve sâhibhumâ fîd dunyâ magrûfen vettebi’ sebîle men enâbe ileyy(ileyye), summe ileyye merciukum fe unebbiukum bi mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "Eğer onlar, hakkında hiçbir bilgin olmayan şeyi bana ortak koşman için seni zorlarlarsa, onlara itaat etme. Onlarla dünyada örfe uygun geçin; ama bana yönelenin yoluna uy. Sonunda dönüşünüz banadır. Yapıp ettiklerinizi size haber vereceğim."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 38,
+      "ayah": 24,
+      "formInAyah": "وَأَنَابَ",
+      "transliteration": "ve enābe",
+      "gloss": "ve (bize) döndü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِ ۖ وَإِنَّ كَثِيرًا مِنَ الْخُلَطَاءِ لَيَبْغِي بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَقَلِيلٌ مَا هُمْ ۗ وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ ۩",
+      "verseTransliteration": "Kâle lekad zalemeke bi suâli na’cetike ilâ niâcih(niâcihî), ve inne kesîren minel huletâi le yebgî ba’duhum alâ ba’dın illellezîne âmenû ve amilûs sâlihâti ve kalîlun mâ hum, ve zanne dâvûdu ennemâ fetennâhu festagfere rabbehu ve harre râkian ve enâb(enâbe). (SECDE ÂYETİ)",
+      "verseMeaning": "Davûd dedi ki: \"Vallahi, senin bir tek koyununu kendi koyunlarına katmak istemekle sana zulmetmiş. Zaten ortaklardan birçoğu birbiri aleyhine haksızlık ve zulme sapar. İman edip hakka ve barışa yönelik işler yapanlar böyle değildir. Ama onlar da pek azdır.\" Davûd, kendisini imtihan ettiğimizi düşündü; hemen Rabbinden af diledi; rükû ederek yerlere eğildi ve Allah´a yöneldi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 38,
+      "ayah": 34,
+      "formInAyah": "أَنَابَ",
+      "transliteration": "enābe",
+      "gloss": "(bize) yöneldi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِ جَسَدًا ثُمَّ أَنَابَ",
+      "verseTransliteration": "Ve lekad fetennâ suleymâne ve elkaynâ alâ kursiyyihî ceseden summe enâb(enâbe).",
+      "verseMeaning": "Yemin olsun ki biz, Süleyman´ı imtihan ettik, tahtının üstüne bir ceset bıraktık da o, tövbe ile Allah´a yöneldi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 39,
+      "ayah": 17,
+      "formInAyah": "وَأَنَابُوا",
+      "transliteration": "ve enābū",
+      "gloss": "ve yönelenlere",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا وَأَنَابُوا إِلَى اللَّهِ لَهُمُ الْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ",
+      "verseTransliteration": "Vellezînectenebût tâgûte en ya’budûhâ ve enâbû ilâllâhi lehumul buşrâ, fe beşşir ıbâd(ıbâdi).",
+      "verseMeaning": "Tağuttan, ona kulluk etmekten kaçınıp Allah´a yönelenlere müjde var. Muştula kullarıma!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 39,
+      "ayah": 54,
+      "formInAyah": "وَأَنِيبُوا",
+      "transliteration": "ve enībū",
+      "gloss": "ve dönün",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ",
+      "verseTransliteration": "Ve enîbû ilâ rabbikum ve eslimû lehu min kabli en ye’tiyekumul azâbu summe lâ tunsarûn(tunsarûne).",
+      "verseMeaning": "Azap yakanıza yapışmadan Rabbinize dönüp O´na teslim olun. Sonra size yardım edilmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 40,
+      "ayah": 13,
+      "formInAyah": "يُنِيبُ",
+      "transliteration": "yunību",
+      "gloss": "(O’na) yönelen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هُوَ الَّذِي يُرِيكُمْ آيَاتِهِ وَيُنَزِّلُ لَكُمْ مِنَ السَّمَاءِ رِزْقًا ۚ وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ",
+      "verseTransliteration": "Huvellezî yurîkum âyâtihî ve yunezzilu lekum mines semâi rızkâ(rızkan), ve mâ yetezekkeru illâ men yunîb(yunîbu).",
+      "verseMeaning": "O odur ki size ayetlerini gösteriyor ve sizin için gökten bir rızık indiriyor. O´na yönelenden başkası öğüt alamaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 42,
+      "ayah": 10,
+      "formInAyah": "أُنِيبُ",
+      "transliteration": "unību",
+      "gloss": "yöneldim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَمَا اخْتَلَفْتُمْ فِيهِ مِنْ شَيْءٍ فَحُكْمُهُ إِلَى اللَّهِ ۚ ذَٰلِكُمُ اللَّهُ رَبِّي عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "verseTransliteration": "Ve mahteleftum fîhi min şey’in fe hukmuhû ilallâh(ilallâhi), zâlikumullâhu rabbî aleyhi tevekkeltu ve ileyhi unîb(unîbu).",
+      "verseMeaning": "Herhangi bir şeyde ihtilafa düştüğünüzde onun hükmü Allah´a bırakılır. İşte budur Rabbim olan Allah! Yalnız O´na güvenip dayandım; yalnız O´na yönelirim ben."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 42,
+      "ayah": 13,
+      "formInAyah": "يُنِيبُ",
+      "transliteration": "yunību",
+      "gloss": "iyi niyyetle yönelen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ",
+      "verseTransliteration": "Şerea lekum mined dîni mâ vassâ bihî nûhan vellezî evhaynâ ileyke ve mâ vassaynâ bihî ibrâhîme ve mûsâ ve îsâ, en ekîmûd dîne ve lâ teteferrekû fîh(fîhi), kebure alel muşrikîne mâ ted’ûhum ileyh(ileyhi), allâhu yectebî ileyhi men yeşâu ve yehdî ileyhi men yunîb(yunîbu).",
+      "verseMeaning": "Sizin için, dinden, Nûh´a önerdiğini, sana vahyettiğini, İbrahim´e, Mûsa´ya ve İsa´ya önerdiğimizi şöyle diyerek kanunlaştırdı: \"Dini dosdoğru tutun; onda bölünüp fırkalara ayrılmayın!\" Onları çağırdığın bu tutum, şirke bulaşanlara çok ağır gelmiştir. Allah, dilediğini kendisi için seçer ve hakka yönelenleri kendisine iletir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَابَ",
+      "sura": 60,
+      "ayah": 4,
+      "formInAyah": "أَنَبْنَا",
+      "transliteration": "enebnā",
+      "gloss": "yöneldik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ ۖ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+      "verseTransliteration": "Kad kânet lekum usvetun hasenetun fî ibrâhîme vellezîne meah(meahu), iz kâlû li kavmihim innâ bureâu minkum ve mimmâ ta’budûne min dûnillâhi kefernâ bikum, ve bedee beynenâ ve beynekumul adâvetu vel bagdâu ebeden hattâ tû’minû billâhi vahdehû, illâ kavle ibrâhîme li ebîhi le estagfirenne leke ve mâ emliku leke minallâhi min şey’İn, rabbenâ aleyke tevekkelnâ ve ileyke enebnâ ve ileykel masîr(masîru).",
+      "verseMeaning": "İbrahim´le, beraberinde olanlarda sizin için çok güzel bir örnek vardır. Hani, onlar toplumlarına şöyle demişlerdi: \"Biz sizden de Allah dışındaki kulluk ettiklerinizden de uzağız. Sizi tanımıyoruz. Sizinle bizim aramızda, siz Allah´a, yalnız Allah´a inanıncaya kadar, sürekli düşmanlık ve nefret olacaktır.\" Ancak İbrahim babasına şöyle demişti: \"Senin için hep af dileyeceğim ama Allah´tan sana gelecek şeyi geri çevirme gücüm yoktur. Ey Rabbimiz! Yalnız sana güveniyoruz, yalnız sana yöneliyoruz! Dönüş yalnız sanadır!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 34,
+      "ayah": 9,
+      "formInAyah": "مُنِيبٍ",
+      "transliteration": "munībin",
+      "gloss": "yönelen",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَفَلَمْ يَرَوْا إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ مِنَ السَّمَاءِ وَالْأَرْضِ ۚ إِنْ نَشَأْ نَخْسِفْ بِهِمُ الْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِنَ السَّمَاءِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِكُلِّ عَبْدٍ مُنِيبٍ",
+      "verseTransliteration": "E fe lem yerev ilâ mâ beyne eydîhim ve mâ halfehum mines semâi vel ard(ardı), in neşe’nahsif bihimul arda ev nuskıt aleyhim kisefen mines semâ(semâi), inne fî zâlike le âyeten li kulli abdin munîb(munîbin).",
+      "verseMeaning": "Onlar, önlerinde ve arkalarında, gökten ve yerden neler var, görmediler mi? Dilesek onları yere batırırız ya da üzerlerine gökten parçalar düşürürüz. Hiç kuşkusuz, bütün bunlarda Allah´a yönelen her kul için mutlak bir ibret vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 11,
+      "ayah": 75,
+      "formInAyah": "مُنِيبٌ",
+      "transliteration": "munībun",
+      "gloss": "gönülden (Allaha) yönelen biriydi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ",
+      "verseTransliteration": "İnne ibrâhîme le halîmun evvâhun munîb(munîbun).",
+      "verseMeaning": "İbrahim, gerçekten yufka yürekli bir insandı; herkes için ah eder, içini çekerdi, yalvarıp yakarırdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 30,
+      "ayah": 31,
+      "formInAyah": "مُنِيبِينَ",
+      "transliteration": "munībīne",
+      "gloss": "yönelin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Munîbîne ileyhi vettekûhu ve ekîmûs salâte ve lâ tekûnû minel muşrikîn(muşrikîne).",
+      "verseMeaning": "O´na yönelmiş kişiler olarak O´ndan sakının! Namazı kılın ve sakın şirke sapanlardan olmayın;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 30,
+      "ayah": 33,
+      "formInAyah": "مُنِيبِينَ",
+      "transliteration": "munībīne",
+      "gloss": "yönelerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُمْ مُنِيبِينَ إِلَيْهِ ثُمَّ إِذَا أَذَاقَهُمْ مِنْهُ رَحْمَةً إِذَا فَرِيقٌ مِنْهُمْ بِرَبِّهِمْ يُشْرِكُونَ",
+      "verseTransliteration": "Ve izâ messen nâse durrun deav rabbehum munîbîne ileyhi summe izâ ezâkahum minhu rahmeten izâ ferîkun minhum bi rabbihim yuşrikûn(yuşrikûne).",
+      "verseMeaning": "İnsanlara bir zorluk dokunduğunda, Rablerine yönelerek O´na yakarırlar. Sonra onlara bir rahmet tattırınca bakarsın ki, içlerinden bir grup Rablerine ortak koşuyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 39,
+      "ayah": 8,
+      "formInAyah": "مُنِيبًا",
+      "transliteration": "munīben",
+      "gloss": "içtenlikle yönelerek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَا رَبَّهُ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُ نِعْمَةً مِنْهُ نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِنْ قَبْلُ وَجَعَلَ لِلَّهِ أَنْدَادًا لِيُضِلَّ عَنْ سَبِيلِهِ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَابِ النَّارِ",
+      "verseTransliteration": "Ve izâ messel insâne durrun deâ rabbehu munîben ileyhi summe izâ havvelehu ni’meten minhu nesiye mâ kâne yed’û ileyhi min kablu ve ceale lillâhi endâden li yudılle an sebîlih(sebîlihi), kul temetta’ bi kufrike kalîlen inneke min ashâbin nâr(nâri).",
+      "verseMeaning": "İnsana bir zarar/zorluk dokununca, Rabbine yönelerek O´na dua eder. Sonra ona bir nimet lütfettiğinde, önceden O´na yalvarmakta olduğunu unutur, O´nun yolundan saptırmak için Allah´a eşler, ortaklar isnat eder. De ki: \"Birazcık nimetlen küfrünle! Hiç kuşkusuz, sen, ateş halkındansın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 50,
+      "ayah": 8,
+      "formInAyah": "مُنِيبٍ",
+      "transliteration": "munībin",
+      "gloss": "yönelen",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُنِيبٍ",
+      "verseTransliteration": "Tebsıraten ve zikrâ li kulli abdin munîbin.",
+      "verseMeaning": "İbretle bakılası, gönüller açıcı şeyler olarak; hakka yönelen her kula öğüt olarak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّنِيب",
+      "sura": 50,
+      "ayah": 33,
+      "formInAyah": "مُنِيبٍ",
+      "transliteration": "munībin",
+      "gloss": "(Hakka) dönük",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَنْ خَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ",
+      "verseTransliteration": "Men haşiyer rahmâne bil gaybi ve câe bi kalbin munîbin.",
+      "verseMeaning": "Görmediği halde Rahman´dan ürperen ve Allah´a yönelik bir kalp getiren herkese..."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nwb"
+}

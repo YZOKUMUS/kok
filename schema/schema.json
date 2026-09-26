@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hasene.web.app/schemas/kuran-haritasi-dataset.json",
+  "title": "KuranHaritasiDataset",
+  "type": "object",
+  "required": ["version", "source", "verses", "roots"],
+  "properties": {
+    "version": { "type": "string" },
+    "source": { "type": "string" },
+    "notes": { "type": "string" },
+    "verses": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Verse" }
+    },
+    "roots": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Root" }
+    }
+  },
+  "$defs": {
+    "Verse": {
+      "type": "object",
+      "required": ["sura", "ayah", "arabic", "words"],
+      "properties": {
+        "sura": { "type": "integer", "minimum": 1, "maximum": 114 },
+        "ayah": { "type": "integer", "minimum": 1 },
+        "arabic": { "type": "string" },
+        "meaningTr": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "sourceUrl": { "type": "string" },
+        "words": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/VerseWord" }
+        }
+      }
+    },
+    "VerseWord": {
+      "type": "object",
+      "required": ["index", "arabic", "transliteration", "meaningTr", "rootId"],
+      "properties": {
+        "index": { "type": "integer", "minimum": 1 },
+        "arabic": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "meaningTr": { "type": "string" },
+        "rootId": { "type": ["string", "null"] },
+        "rootLettersArabic": { "type": ["string", "null"] }
+      }
+    },
+    "Root": {
+      "type": "object",
+      "required": ["id", "latinName", "lettersArabic", "meanings", "totalOccurrencesInQuran", "lemmas"],
+      "properties": {
+        "id": { "type": "string" },
+        "latinName": { "type": "string" },
+        "lettersArabic": { "type": "string" },
+        "meanings": { "type": "array", "items": { "type": "string" } },
+        "derivativeNotes": { "type": "array", "items": { "type": "string" } },
+        "turkishDerivatives": { "type": "array", "items": { "type": "string" } },
+        "cognates": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["language", "form"],
+            "properties": {
+              "language": { "type": "string" },
+              "form": { "type": "string" },
+              "script": { "type": "string" },
+              "meaning": { "type": "string" }
+            }
+          }
+        },
+        "totalOccurrencesInQuran": { "type": "integer", "minimum": 0 },
+        "lemmas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["formArabic", "count"],
+            "properties": {
+              "formArabic": { "type": "string" },
+              "count": { "type": "integer", "minimum": 0 }
+            }
+          }
+        },
+        "occurrences": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/RootOccurrence" }
+        },
+        "sourceUrl": { "type": "string" }
+      }
+    },
+    "RootOccurrence": {
+      "type": "object",
+      "required": ["lemmaFormArabic", "sura", "ayah", "formInAyah", "transliteration", "gloss"],
+      "properties": {
+        "lemmaFormArabic": { "type": "string" },
+        "sura": { "type": "integer" },
+        "ayah": { "type": "integer" },
+        "formInAyah": { "type": "string" },
+        "transliteration": { "type": "string" },
+        "gloss": { "type": "string" },
+        "grammar": { "type": "object" },
+        "verseArabic": { "type": "string" },
+        "verseTransliteration": { "type": "string" },
+        "verseMeaning": { "type": "string" }
+      }
+    }
+  }
+}

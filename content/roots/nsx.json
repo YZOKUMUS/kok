@@ -1,0 +1,111 @@
+{
+  "id": "nsx",
+  "latinName": "Nun-Sin-Kh",
+  "lettersArabic": "ن س خ",
+  "meanings": [
+    "Kaldırmak, silmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "نَسْتَنسِخُ",
+      "count": 1
+    },
+    {
+      "formArabic": "نُسْخَت",
+      "count": 1
+    },
+    {
+      "formArabic": "يَنسَخُ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَسْتَنسِخُ",
+      "sura": 45,
+      "ayah": 29,
+      "formInAyah": "نَسْتَنْسِخُ",
+      "transliteration": "nestensiḣu",
+      "gloss": "yazıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "هَٰذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Hâzâ kitâbunâ yentıku aleykum bil hakk(hakkı), innâ kunnâ nestensihu mâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "Bu bizim kitabımız, karşınızda gerçeği söylüyor. Çünkü biz, yapıp ettiklerinizin kopyasını çıkarıyorduk / yaptıklarınızı kaydediyorduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُسْخَت",
+      "sura": 7,
+      "ayah": 154,
+      "formInAyah": "نُسْخَتِهَا",
+      "transliteration": "nusḣatihā",
+      "gloss": "onlardaki yazıda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَمَّا سَكَتَ عَنْ مُوسَى الْغَضَبُ أَخَذَ الْأَلْوَاحَ ۖ وَفِي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ",
+      "verseTransliteration": "Ve lemmâ sekete an mûsel gadabu ehazel elvâh(elvâha), ve fî nushatihâ huden ve rahmetun lillezîne hum li rabbihim yerhebûn(yerhebûne).",
+      "verseMeaning": "Öfke, Musa´yı rahat bırakınca, levhaları aldı. Onlardaki yazıda, yalnız Rableri karşısında ürperenler için bir rahmet ve bir kılavuz vardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَنسَخُ",
+      "sura": 2,
+      "ayah": 106,
+      "formInAyah": "نَنْسَخْ",
+      "transliteration": "nenseḣ",
+      "gloss": "biz neshedersek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Mâ nensah min âyetin ev nunsihâ ne’ti bi hayrin minhâ ev mislihâ e lem ta’lem ennallâhe alâ kulli şey’in kadîr(kadîrun).",
+      "verseMeaning": "Biz bir ayeti siler, unutturur veya ertelersek ondan daha iyisini veya onun bir benzerini getiririz. Allah´ın her şeye gücü yeter olduğunu bilmedin mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَنسَخُ",
+      "sura": 22,
+      "ayah": 52,
+      "formInAyah": "فَيَنْسَخُ",
+      "transliteration": "feyenseḣu",
+      "gloss": "fakat siler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّىٰ أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنْسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "verseTransliteration": "Ve mâ erselnâ min kablike min resûlin ve lâ nebiyyin illâ izâ temennâ elkaş şeytânu fî umniyyetih(umniyyetihî), fe yensehullâhu mâ yulkış şeytânu summe yuhkimullâhu âyâtih(âyâtihî), vallâhu alîmun hakîm(hakîmun).",
+      "verseMeaning": "Biz senden önce hiçbir resul ve nebi göndermedik ki, o bir şey dilediğinde, şeytan onun düşünce ve dileği içine bir şey atmış olmasın. Ama Allah, şeytanın attığını siler, sonra kendi ayetlerini muhkemleştirir. Allah Alîm´dir, Hakîm´dir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nsx"
+}

@@ -1,0 +1,1299 @@
+{
+  "id": "ftn",
+  "latinName": "Fe-Te-Nun",
+  "lettersArabic": "ف ت ن",
+  "meanings": [
+    "İmtihan etmek, işkence etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 60,
+  "lemmas": [
+    {
+      "formArabic": "فَتَنُ",
+      "count": 23
+    },
+    {
+      "formArabic": "فِتْنَة",
+      "count": 34
+    },
+    {
+      "formArabic": "فُتُون",
+      "count": 1
+    },
+    {
+      "formArabic": "فَٰتِنِين",
+      "count": 1
+    },
+    {
+      "formArabic": "مَفْتُون",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 4,
+      "ayah": 101,
+      "formInAyah": "يَفْتِنَكُمُ",
+      "transliteration": "yeftinekumu",
+      "gloss": "size bir kötülük yapmalarından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا ۚ إِنَّ الْكَافِرِينَ كَانُوا لَكُمْ عَدُوًّا مُبِينًا",
+      "verseTransliteration": "Ve izâ darabtum fîl ardı fe leyse aleykum cunâhun en taksurû mines salâti, in hıftum en yeftinekumullezîne keferû, innel kâfirîne kânû lekum aduvven mubînâ(mubînen).",
+      "verseMeaning": "Yeryüzünde dolaştığınız zaman, küfre sapanların size tedirginlik vermesinden korkarsanız, namazı kısaltmanızda sizin için bir sakınca yoktur. Şu bir gerçek ki, küfre batanlar sizin için açık bir düşmandır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 5,
+      "ayah": 49,
+      "formInAyah": "يَفْتِنُوكَ",
+      "transliteration": "yeftinūke",
+      "gloss": "seni şaşırtmalarından",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ اللَّهُ إِلَيْكَ ۖ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يُرِيدُ اللَّهُ أَنْ يُصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِنَ النَّاسِ لَفَاسِقُونَ",
+      "verseTransliteration": "Ve enıhkum beynehum bimâ enzelallâhu ve lâ tettebi’ ehvâehum vahzerhum en yeftinûke an ba’dı mâ enzelallâhu ileyk(ileyke) fe in tevellev fa’lem ennemâ yurîdullâhu en yusîbehum bi ba’dı zunûbihim ve inne kesîran minen nâsi le fâsıkûn(fâsıkûne).",
+      "verseMeaning": "Sen de aralarında, Allah´ın indirdiğiyle hükmet. Onların keyiflerine uyma. Dikkat et de Allah´ın sana indirdiğinin bir kısmından seni uzaklaştırıp fitneye düşürmesinler. Eğer yüz çevirirlerse bil ki, Allah onları bazı günahları yüzünden belaya çarptırmak istiyor. Zaten insanların birçokları doğru yoldan iyice sapmış bulunuyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 6,
+      "ayah": 53,
+      "formInAyah": "فَتَنَّا",
+      "transliteration": "fetennā",
+      "gloss": "biz denedik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُمْ بِبَعْضٍ لِيَقُولُوا أَهَٰؤُلَاءِ مَنَّ اللَّهُ عَلَيْهِمْ مِنْ بَيْنِنَا ۗ أَلَيْسَ اللَّهُ بِأَعْلَمَ بِالشَّاكِرِينَ",
+      "verseTransliteration": "Ve kezâlike fetennâ ba’dahum bi ba’din li yekûlû e hâulâi mennallâhu aleyhim min beyninâ, e leysallâhu bi a’leme biş şâkirîn(şâkirîne).",
+      "verseMeaning": "Biz böylece onların bir kısmını diğer bir kısmıyla imtihana çektik ki, şunu söylesinler: \"Allah aramızdan şunlara mı lütufta bulundu?\" Allah şükredenleri daha iyi bilmiyor mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 7,
+      "ayah": 27,
+      "formInAyah": "يَفْتِنَنَّكُمُ",
+      "transliteration": "yeftinennekumu",
+      "gloss": "sizi bir belaya düşürmesin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا بَنِي آدَمَ لَا يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَا أَخْرَجَ أَبَوَيْكُمْ مِنَ الْجَنَّةِ يَنْزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْآتِهِمَا ۗ إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاءَ لِلَّذِينَ لَا يُؤْمِنُونَ",
+      "verseTransliteration": "Yâ benî âdeme lâ yeftinennekumuş şeytânu kemâ ahrece ebeveykum minel cenneti yenziu anhumâ libâsehumâ li yuriyehumâ sev’âtihimâ innehu yerâkum huve ve kabîluhu min haysu lâ terevnehum innâ cealneş şeyâtîne evliyâe lillezîne lâ yu’minûn(yu’minûne).",
+      "verseMeaning": "Ey ademoğulları! Şeytan, ana-babanızı, çirkin yerlerini onlara göstermek için elbiselerini soyarak cennetten çıkardığı gibi, size de bir fitne musallat etmesin. Çünkü o ve kabilesi sizi, onları göremeyeceğiniz yerden görürler. Biz o şeytanları, inanmayanlara dostlar yaptık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 9,
+      "ayah": 49,
+      "formInAyah": "تَفْتِنِّي",
+      "transliteration": "teftinnī",
+      "gloss": "beni fitneye düşürme",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمِنْهُمْ مَنْ يَقُولُ ائْذَنْ لِي وَلَا تَفْتِنِّي ۚ أَلَا فِي الْفِتْنَةِ سَقَطُوا ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ",
+      "verseTransliteration": "Ve minhum men yekûlu´zen lî ve lâ teftinnî, e lâ fîl fitneti sekatû, ve inne cehenneme le muhîtatun bil kâfîrin(kâfîrine).",
+      "verseMeaning": "İçlerinden bazısı: \"Bana izin ver, beni fitneye düşürme.\" der. Dikkat edin, fitnenin ta içine kendileri düşmüşlerdir. Ve cehennem o nankörleri elbette çepeçevre kuşatacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 9,
+      "ayah": 126,
+      "formInAyah": "يُفْتَنُونَ",
+      "transliteration": "yuftenūne",
+      "gloss": "sınandıklarını",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِي كُلِّ عَامٍ مَرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ",
+      "verseTransliteration": "E ve lâ yerevne ennehum yuftenûne fî kulli âmin merreten ev merreteyni summe lâ yetûbûne ve lâ hum yezzekkerûn(yezzekkerûne).",
+      "verseMeaning": "Görmüyorlar mı ki, her yıl bir veya iki kez imtihan ediliyorlar. Hâlâ ne tövbeye yelteniyorlar ne de öğüt alıyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 10,
+      "ayah": 83,
+      "formInAyah": "يَفْتِنَهُمْ",
+      "transliteration": "yeftinehum",
+      "gloss": "kötülük etmeleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَمَا آمَنَ لِمُوسَىٰ إِلَّا ذُرِّيَّةٌ مِنْ قَوْمِهِ عَلَىٰ خَوْفٍ مِنْ فِرْعَوْنَ وَمَلَئِهِمْ أَنْ يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِي الْأَرْضِ وَإِنَّهُ لَمِنَ الْمُسْرِفِينَ",
+      "verseTransliteration": "Fe mâ âmene li mûsâ illâ zurriyyetun min kavmihî alâ havfin min fir’avne ve melâihim en yeftinehum, ve inne fir’avne leâlin fîl ard(ardı) ve innehu le minel musrifîn(musrifîne).",
+      "verseMeaning": "Firavun ve kodamanlarının kendilerine kötülük etmelerinden korktukları için, kavmi arasından bir gençlik grubu dışında hiç kimse Mûsa´ya inanmadı. Çünkü Firavun, o toprakta gerçekten çok üstündü ve gerçekten sınır tanımaz azgınlardan biriydi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 16,
+      "ayah": 110,
+      "formInAyah": "فُتِنُوا",
+      "transliteration": "futinū",
+      "gloss": "işkenceye uğratıldıktan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا مِنْ بَعْدِ مَا فُتِنُوا ثُمَّ جَاهَدُوا وَصَبَرُوا إِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Summe inne rabbeke lillezîne hâcerû min ba’di mâ futinû summe câhedû ve saberû inne rabbeke min ba’dihâ le gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Kuşkusuz, Rabbin; işkenceye uğratıldıktan sonra hicret eden, ardından da cihat edip sabreden kişiler yanındadır. Bütün bunlardan sonra senin Rabbin elbette cömertçe affedecek, cömertçe merhamet edecektir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 17,
+      "ayah": 73,
+      "formInAyah": "لَيَفْتِنُونَكَ",
+      "transliteration": "leyeftinūneke",
+      "gloss": "seni kandıracaklardı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ ۖ وَإِذًا لَاتَّخَذُوكَ خَلِيلًا",
+      "verseTransliteration": "Ve in kâdû le yeftinûneke anillezî evhaynâ ileyke li tefteriye aleynâ gayreh(gayrehu) ve izen lettehazûke halîlâ(halîlen).",
+      "verseMeaning": "Az kalsın seni, sana vahyettiğimizden uzaklaştırarak ondan gayrısını bize isnat edesin diye fitneye düşüreceklerdi. İşte o takdirde seni dost edinirlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 20,
+      "ayah": 40,
+      "formInAyah": "وَفَتَنَّاكَ",
+      "transliteration": "ve fetennāke",
+      "gloss": "ve seni denemiştik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+      "verseTransliteration": "İz temşî uhtuke fe tekûlu hel edullukum alâ men yekfuluh(yekfuluhu), fe reca’nâke ilâ ummike key takarre aynuhâ ve lâ tahzen(tahzene), ve katelte nefsen fe necceynâke minel gammi ve fetennâke futûnâ(futûnen), fe lebiste sinîne fî ehli medyene summe ci’te alâ kaderin yâ mûsâ.",
+      "verseMeaning": "\"Hani, kızkardeşin gidiyor, şöyle diyordu: ´Onun bakımını üstlenecek kişiyi size göstereyim mi?´ Nihayet, seni annene geri döndürdük ki, gözü aydın olsun, tasalanmasın. Sen bir de adam öldürmüştün. O zaman seni gamdan kurtarmıştık. Seni iyice bir imtihana çekmiştik. Bunun ardından sen Medyen halkı arasında yıllarca kaldın. Sonra, belirlenen bir vakitte/bir kadere göre geliverdin, ey Mûsa!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 20,
+      "ayah": 85,
+      "formInAyah": "فَتَنَّا",
+      "transliteration": "fetennā",
+      "gloss": "sınadık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنْ بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ",
+      "verseTransliteration": "Kâle fe innâ kad fetennâ kavmeke min ba’dike ve edallehumus sâmiriyy(sâmiriyyu).",
+      "verseMeaning": "Buyurdu: \"Biz senden sonra toplumunu tam bir biçimde imtihan ettik. Sâmirî onları saptırdı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 20,
+      "ayah": 90,
+      "formInAyah": "فُتِنْتُمْ",
+      "transliteration": "futintum",
+      "gloss": "siz sınandınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ قَالَ لَهُمْ هَارُونُ مِنْ قَبْلُ يَا قَوْمِ إِنَّمَا فُتِنْتُمْ بِهِ ۖ وَإِنَّ رَبَّكُمُ الرَّحْمَٰنُ فَاتَّبِعُونِي وَأَطِيعُوا أَمْرِي",
+      "verseTransliteration": "Ve lekad kâle lehum hârûnu min kablu yâ kavmi innemâ futintum bih(bihî) ve inne rabbekumur rahmânu fettebiûnî ve etîû emrî.",
+      "verseMeaning": "Yemin olsun, Hârun daha önce onlara şunu söylemişti: \"Ey kavmim, siz bununla imtihan edildiniz. Sizin Rabbiniz o Rahman´dır. Artık bana uyun, emrime itaat edin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 20,
+      "ayah": 131,
+      "formInAyah": "لِنَفْتِنَهُمْ",
+      "transliteration": "lineftinehum",
+      "gloss": "kendilerini denemek için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+      "verseTransliteration": "Ve lâ temuddenne ayneyke ilâ mâ mettâ’nâ bihî ezvâcen minhum zehretel hayâtid dunyâ li neftinehum fîh(fîhi), ve rızku rabbike hayrun ve ebkâ.",
+      "verseMeaning": "Onlardan bazı çiftlere, kendilerini imtihan etmek için iğreti hayatın süsü olarak verdiğimiz nimetlere gözlerini dikme! Rabbinin rızkı hem daha hayırlı hem daha süreklidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 27,
+      "ayah": 47,
+      "formInAyah": "تُفْتَنُونَ",
+      "transliteration": "tuftenūne",
+      "gloss": "sınanan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا اطَّيَّرْنَا بِكَ وَبِمَنْ مَعَكَ ۚ قَالَ طَائِرُكُمْ عِنْدَ اللَّهِ ۖ بَلْ أَنْتُمْ قَوْمٌ تُفْتَنُونَ",
+      "verseTransliteration": "Kâlût tayyernâ bike ve bi men meak(meake), kâle tâirukum indallâhi bel entum kavmun tuftenûn(tuftenûne).",
+      "verseMeaning": "Dediler: \"Sen ve beraberindekiler yüzünden başımıza uğursuzluk geldi/sen ve beraberindekileri uğursuzluk belirtisi sayıyoruz.\" Dedi: \"Uğursuzluk kuşunuz Allah katındadır. Daha doğrusu siz, imtihana çekilen bir topluluksunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 29,
+      "ayah": 2,
+      "formInAyah": "يُفْتَنُونَ",
+      "transliteration": "yuftenūne",
+      "gloss": "sınanmadan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ",
+      "verseTransliteration": "E hasiben nâsu en yutrekû en yekûlû âmennâ ve hum lâ yuftenûn(yuftenûne).",
+      "verseMeaning": "İnsanlar, inandık demeleriyle kendi hallerine bırakılacaklarını ve hiçbir imtihana çekilmeyeceklerini mi sandılar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 29,
+      "ayah": 3,
+      "formInAyah": "فَتَنَّا",
+      "transliteration": "fetennā",
+      "gloss": "biz sınadık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ",
+      "verseTransliteration": "Ve lekad fetennellezîne min kablihim fe le ya’lemennellâhullezîne sadakû ve le ya’lemenel kâzibîn(kâzibîne).",
+      "verseMeaning": "Yemin olsun ki biz, onlardan öncekileri de fitne yoluyla denemişizdir. Allah, özüyle sözü bir olanları elbette bilecektir. Ve O, yalancıları da elbette bilecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 38,
+      "ayah": 24,
+      "formInAyah": "فَتَنَّاهُ",
+      "transliteration": "fetennāhu",
+      "gloss": "kendisini denediğimizi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِ ۖ وَإِنَّ كَثِيرًا مِنَ الْخُلَطَاءِ لَيَبْغِي بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَقَلِيلٌ مَا هُمْ ۗ وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ ۩",
+      "verseTransliteration": "Kâle lekad zalemeke bi suâli na’cetike ilâ niâcih(niâcihî), ve inne kesîren minel huletâi le yebgî ba’duhum alâ ba’dın illellezîne âmenû ve amilûs sâlihâti ve kalîlun mâ hum, ve zanne dâvûdu ennemâ fetennâhu festagfere rabbehu ve harre râkian ve enâb(enâbe). (SECDE ÂYETİ)",
+      "verseMeaning": "Davûd dedi ki: \"Vallahi, senin bir tek koyununu kendi koyunlarına katmak istemekle sana zulmetmiş. Zaten ortaklardan birçoğu birbiri aleyhine haksızlık ve zulme sapar. İman edip hakka ve barışa yönelik işler yapanlar böyle değildir. Ama onlar da pek azdır.\" Davûd, kendisini imtihan ettiğimizi düşündü; hemen Rabbinden af diledi; rükû ederek yerlere eğildi ve Allah´a yöneldi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 38,
+      "ayah": 34,
+      "formInAyah": "فَتَنَّا",
+      "transliteration": "fetennā",
+      "gloss": "denedik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِ جَسَدًا ثُمَّ أَنَابَ",
+      "verseTransliteration": "Ve lekad fetennâ suleymâne ve elkaynâ alâ kursiyyihî ceseden summe enâb(enâbe).",
+      "verseMeaning": "Yemin olsun ki biz, Süleyman´ı imtihan ettik, tahtının üstüne bir ceset bıraktık da o, tövbe ile Allah´a yöneldi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 44,
+      "ayah": 17,
+      "formInAyah": "فَتَنَّا",
+      "transliteration": "fetennā",
+      "gloss": "sınadık",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاءَهُمْ رَسُولٌ كَرِيمٌ",
+      "verseTransliteration": "Ve lekad fetennâ kablehum kavme fir’avne ve câehum resûlun kerîm(kerîmun).",
+      "verseMeaning": "Kudretimize yemin olsun ki, onlardan önce Firavun´un kavmini de ince bir imtihana çektik de, asil ve onurlu bir resul geldi onlara."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 51,
+      "ayah": 13,
+      "formInAyah": "يُفْتَنُونَ",
+      "transliteration": "yuftenūne",
+      "gloss": "yakılacaklardır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+      "verseTransliteration": "Yevme hum alen nâri yuftenûne.",
+      "verseMeaning": "O gün onlar ateş üzerinde deneme ve elemeye tâbi tutulacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 57,
+      "ayah": 14,
+      "formInAyah": "فَتَنْتُمْ",
+      "transliteration": "fetentum",
+      "gloss": "kötülük ettiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يُنَادُونَهُمْ أَلَمْ نَكُنْ مَعَكُمْ ۖ قَالُوا بَلَىٰ وَلَٰكِنَّكُمْ فَتَنْتُمْ أَنْفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ وَغَرَّتْكُمُ الْأَمَانِيُّ حَتَّىٰ جَاءَ أَمْرُ اللَّهِ وَغَرَّكُمْ بِاللَّهِ الْغَرُورُ",
+      "verseTransliteration": "Yunâdûnehum e lem nekun meakum, kâlû belâ ve lâkinnekum fe tentum enfusekum ve terebbastum vertebtum ve garret kumul emâniyyu hattâ câe emrullâhi ve garrekum billâhil garûr(garûmu).",
+      "verseMeaning": "Onlara seslenirler: \"Biz sizinle değil miydik?\" Derler ki: \"Evet, bizimleydiniz. Ancak siz kendinizi yaktınız, bekleyip durdunuz, şüphe ettiniz, hayal ve kuruntular/hurafeler/anlamını bilmeden okuyuşlar sizi aldattı; nihayet Allah´ın emri geldi. O yaman aldatıcı, sizi Allah ile aldattı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 72,
+      "ayah": 17,
+      "formInAyah": "لِنَفْتِنَهُمْ",
+      "transliteration": "lineftinehum",
+      "gloss": "onları sınayalım diye",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لِنَفْتِنَهُمْ فِيهِ ۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا",
+      "verseTransliteration": "Li neftinehum fîh(fîhi), ve men yu’rıd an zikri rabbihî yeslukhu azâben saadâ(saaden).",
+      "verseMeaning": "Ki onları, onun içinde imtihan edelim. Kim Rabbinin zikrinden/Kur´an´dan yüz çevirirse Rabbi onu, gittikçe yükselen bir azaba sokar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَتَنُ",
+      "sura": 85,
+      "ayah": 10,
+      "formInAyah": "فَتَنُوا",
+      "transliteration": "fetenū",
+      "gloss": "işkence eden(ler)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+      "verseTransliteration": "İnnellezîne fetenul mu’minîne vel mu’minâti summe lem yetûbû fe lehum azâbu cehenneme ve lehum azâbul harîk(harîkı).",
+      "verseMeaning": "Şu bir gerçek ki, inanan erkeklerle inanan kadınlara işkence edip sonra da tövbe etmemiş olanlar için, cehennem azabı vardır. Onlar için yangın azabı da vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 2,
+      "ayah": 102,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "fitneyiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Vettebeû mâ tetlûş şeyâtînu alâ mulki suleymân(suleymâne) ve mâ kefere suleymânu ve lâkinneş şeyâtîne keferû yuallimûnen nâses sihrâ, ve mâ unzile alel melekeyni bi bâbile hârûte ve mârût(mârûte), ve mâ yuallimâni min ehadin hattâ yekûlâ innemâ nahnu fitnetun fe lâ tekfur fe yeteallemûne minhumâ mâ yuferrikûne bihî beynel mer’i ve zevcih(zevcihî), ve mâ hum bi dârrîne bihî min ehadin illâ bi iznillâh(iznillâhi), ve yeteallemûne mâ yadurruhum ve lâ yenfeuhum ve lekad alimû le menişterâhu mâ lehu fîl âhireti min halâkın, ve le bi’se mâ şerev bihî enfusehum lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Süleyman´ın mülk ve saltanatı konusunda onlar, şeytanların okuyup durduklarına uydular. Halbuki Süleyman küfre sapmamıştı. Ancak şeytanlar küfre sapmıştı; insanlara büyüyü öğretiyorlardı. Ve Babil´de Hârût ve Mârût adlı iki melek üzerine indirileni öğretiyorlardı. Oysa ki o iki melek, \"Biz bir imtihan aracıyız, sakın küfre sapma!\" demedikçe hiç kimseye bir şey öğretmiyorlardı. İnsanlar onlardan erkekle eşinin arasını açacakları şeyi öğreniyorlardı. Ne var ki, onlar onunla Allah´ın izni olmadıkça hiç kimseye zarar veremezler. Onlar kendilerine zarar vereni, yarar vermeyeni öğreniyorlardı. Yemin olsun ki, onu satın alanın âhırette hiç bir nasibi olmayacağını açıkça bilmişlerdir. Öz benliklerini sattıkları şey ne kötüdür! Bir bilebilselerdi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 2,
+      "ayah": 191,
+      "formInAyah": "وَالْفِتْنَةُ",
+      "transliteration": "velfitnetu",
+      "gloss": "ve fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُمْ مِنْ حَيْثُ أَخْرَجُوكُمْ ۚ وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ ۚ وَلَا تُقَاتِلُوهُمْ عِنْدَ الْمَسْجِدِ الْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ ۖ فَإِنْ قَاتَلُوكُمْ فَاقْتُلُوهُمْ ۗ كَذَٰلِكَ جَزَاءُ الْكَافِرِينَ",
+      "verseTransliteration": "Vaktulûhum haysu sekıftumûhum ve ahricûhum min haysu ahracûkum vel fitnetu eşeddu minel katli, ve lâ tukâtilûhum indel mescidil harâmi hattâ yukâtilûkum fîh(fîhî), fe in kâtelûkum faktulûhum kezâlike cezâul kâfirîn(kâfirîne).",
+      "verseMeaning": "Onları yakaladığınız yerde öldürün; onların sizi çıkardıkları yerden siz de onları çıkarın. Fitne/baskı ve bozgunculuk, öldürmekten daha kötüdür. Mescid-i Haram´da, onlar sizinle çarpışmaya girinceye kadar siz de onlarla çarpışmaya girmeyin. Eğer sizinle çarpışmaya girerlerse siz de onları öldürün. İşte böyle verilir küfre sapanların cezası!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 2,
+      "ayah": 193,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ ۖ فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ",
+      "verseTransliteration": "Ve kâtilûhum hattâ lâ tekûne fitnetun ve yekûned dînu lillâh(lillâhi), fe inintehev fe lâ udvâne illâ alez zâlimîn(zâlimîne).",
+      "verseMeaning": "Fitne kalmayıncaya ve din yalnız Allah´ın oluncaya kadar onlarla çarpışın. Eğer çarpışmaktan vazgeçerlerse artık zulme sapanlardan başkasına düşmanlık edilmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 2,
+      "ayah": 217,
+      "formInAyah": "وَالْفِتْنَةُ",
+      "transliteration": "velfitnetu",
+      "gloss": "ve fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَنْ دِينِكُمْ إِنِ اسْتَطَاعُوا ۚ وَمَنْ يَرْتَدِدْ مِنْكُمْ عَنْ دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ فَأُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Yes’elûneke aniş şehril harâmi kıtâlin fîh(fîhi), kul kıtâlun fîhi kebîr(kebîrun), ve saddun an sebîlillâhi ve kufrun bihî vel mescidil harâmi ve ihrâcu ehlihî minhu ekberu indallâh(indallâhi), vel fitnetu ekberu minel katl(katli), ve lâ yezâlûne yukâtilûnekum hattâ yeruddûkum an dînikum inistetâû ve men yertedid minkum an dînihî fe yemut ve huve kâfirun fe ulâike habitat a’mâluhum fîd dunyâ vel âhireh(âhireti), ve ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Sana haram ayı, onda savaşmayı soruyorlar, De ki: \"O ayda savaş büyük bir günahtır. Ama Allah yolundan alıkoymak, O´na ve Mescid-i Haram´a nankörlük etmek, ora halkını oradan sürüp çıkarmak, Allah katında daha büyük bir günahtır.\" Fitne/baskı ve bozgunculuk, cana kıymaktan daha büyük bir kötülüktür. Eğer güçleri yetse sizi dininizden çevirinceye kadar sizinle savaşmayı sürdürürler. İçinizden kim irtidâd edip dininden dönerse kâfir olarak ölür. Böylelerinin amelleri dünyada da âhırette de boşa gitmiştir. Ateş ehlidir onlar. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 3,
+      "ayah": 7,
+      "formInAyah": "الْفِتْنَةِ",
+      "transliteration": "l-fitneti",
+      "gloss": "fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ ۖ فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِنْ عِنْدِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ",
+      "verseTransliteration": "Huvellezî enzele aleykel kitâbe minhu âyâtun muhkemâtun hunne ummul kitâbi ve uharu muteşâbihât(muteşâbihâtun), fe emmellezîne fî kulûbihim zeygun fe yettebiûne mâ teşâbehe minhubtigâel fitneti vebtigâe te’vîlih(te’vîlihi), ve mâ ya’lemu te’vîlehû illâllâh(illâllâhu), ver râsihûne fîl ilmi yekûlûne âmennâ bihî, kullun min indi rabbinâ, ve mâ yezzekkeru illâ ulûl elbâb(elbâbi).",
+      "verseMeaning": "Kitap´ı sana indiren O´dur: Onun ayetlerinden bir kısmı muhkemlerdir ki; onlar Kitap´ın anasıdır. Diğer ayetlerse müteşâbihlerdir. Şu var ki, kalplerinde bir eğrilik ve bozukluk bulunanlar, fitne aramak, onun yorumuna öncelik tanımak için Kitap´ın sadece müteşâbih kısmının ardına düşerler. Onun tevilini ise bir Allah bilir, bir de ilimde derinleşmiş olanlar. Bunlar, \"Ona inandık, hepsi Rabbimizin katındandır.\" derler. Gönül ve akıl sahiplerinden başkası gereğince düşünemez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 4,
+      "ayah": 91,
+      "formInAyah": "الْفِتْنَةِ",
+      "transliteration": "l-fitneti",
+      "gloss": "fitneye",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَنْ يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْ كُلَّ مَا رُدُّوا إِلَى الْفِتْنَةِ أُرْكِسُوا فِيهَا ۚ فَإِنْ لَمْ يَعْتَزِلُوكُمْ وَيُلْقُوا إِلَيْكُمُ السَّلَمَ وَيَكُفُّوا أَيْدِيَهُمْ فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُولَٰئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَانًا مُبِينًا",
+      "verseTransliteration": "Setecidûne âharîne yurîdûne en ye’menûkum ve ye’menû kavmehum kullemâ ruddû ilel fitneti urkisû fîhâ, fe in lem ya’tezilûkum ve yulkû ileykumus seleme ve yekuffû eydiyehum fe huzûhum vaktulûhum haysu sekıftumûhum ve ulâikum cealnâ lekum aleyhim sultânen mubînâ(mubînen).",
+      "verseMeaning": "Diğer bazılarını da bulacaksınız ki, hem sizden emin olmak hem de kendi toplumlarından emin olmak isterler. Ama fitneyle yüz yüze getirildiklerinde başaşağı içine dalarlar. Bunlar sizden uzak durmazlar, sizinle barışa gitmezler ve ellerini sizden çekmezlerse onları yakalayın, tuttuğunuz yerde öldürün. İşte böylelerinin üstüne gitmeniz için size açık bir izin ve kuvvet verilmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 5,
+      "ayah": 41,
+      "formInAyah": "فِتْنَتَهُ",
+      "transliteration": "fitnetehu",
+      "gloss": "şaşırtmak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ تُؤْمِنْ قُلُوبُهُمْ ۛ وَمِنَ الَّذِينَ هَادُوا ۛ سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ آخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِهِ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُوا ۚ وَمَنْ يُرِدِ اللَّهُ فِتْنَتَهُ فَلَنْ تَمْلِكَ لَهُ مِنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ الَّذِينَ لَمْ يُرِدِ اللَّهُ أَنْ يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+      "verseTransliteration": "Yâ eyyuher resûlu lâ yahzunkellezîne yusâriûne fîl kufri minellezîne kâlû âmennâ bi efvâhihim ve lem tu’min kulûbuhum, ve minellezîne hâdû semmâûne lil kezibi semmâûne li kavmin âharîne lem ye’tuk(ye’tuke) yuharrifûnel kelime min ba’di mevâdııh(mevâdııhî), yekûlûne in utîtum hâzâ fe huzûhu ve in lem tu’tevhu fahzerû ve men yuridillâhu fitnetehu fe len temlike lehu minallâhi şey’â(şey’en) ulâikellezîne lem yuridillâhu en yutahhire kulûbehum lehum fîd dunyâ hızyun ve lehum fîl âhıreti azâbun azîm(azîmun).",
+      "verseMeaning": "Ey resul! Kalpleri inanmamış olduğu halde ağızlarıyla \"inandık\" diyenlerin küfürde yarışırcasına koşanları seni üzmesin. Yahudilerden bazıları yalancılık etmek için dinlerler; huzuruna çıkmamış olan başka bir topluluk için dinlerler. Yerlerine oturmuş kelimeleri, yapılarını bozup değiştirirler. \"Size şu verilirse alın, eğer o verilmezse çekinin.\" derler. Allah birini fitneye çarptırmak isterse sen onun için Allah karşısında hiçbir şey yapamazsın. Bunlar o kişilerdir ki, Allah kalplerini temizlemek istemiyor. Dünyada bir rezillik vardır onlar için; âhirette de büyük bir azap var onlara."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 5,
+      "ayah": 71,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "bir fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَحَسِبُوا أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا وَصَمُّوا ثُمَّ تَابَ اللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا وَصَمُّوا كَثِيرٌ مِنْهُمْ ۚ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+      "verseTransliteration": "Ve hasibû ellâ tekûne fitnetun fe amû ve sammû summe tâballâhu aleyhim summe amû ve sammû kesîrun minhum vallâhu basîrun bimâ ya’melûn(ya’melûne).",
+      "verseMeaning": "Bir fitne kopmayacak sandılar. Kör oldular, sağır kesildiler. Derken Allah tövbelerini kabul etti. Sonra yine birçokları körleştiler, sağırlaştılar. Allah, onların yaptıklarını ayan-beyan görür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 6,
+      "ayah": 23,
+      "formInAyah": "فِتْنَتُهُمْ",
+      "transliteration": "fitnetuhum",
+      "gloss": "onların çareleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+      "verseTransliteration": "Summe lem tekun fitnetuhum illâ en kâlû vallâhi rabbinâ mâ kunnâ muşrikîn(muşrikîne).",
+      "verseMeaning": "Sonunda şunu söylemekten başka bahaneleri kalmaz: \"Rabbimiz Allah´a yemin olsun ki, biz, ortak koşanlar değildik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 7,
+      "ayah": 155,
+      "formInAyah": "فِتْنَتُكَ",
+      "transliteration": "fitnetuke",
+      "gloss": "senin imtihanından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاخْتَارَ مُوسَىٰ قَوْمَهُ سَبْعِينَ رَجُلًا لِمِيقَاتِنَا ۖ فَلَمَّا أَخَذَتْهُمُ الرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُمْ مِنْ قَبْلُ وَإِيَّايَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا ۖ إِنْ هِيَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَنْ تَشَاءُ وَتَهْدِي مَنْ تَشَاءُ ۖ أَنْتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنْتَ خَيْرُ الْغَافِرِينَ",
+      "verseTransliteration": "Vahtâra mûsâ kavmehu seb’îne raculen li mîkâtinâ, fe lemmâ ehazet humur recfetu kâle rabbi lev şi’te ehlektehum min kablu ve iyyâye, e tuhlikunâ bi mâ feales sufehâu minnâ, in hiye illâ fitnetuk(fitnetuke), tudıllu bihâ men teşâu ve tehdî men teşâu ente veliyyunâ fâgfirlenâ verhamnâ ve ente hayrûl gâfirîn(gâfirîne).",
+      "verseMeaning": "Musa, bizimle buluşma vakti için toplumundan yetmiş adam seçti. Şiddetli sarsıntı onları yakalayınca Musa şöyle dedi: \"Rabbim, dileseydin, onları da beni de daha önce helak ederdin. İçimizdeki beyinsizlerin yaptıkları yüzünden bizi helak mı edeceksin? Bu iş senin imtihanından başka birşey değildir. Onunla dilediğini şaşırtır, dilediğine yol gösterirsin. Sen bizim Veli´mizsin. O halde affet bizi, acı bize. Sen affedenlerin en hayırlısısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 8,
+      "ayah": 25,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "fitneden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Vettekû fitneten lâ tusîbennellezîne zalemû minkum hâssah(hâssaten), va´lemû ennallâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "İçinizden sadece zulmedenlere çatmakla kalmayacak bir fitneden korkun. Bilin ki Allah´ın gazabı çok şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 8,
+      "ayah": 28,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "birer fitne(sınav)dır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "Va´lemû ennemâ emvâlukum ve evlâdukum fitnetun ve ennallâhe indehû ecrun azîm(azîmun).",
+      "verseMeaning": "Bilin ki, mallarınız ve çocuklarınız sizin için bir imtihan aracıdır. Allah´a gelince, büyük ödül O´nun katındadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 8,
+      "ayah": 39,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ ۚ فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ بِمَا يَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Ve kâtilûhum hattâ lâ tekûne fitnetun ve yekûned dînu kulluhu lillâhi, fe inintehev fe innallâhe bimâ ya´melûne basîr(basîrun).",
+      "verseMeaning": "Fitne kalmayıncaya ve din tümüyle Allah´ın oluncaya kadar onlarla savaş. Vazgeçerlerse kuşkusuz ki Allah, ne yaptıklarını iyice görecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 8,
+      "ayah": 73,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالَّذِينَ كَفَرُوا بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ إِلَّا تَفْعَلُوهُ تَكُنْ فِتْنَةٌ فِي الْأَرْضِ وَفَسَادٌ كَبِيرٌ",
+      "verseTransliteration": "Vellezîne keferû ba´duhum evliyâu ba´d(ba´dın), illâ tef´alûhu tekun fitnetun fîl ardı ve fesâdun kebîr(kebîrun).",
+      "verseMeaning": "Küfre sapanlar da birbirlerinin dostlarıdır. Eğer şu dikkat çekilenleri yapmazsanız yeryüzünde bir fitne, büyük bir bozgun çıkar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 9,
+      "ayah": 47,
+      "formInAyah": "الْفِتْنَةَ",
+      "transliteration": "l-fitnete",
+      "gloss": "fitneye",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَوْ خَرَجُوا فِيكُمْ مَا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا خِلَالَكُمْ يَبْغُونَكُمُ الْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+      "verseTransliteration": "Lev harecû fîkum mâ zâdûkum illâ habâlen ve lâ evdaû hılâlekum yebgûnekumul fitneh(fitnete), ve fîkum semmâûne lehum, vallâhu alîmun biz zâlimîn(zâlimîne).",
+      "verseMeaning": "Aranızda sefere çıkmış olsalardı, size bozgunculuktan başka bir katkıları olmayacaktı; sizi fitneye uğratmak isteğiyle aranıza sokulacaklardı. İçinizde onlara gerçekten kulak verecekler de vardı. Alah, zalimleri iyice biliyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 9,
+      "ayah": 48,
+      "formInAyah": "الْفِتْنَةَ",
+      "transliteration": "l-fitnete",
+      "gloss": "fitne çıkarmak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَقَدِ ابْتَغَوُا الْفِتْنَةَ مِنْ قَبْلُ وَقَلَّبُوا لَكَ الْأُمُورَ حَتَّىٰ جَاءَ الْحَقُّ وَظَهَرَ أَمْرُ اللَّهِ وَهُمْ كَارِهُونَ",
+      "verseTransliteration": "Lekadibtegûl fîtnete min kablu ve kallebû lekel umûre hattâ câel hakku ve zahere emrullâhi ve hum kârihûn(kârihûne).",
+      "verseMeaning": "Yemin olsun ki, onlar önceden de fitne çıkarmak istemiş ve nice işleri sana, olduğundan başka türlü göstermişlerdi. Nihayet hak geldi, onların istememesine rağmen Allah´ın emri galebe çaldı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 9,
+      "ayah": 49,
+      "formInAyah": "الْفِتْنَةِ",
+      "transliteration": "l-fitneti",
+      "gloss": "onlar zaten fitneye",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْهُمْ مَنْ يَقُولُ ائْذَنْ لِي وَلَا تَفْتِنِّي ۚ أَلَا فِي الْفِتْنَةِ سَقَطُوا ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ",
+      "verseTransliteration": "Ve minhum men yekûlu´zen lî ve lâ teftinnî, e lâ fîl fitneti sekatû, ve inne cehenneme le muhîtatun bil kâfîrin(kâfîrine).",
+      "verseMeaning": "İçlerinden bazısı: \"Bana izin ver, beni fitneye düşürme.\" der. Dikkat edin, fitnenin ta içine kendileri düşmüşlerdir. Ve cehennem o nankörleri elbette çepeçevre kuşatacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 10,
+      "ayah": 85,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "bir fitne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَقَالُوا عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ",
+      "verseTransliteration": "Fe kâlû alallâhi tevekkelnâ, rabbenâ lâ tec’alnâ fitneten lil kavmiz zâlimîn(zâlimîne).",
+      "verseMeaning": "Şöyle yakardılar: \"Yalnız Allah´a dayandık. Rabbimiz! Bizleri, zulmedenler toplumu için bir imtihan aracı yapma!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 17,
+      "ayah": 60,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "sınama (aracı)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ ۚ وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا",
+      "verseTransliteration": "Ve iz kulnâ leke inne rabbeke ehâta bin nâs(nâsi), ve mâ cealner ru’yâlletî ereynâke illâ fitneten lin nâsi veş şeceretel mel’ûnete fîl kur’ân(kur’âni), ve nuhavvifuhum fe mâ yezîduhum illâ tugyânen kebîrâ(kebîren).",
+      "verseMeaning": "Hani, sana: \"Rabbin, insanları çepeçevre kuşatmıştır.\" demiştik. Sana gösterdiğimiz o rüyayı da Kur´an´da lanetlenmiş bulunan o ağacı/soyu da insanları sınamak dışında bir sebeple göndermedik. Biz onları korkutuyoruz ama bu onların kudurganlığını artırmaktan başka bir katkı sağlamıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 21,
+      "ayah": 35,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "sınamak için",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+      "verseTransliteration": "Kullu nefsin zâikatul mevt(mevti), ve neblûkum biş şerri vel hayri fitneh(fitneten), ve ileynâ turceûn(turceûne).",
+      "verseMeaning": "Her canlı, ölümü tadacaktır. Biz bir imtihan olarak sizi şer ile de hayır ile de deniyoruz. Sonunda bize döndürüleceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 21,
+      "ayah": 111,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "denemek içindir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَىٰ حِينٍ",
+      "verseTransliteration": "Ve in edrî leallehu fitnetun lekum ve metâun ilâ hîn(hînin).",
+      "verseMeaning": "Bilmiyorum, belki de o, sizin için bir fitnedir. Belirli bir süreye kadar bir nimetlendirmedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 22,
+      "ayah": 11,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "bir kötülük",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُ خَيْرٌ اطْمَأَنَّ بِهِ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انْقَلَبَ عَلَىٰ وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ۚ ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+      "verseTransliteration": "Ve minen nâsi men ya’budullâhe alâ harf(harfın), fe in asâbehu hayrunıtmeenne bih(bihî), ve in asâbethu fitnetuninkalebe alâ vechihî, hasired dunyâ vel âhıreh(âhırete), zâlike huvel husrânul mubîn(mubînu).",
+      "verseMeaning": "İnsanlardan bazısı da Allah´a kıyıdan kıyıya ibadet eder. Kendisine bir hayır isabet ettiğinde, onunla tatmin bulup yatışır; kendisine bir fitne, bir deneme gelip çattığında yüzüstü geri dönüverir. Dünyada da kayba uğramıştır böylesi, âhirette de. Apaçık hüsranın ta kendisi işte budur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 22,
+      "ayah": 53,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "bir imtihan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لِيَجْعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْنَةً لِلَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ",
+      "verseTransliteration": "Li yec’ale mâ yulkış şeytânu fitneten lillezîne fî kulûbihim maradun vel kâsiyeti kulûbuhum, ve innez zâlimîne le fî şikâkın baîd(baîdin).",
+      "verseMeaning": "Bu, Allah´ın; şeytanın attığını, kalplerinde hastalık olanlara, gönülleri katılaşanlara bir fitne yapması içindir. Zalimler, geri dönülmez bir ayrılık ve kopuş içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 24,
+      "ayah": 63,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "bir belanın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَا تَجْعَلُوا دُعَاءَ الرَّسُولِ بَيْنَكُمْ كَدُعَاءِ بَعْضِكُمْ بَعْضًا ۚ قَدْ يَعْلَمُ اللَّهُ الَّذِينَ يَتَسَلَّلُونَ مِنْكُمْ لِوَاذًا ۚ فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Lâ tec’alû duâer resûli beynekum ke duâi ba’dıkum ba’da(ba’den), kad ya’lemullâhullezîne yetesellelûne minkum livâzâ(livâzen), fel yahzerillezîne yuhâlifûne an emrihî en tusîbehum fitnetun ev yusîbehum azâbun elîm(elîmun).",
+      "verseMeaning": "Aranızda peygamberi çağırmayı, sizin birbirinizi çağırmanıza eş tutmayın. Allah sizin, birbirini siper ederek sıvışıp gidenlerinizi bilir. Resulün emrine aykırı davrananlar, kendilerine bir fitnenin gelip çatmasından yahut acıklı bir azabın yakalarına yapışmasından çekinsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 25,
+      "ayah": 20,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "bir sınav",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا أَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِينَ إِلَّا إِنَّهُمْ لَيَأْكُلُونَ الطَّعَامَ وَيَمْشُونَ فِي الْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا",
+      "verseTransliteration": "Ve mâ erselnâ kableke minel murselîne illâ innehum le ye’kulûnet taâme ve yemşûne fîl esvâkı ve cealnâ ba’dakum li ba’dın fitneten(fitneten), e tasbirûn(tasbirûne), ve kâne rabbuke basîrâ(basîren).",
+      "verseMeaning": "Senden önce gönderdiğimiz peygamberler de mutlaka yemek yiyorlar, sokaklarda yürüyorlardı. Biz sizi birbiriniz için imtihan aracı yaptık. Sabrediyor musunuz? Rabbin her şeyi görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 29,
+      "ayah": 10,
+      "formInAyah": "فِتْنَةَ",
+      "transliteration": "fitnete",
+      "gloss": "işkencesini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ فَإِذَا أُوذِيَ فِي اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِنْ جَاءَ نَصْرٌ مِنْ رَبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ اللَّهُ بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ",
+      "verseTransliteration": "Ve minen nâsi men yekûlu âmennâ billâhi fe izâ ûziye fîllâhi ceale fitneten nâsi ke azâbillâh(azâbillâhî), ve le in câe nasrun min rabbike le yekûlunne innâ kunnâ meakum, e ve leysallâhu bi a’leme bi mâ fî sudûril âlemîn(âlemîne).",
+      "verseMeaning": "İnsanlar içinden öylesi vardır ki, \"Allah´a inandık\" der fakat Allah uğrunda bir eziyete uğratılınca, insanlardan gelen fitneyi Allah´ın azabı gibi tutar. Ve eğer Rabbinden bir yardım gelirse kesinlikle şöyle diyeceklerdir: \"Biz sizinle beraberdik.\" Allah, âlemlerin göğüslerindekini en iyi şekilde bilmiyor mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 33,
+      "ayah": 14,
+      "formInAyah": "الْفِتْنَةَ",
+      "transliteration": "l-fitnete",
+      "gloss": "baskı ve işkence yapmaları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَوْ دُخِلَتْ عَلَيْهِمْ مِنْ أَقْطَارِهَا ثُمَّ سُئِلُوا الْفِتْنَةَ لَآتَوْهَا وَمَا تَلَبَّثُوا بِهَا إِلَّا يَسِيرًا",
+      "verseTransliteration": "Ve lev duhılet aleyhim min aktârihâ summe suilûl fitnete le âtevhâ ve mâ telebbesû bihâ illâ yesîrâ(yesîran).",
+      "verseMeaning": "Eğer Medine´nin her yanından üzerlerine gelinseydi de onların kent içinde fitne çıkarmaları istenseydi, onu mutlaka yaparlardı; o konuda fazla gecikmezlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 37,
+      "ayah": 63,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "bir fitne (sınav)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ",
+      "verseTransliteration": "İnnâ cealnâhâ fitneten liz zâlimîn(zâlimîne).",
+      "verseMeaning": "O ağaç ki, zalimler için onu bir fitne yaptık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 39,
+      "ayah": 49,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "bir imtihandır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَإِذَا مَسَّ الْإِنْسَانَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَاهُ نِعْمَةً مِنَّا قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ ۚ بَلْ هِيَ فِتْنَةٌ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Fe izâ messel insâne durrun deânâ, summe izâ havvelnâhu ni’meten minnâ kâle innemâ ûtîtuhu alâ ilm(ilmin), bel hiye fitnetun ve lâkinne ekserehum lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "İnsana bir zorluk/zarar dokunduğunda bize yalvarır yakarır; sonra ona bizden bir nimet lütfettiğimizde şöyle der: \"Bu bir ilim sayesinde verildi bana!\". Hayır, öyle değil; o bir fitnedir ama onların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 51,
+      "ayah": 14,
+      "formInAyah": "فِتْنَتَكُمْ",
+      "transliteration": "fitnetekum",
+      "gloss": "fitnenizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ذُوقُوا فِتْنَتَكُمْ هَٰذَا الَّذِي كُنْتُمْ بِهِ تَسْتَعْجِلُونَ",
+      "verseTransliteration": "Zûkû fitnetekum, hâzellezî kuntum bihî testa’cilûn(testa’cilûne).",
+      "verseMeaning": "Tadın imtihan ve ıstırabınızı. İşte budur o çarçabuk gelmesini istediğiniz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 54,
+      "ayah": 27,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "sınamak için",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ",
+      "verseTransliteration": "İnnâ mursilûn nâkati fitneten lehum fertekıbhum vestabir.",
+      "verseMeaning": "Bir imtihan aracı olarak kendilerine dişi deveyi göndereceğiz. Artık gözetle onları ve sabret!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 60,
+      "ayah": 5,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "bir sınav",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+      "verseTransliteration": "Rabbenâ lâ tec’alnâ fitneten lillezîne keferû, vagfir lenâ rabbenâ, inneke entel azîzul hakîm(hakîmu).",
+      "verseMeaning": "\"Ey Rabbimiz! Bizi, küfre sapanlar için bir fitne/imtihan aracı yapma! Bağışla bizi ey Rabbimiz! Sen, yalnız sen sonsuz kudretin, sonsuz hikmetin sahibisin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 64,
+      "ayah": 15,
+      "formInAyah": "فِتْنَةٌ",
+      "transliteration": "fitnetun",
+      "gloss": "bir imtihandır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِنْدَهُ أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "İnnemâ emvalukum ve evlâdukum fitneh(fitnetun), vallâhu indehû ecrun azîm(azîmun).",
+      "verseMeaning": "Şu da bir gerçek ki, mallarınız ve çocuklarınız bir imtihan aracıdır. Allah´a gelince, onun katında büyük bir ödül vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِتْنَة",
+      "sura": 74,
+      "ayah": 31,
+      "formInAyah": "فِتْنَةً",
+      "transliteration": "fitneten",
+      "gloss": "bir sınavdan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "verseTransliteration": "Ve mâ cealnâ ashâben nâri illâ melâiketen ve mâ cealnâ ıddetehum illâ fitneten lillezîne keferû li yesteykınellezîne ûtûl kitâbe ve yezdâdellezîne âmenû îmânen ve lâ yertâbellezîne ûtûl kitâbe vel mu’minûne, ve li yekûlellezîne fî kulûbihim maradun vel kâfirûne mâzâ erâdallâhu bi hâzâ meselâ(meselen), kezâlike yudıllullâhu men yeşâu ve yehdî men yeşâ(yeşâu), ve mâ ya’lemu cunûde rabbike illâ hû(huve), ve mâ hiye illâ zikrâ lil beşer(beşeri).",
+      "verseMeaning": "Biz, cehennem yârânını hep melekler yaptık. Ve biz, onların sayılarını da küfre sapanlar için bir imtihandan başka şey yapmadık. Ta ki, kendilerine kitap verilenler iyice ve apaçık bilsinler. İman etmiş olanların imanı artsın. Kendilerine kitap verilmiş olanlarla iman sahipleri kuşkuya düşmesin. Kalplerinde hastalık olanlarla küfre sapmış bulunanlar da; \"Allah bununla neyi örneklendirmek istiyor?\" desinler. İşte böyle. Allah, dilediğini/dileyeni saptırır, dilediğini/dileyeni de doğruya ve güzele kılavuzlar. Rabbinin ordularını ancak O bilir. Bu, insan için bir öğüt verici ve düşündürücüden başka şey değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فُتُون",
+      "sura": 20,
+      "ayah": 40,
+      "formInAyah": "فُتُونًا",
+      "transliteration": "futūnen",
+      "gloss": "(iyi bir) deneyişle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ ۖ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+      "verseTransliteration": "İz temşî uhtuke fe tekûlu hel edullukum alâ men yekfuluh(yekfuluhu), fe reca’nâke ilâ ummike key takarre aynuhâ ve lâ tahzen(tahzene), ve katelte nefsen fe necceynâke minel gammi ve fetennâke futûnâ(futûnen), fe lebiste sinîne fî ehli medyene summe ci’te alâ kaderin yâ mûsâ.",
+      "verseMeaning": "\"Hani, kızkardeşin gidiyor, şöyle diyordu: ´Onun bakımını üstlenecek kişiyi size göstereyim mi?´ Nihayet, seni annene geri döndürdük ki, gözü aydın olsun, tasalanmasın. Sen bir de adam öldürmüştün. O zaman seni gamdan kurtarmıştık. Seni iyice bir imtihana çekmiştik. Bunun ardından sen Medyen halkı arasında yıllarca kaldın. Sonra, belirlenen bir vakitte/bir kadere göre geliverdin, ey Mûsa!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَٰتِنِين",
+      "sura": 37,
+      "ayah": 162,
+      "formInAyah": "بِفَاتِنِينَ",
+      "transliteration": "bifātinīne",
+      "gloss": "saptıracak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ",
+      "verseTransliteration": "Mâ entum aleyhi bi fâtinîn(fâtinîne).",
+      "verseMeaning": "O´na karşı kimseyi fitneye düşüremezsiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَفْتُون",
+      "sura": 68,
+      "ayah": 6,
+      "formInAyah": "الْمَفْتُونُ",
+      "transliteration": "l-meftūnu",
+      "gloss": "fitnelenmiştir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "بِأَيْيِكُمُ الْمَفْتُونُ",
+      "verseTransliteration": "Bi eyyikumul meftûn(meftûnu).",
+      "verseMeaning": "Hanginizmiş fitneye tutulan, deliren!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=ftn"
+}

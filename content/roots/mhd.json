@@ -1,0 +1,380 @@
+{
+  "id": "mhd",
+  "latinName": "Mim-he-Dal",
+  "lettersArabic": "م ه د",
+  "meanings": [
+    "Hazırlamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 16,
+  "lemmas": [
+    {
+      "formArabic": "تَمْهِيد",
+      "count": 1
+    },
+    {
+      "formArabic": "مَهْد",
+      "count": 5
+    },
+    {
+      "formArabic": "مَهَّد",
+      "count": 1
+    },
+    {
+      "formArabic": "مِهَٰد",
+      "count": 7
+    },
+    {
+      "formArabic": "مَٰهِدُون",
+      "count": 1
+    },
+    {
+      "formArabic": "يَمْهَدُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَمْهِيد",
+      "sura": 74,
+      "ayah": 14,
+      "formInAyah": "تَمْهِيدًا",
+      "transliteration": "temhīden",
+      "gloss": "bir döşeyişle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَهَّدْتُ لَهُ تَمْهِيدًا",
+      "verseTransliteration": "Ve mehhedtu lehu temhîdâ(temhîden).",
+      "verseMeaning": "Alabildiğine imkânlar döşedim onun için."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهْد",
+      "sura": 3,
+      "ayah": 46,
+      "formInAyah": "الْمَهْدِ",
+      "transliteration": "l-mehdi",
+      "gloss": "beşikte",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا وَمِنَ الصَّالِحِينَ",
+      "verseTransliteration": "Ve yukellimun nâse fîl mehdi ve kehlen ve mines sâlihîn(sâlihîne).",
+      "verseMeaning": "\"Beşikte ve yetişkin çağında insanlarla konuşacaktır. Barışa ve hayra yönelik iş yapanlardandır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهْد",
+      "sura": 5,
+      "ayah": 110,
+      "formInAyah": "الْمَهْدِ",
+      "transliteration": "l-mehdi",
+      "gloss": "beşikte iken",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي ۖ وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "verseTransliteration": "İz kâlellâhu yâ îsebne meryemezkur ni’metî aleyke ve alâ vâlidetike iz eyyedtuke bi rûhil kudusi tukellimun nâse fîl mehdi ve kehl(kehlen), ve iz allemtukel kitâbe vel hikmete vet tevrâte vel incîl(incîle), ve iz tahluku minet tîni ke hey’etit tayri bi iznî fe tenfuhu fîhâ fe tekûnu tayran bi iznî ve tubriul ekmehe vel ebrasa bi iznî, ve iz tuhricul mevtâ bi iznî, ve iz kefeftu benî isrâîle anke iz ci’tehum bil beyyinâti fe kâlellezîne keferû minhum in hâzâ illâ sihrun mubîn(mubînun).",
+      "verseMeaning": "Hani, Allah şöyle demişti: \"Ey Meryem´in oğlu İsa! Senin ve annenin üzerindeki nimetimi hatırla. Seni Ruhulkudüs´le desteklemiştim, beşikte iken ve erginlik çağında insanlarla konuşuyordun. Sana Kitap´ı, hikmeti, Tevrat´ı, İncil´i öğretmiştim. Benim iznimle çamurdan kuş görünümünde bir şey yaratıyor, içine üflüyordun da o benim iznimle kuş oluyordu. Doğuştan körü, abraşı benim iznimle iyileştiriyordun. Benim iznimle ölüleri çıkarıyordun. İsrailoğullarını senden uzak tutmuştum. Hani, sen onlara açık-seçik ayetleri getirdiğinde, küfre sapanları şöyle deyivermişti: \"Açık bir büyüden başka bir şey değil bu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهْد",
+      "sura": 19,
+      "ayah": 29,
+      "formInAyah": "الْمَهْدِ",
+      "transliteration": "l-mehdi",
+      "gloss": "beşikte",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا",
+      "verseTransliteration": "Fe eşâret ileyh(ileyhi), kâlû keyfe nukellimu men kâne fîl mehdi sabiyyâ(sabiyyen).",
+      "verseMeaning": "Meryem, çocuğa işaret etti. Dediler: \"Beşikteki bir sabiyle nasıl konuşuruz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهْد",
+      "sura": 20,
+      "ayah": 53,
+      "formInAyah": "مَهْدًا",
+      "transliteration": "mehden",
+      "gloss": "beşik",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِنْ نَبَاتٍ شَتَّىٰ",
+      "verseTransliteration": "Ellezî ceale lekumul arda mehden ve seleke lekum fîhâ subulen ve enzele mines semâi mââ(mâen), fe ahrecnâ bihî ezvâcen min nebâtin şettâ.",
+      "verseMeaning": "Yeryüzünü size beşik yapan, onda sizin için yollar açan, gökten su indiren O´dur. Biz o suyla çeşitli bitkilerden çiftler çıkardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهْد",
+      "sura": 43,
+      "ayah": 10,
+      "formInAyah": "مَهْدًا",
+      "transliteration": "mehden",
+      "gloss": "bir beşik",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَعَلَّكُمْ تَهْتَدُونَ",
+      "verseTransliteration": "Ellezî cealekumul arda mehden ve cealelekum fîhâ subulen leallekum tehtedûn(tehtedûne).",
+      "verseMeaning": "O, yerküreyi size bir beşik yaptı. Ve onda sizler için yollar oluşturdu ki, varacağınız yere varabilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَهَّد",
+      "sura": 74,
+      "ayah": 14,
+      "formInAyah": "وَمَهَّدْتُ",
+      "transliteration": "ve mehhedtu",
+      "gloss": "ve döşedim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَمَهَّدْتُ لَهُ تَمْهِيدًا",
+      "verseTransliteration": "Ve mehhedtu lehu temhîdâ(temhîden).",
+      "verseMeaning": "Alabildiğine imkânlar döşedim onun için."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 2,
+      "ayah": 206,
+      "formInAyah": "الْمِهَادُ",
+      "transliteration": "l-mihādu",
+      "gloss": "bir yataktır o",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذَا قِيلَ لَهُ اتَّقِ اللَّهَ أَخَذَتْهُ الْعِزَّةُ بِالْإِثْمِ ۚ فَحَسْبُهُ جَهَنَّمُ ۚ وَلَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Ve izâ kîle lehuttekıllâhe ehazethul izzetu bil ismi fe hasbuhu cehennem(cehennemu), ve le bi’sel mihâd(mihâdu).",
+      "verseMeaning": "Ona, \"Allah´tan kork\" dendiğinde, gurur kendisini günaha götürür. Böylesine, cehennem yeter. Gerçekten ne kötü yataktır o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 3,
+      "ayah": 12,
+      "formInAyah": "الْمِهَادُ",
+      "transliteration": "l-mihādu",
+      "gloss": "bir döşektir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ لِلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Kul lillezîne keferû se tuglebûne ve tuhşerûne ilâ cehennem(cehenneme), ve bi’sel mihâd(mihâdu).",
+      "verseMeaning": "De o küfre sapanlara: \"Yenileceksiniz ve cehenneme sürüleceksiniz. Ne kötü döşektir o!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 3,
+      "ayah": 197,
+      "formInAyah": "الْمِهَادُ",
+      "transliteration": "l-mihādu",
+      "gloss": "yataktır (orası)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ ۚ وَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Metâun kalîlun summe me’vâhum cehennem(cehennemu), ve bi’sel mihâd(mihâdu).",
+      "verseMeaning": "Azıcık bir nimetlenmedir o. Sonra onların varacağı yer cehennem olacaktır. Ne kötü yataktır o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 7,
+      "ayah": 41,
+      "formInAyah": "مِهَادٌ",
+      "transliteration": "mihādun",
+      "gloss": "bir döşek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ ۚ وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+      "verseTransliteration": "Lehum min cehenneme mihâdun ve min fevkıhim gavaş(gavaşın) ve kezâlike neczîz zâlimîn(zâlimîne).",
+      "verseMeaning": "Onlar için cehennemden bir döşek ve üstlerinde örtüler vardır. Zalimleri böyle cezalandırırız biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 13,
+      "ayah": 18,
+      "formInAyah": "الْمِهَادُ",
+      "transliteration": "l-mihādu",
+      "gloss": "bir yataktır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لِلَّذِينَ اسْتَجَابُوا لِرَبِّهِمُ الْحُسْنَىٰ ۚ وَالَّذِينَ لَمْ يَسْتَجِيبُوا لَهُ لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهِ ۚ أُولَٰئِكَ لَهُمْ سُوءُ الْحِسَابِ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Lillezînestecâbû li rabbihimul husnâ, vellezîne lem yestecibû lehu lev enne lehum mâ fîl ardı cemîan ve mislehu meahu leftedev bih(bihî), ulâike lehum sûul hısâbi ve me’vâhum cehennem(cehennemu), ve bi’sel mihâd(mihâdu).",
+      "verseMeaning": "Rablerinin çağrısına olumlu cevap verenler için güzellik vardır. O´na olumlu cevap vermeyenlere gelince, yeryüzündekilerin tamamı onların olsa, bir o kadar da ilave edilse, kurtulmak için bunların tümünü fidye verirlerdi. Böylelerinin hesabı kötü olacaktır; varacakları yer de cehennemdir. Ne kötü yataktır o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 38,
+      "ayah": 56,
+      "formInAyah": "الْمِهَادُ",
+      "transliteration": "l-mihādu",
+      "gloss": "bir döşektir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Cehennem(cehenneme), yaslevnehâ, fe bi’sel mihâd(mihâdu).",
+      "verseMeaning": "İçine dalacakları cehennem! Ne kötü döşektir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِهَٰد",
+      "sura": 78,
+      "ayah": 6,
+      "formInAyah": "مِهَادًا",
+      "transliteration": "mihāden",
+      "gloss": "bir beşik",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+      "verseTransliteration": "E lem nec’alil arda mihâdâ(mihâden).",
+      "verseMeaning": "Biz bu yeryüzünü bir beşik yapmadık mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَٰهِدُون",
+      "sura": 51,
+      "ayah": 48,
+      "formInAyah": "الْمَاهِدُونَ",
+      "transliteration": "l-māhidūne",
+      "gloss": "döşeyiciyiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ",
+      "verseTransliteration": "Vel arda fereşnâhâ fe ni’mel mâhidûn(mâhidûne).",
+      "verseMeaning": "Yeri de biz döşedik. Ne güzel döşeyicileriz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَمْهَدُ",
+      "sura": 30,
+      "ayah": 44,
+      "formInAyah": "يَمْهَدُونَ",
+      "transliteration": "yemhedūne",
+      "gloss": "hazırlamaktadırlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَمَنْ عَمِلَ صَالِحًا فَلِأَنْفُسِهِمْ يَمْهَدُونَ",
+      "verseTransliteration": "Men kefere fe aleyhi kufruh(kufruhu), ve men amile sâlihan fe li enfusihim yemhedûn(yemhedûne).",
+      "verseMeaning": "Kim küfre saparsa inkârı kendisi aleyhinedir. Barışa ve hayra yönelik bir iş yapanlarsa, kendi benlikleri için yer hazırlarlar."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=mhd"
+}

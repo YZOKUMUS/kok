@@ -1,0 +1,524 @@
+{
+  "id": "xTA",
+  "latinName": "Kh-Ta-Elif",
+  "lettersArabic": "خ ط ا",
+  "meanings": [
+    "To do wrong, commit a mistake or error, commit a sin or crime or act of disobedience for which one deserves punishment, commit a fault or offense (intentionally or unintentionally), pursue a wrong way (intentionally or otherwise), cause to miss or pass over, miss a thing (or fail of hitting it), miss or deviate from, far or out of reach, cause one to make a mistake, feign a wrong action/mistake/error."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 22,
+  "lemmas": [
+    {
+      "formArabic": "أَخْطَأْ",
+      "count": 2
+    },
+    {
+      "formArabic": "خَاطِئَة",
+      "count": 2
+    },
+    {
+      "formArabic": "خَطَ ٔ",
+      "count": 2
+    },
+    {
+      "formArabic": "خِطْ ٔ",
+      "count": 1
+    },
+    {
+      "formArabic": "خَطِي َٔة",
+      "count": 8
+    },
+    {
+      "formArabic": "خَطِي َٰٔت",
+      "count": 2
+    },
+    {
+      "formArabic": "خَٰطِ ِٔين",
+      "count": 5
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَخْطَأْ",
+      "sura": 2,
+      "ayah": 286,
+      "formInAyah": "أَخْطَأْنَا",
+      "transliteration": "eḣTa’nā",
+      "gloss": "yanılırsak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Lâ yukellifullâhu nefsen illâ vus’ahâ lehâ mâ kesebet ve aleyhâ mektesebet rabbenâ lâ tuâhıznâ in nesînâ ev ahta’nâ, rabbenâ ve lâ tahmil aleynâ ısran kemâ hameltehu alellezîne min kablinâ, rabbenâ ve lâ tuhammilnâ mâ lâ tâkate lenâ bih(bihî), va’fu annâ, vagfir lenâ, verhamnâ, ente mevlânâ fensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Allah hiç bir benliğe, yaratılış kapasitesinin üstünde bir yük yüklemez/teklifte bulunmaz. Her benliğin yaptığı iyilik kendi lehine, işlediği kötülük kendi aleyhinedir/kişinin hem kendisi hem başkaları için kazandığı onun lehine, yalnız kendi nefsi için kazandığı onun aleyhinedir/kişinin kendi emeği ile kazandığı lehine, başkalarının sırtından kazandığı aleyhinedir. \"Ey Rabb´imiz! Unutur yahut hata edersek bizi hesaba çekme. Ey Rabb´imiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Ey Rabb´imiz! Bize, güç yetiremeyeceğimiz şeyleri de yükleme. Affet bizi, bağışla bizi, acı bize. Sen bizim Mevlâ´mızsın. Küfre sapanlar topluluğuna karşı yardım et bize!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَخْطَأْ",
+      "sura": 33,
+      "ayah": 5,
+      "formInAyah": "أَخْطَأْتُمْ",
+      "transliteration": "eḣTa’tum",
+      "gloss": "yanılarak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِنْدَ اللَّهِ ۚ فَإِنْ لَمْ تَعْلَمُوا آبَاءَهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ وَمَوَالِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَا أَخْطَأْتُمْ بِهِ وَلَٰكِنْ مَا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseTransliteration": "Ud’ûhum li âbâihim huve aksatu indallâh(indallâhi), fe in lem ta’lemû âbâehum fe ıhvânukum fîd dîni ve mevâlîkum, ve leyse aleykum cunâhun fîmâ ahta’tum bihî ve lâkin mâ taammedet kulûbukum, ve kânallâhu gafûren rahîmâ(rahîmen).",
+      "verseMeaning": "Evlatlıklarınızı öz babalarına nispet ederek çağırın! Böyle yapmanız Allah katında adalete daha uygundur. Eğer onların babalarını bilmiyorsanız, o takdirde onlar sizin din kardeşleriniz ve dostlarınızdır. Yanılarak işlediğiniz şeyde, üzerinize günah yoktur; fakat kalplerinizin kastetmiş oldukları müstesna. Ve Allah Gafûr ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَاطِئَة",
+      "sura": 96,
+      "ayah": 16,
+      "formInAyah": "خَاطِئَةٍ",
+      "transliteration": "ḣāTietin",
+      "gloss": "günahkar",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+      "verseTransliteration": "Nâsiyetin kâzibetin hâtıeh(hâtıetin).",
+      "verseMeaning": "O yalancı, o günahkâr alnı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَاطِئَة",
+      "sura": 69,
+      "ayah": 9,
+      "formInAyah": "بِالْخَاطِئَةِ",
+      "transliteration": "bil-ḣāTieti",
+      "gloss": "hatalı iş ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ",
+      "verseTransliteration": "Ve câe fir’avnu ve men kablehu vel mu’tefikâtu bil hâtıeh(hâtıeti).",
+      "verseMeaning": "Firavun da ondan öncekiler de altı üstüne gelmiş kentlerde aynı hataya vücut verdiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطَ ٔ",
+      "sura": 4,
+      "ayah": 92,
+      "formInAyah": "خَطَأً",
+      "transliteration": "ḣaTaen",
+      "gloss": "yanlışlıkla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا ۚ فَإِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ وَإِنْ كَانَ مِنْ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ فَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ وَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِنَ اللَّهِ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Ve mâ kâne li mu’minin en yaktule mu’minen illâ hataâ(hataen), ve men katele mu’minen hataen fe tahrîru rakabetin mu’minetin ve diyetun musellemetun ilâ ehlihî illâ en yessaddakû, fe in kâne min kavmin aduvvin lekum ve huve mu’minun fe tahrîru rakabetin mu’mineh(mu’minetin), ve in kâne min kavmin beynekum ve beynehum mîsâkun fe diyetun musellemetun ilâ ehlihî ve tahrîru rakabetin mu’mineh(mu’minetin), fe men lem yecid fe sıyâmu şehreyni mutetâbiayni tevbeten minallâh(minallâhi), ve kânallâhu alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Yanlışlık hali müstesna, bir müminin bir mümini öldürmesi olacak şey değildir. Yanlışlıkla bir mümini öldürenin, özgürlüğü elinden alınmış bir mümini özgürlüğüne kavuşturması, ölenin ailesine de üzerinde anlaşmaya varılacak tatmin edici bir diyet vermesi gerekir. Vârislerin, diyeti bağışlaması hali müstesna. Eğer öldürülen, mümin olmakla birlikte size düşman bir topluluktan ise o zaman öldürenin, özgürlüğünden yoksun bir mümini özgürlüğüne kavuşturması gerekir. Öldürülen, sizinle aralarında antlaşma bulunan bir toplumdan ise o durumda, öldürülenin ailesine tatmin edici bir diyet verme yanında, hürriyetinden yoksun bir mümini hürriyetine kavuşturmak da gerekli olur. Bunlara imkân bulamayan, Allah´a tövbe olarak iki ay kesiksiz oruç tutar. Allah, gereğince bilendir, hikmeti sonsuzdur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطَ ٔ",
+      "sura": 4,
+      "ayah": 92,
+      "formInAyah": "خَطَأً",
+      "transliteration": "ḣaTaen",
+      "gloss": "yanlışlık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا ۚ فَإِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ وَإِنْ كَانَ مِنْ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ فَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ وَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِنَ اللَّهِ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Ve mâ kâne li mu’minin en yaktule mu’minen illâ hataâ(hataen), ve men katele mu’minen hataen fe tahrîru rakabetin mu’minetin ve diyetun musellemetun ilâ ehlihî illâ en yessaddakû, fe in kâne min kavmin aduvvin lekum ve huve mu’minun fe tahrîru rakabetin mu’mineh(mu’minetin), ve in kâne min kavmin beynekum ve beynehum mîsâkun fe diyetun musellemetun ilâ ehlihî ve tahrîru rakabetin mu’mineh(mu’minetin), fe men lem yecid fe sıyâmu şehreyni mutetâbiayni tevbeten minallâh(minallâhi), ve kânallâhu alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Yanlışlık hali müstesna, bir müminin bir mümini öldürmesi olacak şey değildir. Yanlışlıkla bir mümini öldürenin, özgürlüğü elinden alınmış bir mümini özgürlüğüne kavuşturması, ölenin ailesine de üzerinde anlaşmaya varılacak tatmin edici bir diyet vermesi gerekir. Vârislerin, diyeti bağışlaması hali müstesna. Eğer öldürülen, mümin olmakla birlikte size düşman bir topluluktan ise o zaman öldürenin, özgürlüğünden yoksun bir mümini özgürlüğüne kavuşturması gerekir. Öldürülen, sizinle aralarında antlaşma bulunan bir toplumdan ise o durumda, öldürülenin ailesine tatmin edici bir diyet verme yanında, hürriyetinden yoksun bir mümini hürriyetine kavuşturmak da gerekli olur. Bunlara imkân bulamayan, Allah´a tövbe olarak iki ay kesiksiz oruç tutar. Allah, gereğince bilendir, hikmeti sonsuzdur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خِطْ ٔ",
+      "sura": 17,
+      "ayah": 31,
+      "formInAyah": "خِطْئًا",
+      "transliteration": "ḣiT’en",
+      "gloss": "günahtır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا",
+      "verseTransliteration": "Ve lâ taktulû evlâdekum haşyete imlâk(imlâkın), nahnu nerzukuhum ve iyyâkum, inne katlehum kâne hıt’en kebîrâ(kebîren).",
+      "verseMeaning": "Yoksulluk korkusuyla çocuklarınızı öldürmeyin. Onları da sizi de biz rızıklandırıyoruz. Kuşkusuz, onları öldürmek büyük bir günahtır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 2,
+      "ayah": 58,
+      "formInAyah": "خَطَايَاكُمْ",
+      "transliteration": "ḣaTāyākum",
+      "gloss": "hatalarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قُلْنَا ادْخُلُوا هَٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ",
+      "verseTransliteration": "Ve iz kulnâdhulû hâzihil karyete fe kulû minhâ haysu şi’tum ragaden vedhulûl bâbe succeden ve kûlû hıttatun nagfir lekum hatâyâkum ve senezîdul muhsinîn(muhsinîne).",
+      "verseMeaning": "Şöyle demiştik: \"Girin şu kente; orada, dilediğiniz yerde bol bol yiyin. Kapıdan secde ederek girin ve ´Affet bizi!´ deyin ki, hatalarınızı bağışlayalım. Biz güzel davranıp, güzellik üretenlere daha fazlasını da veririz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 2,
+      "ayah": 81,
+      "formInAyah": "خَطِيئَتُهُ",
+      "transliteration": "ḣaTiyetuhu",
+      "gloss": "suçu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "بَلَىٰ مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Belâ men kesebe seyyieten ve ehâtat bihî hatîetuhu fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "İş onların sandığı gibi değil. Kötülük ve çirkinlik kazanan, suçu kendisini kuşatmış olan kişiler, ateşin dostudurlar. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 4,
+      "ayah": 112,
+      "formInAyah": "خَطِيئَةً",
+      "transliteration": "ḣaTiyeten",
+      "gloss": "bir hata",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا",
+      "verseTransliteration": "Ve men yeksib hatîeten ev ismen summe yermi bihî berîen fe kadihtemele buhtânen ve ismen mubînâ(mubînen).",
+      "verseMeaning": "Kim bir hata yahut günah işler de sonra onunla bir suçsuzu itham ederse hiç kuşkusuz, büyük bir iftira ve açık bir günah yüklenmiş olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 20,
+      "ayah": 73,
+      "formInAyah": "خَطَايَانَا",
+      "transliteration": "ḣaTāyānā",
+      "gloss": "günahlarımızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا آمَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَايَانَا وَمَا أَكْرَهْتَنَا عَلَيْهِ مِنَ السِّحْرِ ۗ وَاللَّهُ خَيْرٌ وَأَبْقَىٰ",
+      "verseTransliteration": "İnnâ âmennâ bi rabbinâ li yagfire lenâ hatâyânâ ve mâ ekrehtenâ aleyhi mines sihr(sihri), vallâhu hayrun ve ebkâ.",
+      "verseMeaning": "\"Biz Rabbimize inandık ki, günahlarımızı ve senin bizi zorladığın büyüyü affetsin. Allah daha hayırlı, daha süreklidir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 26,
+      "ayah": 51,
+      "formInAyah": "خَطَايَانَا",
+      "transliteration": "ḣaTāyānā",
+      "gloss": "hatalarımızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّا نَطْمَعُ أَنْ يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَنْ كُنَّا أَوَّلَ الْمُؤْمِنِينَ",
+      "verseTransliteration": "İnnâ natmeu en yagfira lenâ rabbunâ hatâyânâ en kunnâ evvelel mu’minîn(mu’minîne).",
+      "verseMeaning": "Ümidimiz odur ku, Rabbimiz hatalarımızı bağışlar çünkü biz ilk inananlar olduk.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 26,
+      "ayah": 82,
+      "formInAyah": "خَطِيئَتِي",
+      "transliteration": "ḣaTīetī",
+      "gloss": "hatamı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+      "verseTransliteration": "Vellezî atmeu en yagfira lî hatîetî yevmed dîn(dîni).",
+      "verseMeaning": "\"Din gününde hatalarımı affetmesini umup durduğum da O´dur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 29,
+      "ayah": 12,
+      "formInAyah": "خَطَايَاهُمْ",
+      "transliteration": "ḣaTāyāhum",
+      "gloss": "onların hataları-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا اتَّبِعُوا سَبِيلَنَا وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُمْ بِحَامِلِينَ مِنْ خَطَايَاهُمْ مِنْ شَيْءٍ ۖ إِنَّهُمْ لَكَاذِبُونَ",
+      "verseTransliteration": "Ve kâlellezîne keferû lillezîne âmenûttebiû sebîlenâ velnahmil hatâyâkum, ve mâ hum bi hâmilîne min hatâyâhum min şey’(şey’in), innehum le kâzibûn(kâzibûne).",
+      "verseMeaning": "İnkâr edenler, iman edenlere dediler ki: \"Bizim yolumuzu izleyin, sizin günahlarınızı biz taşırız.\" Oysa onlar, iman edenlerin günahlarından hiçbir şeyin taşıyıcısı değillerdir. Gerçek şu ki, onlar tamamen yalancıdırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٔة",
+      "sura": 29,
+      "ayah": 12,
+      "formInAyah": "خَطَايَاكُمْ",
+      "transliteration": "ḣaTāyākum",
+      "gloss": "sizin hatalarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا اتَّبِعُوا سَبِيلَنَا وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُمْ بِحَامِلِينَ مِنْ خَطَايَاهُمْ مِنْ شَيْءٍ ۖ إِنَّهُمْ لَكَاذِبُونَ",
+      "verseTransliteration": "Ve kâlellezîne keferû lillezîne âmenûttebiû sebîlenâ velnahmil hatâyâkum, ve mâ hum bi hâmilîne min hatâyâhum min şey’(şey’in), innehum le kâzibûn(kâzibûne).",
+      "verseMeaning": "İnkâr edenler, iman edenlere dediler ki: \"Bizim yolumuzu izleyin, sizin günahlarınızı biz taşırız.\" Oysa onlar, iman edenlerin günahlarından hiçbir şeyin taşıyıcısı değillerdir. Gerçek şu ki, onlar tamamen yalancıdırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٰٔت",
+      "sura": 7,
+      "ayah": 161,
+      "formInAyah": "خَطِيئَاتِكُمْ",
+      "transliteration": "ḣaTiyātikum",
+      "gloss": "hatalarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قِيلَ لَهُمُ اسْكُنُوا هَٰذِهِ الْقَرْيَةَ وَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا حِطَّةٌ وَادْخُلُوا الْبَابَ سُجَّدًا نَغْفِرْ لَكُمْ خَطِيئَاتِكُمْ ۚ سَنَزِيدُ الْمُحْسِنِينَ",
+      "verseTransliteration": "Ve iz kîle lehumuskunû hâzihil karyete ve kulû minhâ haysu şi’tum ve kûlû hıttatun vedhulûl bâbe succeden nagfir lekum hatîâtikum, senezîdul muhsinîn(muhsinîne).",
+      "verseMeaning": "Onlara şöyle denildi: Şu kentte oturun, orada istediğiniz yerden yiyin. ´Affet´ diye yalvarın; kapıdan da secde ederek girin ki, hatalarınızı bağışlayalım. Güzel düşünüp güzel iş yapanlara daha fazlasını da vereceğiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَطِي َٰٔت",
+      "sura": 71,
+      "ayah": 25,
+      "formInAyah": "خَطِيئَاتِهِمْ",
+      "transliteration": "ḣaTiyātihim",
+      "gloss": "hatalarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+      "verseTransliteration": "Mimmâ hatîâtihim ugrikû fe udhılû nâran fe lem yecıdû lehum min dûnillâhi ensârâ(ensâren).",
+      "verseMeaning": "Hataları yüzündendir ki boğuldular, ateşe atıldılar. Kendileri için, Allah dışında yardımcılar bulamadılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰطِ ِٔين",
+      "sura": 12,
+      "ayah": 29,
+      "formInAyah": "الْخَاطِئِينَ",
+      "transliteration": "l-ḣāTiīne",
+      "gloss": "günahkarlardan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَاسْتَغْفِرِي لِذَنْبِكِ ۖ إِنَّكِ كُنْتِ مِنَ الْخَاطِئِينَ",
+      "verseTransliteration": "Yûsufu a’rıd an hâzâ vestagfirî li zenbik(zenbiki), inneki kunti minel hâtıîn(hâtıîne).",
+      "verseMeaning": "\"Yûsuf, sakın bundan bahsetme. Kadın, sen de günahının affını dile. Sen, gerçekten günahkârlardan oldun.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰطِ ِٔين",
+      "sura": 12,
+      "ayah": 91,
+      "formInAyah": "لَخَاطِئِينَ",
+      "transliteration": "leḣāTiīne",
+      "gloss": "suç işlemiştik",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِنْ كُنَّا لَخَاطِئِينَ",
+      "verseTransliteration": "Kâlû tallâhi lekad âserekellâhu aleynâ ve in kunnâ le hâtıîn(hâtıîne).",
+      "verseMeaning": "Dediler: \"Vallahi, Allah seni bizden üstün kıldı/seni bize tercih etti. Doğrusu biz de büyük suç işlemiştik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰطِ ِٔين",
+      "sura": 12,
+      "ayah": 97,
+      "formInAyah": "خَاطِئِينَ",
+      "transliteration": "ḣāTiīne",
+      "gloss": "günah işledik",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ",
+      "verseTransliteration": "Kâlû yâ ebânestagfir lenâ zunûbenâ innâ kunnâ hâtıîn(hâtıîne).",
+      "verseMeaning": "Oğulları dediler ki: \"Ey babamız! Günahlarımızın affını dile. Gerçekten biz hata işledik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰطِ ِٔين",
+      "sura": 28,
+      "ayah": 8,
+      "formInAyah": "خَاطِئِينَ",
+      "transliteration": "ḣāTiīne",
+      "gloss": "yanılıyorlardı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ",
+      "verseTransliteration": "Feltekatahû âlu fir’avne li yekûne lehum aduvven ve hazenâ(hazenen), inne fir’avne ve hâmâne ve cunûdehumâ kânû hâtıîn(hâtıîne).",
+      "verseMeaning": "Nihayet, Firavun ailesi onu kayıp bir şey olarak bulup aldı. O, kendileri için bir düşman ve tasa olacaktı. Gerçek olan şu ki Firavun, Hâman ve bunların orduları yanlış yoldaydılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰطِ ِٔين",
+      "sura": 69,
+      "ayah": 37,
+      "formInAyah": "الْخَاطِئُونَ",
+      "transliteration": "l-ḣāTiūne",
+      "gloss": "hata işleyenlerden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ",
+      "verseTransliteration": "Lâ ye’kuluhu illel hâtiûn(hâtiûne).",
+      "verseMeaning": "\"Ki o atık suyu sadece günahkârlar yer.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xTA"
+}

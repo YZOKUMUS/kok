@@ -1,0 +1,519 @@
+{
+  "id": "wzn",
+  "latinName": "Vav-Za-Nun",
+  "lettersArabic": "و ز ن",
+  "meanings": [
+    "Tartmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 23,
+  "lemmas": [
+    {
+      "formArabic": "مَّوْزُون",
+      "count": 1
+    },
+    {
+      "formArabic": "مِيزَان",
+      "count": 16
+    },
+    {
+      "formArabic": "وَزْن",
+      "count": 3
+    },
+    {
+      "formArabic": "وَّزَنُ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّوْزُون",
+      "sura": 15,
+      "ayah": 19,
+      "formInAyah": "مَوْزُونٍ",
+      "transliteration": "mevzūnin",
+      "gloss": "ölçülü mütenasib",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ شَيْءٍ مَوْزُونٍ",
+      "verseTransliteration": "Vel arda medednâhâ ve elkaynâ fîhâ revâsiye ve enbetnâ fîhâ min kulli şey’in mevzûn(mevzûnin).",
+      "verseMeaning": "Yeri yayıp döşedik, ona kuvvetli dağlar diktik ve içinde ölçülü/ahenkli her şeyden bitirdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 6,
+      "ayah": 152,
+      "formInAyah": "وَالْمِيزَانَ",
+      "transliteration": "velmīzāne",
+      "gloss": "ve tartıyı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfûl keyle vel mîzâne bil kıst(kıstı), lâ nukellifu nefsen illâ vus’ahâ ve izâ kultum fa’dilû ve lev kâne zâ kurbâ, ve bi ahdillâhi evfû, zâlikum vassâkum bihî leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "\"Yetimin malına yaklaşmayın! Ancak rüştüne erişinceye kadar en güzel yolla ilgilenme hali müstesna. Ölçme ve tartmayı tam bir dürüstlükle yerine getirin. Hiç kimseye yaratılış kapasitesinin üstünde yükümlülük getirmiyoruz. Konuştuğunuz zaman, yakınlarınız/aleyhine de olsa, adaleti gözetin. Ve Allah´a verdiğiniz söze sadık kalın. Düşünüp öğüt alasınız diye O size bunları önerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 7,
+      "ayah": 8,
+      "formInAyah": "مَوَازِينُهُ",
+      "transliteration": "mevāzīnuhu",
+      "gloss": "tartıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ۚ فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Vel veznu yevme izinil hakk(hakku), fe men sekulet mevâzînuhu fe ulâike humul muflihûn(muflihûne).",
+      "verseMeaning": "O gün, iyi ve kötüyü ayıran ölçü haktır. Artık kimin ölçülüp tartılacak şeyleri ağır basarsa kurtuluşa erenler onlar olacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 7,
+      "ayah": 9,
+      "formInAyah": "مَوَازِينُهُ",
+      "transliteration": "mevāzīnuhu",
+      "gloss": "tartıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ بِمَا كَانُوا بِآيَاتِنَا يَظْلِمُونَ",
+      "verseTransliteration": "Ve men haffet mevâzînuhu fe ulâikellezîne hasirû enfusehum bimâ kânû biâyâtinâ yazlimûn(yazlimûne).",
+      "verseMeaning": "Ölçülüp tartılacak şeyleri hafif kalanlara gelince, işte onlar, ayetlerimize karşı zalimce davranışlar sergilemiş oldukları için, öz benliklerini hüsrana itmiş olacaklar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 7,
+      "ayah": 85,
+      "formInAyah": "وَالْمِيزَانَ",
+      "transliteration": "velmīzāne",
+      "gloss": "ve tartıyı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا ۗ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ قَدْ جَاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ ۖ فَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Ve ilâ medyene ehâhum şuaybâ kâle yâ kavmi’budûllâhe mâ lekum min ilâhin gayruhu kad câetkum beyyinetun min rabbikum fe evfûl keyle vel mîzâne ve lâ tebhasûn nâse eşyâehum ve lâ tufsidû fîl ardı ba’de ıslahıhâ zâlikum hayrun lekum in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Medyen´e de kardeşleri Şuayb´ı gönderdik. Şöyle dedi: \"Ey toplumum! Allah´a kulluk edin. Size O´ndan başka ilah yok! Size Rabbinizden açık bir kanıt gelmiştir. Ölçü ve tartı da dürüst davranın. İnsanların eşyasına el koymaya tenezzül etmeyin. Yeryüzünde, orası barışa kavuştuktan sonra bozgun çıkarmayın. Eğer inanan insanlarsanız bu sizin için daha hayırlıdır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 11,
+      "ayah": 84,
+      "formInAyah": "وَالْمِيزَانَ",
+      "transliteration": "velmīzāne",
+      "gloss": "ve tartıyı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا ۚ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ وَلَا تَنْقُصُوا الْمِكْيَالَ وَالْمِيزَانَ ۚ إِنِّي أَرَاكُمْ بِخَيْرٍ وَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُحِيطٍ",
+      "verseTransliteration": "Ve ilâ medyene ehâhum şuaybâ(şuayben), kâle yâ kavmi’budullâhe mâ lekum min ilâhin gayruh(gayruhu), ve lâ tenkusûl mikyâle vel mîzâne innî erâkum bi hayrin ve innî ehâfu aleykum azâbe yevmin muhît(muhîtin).",
+      "verseMeaning": "Medyen´e, kardeşleri Şuayb´ı göndermiştik. Dedi ki: \"Ey toplumum! Allah´a kulluk edin. O´ndan başka tanrınız yok sizin. Eksik ölçüp yanlış tartmayın. Sizi nimet, bereket içinde görüyorum, ama sizin için sarıp kuşatan bir günün azabından da korkuyorum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 11,
+      "ayah": 85,
+      "formInAyah": "وَالْمِيزَانَ",
+      "transliteration": "velmīzāne",
+      "gloss": "ve tartıyı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَا قَوْمِ أَوْفُوا الْمِكْيَالَ وَالْمِيزَانَ بِالْقِسْطِ ۖ وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+      "verseTransliteration": "Ve yâ kavmi evfûl mikyâle vel mîzâne bil kıstı ve lâ tebhasûn nâse eşyâehum ve lâ ta’sev fîl ardı mufsidîn(mufsidîne).",
+      "verseMeaning": "\"Ey toplumum! Ölçüyü ve tartıyı tam bir dürüstlükle yapın. İnsanların eşyalarını tırtıklamayın. Yeryüzünde bozgunculuk yaparak dolaşmayın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 21,
+      "ayah": 47,
+      "formInAyah": "الْمَوَازِينَ",
+      "transliteration": "l-mevāzīne",
+      "gloss": "terazileri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
+      "verseTransliteration": "Ve nedaul mevâzînel kısta li yevmil kıyâmeti fe lâ tuzlemu nefsun şey’â(şey’en) ve in kâne miskâle habbetin min hardelin eteynâ bihâ, ve kefâ binâ hâsibîn(hâsibîne).",
+      "verseMeaning": "Kıyamet günü için adalet terazilerini kuracağız/adaleti terazilere koyacağız. Hiç kimseye zerre kadar zulüm edilmeyecek. Hardal tanesi kadar birşey olsa onu ortaya getiririz. Hesapçılar olarak biz yeteriz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 23,
+      "ayah": 102,
+      "formInAyah": "مَوَازِينُهُ",
+      "transliteration": "mevāzīnuhu",
+      "gloss": "tartıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Fe men sekulet mevâzînuhu fe ulâike humul muflihûn(muflihûne).",
+      "verseMeaning": "Artık kimin tartıları ağır gelirse onlar kurtulmuş olacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 23,
+      "ayah": 103,
+      "formInAyah": "مَوَازِينُهُ",
+      "transliteration": "mevāzīnuhu",
+      "gloss": "tartıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ",
+      "verseTransliteration": "Ve men haffet mevâzînuhu fe ulâikellezîne hasirû enfusehum fî cehenneme hâlidûn(hâlidûne).",
+      "verseMeaning": "Tartıları hafif gelenler ise kendilerini kayba uğratanlar, sürekli cehennemde kalanlar olacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 42,
+      "ayah": 17,
+      "formInAyah": "وَالْمِيزَانَ",
+      "transliteration": "velmīzāne",
+      "gloss": "ve ölçüyü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ",
+      "verseTransliteration": "Allahullezî enzelel kitâbe bil hakkı vel mîzân(mîzâne) ve mâ yudrîke lealles sâate karîb(karîbun).",
+      "verseMeaning": "Gerçeğe ilişkin Kitap´ı ve adalet ölçüsünü indiren o Allah´tır. Nereden bileceksin, belki de kıyamet saati çok yakındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 55,
+      "ayah": 7,
+      "formInAyah": "الْمِيزَانَ",
+      "transliteration": "l-mīzāne",
+      "gloss": "mizanı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+      "verseTransliteration": "Ves semâe refeahâ ve vedaal mîzân(mîzâne).",
+      "verseMeaning": "Ve gök. Yükseltti onu. Ve koydu şaşmaz ölçüyü, mizanı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 55,
+      "ayah": 8,
+      "formInAyah": "الْمِيزَانِ",
+      "transliteration": "l-mīzāni",
+      "gloss": "tartıda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+      "verseTransliteration": "Ellâ tatgav fîl mîzân(mîzâni).",
+      "verseMeaning": "Azgınlık etmeyin ölçü ve tartıda, saptırmayın mizanı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 55,
+      "ayah": 9,
+      "formInAyah": "الْمِيزَانَ",
+      "transliteration": "l-mīzāne",
+      "gloss": "terazide",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+      "verseTransliteration": "Ve ekîmul vezne bil kıstı ve lâ tuhsırûl mîzân(mîzâne).",
+      "verseMeaning": "Ölçüyü titizlikle, adaletle koruyun ve hüsrana araç yapmayın mizanı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 57,
+      "ayah": 25,
+      "formInAyah": "وَالْمِيزَانَ",
+      "transliteration": "velmīzāne",
+      "gloss": "ve ölçüyü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+      "verseTransliteration": "Lekad erselnâ rusulenâ bil beyyinâti ve enzelnâ meahumul kitâbe vel mîzâne li yekûmen nâsu bil kıst(kıstı), ve enzelnel hadîde fîhi be’sun şedîdun ve menâfiu lin nâsi ve li ya’lemallâhu men yensuruhu ve rusulehu bil gayb(gaybi), innellâhe kavîyyun azîz(azîzun).",
+      "verseMeaning": "Yemin olsun, biz, resullerimizi açık seçik delillerle gönderdik ve onlarla birlikte Kitap´ı ve ölçüyü de indirdik ki, insanlar adaleti ayakta tutsunlar/adaletle doğrulsunlar. Ve demiri de indirdik. Onda zorlu bir kuvvet ve insanlar için birçok yarar vardır. Allah bu sayede, kendisine ve resullerine, gayba inanarak kimin yardım edeceğini bilecektir. Allah Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 101,
+      "ayah": 6,
+      "formInAyah": "مَوَازِينُهُ",
+      "transliteration": "mevāzīnuhu",
+      "gloss": "tartıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+      "verseTransliteration": "Fe emmâ men sekulet mevâzînuh(mevâzînuhu).",
+      "verseMeaning": "İşte o gün, tartıları ağır basan kişi,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مِيزَان",
+      "sura": 101,
+      "ayah": 8,
+      "formInAyah": "مَوَازِينُهُ",
+      "transliteration": "mevāzīnuhu",
+      "gloss": "tartıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "verseTransliteration": "Ve emmâ men haffet mevâzînuh(mevâzînuhu).",
+      "verseMeaning": "Tartıları hafif çekeninse,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَزْن",
+      "sura": 7,
+      "ayah": 8,
+      "formInAyah": "وَالْوَزْنُ",
+      "transliteration": "velveznu",
+      "gloss": "ve tartı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ۚ فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Vel veznu yevme izinil hakk(hakku), fe men sekulet mevâzînuhu fe ulâike humul muflihûn(muflihûne).",
+      "verseMeaning": "O gün, iyi ve kötüyü ayıran ölçü haktır. Artık kimin ölçülüp tartılacak şeyleri ağır basarsa kurtuluşa erenler onlar olacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَزْن",
+      "sura": 18,
+      "ayah": 105,
+      "formInAyah": "وَزْنًا",
+      "transliteration": "veznen",
+      "gloss": "bir terazi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ وَلِقَائِهِ فَحَبِطَتْ أَعْمَالُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ الْقِيَامَةِ وَزْنًا",
+      "verseTransliteration": "Ulâikellezîne keferû bi âyâti rabbihim ve likâihî fe habitat a’mâluhum fe lâ nukîmu lehum yevmel kıyameti veznâ(veznen).",
+      "verseMeaning": "Bunlar, Rablerinin ayetlerini ve O´na ulaşmayı inkâr etmişler de bütün amelleri boşa çıkmıştır. Bu yüzden kıyamet günü onlar için hiçbir ölçü tutturmayız/onlara hiçbir değer vermeyiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَزْن",
+      "sura": 55,
+      "ayah": 9,
+      "formInAyah": "الْوَزْنَ",
+      "transliteration": "l-vezne",
+      "gloss": "tartıyı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+      "verseTransliteration": "Ve ekîmul vezne bil kıstı ve lâ tuhsırûl mîzân(mîzâne).",
+      "verseMeaning": "Ölçüyü titizlikle, adaletle koruyun ve hüsrana araç yapmayın mizanı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَّزَنُ",
+      "sura": 17,
+      "ayah": 35,
+      "formInAyah": "وَزِنُوا",
+      "transliteration": "ve zinū",
+      "gloss": "tartın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+      "verseTransliteration": "Ve evfûl keyle izâ kiltum vezinû bil kıstâsil mustekîm(mustekîmi), zâlike hayrun ve ahsenu te’vîlâ(te’vîlen).",
+      "verseMeaning": "Ölçtüğünüz zaman tam ve dürüst ölçün. Hilesiz teraziyle tartın. Bu, hem hayırlı hem de sonuç bakımından güzeldir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَّزَنُ",
+      "sura": 26,
+      "ayah": 182,
+      "formInAyah": "وَزِنُوا",
+      "transliteration": "ve zinū",
+      "gloss": "tartın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ",
+      "verseTransliteration": "Vezinû bil kıstâsil mustekîm(mustekîmi).",
+      "verseMeaning": "\"Doğru düzgün terazi ile tartın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَّزَنُ",
+      "sura": 83,
+      "ayah": 3,
+      "formInAyah": "وَزَنُوهُمْ",
+      "transliteration": "vezenūhum",
+      "gloss": "tarttıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
+      "verseTransliteration": "Ve izâ kâlûhum ev vezenûhum yuhsirûn(yuhsirûne).",
+      "verseMeaning": "Onlara vermek üzere tartıp ölçtükleri zaman, eksiltmeye giderler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wzn"
+}

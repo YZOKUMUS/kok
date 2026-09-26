@@ -1,0 +1,203 @@
+{
+  "id": "xms",
+  "latinName": "Kh-Mim-Sin",
+  "lettersArabic": "خ م س",
+  "meanings": [
+    "Take ONE from FIVE (as in khamasa al-qawma; he took the fifth part of the possessions of the people), be the fifth of the people (to make five by adding oneself to the number), be fifth in a race, five cornered/five angled/pentaganol, five cubits in length."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 8,
+  "lemmas": [
+    {
+      "formArabic": "خُمُس",
+      "count": 1
+    },
+    {
+      "formArabic": "خَمْسَة",
+      "count": 3
+    },
+    {
+      "formArabic": "خَمْسِين",
+      "count": 2
+    },
+    {
+      "formArabic": "خَٰمِسَة",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خُمُس",
+      "sura": 8,
+      "ayah": 41,
+      "formInAyah": "خُمُسَهُ",
+      "transliteration": "ḣumusehu",
+      "gloss": "beşte biri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ وَمَا أَنْزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Va´lemû ennemâ ganimtum min şey´in fe enne lillâhi humusehu ve lir resûli ve li zîl kurbâ vel yetâmâ vel mesâkîni vebnis sebîli in kuntum âmentum billâhi ve mâ enzelnâ alâ abdinâ yevmel furkâni yevmettekal cem´ân(cem´âni), vallâhu alâ kulli şey´in kadîr(kadîrun).",
+      "verseMeaning": "Doğru ile yanlışın ayrılış günü, iki topluluğun karşılaştığı gün, kulumuza indirmiş olduğumuza inanıyorsanız şunu bilin: Ganimet/kazanç olarak elde ettiğiniz şeylerin beşte biri Allah´a, resule, yakınlara, yetimlere, yoksullara ve yolda kalmışa aittir. Allah herşeye kadirdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَمْسَة",
+      "sura": 3,
+      "ayah": 125,
+      "formInAyah": "بِخَمْسَةِ",
+      "transliteration": "biḣamseti",
+      "gloss": "beş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بَلَىٰ ۚ إِنْ تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُمْ مِنْ فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ آلَافٍ مِنَ الْمَلَائِكَةِ مُسَوِّمِينَ",
+      "verseTransliteration": "Belâ in tasbirû ve tettekû ve ye’tûkum min fevrihim hâzâ yumdidkum rabbukum bi hamseti âlâfin minel melâiketi musevvimîn(musevvimîne).",
+      "verseMeaning": "İş, sanıldığı gibi değildir. Onlar, hemen şu anda üstünüze gelseler bile, eğer siz sabreder ve korunursanız, Rabbiniz sizi, üzerlerine nişan vurulmuş beş bin melekle destekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَمْسَة",
+      "sura": 18,
+      "ayah": 22,
+      "formInAyah": "خَمْسَةٌ",
+      "transliteration": "ḣamsetun",
+      "gloss": "beştir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُلْ رَبِّي أَعْلَمُ بِعِدَّتِهِمْ مَا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا",
+      "verseTransliteration": "Se yekûlûne selâsetun râbiuhum kelbuhum, ve yekûlûne hamsetun sâdisuhum kelbuhum recmen bil gayb(gaybi), ve yekûlûne seb´atun ve sâminuhum kelbuhum, kul rabbî a´lemu bi ıddetihim mâ ya´lemuhum illâ kalîl(kalîlun), fe lâ tumâri fîhim illâ mirâen zâhirâ(zâhiren), ve lâ testefti fîhim minhum ehâdâ(ehâden).",
+      "verseMeaning": "\"Üç kişiydiler, dördüncüleri köpekleriydi.\" diyecekler. Şunu da diyecekler: \"Beş kişiydiler, altıncıları köpekleriydi.\" Gaybı taşlamaktır/bilinmeyen şey hakkında atıp tutmaktır bu. Şöyle de derler: \"Yedi kişidirler, sekizincileri de köpekleridir.\" De ki: \"Onların sayısını Rabbim daha iyi bilir. Onlar hakkında bilgisi olan, çok azdır.\" O halde, onlar hakkında yüzeysel bir tartışma dışında hiçbir çekişmeye girme. Onlar hakkında, konuşup duranlardan hiç kimseye bir şey sorma."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَمْسَة",
+      "sura": 58,
+      "ayah": 7,
+      "formInAyah": "خَمْسَةٍ",
+      "transliteration": "ḣamsetin",
+      "gloss": "beş kişi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِنْ ذَٰلِكَ وَلَا أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا ۖ ثُمَّ يُنَبِّئُهُمْ بِمَا عَمِلُوا يَوْمَ الْقِيَامَةِ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "E lem tere ennellâhe ya’lemu mâ fîs semâvâti ve mâ fîl ard(ardı), mâ yekûnu min necvâ selâsetin illâ huve râbiuhum ve lâ hamsetin illâ huve sâdisuhum ve lâ ednâ min zâlike ve lâ eksere illâ huve me’ahum eyne mâ kânû, summe yunebbiuhum bi mâ amilû yevmel kıyâmeh(kıyâmeti), innellâhe bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Görmez misin ki Allah, göklerde olanları da yeryüzünde olanları da bilir. Üç kişi, aralarında fısıldaşmaya görsün, dördüncüleri O´dur; beş kişi fısıldaşmaya görsün altıncıları O´dur. Bundan az da olsalar çok da olsalar, O mutlaka onlarla beraberdir; nerede bulunurlarsa bulunsunlar. Sonra onlara, yapıp ettiklerini kıyamet günü haber verecektir. Allah her şeyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَمْسِين",
+      "sura": 29,
+      "ayah": 14,
+      "formInAyah": "خَمْسِينَ",
+      "transliteration": "ḣamsīne",
+      "gloss": "elli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
+      "verseTransliteration": "Ve lekad erselnâ nûhan ilâ kavmihî, fe lebise fîhim elfe senetin illâ hamsîne âmâ(âmen), fe ehazehumut tûfânu ve hum zâlimûn(zâlimûne).",
+      "verseMeaning": "Yemin olsun, biz Nûh´u toplumuna gönderdik de o, onların arasında bin yıldan elli yıl eksik kaldı. Sonunda onları tufan yakaladı. Çünkü zalimlerdi onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَمْسِين",
+      "sura": 70,
+      "ayah": 4,
+      "formInAyah": "خَمْسِينَ",
+      "transliteration": "ḣamsīne",
+      "gloss": "elli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "verseTransliteration": "Ta´rucul melâiketu ver rûhu ileyhi fî yevmin kâne mikdaruhu hamsîne elfe seneh(senetin).",
+      "verseMeaning": "Melekler ve Rûh, miktarı ellibin yıl olan bir günde yükselirler O´na."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰمِسَة",
+      "sura": 24,
+      "ayah": 7,
+      "formInAyah": "وَالْخَامِسَةُ",
+      "transliteration": "velḣāmisetu",
+      "gloss": "beşinci defasında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالْخَامِسَةُ أَنَّ لَعْنَتَ اللَّهِ عَلَيْهِ إِنْ كَانَ مِنَ الْكَاذِبِينَ",
+      "verseTransliteration": "Vel hâmisetu enne la’netallâhi aleyhi in kâne minel kâzibîn(kâzibîne).",
+      "verseMeaning": "Beşincide, eğer yalancılardansa, Allah´ın laneti üzerine olsun diye söz söyler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَٰمِسَة",
+      "sura": 24,
+      "ayah": 9,
+      "formInAyah": "وَالْخَامِسَةَ",
+      "transliteration": "velḣāmisete",
+      "gloss": "beşinci defa da",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِنْ كَانَ مِنَ الصَّادِقِينَ",
+      "verseTransliteration": "Vel hâmisete enne gadaballâhi aleyhâ in kâne mines sâdikîn(sâdikîne).",
+      "verseMeaning": "Bu durumda kadının beşinci sözü, suçlayan erkek doğru söyleyenlerdense, \"Allah´ın gazabının kendisi üzerine olması\"nı söylemekten ibarettir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xms"
+}

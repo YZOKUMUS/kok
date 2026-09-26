@@ -1,0 +1,113 @@
+{
+  "id": "sxT",
+  "latinName": "Sin-Kh-Ta",
+  "lettersArabic": "س خ ط",
+  "meanings": [
+    "Kızmak, hiddetlenmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "أَسْخَطَ",
+      "count": 1
+    },
+    {
+      "formArabic": "سَخَط",
+      "count": 1
+    },
+    {
+      "formArabic": "سَخِطَ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَسْخَطَ",
+      "sura": 47,
+      "ayah": 28,
+      "formInAyah": "أَسْخَطَ",
+      "transliteration": "esḣaTa",
+      "gloss": "kızdıran",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ",
+      "verseTransliteration": "Zâlike bi ennehumuttebeû mâ eshatallâhe ve kerihû rıdvânehu fe ahbeta a’mâlehum.",
+      "verseMeaning": "Olacak olan budur! Çünkü onlar, Allah´ı öfkelendiren şeylerin peşine düştüler, O´nun hoşnutluğundan tiksindiler; sonunda Allah bütün amellerini boşa çıkardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَخَط",
+      "sura": 3,
+      "ayah": 162,
+      "formInAyah": "بِسَخَطٍ",
+      "transliteration": "biseḣaTin",
+      "gloss": "hışmına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَنْ بَاءَ بِسَخَطٍ مِنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ ۚ وَبِئْسَ الْمَصِيرُ",
+      "verseTransliteration": "E femenittebea rıdvânallâhi ke men bâe bi sehatin minallâhi ve me’vâhu cehennem(cehennemu), ve bi’sel masîr(masîru).",
+      "verseMeaning": "Allah´ın hoşnutluğunu izleyen kişi, Allah´ın gazabına uğrayan ve barınağı cehennem olan kişiyle aynı mıdır? Ne kötü varış yeridir o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَخِطَ",
+      "sura": 5,
+      "ayah": 80,
+      "formInAyah": "سَخِطَ",
+      "transliteration": "seḣiTa",
+      "gloss": "gazabetmiştir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "تَرَىٰ كَثِيرًا مِنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُوا ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنْفُسُهُمْ أَنْ سَخِطَ اللَّهُ عَلَيْهِمْ وَفِي الْعَذَابِ هُمْ خَالِدُونَ",
+      "verseTransliteration": "Terâ kesîran minhum yetevellevnellezîne keferû lebi’se mâ kaddemet lehum enfusuhum en sehıtallâhu aleyhim ve fîl azâbi hum hâlidûn(hâlidûne).",
+      "verseMeaning": "Onlardan birçoğunun, küfre sapanlarla dostluk kurduklarını görürsün. Öz benliklerinin onlar için hazırlayıp sunduğu şey gerçekten çok kötü! Allah, üzerlerine gazap indirmiştir. Azap içinde de onlar sürekli kalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سَخِطَ",
+      "sura": 9,
+      "ayah": 58,
+      "formInAyah": "يَسْخَطُونَ",
+      "transliteration": "yesḣaTūne",
+      "gloss": "kızarlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي الصَّدَقَاتِ فَإِنْ أُعْطُوا مِنْهَا رَضُوا وَإِنْ لَمْ يُعْطَوْا مِنْهَا إِذَا هُمْ يَسْخَطُونَ",
+      "verseTransliteration": "Ve minhum men yelmizuke fis sadakât(sadakâti), fe in u’tû minhâ radû ve in lem yu’tav minhâ îzâ hum yeshatûn(yeshatûne).",
+      "verseMeaning": "İçlerinden bir kısmı da sadakalar konusunda sana laf dokundurur. Ondan kendilerine verilmişse memnun olurlar. Verilmemişse hemen öfkelenirler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sxT"
+}

@@ -1,0 +1,939 @@
+{
+  "id": "H$r",
+  "latinName": "Ha-Şin-Ra",
+  "lettersArabic": "ح ش ر",
+  "meanings": [
+    "Toplamak, kaldırmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 43,
+  "lemmas": [
+    {
+      "formArabic": "حَشَرَ",
+      "count": 37
+    },
+    {
+      "formArabic": "حَشْر",
+      "count": 2
+    },
+    {
+      "formArabic": "حَٰشِرِين",
+      "count": 3
+    },
+    {
+      "formArabic": "مَحْشُورَة",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 2,
+      "ayah": 203,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "toplanacaksınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ ۚ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ ۚ لِمَنِ اتَّقَىٰ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Vezkurûllâhe fî eyyâmin ma’dûdât(ma’dûdâtin), fe men teaccele fî yevmeyni fe lâ isme aleyh(aleyhi), ve men teahhara fe lâ isme aleyhi, li menittekâ vettekûllâhe va’lemû ennekum ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Allah´ı sayılı günlerde anın. Kim hemen iki gün içinde işini bitirirse ona günah yoktur. Kim de bunu geciktirir-ertelerse, sakınıp korunduğu takdirde ona da günah yoktur. Allah´tan korkun ve bilin ki, siz O´nun huzurunda haşredileceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 3,
+      "ayah": 12,
+      "formInAyah": "وَتُحْشَرُونَ",
+      "transliteration": "ve tuHşerūne",
+      "gloss": "ve sürüleceksiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لِلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Kul lillezîne keferû se tuglebûne ve tuhşerûne ilâ cehennem(cehenneme), ve bi’sel mihâd(mihâdu).",
+      "verseMeaning": "De o küfre sapanlara: \"Yenileceksiniz ve cehenneme sürüleceksiniz. Ne kötü döşektir o!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 3,
+      "ayah": 158,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "götürüleceksiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَئِنْ مُتُّمْ أَوْ قُتِلْتُمْ لَإِلَى اللَّهِ تُحْشَرُونَ",
+      "verseTransliteration": "Ve lein muttum ev kutiltum le ilâllâhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Ölür yahut öldürülürseniz elbette ki Allah´a götürüleceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 4,
+      "ayah": 172,
+      "formInAyah": "فَسَيَحْشُرُهُمْ",
+      "transliteration": "feseyeHşuruhum",
+      "gloss": "bilsin ki O toplayacaktır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ ۚ وَمَنْ يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا",
+      "verseTransliteration": "Len yestenkifel mesîhu en yekûne abden lillâhi ve lel melâiketul mukarrebûn(mukarrebûne) ve men yestenkif an ibâdetihî ve yestekbir fe se yahşuruhum ileyhi cemîâ(cemîan).",
+      "verseMeaning": "Ne Mesih Allah´ın bir kulu olmaktan çekinir ne de Allah´a yakınlaştırılmış melekler. Allah´a kulluk ve ibadetten çekinerek kibre saplanan bilsin ki, Allah onların tümünü huzurunda haşredecekir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 5,
+      "ayah": 96,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "toplanacaksınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ حُرُمًا ۗ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Uhille lekum saydul bahri ve taâmuhu metâan lekum ve lis seyyârah(seyyârati), ve hurrime aleykum saydul berri mâ dumtum hurumâ(hurumen) vettekullâhellezî ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Hem size hem de yolculara bir geçimlik olarak deniz avı yapmak ve onu yemek size helal kılındı. Fakat ihramlı olduğunuz sürece karada avlanmak size haram edilmiştir. Huzurunda haşredileceğiniz Allah´tan korkun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 6,
+      "ayah": 22,
+      "formInAyah": "نَحْشُرُهُمْ",
+      "transliteration": "neHşuruhum",
+      "gloss": "topladığımız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+      "verseTransliteration": "Ve yevme nahşuruhum cemîan summe nekûlu lillezîne eşrakû eyne şurekâukumullezîne kuntum tez’umûn(tez’umûne).",
+      "verseMeaning": "Gün olur, onları bir araya toplayıp haşrederiz. Sonra, şirke batanlara sorarız: \"Nerededir o bir şey zannedip durduğunuz ortaklarınız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 6,
+      "ayah": 38,
+      "formInAyah": "يُحْشَرُونَ",
+      "transliteration": "yuHşerūne",
+      "gloss": "toplanacaklardır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّا أُمَمٌ أَمْثَالُكُمْ ۚ مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+      "verseTransliteration": "Ve mâ min dâbbetin fîl ardı ve lâ tâirin yatîru bi cenâhayhi illâ umemun emsâlukum, mâ farratnâ fîl kitâbi min şey’in summe ilâ rabbihim yuhşerûn(yuhşerûne).",
+      "verseMeaning": "Yeryüzünde debelenen hiçbir canlı, iki kanadıyla uçan hiçbir kuş istisna olmamak üzere hepsi sizin gibi ümmetlerdir. Biz bu Kitap´ta, herhangi birşeyi ne eksik bıraktık ne fazla yaptık. Onlar, sonunda Rableri önünde haşredilirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 6,
+      "ayah": 51,
+      "formInAyah": "يُحْشَرُوا",
+      "transliteration": "yuHşerū",
+      "gloss": "toplanacaklardır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنْذِرْ بِهِ الَّذِينَ يَخَافُونَ أَنْ يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُمْ مِنْ دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَعَلَّهُمْ يَتَّقُونَ",
+      "verseTransliteration": "Ve enzir bihillezîne yehâfûne en yuhşerû ilâ rabbihimleyse lehum min dûnihî veliyyun ve lâ şefîun leallehum yettekûn(yettekûne).",
+      "verseMeaning": "Rablerinin huzurunda haşredileceklerinden korkanları, o vahiy ile uyar ki korunabilsinler. Onların O´ndan başka ne bir dostu vardır ne de şefaatçısı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 6,
+      "ayah": 72,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "varıp toplanacağınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنْ أَقِيمُوا الصَّلَاةَ وَاتَّقُوهُ ۚ وَهُوَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Ve en ekîmûs salâte vettekûh(vettekûhu), ve huvellezî ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Ve \"Namazı kılın, O´ndan sakının!\" diye emrolunduk. Huzurunda haşrolunacağınız O´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 6,
+      "ayah": 111,
+      "formInAyah": "وَحَشَرْنَا",
+      "transliteration": "ve Haşernā",
+      "gloss": "ve toplayıp getirseydik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَا كَانُوا لِيُؤْمِنُوا إِلَّا أَنْ يَشَاءَ اللَّهُ وَلَٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+      "verseTransliteration": "Ve lev ennenâ nezzelnâ ileyhimul melâikete ve kellemehumulmevtâ ve haşernâ aleyhim kulle şey’in kubulen mâ kânû li yu’minû illâ en yeşâallâhu ve lâkinne ekserehum yechelûn(yechelûne).",
+      "verseMeaning": "Eğer biz onlara melekleri indirseydik, ölüler kendileriyle konuşsaydı ve herşeyi toplayıp karşılarına dikseydik, Allah´ın dilemesi dışında, yine de inanmazlardı. Ne var ki, çokları cehalet sergiliyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 6,
+      "ayah": 128,
+      "formInAyah": "يَحْشُرُهُمْ",
+      "transliteration": "yeHşuruhum",
+      "gloss": "bir araya toplayacağı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَا مَعْشَرَ الْجِنِّ قَدِ اسْتَكْثَرْتُمْ مِنَ الْإِنْسِ ۖ وَقَالَ أَوْلِيَاؤُهُمْ مِنَ الْإِنْسِ رَبَّنَا اسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَا أَجَلَنَا الَّذِي أَجَّلْتَ لَنَا ۚ قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا إِلَّا مَا شَاءَ اللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "verseTransliteration": "Ve yevme yahşuruhum cemîa(cemîan), yâ ma’şerel cinni kadisteksertum minel ins(insi) ve kâle evliyauhum minel insi rabbenestemtea ba’dunâ biba’dın ve belagnâ ecelenellezî eccelte lenâ, kâlen nâru mesvâkum hâlidîne fîhâ illâ mâ şâallâhu, inne rabbeke hakîmun alîm(alîmun).",
+      "verseMeaning": "Gün olur şöyle diyerek onları huzurunda toplar: \"Ey cinler/görünmez varlıklar topluluğu! Şu insanlara gerçekten çok ettiniz/insanların birçoğuna göz diktiniz.\" Onların insanlardan olan dostları şöyle derler: \"Rabbimiz, kimimiz kimimizden yararlanmıştı. Bizim için belirlediğin sürenin sonuna geldik.\" Buyurur ki: \"Barınağınız ateştir. Dilediğim zamanlar hariç orada süreklisiniz.\" Senin Rabbin Hakîm´dir, Alîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 8,
+      "ayah": 24,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "toplanacaksınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenûstecîbû lillâhi ve lir resûli izâ deâkum limâ yuhyîkûm, va´lemû ennallâhe yehûlu beynel mer´i ve kalbihî ve ennehû ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Ey iman sahipleri! Sizi, size hayat verecek şeye çağırdığında, Allah´a da resule de \"Buyur deyin!\" Şunu da bilin ki, Allah kişi ile kalbinin arasına sokulur ve bilin ki en son O´nun huzurunda haşredileceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 8,
+      "ayah": 36,
+      "formInAyah": "يُحْشَرُونَ",
+      "transliteration": "yuHşerūne",
+      "gloss": "sürüleceklerdir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ كَفَرُوا يُنْفِقُونَ أَمْوَالَهُمْ لِيَصُدُّوا عَنْ سَبِيلِ اللَّهِ ۚ فَسَيُنْفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ ۗ وَالَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+      "verseTransliteration": "İnnellezîne keferû yunfikûne emvâlehum li yesuddû an sebîlillâh(sebîlillâhi), fe seyunfikûnehâ summe tekûnu aleyhim hasreten summe yuglebûn(yuglebûne), vellezîne keferû ilâ cehenneme yuhşerûn(yuhşerûne).",
+      "verseMeaning": "O küfre sapanlar mallarını Allah yolundan alıkoymak için harcarlar, harcayacaklardır da. Sonunda bu kendileri için bir hasret olacak, sonra da mağlup edilecekler. Küfre sapanlar doğruca cehenneme sürülecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 10,
+      "ayah": 28,
+      "formInAyah": "نَحْشُرُهُمْ",
+      "transliteration": "neHşuruhum",
+      "gloss": "onları biraraya toplarız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا مَكَانَكُمْ أَنْتُمْ وَشُرَكَاؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَاؤُهُمْ مَا كُنْتُمْ إِيَّانَا تَعْبُدُونَ",
+      "verseTransliteration": "Ve yevme nahsuruhum cemîan summe nekûlu lillezîne eşrekû mekânekum entum ve şurekâukum, fe zeyyelnâ beynehum, ve kâle şurekâuhum mâ kuntum iyyânâ ta´budûn(ta´budûne).",
+      "verseMeaning": "Gün olur, onları bir araya toplarız; sonra şirke batmışlara sesleniriz: \"Siz ve ortak yaptıklarınız, yerlerinize!\" Aralarını ayırmışızdır. Ortak tuttukları şöyle haykırırlar: \"Siz bize kulluk etmiyordunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 10,
+      "ayah": 45,
+      "formInAyah": "يَحْشُرُهُمْ",
+      "transliteration": "yeHşuruhum",
+      "gloss": "onları toplayacağımız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَوْمَ يَحْشُرُهُمْ كَأَنْ لَمْ يَلْبَثُوا إِلَّا سَاعَةً مِنَ النَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَاءِ اللَّهِ وَمَا كَانُوا مُهْتَدِينَ",
+      "verseTransliteration": "Ve yevme yahşuruhum keen lem yelbesû illâ sâaten minen nehâri yete ârefûne beynehum, kad hasirellezîne kezzebû bi likâillâhi ve mâ kânû muhtedîn(muhtedîne).",
+      "verseMeaning": "Onları huzuruna toplayacağı gün, gündüzün bir saatinden başka, dünyada durmamış gibidirler; aralarında tanışırlar. Allah´a kavuşmayı yalanlayıp da doğru yolu tutmamış bulunanlar, hüsrana uğramışlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 15,
+      "ayah": 25,
+      "formInAyah": "يَحْشُرُهُمْ",
+      "transliteration": "yeHşuruhum",
+      "gloss": "onları toplayacak olan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+      "verseTransliteration": "Ve inne rabbeke huve yahşuruhum, innehu hakîmun alîm(alîmun).",
+      "verseMeaning": "Hiç kuşkusuz, Rabbindir, evet O´dur onları haşredecek olan. Hakîmdir O, Alîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 17,
+      "ayah": 97,
+      "formInAyah": "وَنَحْشُرُهُمْ",
+      "transliteration": "ve neHşuruhum",
+      "gloss": "ve onları süreriz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ ۖ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
+      "verseTransliteration": "Ve men yehdillâhu fe huvel muhted(muhtedi), ve men yudlil fe len tecide lehum evliyâe min dûnih(dûnihî), ve nahşuruhum yevmel kıyâmeti alâ vucûhihim umyen ve bukmen ve summâ(summen), me’vâhum cehennem(cehennemu), kullemâ habet zidnâhum saîrâ(saîren).",
+      "verseMeaning": "Allah kime hidayet verirse doğru olan yolu bulan odur. Kimi de şaşırtırsa, böyleleri için O´nun dışında dostlar bulamazsın. Kıyamet günü böylelerini kör, dilsiz ve sağır bir halde yüzleri üstüne sürerek haşrederiz. Varacakları yer cehennemdir ki, alevi dindikçe kızgın ateşini körükleyiveririz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 18,
+      "ayah": 47,
+      "formInAyah": "وَحَشَرْنَاهُمْ",
+      "transliteration": "ve Haşernāhum",
+      "gloss": "onları toplamışız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا",
+      "verseTransliteration": "Ve yevme nuseyyirul cibâle ve terel arda bârizeten ve haşernâhum fe lem nugâdir minhum ehadâ(ehaden).",
+      "verseMeaning": "Gün olur, dağları yürütürüz de yeryüzünü çırılçıplak görürsün. İnsanları huzurumuzda toplamış, içlerinden hiçbirisini hesap dışı bırakmamışızdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 19,
+      "ayah": 68,
+      "formInAyah": "لَنَحْشُرَنَّهُمْ",
+      "transliteration": "leneHşurannehum",
+      "gloss": "onları mutlaka toplayacağız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا",
+      "verseTransliteration": "Fe ve rabbike le nahşurennehum veş şeyâtîne summe le nuhdırannehum havle cehenneme cisiyyâ(cisiyyen).",
+      "verseMeaning": "Rabbine yemin olsun ki; onları da, şeytanları da mutlaka haşredeceğiz, sonra hepsini diz çökmüş halde cehennemin çevresinde hazır bulunduracağız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 19,
+      "ayah": 85,
+      "formInAyah": "نَحْشُرُ",
+      "transliteration": "neHşuru",
+      "gloss": "toplayacağız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَٰنِ وَفْدًا",
+      "verseTransliteration": "Yevme nahşurul muttekîne iler rahmâni vefdâ(vefden).",
+      "verseMeaning": "Gün olur, o sakınanları biz, Rahman´ın huzurunda heyet halinde toplarız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 20,
+      "ayah": 59,
+      "formInAyah": "يُحْشَرَ",
+      "transliteration": "yuHşera",
+      "gloss": "toplanacağı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ النَّاسُ ضُحًى",
+      "verseTransliteration": "Kâle mev’ıdukum yevmuz zîneti ve en yuhşeren nâsu duhâ(duhan).",
+      "verseMeaning": "Mûsa dedi: \"Bizimle buluşacağınız zaman, süs günü olsun. İnsanlar kuşluk vakti bir araya getirilsin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 20,
+      "ayah": 102,
+      "formInAyah": "وَنَحْشُرُ",
+      "transliteration": "ve neHşuru",
+      "gloss": "ve toplarız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ يُنْفَخُ فِي الصُّورِ ۚ وَنَحْشُرُ الْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا",
+      "verseTransliteration": "Yevme yunfehu fîs sûri ve nahşurul mucrimîne yevme izin zurkâ(zurkan).",
+      "verseMeaning": "O gün sûra üfrülür ve günahkârları o gün gözleri gömgök bir halde haşrederiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 20,
+      "ayah": 124,
+      "formInAyah": "وَنَحْشُرُهُ",
+      "transliteration": "ve neHşuruhu",
+      "gloss": "ve onu haşrederiz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ",
+      "verseTransliteration": "Ve men a’rada an zikrî fe inne lehu maîşeten danken ve nahşuruhu yevmel kıyâmeti a’mâ.",
+      "verseMeaning": "Kim benim zikrimden/Kur´anımdan yüz çevirirse onun için zor, sıkıcı bir hayat şekli/dar bir geçim vardır; kıyamet günü de onu kör olarak haşrederiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 20,
+      "ayah": 125,
+      "formInAyah": "حَشَرْتَنِي",
+      "transliteration": "Haşertenī",
+      "gloss": "beni haşrettin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ وَقَدْ كُنْتُ بَصِيرًا",
+      "verseTransliteration": "Kâle rabbi lime haşertenî a’mâ ve kad kuntu basîrâ(basîran).",
+      "verseMeaning": "O der ki: \"Rabbim, beni neden kör haşrettin, ben gören biri idim?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 23,
+      "ayah": 79,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "toplanacaksınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَهُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Ve huvellezî zereekum fîl ardı ve ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Sizi yeryüzünde yaratıp yayan da O´dur. O´nun huzurunda haşredileceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 25,
+      "ayah": 17,
+      "formInAyah": "يَحْشُرُهُمْ",
+      "transliteration": "yeHşuruhum",
+      "gloss": "onları toplayacağı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ فَيَقُولُ أَأَنْتُمْ أَضْلَلْتُمْ عِبَادِي هَٰؤُلَاءِ أَمْ هُمْ ضَلُّوا السَّبِيلَ",
+      "verseTransliteration": "Ve yevme yahşuruhum ve mâ ya’budûne min dûnillâhi fe yekûlu e entum adleltum ibâdî hâulâi em hum dallûs sebîl(sebîle).",
+      "verseMeaning": "Onları ve Allah dışındaki taptıklarını haşredeceği gün şöyle sorar: \"Şu kullarımı siz mi saptırdınız yoksa onlar mı yoldan çıktılar?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 25,
+      "ayah": 34,
+      "formInAyah": "يُحْشَرُونَ",
+      "transliteration": "yuHşerūne",
+      "gloss": "toplanacak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ سَبِيلًا",
+      "verseTransliteration": "Ellezîne yuhşerûne alâ vucûhihim ilâ cehenneme ulâike şerrun mekânen ve edallu sebîlâ(sebîlen).",
+      "verseMeaning": "O yüzleri üstü cehenneme sevk edilecek olanlar, mekân bakımından en şerli, yol bakımından en sapık kişilerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 27,
+      "ayah": 17,
+      "formInAyah": "وَحُشِرَ",
+      "transliteration": "ve Huşira",
+      "gloss": "ve toplandı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ فَهُمْ يُوزَعُونَ",
+      "verseTransliteration": "Ve huşire li suleymâne cunûduhu minel cinni vel insi vet tayrı fe hum yûzeûn(yûzeûne).",
+      "verseMeaning": "Cinlerden, insanlardan ve kuşlardan orduları, Süleyman´ın huzurunda bir araya getirildi. Onlar, düzenli bir biçimde sevk ediliyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 27,
+      "ayah": 83,
+      "formInAyah": "نَحْشُرُ",
+      "transliteration": "neHşuru",
+      "gloss": "toplarız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا مِمَّنْ يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ",
+      "verseTransliteration": "Ve yevme nahşuru min kulli ummetin fevcen mimmen yukezzibu bi âyâtinâ fe hum yûzeûn(yûzeûne).",
+      "verseMeaning": "O gün her ümmetin içinden ayetlerimizi yalanlayanlardan bir zümre derleriz de onlar, toplu halde ortaya sürülürler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 34,
+      "ayah": 40,
+      "formInAyah": "يَحْشُرُهُمْ",
+      "transliteration": "yeHşuruhum",
+      "gloss": "bir araya toplar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا ثُمَّ يَقُولُ لِلْمَلَائِكَةِ أَهَٰؤُلَاءِ إِيَّاكُمْ كَانُوا يَعْبُدُونَ",
+      "verseTransliteration": "Ve yevme yahşuruhum cemîan summe yekûlu lil melâiketi e hâulâi iyyâkum kânû ya’budûn(ya’budûne).",
+      "verseMeaning": "Gün olur, onların hepsini bir yere toplar, sonra meleklere sorar: \"Şunlar, sadece size mi kulluk/ibadet ediyorlardı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 37,
+      "ayah": 22,
+      "formInAyah": "احْشُرُوا",
+      "transliteration": "AHşurū",
+      "gloss": "toplayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
+      "verseTransliteration": "Uhşurûllezîne zalemû ve ezvâcehum ve mâ kânû ya’budûn(ya’budûne).",
+      "verseMeaning": "Toplayın o zulmedenleri; eşlerini de. O tapınıp durmuş olduklarını da toplayın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 41,
+      "ayah": 19,
+      "formInAyah": "يُحْشَرُ",
+      "transliteration": "yuHşeru",
+      "gloss": "toplanır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَوْمَ يُحْشَرُ أَعْدَاءُ اللَّهِ إِلَى النَّارِ فَهُمْ يُوزَعُونَ",
+      "verseTransliteration": "Ve yevme yuhşeru a’dâullâhi ilen nâri fe hum yûzeûn(yûzeûne).",
+      "verseMeaning": "Gün olur, Allah´ın düşmanları, düzenli bir biçimde biraraya toplanıp ateşe sürülürler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 46,
+      "ayah": 6,
+      "formInAyah": "حُشِرَ",
+      "transliteration": "Huşira",
+      "gloss": "toplandıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ",
+      "verseTransliteration": "Ve izâ huşiren nâsu kânû lehum a’dâen ve kânû bi ibâdetihim kâfirîn(kâfirîne).",
+      "verseMeaning": "İnsanlar, haşredilmek üzere toplandığında, o taptıkları onlara düşman olurlar; onların ibadetlerini de inkâr ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 58,
+      "ayah": 9,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "toplanacağınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَاجَوْا بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû iza tenâceytum fe lâ tetenâcev bil ismi vel udvâni ve ma’siyetir resûli ve tenâcev bil birri vet takvâ, vettekûllâhellezî ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Ey iman edenler! Aranızda fısıldaştığınız zaman, günah, düşmanlık ve resule isyan hususlarında fısıldaşmayın; hayırda erginlik/dürüstlük ve takva konusunda fısıldaşın. Huzurunda haşredileceğiniz Allah´tan sakının!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 67,
+      "ayah": 24,
+      "formInAyah": "تُحْشَرُونَ",
+      "transliteration": "tuHşerūne",
+      "gloss": "huzuruna toplanacaksınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Kul huvellezî zereekum fîl ardı ve ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "De ki: \"Sizi, yeryüzünde yaratıp yayan O´dur. O´nun huzurunda haşredileceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 79,
+      "ayah": 23,
+      "formInAyah": "فَحَشَرَ",
+      "transliteration": "fe Haşera",
+      "gloss": "topladı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَحَشَرَ فَنَادَىٰ",
+      "verseTransliteration": "Fehaşere fe nâdâ.",
+      "verseMeaning": "Derken, bir araya toplayıp bağırdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشَرَ",
+      "sura": 81,
+      "ayah": 5,
+      "formInAyah": "حُشِرَتْ",
+      "transliteration": "Huşirat",
+      "gloss": "bir araya toplandığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+      "verseTransliteration": "Ve izel vuhûşu huşiret.",
+      "verseMeaning": "Vahşi hayvanlar bir araya toplandığında,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشْر",
+      "sura": 50,
+      "ayah": 44,
+      "formInAyah": "حَشْرٌ",
+      "transliteration": "Haşrun",
+      "gloss": "toplamadır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَوْمَ تَشَقَّقُ الْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+      "verseTransliteration": "Yevme teşakkakul ardu anhum sirââ(sirâan), zâlike haşrun aleynâ yesîrun.",
+      "verseMeaning": "O gün, yer çatır çatır yarılıp onlardan çabucak uzaklaşır. Bu yalnız bizim için kolay olan bir haşretmedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَشْر",
+      "sura": 59,
+      "ayah": 2,
+      "formInAyah": "الْحَشْرِ",
+      "transliteration": "l-Haşri",
+      "gloss": "haşirde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ",
+      "verseTransliteration": "Huvellezî ahrecellezîne keferû min ehlil kitâbi min diyârihim li evvelil haşr(haşri), mâ zanentum en yahrucû ve zannû ennehum mâniatuhum husûnuhum minallâhi fe etâhumullâhu min haysu lem yahtesibû ve kazefe fî kulûbihimur ru’be yuhribûne buyûtehum bi eydîhim ve eydîl mû’minîne fa’tabirû yâ ulîl ebsâr(ebsâri).",
+      "verseMeaning": "Ehlikitap´tan küfre sapanları, ilk toplanma gününde yurtlarından O çıkardı. Siz onların çıkacaklarını sanmamıştınız; onlarsa kalelerinin kendilerini Allah´tan koruyacağını zannetmişlerdi. Ama Allah onlara hiç ummadıkları yerden geldi, yüreklerine korku saldı; kendi evlerini kendi elleriyle ve iman sahiplerinin elleriyle tahrip ediyorlardı. Artık ibret alın, ey gözleri olanlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَٰشِرِين",
+      "sura": 7,
+      "ayah": 111,
+      "formInAyah": "حَاشِرِينَ",
+      "transliteration": "Hāşirīne",
+      "gloss": "toplayıcılar (olarak)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِي الْمَدَائِنِ حَاشِرِينَ",
+      "verseTransliteration": "Kâlû ercih ve ehâhu ve ersil fîl medâini hâşirîn(hâşirîne).",
+      "verseMeaning": "Dediler ki: \"Onu kardeşiyle birlikte alıkoy. Ve şehirlere, toplayıcılar gönder.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَٰشِرِين",
+      "sura": 26,
+      "ayah": 36,
+      "formInAyah": "حَاشِرِينَ",
+      "transliteration": "Hāşirīne",
+      "gloss": "toplayıcılar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ",
+      "verseTransliteration": "Kâlû ercih ve ehâhu veb’as fîl medâini hâşirîn(hâşirîne).",
+      "verseMeaning": "Dediler: \"Onu kardeşiyle birlikte alıkoy ve kentlere toplayıcılar gönder,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَٰشِرِين",
+      "sura": 26,
+      "ayah": 53,
+      "formInAyah": "حَاشِرِينَ",
+      "transliteration": "Hāşirīne",
+      "gloss": "(asker) toplayıcılar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ",
+      "verseTransliteration": "Fe ersele fir’avnu fîl medâini hâşirîn(hâşirîne).",
+      "verseMeaning": "Bunun üzerine Firavun, kentlere toplayıcılar gönderdi:"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَحْشُورَة",
+      "sura": 38,
+      "ayah": 19,
+      "formInAyah": "مَحْشُورَةً",
+      "transliteration": "meHşūraten",
+      "gloss": "toplanıp gelen",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَهُ أَوَّابٌ",
+      "verseTransliteration": "Vet tayre mahşûreh(mahşûreten), kullun lehû evvâb(evvâbun).",
+      "verseMeaning": "Kuşlar da toplu halde onunla beraberdi. Hepsi, onun tespih nağmelerine katılırdı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=H%24r"
+}

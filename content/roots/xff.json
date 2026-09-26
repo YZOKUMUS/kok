@@ -1,0 +1,411 @@
+{
+  "id": "xff",
+  "latinName": "Kh-Fe-Fe",
+  "lettersArabic": "خ ف ف",
+  "meanings": [
+    "Hafif gelmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 17,
+  "lemmas": [
+    {
+      "formArabic": "تَخْفِيف",
+      "count": 1
+    },
+    {
+      "formArabic": "خَفَّتْ",
+      "count": 3
+    },
+    {
+      "formArabic": "خَفَّفَ",
+      "count": 8
+    },
+    {
+      "formArabic": "خَفِيف",
+      "count": 2
+    },
+    {
+      "formArabic": "ٱسْتَخَفَّ",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَخْفِيف",
+      "sura": 2,
+      "ayah": 178,
+      "formInAyah": "تَخْفِيفٌ",
+      "transliteration": "teḣfīfun",
+      "gloss": "bir hafifletme",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى ۖ الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنْثَىٰ بِالْأُنْثَىٰ ۚ فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ وَأَدَاءٌ إِلَيْهِ بِإِحْسَانٍ ۗ ذَٰلِكَ تَخْفِيفٌ مِنْ رَبِّكُمْ وَرَحْمَةٌ ۗ فَمَنِ اعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kutibe aleykumul kısâsu fîl katlâ el hurru bil hurri vel abdu bil abdi vel unsâ bil unsâ fe men ufiye lehu min ahîhi şey’un fettibâun bil ma’rûfi ve edâun ileyhi bi ihsân(ihsânin), zâlike tahfîfun min rabbikum ve rahmeh(rahmetun), fe meni’tedâ ba’de zâlike fe lehu azâbun elîm(elîmun).",
+      "verseMeaning": "Ey iman edenler! Öldürülenler hakkında üzerinize kısas yazılmıştır. Hür kişiye karşılık hür, köleye karşılık köle, dişiye karşılık dişi... Kim kardeşi tarafından herhangi bir şekilde affa uğrarsa, bu durumda örfü izlemek ve affedene en güzel biçimde bir ödeme yapmak gerekir. İşte bu, Rabb´inizden size bir hafifletme ve bir rahmettir. Kim bundan sonra azgınlık ve düşmanlık ederse onun için korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّتْ",
+      "sura": 7,
+      "ayah": 9,
+      "formInAyah": "خَفَّتْ",
+      "transliteration": "ḣaffet",
+      "gloss": "hafif gelirse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ بِمَا كَانُوا بِآيَاتِنَا يَظْلِمُونَ",
+      "verseTransliteration": "Ve men haffet mevâzînuhu fe ulâikellezîne hasirû enfusehum bimâ kânû biâyâtinâ yazlimûn(yazlimûne).",
+      "verseMeaning": "Ölçülüp tartılacak şeyleri hafif kalanlara gelince, işte onlar, ayetlerimize karşı zalimce davranışlar sergilemiş oldukları için, öz benliklerini hüsrana itmiş olacaklar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّتْ",
+      "sura": 23,
+      "ayah": 103,
+      "formInAyah": "خَفَّتْ",
+      "transliteration": "ḣaffet",
+      "gloss": "hafif gelirse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ",
+      "verseTransliteration": "Ve men haffet mevâzînuhu fe ulâikellezîne hasirû enfusehum fî cehenneme hâlidûn(hâlidûne).",
+      "verseMeaning": "Tartıları hafif gelenler ise kendilerini kayba uğratanlar, sürekli cehennemde kalanlar olacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّتْ",
+      "sura": 101,
+      "ayah": 8,
+      "formInAyah": "خَفَّتْ",
+      "transliteration": "ḣaffet",
+      "gloss": "hafif gelirse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "verseTransliteration": "Ve emmâ men haffet mevâzînuh(mevâzînuhu).",
+      "verseMeaning": "Tartıları hafif çekeninse,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 2,
+      "ayah": 86,
+      "formInAyah": "يُخَفَّفُ",
+      "transliteration": "yuḣaffefu",
+      "gloss": "hiç hafifletilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْصَرُونَ",
+      "verseTransliteration": "Ulâikellezîneşteravul hayâted dunyâ bil âhireti, fe lâ yuhaffefu anhumul azâbu ve lâ hum yunsarûn(yunsarûne).",
+      "verseMeaning": "İşte bunlar, âhıret karşılığında dünyayı satın alan kişilerdir. Azap, hafifletilmeyecektir onlardan. Hiç bir şekilde yardım da edilmeyecektir onlara."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 2,
+      "ayah": 162,
+      "formInAyah": "يُخَفَّفُ",
+      "transliteration": "yuḣaffefu",
+      "gloss": "hafifletilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "خَالِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ",
+      "verseTransliteration": "Hâlidîne fîhâ, lâ yuhaffefu anhumul azâbu ve lâ hum yunzarûn(yunzarûne).",
+      "verseMeaning": "Sürekli o lanetin içindedirler. Ne azapları hafifletilir ne de yüzlerine bakılır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 3,
+      "ayah": 88,
+      "formInAyah": "يُخَفَّفُ",
+      "transliteration": "yuḣaffefu",
+      "gloss": "hafifletilmeyecek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ",
+      "verseTransliteration": "Hâlidîne fîhâ, lâ yuhaffefu anhumul azâbu ve lâ hum yunzarûn(yunzarûne).",
+      "verseMeaning": "O lanet içinde sürekli kalacaklardır. Ne azap hafifletilecektir onlardan ne de yüzlerine bakılacaktır onların."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 4,
+      "ayah": 28,
+      "formInAyah": "يُخَفِّفَ",
+      "transliteration": "yuḣaffife",
+      "gloss": "hafifletmek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ ۚ وَخُلِقَ الْإِنْسَانُ ضَعِيفًا",
+      "verseTransliteration": "Yurîdullâhu en yuhaffife ankum, ve hulikal insânu daîfâ(daîfen).",
+      "verseMeaning": "Allah size hafiflik getirmek istiyor. Çünkü insan çok zayıf yaratılmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 8,
+      "ayah": 66,
+      "formInAyah": "خَفَّفَ",
+      "transliteration": "ḣaffefe",
+      "gloss": "hafifletti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "الْآنَ خَفَّفَ اللَّهُ عَنْكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِ ۚ وَإِنْ يَكُنْ مِنْكُمْ أَلْفٌ يَغْلِبُوا أَلْفَيْنِ بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "El´âne haffefallâhu ankum ve alime enne fîkum da´fâ(da´fen), fe in yekun minkum mietun sâbiretun yaglibû mieteyn(mieteyni), ve in yekun minkum elfun yaglibû elfeyni bi iznillâh(iznillâhi), vallâhu meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Şimdi Allah yükünüzü hafifletti. Bilmiştir ki sizde bir zaaf var. İçinizden sabırlı yüz kişi olsa, iki yüz kişiye galip gelir; sizden bin kişi olsa, Allah´ın izniyle iki bin kişiye galebe çalar. Allah, sabredenlerle beraberdir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 16,
+      "ayah": 85,
+      "formInAyah": "يُخَفَّفُ",
+      "transliteration": "yuḣaffefu",
+      "gloss": "hafifletilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنْظَرُونَ",
+      "verseTransliteration": "Ve izâ raellezîne zalemûl azâbe fe lâ yuhaffefuanhum ve lâ hum yunzarûn(yunzarûne).",
+      "verseMeaning": "Zulme sapanlar azapla yüzyüze geldiklerinde, ne azapları hafifletilir ne de yüzlerine bakılır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 35,
+      "ayah": 36,
+      "formInAyah": "يُخَفَّفُ",
+      "transliteration": "yuḣaffefu",
+      "gloss": "hafifletilmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَالَّذِينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُمْ مِنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورٍ",
+      "verseTransliteration": "Vellezîne keferû lehum nâru cehennem(cehenneme), lâ yukdâ aleyhim fe yemûtû ve lâ yuhaffefu anhum min azâbihâ, kezâlike neczî kulle kefûr(kefûrin).",
+      "verseMeaning": "İnkâr edenlere de cehennem ateşi var. Ne haklarında hüküm verilir ki ölsünler ne de azapları hafifletilir. İşte böyle cezalandırırız tüm nankörleri biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفَّفَ",
+      "sura": 40,
+      "ayah": 49,
+      "formInAyah": "يُخَفِّفْ",
+      "transliteration": "yuḣaffif",
+      "gloss": "hafifletsin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِنَ الْعَذَابِ",
+      "verseTransliteration": "Ve kâlellezîne fîn nâri li hazeneti cehennemed’û rabbekum yuhaffif annâ yevmen minel azâb(azâbi).",
+      "verseMeaning": "Ateştekiler, cehenem bekçilerine şöyle der: \"Rabbinize yakarın da azabı bizden bir gün olsun hafifletsin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفِيف",
+      "sura": 7,
+      "ayah": 189,
+      "formInAyah": "خَفِيفًا",
+      "transliteration": "ḣafīfen",
+      "gloss": "hafif",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّاهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِ ۖ فَلَمَّا أَثْقَلَتْ دَعَوَا اللَّهَ رَبَّهُمَا لَئِنْ آتَيْتَنَا صَالِحًا لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+      "verseTransliteration": "Huvellezî halakakum min nefsin vâhıdetin ve ceale minhâ zevcehâ li yeskune ileyhâ, fe lemmâ tegaşşâhâ hamelet hamlen hafîfen fe merret bihî, fe lemmâ eskalet deavâllâhe rabbehumâ lein âteytenâ sâlihan le nekûnenne mineş şâkirîn(şâkirîne).",
+      "verseMeaning": "O, odur ki, sizi bir tek canlıdan yarattı, eşini de ondan vücuda getirdi ki, gönlü buna ısınsın. Eşini sarıp kucaklayınca o, hafif bir yük yüklendi de bir süre onu gezdirdi. Ağırlaştığında ikisi birden Rablerine şöyle dua ettiler: \"Bize iyi huylu, yakışıklı bir çocuk verirsen yemin ederiz, şükredenlerden olacağız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">خَفِيف",
+      "sura": 9,
+      "ayah": 41,
+      "formInAyah": "خِفَافًا",
+      "transliteration": "ḣifāfen",
+      "gloss": "(gerek) hafif olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "انْفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ فِي سَبِيلِ اللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "İnfirû hıfâfen ve sikâlen ve câhidû bi emvâlikum ve enfusikum fî sebîlillâh(sebîlillâhi), zâlikum hayrun lekum in kuntum ta´lemûn(ta´lemûne).",
+      "verseMeaning": "Gerek hafif, gerek ağırlıklı olarak mutlaka seferber olun ve Allah yolunda mallarınızla, canlarınızla cihat edin. Eğer bilirseniz bu sizin için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَخَفَّ",
+      "sura": 16,
+      "ayah": 80,
+      "formInAyah": "تَسْتَخِفُّونَهَا",
+      "transliteration": "testeḣiffūnehā",
+      "gloss": "kolayca kullanacağınız hafif",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاللَّهُ جَعَلَ لَكُمْ مِنْ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُمْ مِنْ جُلُودِ الْأَنْعَامِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ",
+      "verseTransliteration": "Vallâhu ceale lekum min buyûtikum sekenen ve ceale lekum min culûdil en’âmi buyûten testehıffûnehâ yevme za’nikum ve yevme ikâmetikum ve min asvâfihâ ve evbârihâ ve eş’ârihâ esâsen ve metâan ilâ hîn(hînin).",
+      "verseMeaning": "Allah size, evlerinizden huzur ve sükûn yeri yaptı. Hayvan derilerinden size, gerek göç gününüzde gerek konduğunuz sırada rahatça taşıyacağınız evler yaptı. Ayrıca, hayvanların; yünlerinden, yapağılarından ve kıllarından belli bir süreye kadar kullanabileceğiniz giyimlikler, döşemelikler ve kullanım eşyası verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَخَفَّ",
+      "sura": 30,
+      "ayah": 60,
+      "formInAyah": "يَسْتَخِفَّنَّكَ",
+      "transliteration": "yesteḣiffenneke",
+      "gloss": "seni telaşa düşürmesin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ",
+      "verseTransliteration": "Fâsbir inne va’dallâhi hakkun ve lâ yestahıffennekellezîne lâ yûkınûn(yûkınûne).",
+      "verseMeaning": "O halde, sabret! Kuşkun olmasın ki, Allah´ın vaadi haktır. İmanı kemale ermemişler seni hafifliğe sevk etmesinler/seni küçümseyemeyeceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَخَفَّ",
+      "sura": 43,
+      "ayah": 54,
+      "formInAyah": "فَاسْتَخَفَّ",
+      "transliteration": "festeḣaffe",
+      "gloss": "küçümsedi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاسْتَخَفَّ قَوْمَهُ فَأَطَاعُوهُ ۚ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+      "verseTransliteration": "Festehaffe kavmehu fe atâûh(atâûhu), innehum kânû kavmen fâsikîn(fâsikîne).",
+      "verseMeaning": "İşte toplumunu böyle küçümsedi, onlar da ona itaat ettiler. Çünkü onlar yoldan sapmış bir toplum idiler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=xff"
+}

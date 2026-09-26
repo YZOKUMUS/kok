@@ -1,0 +1,44 @@
+{
+  "id": "hyl",
+  "latinName": "he-Ye-Lam",
+  "lettersArabic": "ه ي ل",
+  "meanings": [
+    "to pour out, heap up."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "مَّهِيل",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَّهِيل",
+      "sura": 73,
+      "ayah": 14,
+      "formInAyah": "مَهِيلًا",
+      "transliteration": "mehīlen",
+      "gloss": "dağılan",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Edilgen",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+      "verseTransliteration": "Yevme tercuful ardu vel cibâlu ve kânetil cibâlu kesîben mehîlâ(mehîlen).",
+      "verseMeaning": "O günde ki yer ve dağlar sarsılır ve dağlar eriyip akan bir kum yığınına dönüşür."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hyl"
+}

@@ -1,0 +1,565 @@
+{
+  "id": "$ry",
+  "latinName": "Şin-Ra-Ye",
+  "lettersArabic": "ش ر ي",
+  "meanings": [
+    "Satmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 25,
+  "lemmas": [
+    {
+      "formArabic": "شَرَ",
+      "count": 4
+    },
+    {
+      "formArabic": "ٱشْتَرَىٰ",
+      "count": 21
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرَ",
+      "sura": 2,
+      "ayah": 102,
+      "formInAyah": "شَرَوْا",
+      "transliteration": "şerav",
+      "gloss": "sattıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Vettebeû mâ tetlûş şeyâtînu alâ mulki suleymân(suleymâne) ve mâ kefere suleymânu ve lâkinneş şeyâtîne keferû yuallimûnen nâses sihrâ, ve mâ unzile alel melekeyni bi bâbile hârûte ve mârût(mârûte), ve mâ yuallimâni min ehadin hattâ yekûlâ innemâ nahnu fitnetun fe lâ tekfur fe yeteallemûne minhumâ mâ yuferrikûne bihî beynel mer’i ve zevcih(zevcihî), ve mâ hum bi dârrîne bihî min ehadin illâ bi iznillâh(iznillâhi), ve yeteallemûne mâ yadurruhum ve lâ yenfeuhum ve lekad alimû le menişterâhu mâ lehu fîl âhireti min halâkın, ve le bi’se mâ şerev bihî enfusehum lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Süleyman´ın mülk ve saltanatı konusunda onlar, şeytanların okuyup durduklarına uydular. Halbuki Süleyman küfre sapmamıştı. Ancak şeytanlar küfre sapmıştı; insanlara büyüyü öğretiyorlardı. Ve Babil´de Hârût ve Mârût adlı iki melek üzerine indirileni öğretiyorlardı. Oysa ki o iki melek, \"Biz bir imtihan aracıyız, sakın küfre sapma!\" demedikçe hiç kimseye bir şey öğretmiyorlardı. İnsanlar onlardan erkekle eşinin arasını açacakları şeyi öğreniyorlardı. Ne var ki, onlar onunla Allah´ın izni olmadıkça hiç kimseye zarar veremezler. Onlar kendilerine zarar vereni, yarar vermeyeni öğreniyorlardı. Yemin olsun ki, onu satın alanın âhırette hiç bir nasibi olmayacağını açıkça bilmişlerdir. Öz benliklerini sattıkları şey ne kötüdür! Bir bilebilselerdi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرَ",
+      "sura": 2,
+      "ayah": 207,
+      "formInAyah": "يَشْرِي",
+      "transliteration": "yeşrī",
+      "gloss": "satar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ ۗ وَاللَّهُ رَءُوفٌ بِالْعِبَادِ",
+      "verseTransliteration": "Ve minen nâsi men yeşrî nefsehubtigâe mardâtillâh(mardâtillâhi), vallâhu raûfun bil ıbâd(ıbâdi).",
+      "verseMeaning": "İnsanlardan öylesi de vardır ki, benliğini Allah´ın hoşnutluğunu elde etmeye satar. Allah, kullarına karşı Raûf´tur, çok şefkatlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرَ",
+      "sura": 4,
+      "ayah": 74,
+      "formInAyah": "يَشْرُونَ",
+      "transliteration": "yeşrūne",
+      "gloss": "satan(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلْيُقَاتِلْ فِي سَبِيلِ اللَّهِ الَّذِينَ يَشْرُونَ الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۚ وَمَنْ يُقَاتِلْ فِي سَبِيلِ اللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "verseTransliteration": "Fel yukâtil fî sebîlillâhillezîne yeşrûnel hayâted dunyâ bil âhireh(âhireti) ve men yukâtil fî sebîlillâhi fe yuktel ev yaglib fe sevfe nu’tîhi ecren azîmâ(azîmen).",
+      "verseMeaning": "İğreti hayatı âhiret hayatı karşılığında satanlar, Allah yolunda çarpışsınlar. Allah yolunda çarpışıp da öldürülen yahut galip gelene biz, yakında, büyük bir ödül vereceğiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَرَ",
+      "sura": 12,
+      "ayah": 20,
+      "formInAyah": "وَشَرَوْهُ",
+      "transliteration": "ve şeravhu",
+      "gloss": "ve onu sattılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+      "verseTransliteration": "Ve şerevhu bi semenin bahsin derâhime ma’dûdeh(ma’dûdetin), ve kânû fîhi minez zâhidîn(zâhidîne).",
+      "verseMeaning": "Onu basit bir karşılıkla, birkaç paraya sattılar. Ona fazla rağbet gösterenler değillerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 16,
+      "formInAyah": "اشْتَرَوُا",
+      "transliteration": "şteravu",
+      "gloss": "satın aldılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ فَمَا رَبِحَتْ تِجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ",
+      "verseTransliteration": "Ulâikellezîneşterevûd dalâlete bil hudâ, fe mâ rabihat ticâretuhum ve mâ kânû muhtedîn(muhtedîne).",
+      "verseMeaning": "İşte bunlar, doğruluk ve aydınlığı verip karanlık ve sapıklığı satın aldılar da ticaretleri hiç bir kazanç sağlamadı. Bir yol yordama girebilmiş de değillerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 41,
+      "formInAyah": "تَشْتَرُوا",
+      "transliteration": "teşterū",
+      "gloss": "ve satmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَآمِنُوا بِمَا أَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ ۖ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
+      "verseTransliteration": "Ve âminû bi mâ enzeltu musaddikan li mâ meakum ve lâ tekûnû evvele kâfirin bih(bîhî), ve lâ teşterû bi âyâtî semenen kalîlen ve iyyâye fettekûni.",
+      "verseMeaning": "Beraberinizdekini doğrulayıcı olarak indirmiş bulunduğuma inanın. Onu ilk inkar eden siz olmayın. Benim ayetlerimi az bir bedel karşılığı satmayın. Ve yalnız benden sakının."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 79,
+      "formInAyah": "لِيَشْتَرُوا",
+      "transliteration": "liyeşterū",
+      "gloss": "satmak için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ",
+      "verseTransliteration": "Fe veylun lillezîne yektubûnel kitâbe bi eydîhim summe yekûlûne hâzâ min indillâhi li yeşterû bihî semenen kalîlâ(kalîlen), fe veylun lehum mimmâ ketebet eydîhim ve veylun lehum mimmâ yeksibûn(yeksibûne).",
+      "verseMeaning": "Yazıklar olsun o kişilere ki, Kitap´ı kendi elleriyle yazarlar da sonra onunla basit bir karşılık satın alsınlar diye, \"İşte bu, Allah katındandır!\" derler. Vay haline onların, ellerinin yazdıkları yüzünden! Vay haline onların, kazanıp durdukları yüzünden!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 86,
+      "formInAyah": "اشْتَرَوُا",
+      "transliteration": "şteravu",
+      "gloss": "satın alan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْصَرُونَ",
+      "verseTransliteration": "Ulâikellezîneşteravul hayâted dunyâ bil âhireti, fe lâ yuhaffefu anhumul azâbu ve lâ hum yunsarûn(yunsarûne).",
+      "verseMeaning": "İşte bunlar, âhıret karşılığında dünyayı satın alan kişilerdir. Azap, hafifletilmeyecektir onlardan. Hiç bir şekilde yardım da edilmeyecektir onlara."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 90,
+      "formInAyah": "اشْتَرَوْا",
+      "transliteration": "şterav",
+      "gloss": "sattıkları şey",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنْزَلَ اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ فَبَاءُوا بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ",
+      "verseTransliteration": "Bi’semeşterav bihî enfusehum en yekfurû bi mâ enzelallâhu bagyen en yunezzilallâhu min fadlihî alâ men yeşâu min ibâdih(ibâdihî), fe bâû bi gadabin alâ gadab(gadabin), ve lil kâfirîne azâbun muhîn(muhînun).",
+      "verseMeaning": "Allah´ın, kullarından dilediğine lütfunun eseri olarak indirdiğini zalimce kıskanarak, Allah´ın vahyettiğini inkar etmeleri uğruna öz benliklerini sattıkları şey ne çirkindir! Bu yüzdendir ki gazap üzerine gazaba çarpıldılar. Gerçeği örtenler için rezil edici bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 102,
+      "formInAyah": "اشْتَرَاهُ",
+      "transliteration": "şterāhu",
+      "gloss": "onu satın alan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Vettebeû mâ tetlûş şeyâtînu alâ mulki suleymân(suleymâne) ve mâ kefere suleymânu ve lâkinneş şeyâtîne keferû yuallimûnen nâses sihrâ, ve mâ unzile alel melekeyni bi bâbile hârûte ve mârût(mârûte), ve mâ yuallimâni min ehadin hattâ yekûlâ innemâ nahnu fitnetun fe lâ tekfur fe yeteallemûne minhumâ mâ yuferrikûne bihî beynel mer’i ve zevcih(zevcihî), ve mâ hum bi dârrîne bihî min ehadin illâ bi iznillâh(iznillâhi), ve yeteallemûne mâ yadurruhum ve lâ yenfeuhum ve lekad alimû le menişterâhu mâ lehu fîl âhireti min halâkın, ve le bi’se mâ şerev bihî enfusehum lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Süleyman´ın mülk ve saltanatı konusunda onlar, şeytanların okuyup durduklarına uydular. Halbuki Süleyman küfre sapmamıştı. Ancak şeytanlar küfre sapmıştı; insanlara büyüyü öğretiyorlardı. Ve Babil´de Hârût ve Mârût adlı iki melek üzerine indirileni öğretiyorlardı. Oysa ki o iki melek, \"Biz bir imtihan aracıyız, sakın küfre sapma!\" demedikçe hiç kimseye bir şey öğretmiyorlardı. İnsanlar onlardan erkekle eşinin arasını açacakları şeyi öğreniyorlardı. Ne var ki, onlar onunla Allah´ın izni olmadıkça hiç kimseye zarar veremezler. Onlar kendilerine zarar vereni, yarar vermeyeni öğreniyorlardı. Yemin olsun ki, onu satın alanın âhırette hiç bir nasibi olmayacağını açıkça bilmişlerdir. Öz benliklerini sattıkları şey ne kötüdür! Bir bilebilselerdi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 174,
+      "formInAyah": "وَيَشْتَرُونَ",
+      "transliteration": "ve yeşterūne",
+      "gloss": "ve satanlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلَ اللَّهُ مِنَ الْكِتَابِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا ۙ أُولَٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "İnnellezîne yektumûne mâ enzelallâhu minel kitâbî ve yeşterûne bihî semenen kalîlen, ulâike mâ ye’kulûne fî butûnihim illen nâre ve lâ yukellimuhumullâhu yevmel kıyâmeti ve lâ yuzekkîhim, ve lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Allah´ın Kitap´tan indirdiği şeyi gizleyip onu basit bir ücret karşılığı satanlar, karınlarında ateşten başka bir şey yemiş olmazlar, Kıyamet günü Allah onlarla konuşmayacaktır, onları arındırmayacaktır da... Onlar için korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 2,
+      "ayah": 175,
+      "formInAyah": "اشْتَرَوُا",
+      "transliteration": "şteravu",
+      "gloss": "satın alan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ وَالْعَذَابَ بِالْمَغْفِرَةِ ۚ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
+      "verseTransliteration": "Ulâikellezîneşteravud dalâlete bil hudâ vel azâbe bil magfireh(magfireti), fe mâ asberehum alen nâr(nâri).",
+      "verseMeaning": "İşte bunlar hidayeti satıp şaşkınlığı, affedilmeyi satıp azabı almışlardır. Ne kadar da dayanıklıdırlar ateşe!..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 3,
+      "ayah": 77,
+      "formInAyah": "يَشْتَرُونَ",
+      "transliteration": "yeşterūne",
+      "gloss": "satanlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ وَلَا يُكَلِّمُهُمُ اللَّهُ وَلَا يَنْظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "İnnellezîne yeşterûne bi ahdillâhi ve eymânihim semenen kalîlen ulâike lâ halaka lehum fîl âhırati ve lâ yukellimuhumullâhu ve lâ yenzuru ileyhim yevmel kıyâmeti ve lâ yuzekkîhim ve lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Allah´a verdikleri sözü ve yeminlerini basit bir bedel karşılığı satanlar var ya, işte onlar için âhirette hiçbir nasip yoktur. Allah onlarla konuşmayacaktır, kıyamet günü onlara bakmayacaktır, onları temizleyip arıtmayacaktır. Onlar için korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 3,
+      "ayah": 177,
+      "formInAyah": "اشْتَرَوُا",
+      "transliteration": "şteravu",
+      "gloss": "satın alan(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ اشْتَرَوُا الْكُفْرَ بِالْإِيمَانِ لَنْ يَضُرُّوا اللَّهَ شَيْئًا وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "İnnellezîneşteravul kufra bil îmâni len yedurrûllâhe şey’â(şey’en), ve lehum azâbun elîm(elîmun).",
+      "verseMeaning": "İman karşılığında küfrü satın alanlar, Allah´a herhangi bir biçimde asla zarar veremezler. Korkunç bir azap vardır onlar için."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 3,
+      "ayah": 187,
+      "formInAyah": "وَاشْتَرَوْا",
+      "transliteration": "veşterav",
+      "gloss": "ve aldılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ",
+      "verseTransliteration": "Ve iz ehazallâhu mîsâkallezîne ûtûl kitâbe le tubeyyinunnehu lin nâsi ve lâ tektumûneh(tektumûnehu), fe nebezûhu verâe zuhûrihim veşterav bihî semenen kalîlâ(kalîlen), fe bi’se mâ yeşterûn(yeşterûne).",
+      "verseMeaning": "Allah, kendilerine kitap verilenlerden şu yolda mîsak almıştı: \"Onu insanlara mutlaka açık-seçik bildireceksiniz, onu saklamayacaksınız.\" Ama onlar Kitap´ı sırtlarının gerisine attılar, basit bir ücret karşılığı onu sattılar. Ne kötü şey satın alıyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 3,
+      "ayah": 187,
+      "formInAyah": "يَشْتَرُونَ",
+      "transliteration": "yeşterūne",
+      "gloss": "satın alıyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ",
+      "verseTransliteration": "Ve iz ehazallâhu mîsâkallezîne ûtûl kitâbe le tubeyyinunnehu lin nâsi ve lâ tektumûneh(tektumûnehu), fe nebezûhu verâe zuhûrihim veşterav bihî semenen kalîlâ(kalîlen), fe bi’se mâ yeşterûn(yeşterûne).",
+      "verseMeaning": "Allah, kendilerine kitap verilenlerden şu yolda mîsak almıştı: \"Onu insanlara mutlaka açık-seçik bildireceksiniz, onu saklamayacaksınız.\" Ama onlar Kitap´ı sırtlarının gerisine attılar, basit bir ücret karşılığı onu sattılar. Ne kötü şey satın alıyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 3,
+      "ayah": 199,
+      "formInAyah": "يَشْتَرُونَ",
+      "transliteration": "yeşterūne",
+      "gloss": "satmazlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَنْ يُؤْمِنُ بِاللَّهِ وَمَا أُنْزِلَ إِلَيْكُمْ وَمَا أُنْزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا ۗ أُولَٰئِكَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ ۗ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "Ve inne min ehlil kitâbi le men yu’minu billâhi ve mâ unzile ileykum ve mâ unzile ileyhim hâşiîne lillâhi, lâ yeşterûne bi âyâtillâhi semenen kalîlâ(kalîlen), ulâike lehum ecruhum inde rabbihim innallâhe serîul hısâb(hısâbi).",
+      "verseMeaning": "Ehlikitap´tan öyleleri var ki, Allah´a, size indirilene ve kendilerine indirilene inanırlar. Allah karşısında ürperirler; Allah´ın ayetlerini basit bir ücret karşılığı satmazlar. İşte bunlar için Rableri katında kendilerine özgü ödüller vardır. Allah, hesabı, çabucak görüverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 4,
+      "ayah": 44,
+      "formInAyah": "يَشْتَرُونَ",
+      "transliteration": "yeşterūne",
+      "gloss": "satın alıyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَنْ تَضِلُّوا السَّبِيلَ",
+      "verseTransliteration": "E lem tere ilellezîne ûtû nasîben minel kitâbi yeşterûned dalâlete ve yurîdûne en tedıllus sebîl(sebîle).",
+      "verseMeaning": "Kendilerine Kitap´tan bir nasip verilenlere baksana! Sapıklığı satın alıyorlar da istiyorlar ki, siz de yolu şaşırasınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 5,
+      "ayah": 44,
+      "formInAyah": "تَشْتَرُوا",
+      "transliteration": "teşterū",
+      "gloss": "ve satmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ",
+      "verseTransliteration": "İnnâ enzelnet tevrâte fîhâ huden ve nûr(nûrun), yahkumu bihen nebiyyûnellezîne eslemû lillezîne hâdû ver rabbâniyyûne vel ahbâru bimestuhfizû min kitâbillâhi ve kânû aleyhi şuhedâe, fe lâ tahşevûn nâse vahşevni ve lâ teşterû bi âyâtî semenen kalîlâ(kalîlen) ve men lem yahkum bimâ enzelallâhu fe ulâike humul kâfirûn(kâfirûne).",
+      "verseMeaning": "Biz indirdik Tevrat´ı, biz. İyiye ve güzele kılavuz var onda, ışık var. Allah´a teslim olmuş peygamberler, Yahudilere onunla hakemlik yaparlardı. Kendini Rabb´e adayanlarla ilim ve hikmette derinleşmiş olanlar da Allah´ın Kitabı´ndan korumakla görevli olduklarıyla hükmederlerdi. Zaten onlar Allah´ın Kitabı´na tanıklardı. Artık insanlardan korkmayın, benden korkun da ayetlerimi basit bir ücret karşılığı satmayın. Allah´ın indirdiği ile hükmetmeyenler, kâfirlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 5,
+      "ayah": 106,
+      "formInAyah": "نَشْتَرِي",
+      "transliteration": "neşterī",
+      "gloss": "satmayacağız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الْأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلَاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ إِنَّا إِذًا لَمِنَ الْآثِمِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû şehâdetu beynikum izâ hadara ehadekumul mevtu hînel vasiyyetisnâni zevâ adlin minkum ev âharâni min gayrikum in entum darabtum fîl ardı fe esâbetkum musîbetul mevt(mevti) tahbisûnehumâ min ba’dis salâti fe yuksîmâni billâhi in irtebtum lâ neşterî bihî semenen ve lev kâne zâ kurbâ ve lâ nektumu şehâdetallâhi innâ izen le minel âsimîn(âsimîne).",
+      "verseMeaning": "Ey iman edenler! Herhangi birinize ölüm gelip çattığında, vasiyet zamanı aranızdaki tanıklık şöyle olsun: Kendinizden adalet sahibi iki kişi yahut yolculuk etmekte iken ölüm musibeti başınıza geldiyse sizin dışınızdan iki kişi. Bunları namazdan sonra alıkoyarsınız; kuşkulanırsanız şöyle yemin ederler: \"Vallahi, yakınlarımız da olsa yeminimizi hiçbir ücret karşılığı satmayacağız, Allah´ın tanıklığını saklamayacağız. Çünkü böyle yaparsak mutlaka günahkârlardan oluruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 9,
+      "ayah": 9,
+      "formInAyah": "اشْتَرَوْا",
+      "transliteration": "İşterav",
+      "gloss": "sattılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اشْتَرَوْا بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا عَنْ سَبِيلِهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "İşterev bi âyâtillâhi semenen kalîlen fe saddû an sebîlih(sebîlihî),innehum sâe mâ kânû ya´melûn(ya´melûne).",
+      "verseMeaning": "Allah´ın ayetlerini nasıl basit bir ücret karşılığı sattılar da Allah´ın yolundan alıkoydular. Gerçekten ne fena şeylerdir onların yapmakta oldukları."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 9,
+      "ayah": 111,
+      "formInAyah": "اشْتَرَىٰ",
+      "transliteration": "şterā",
+      "gloss": "satın almıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ ۚ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ وَالْإِنْجِيلِ وَالْقُرْآنِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِ مِنَ اللَّهِ ۚ فَاسْتَبْشِرُوا بِبَيْعِكُمُ الَّذِي بَايَعْتُمْ بِهِ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "İnnallâheşterâ minel mu’minîne enfusehum ve emvâlehum bi enne lehumul cenneh(cennete), yukâtilûne fî sebîlillâhi fe yaktulûne ve yuktelûne va’den aleyhi hakkan fît tevrâti vel incîli vel kur’ân(kur’âni), ve men evfâ bi ahdihî minallâhi, festebşirû bi bey’ıkumullezî bâya’tum bih (bihî), ve zâlike huvel fevzul azîm(azîmu).",
+      "verseMeaning": "Allah, müminlerin canlarını ve mallarını, karşılığında kendilerine cennet vermek üzere satın almıştır. Allah yolunda çarpışırlar da öldürürler, öldürülürler. Allah´ın; Tevrat´ta, İncil´de ve Kur´an´da kendi üzerine hak olarak yazdığı bir vaattır bu. Ahdine, Allah´tan daha vefalı kim var? Perçinlediğiniz bu antlaşmanızdan ötürü müjdeler olsun size. İşte budur o büyük başarının ta kendisi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 12,
+      "ayah": 21,
+      "formInAyah": "اشْتَرَاهُ",
+      "transliteration": "şterāhu",
+      "gloss": "onu satın alan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Ve kâlellezîşterâhu min mısra limre’etihî ekrimî mesvâhu asâ en yenfeanâ ev nettehizehu veledâ(veleden), ve kezâlike mekkennâ li yûsufe fîl ardı ve li nuallimehu min te’vîlil ehâdîs(ehâdîsi), vallâhu gâlibun alâ emrihî ve lâkinne ekseren nâsi lâ ya’lemun(ya’lemune).",
+      "verseMeaning": "Onu satın alan Mısırlı, karısına şöyle dedi: \"Ona iyi bak, kendisine güzel bir yer hazırla. Bize yararı dokunabilir. Belki de evlat ediniriz onu.\" İşte bu şekilde biz Yûsuf´a yeryüzünde imkân verip o toprağa yerleştirdik ki, ona olayların/haberlerin yorumunu öğretelim. Allah, kendi emrine Gâlib´dir/kendi emrine hükmeder. Ama insanların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 16,
+      "ayah": 95,
+      "formInAyah": "تَشْتَرُوا",
+      "transliteration": "teşterū",
+      "gloss": "satmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا ۚ إِنَّمَا عِنْدَ اللَّهِ هُوَ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ve lâ teşterû bi ahdillâhi semenen kalîlâ(kalîlen), innemâ indallâhi huve hayrun lekum in kuntum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Allah´a verdiğiniz sözü basit bir ücret karşılığı satmayın. Eğer bilirseniz, Allah katında olan, sizin için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱشْتَرَىٰ",
+      "sura": 31,
+      "ayah": 6,
+      "formInAyah": "يَشْتَرِي",
+      "transliteration": "yeşterī",
+      "gloss": "satın alır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+      "verseTransliteration": "Ve minen nâsi men yeşterî lehvel hadîsi li yudılle an sebîlillâhi bi gayri ilmin ve yettehızehâ huzuvâ(huzuven), ulâike lehum azâbun muhîn(muhînun).",
+      "verseMeaning": "İnsanlardan öylesi vardır ki, Allah yolundan bilgisizce saptırmak için hadis/laf eğlencesi satın alır ve onu alay konusu edinir. İşte böylelerine rezil edici bir azap vardır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24ry"
+}

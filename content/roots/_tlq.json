@@ -1,0 +1,543 @@
+{
+  "id": "Tlq",
+  "latinName": "Ta-Lam-Kaf",
+  "lettersArabic": "ط ل ق",
+  "meanings": [
+    "to be free from bond, be divorced, be repudiated. talaaq - divorce. ta'allaqa (vb. 2) - to divorce/quit/leave. mutallaqatun - divorced woman. intalaqa - to start doing something, depart, set out in doing something, go ones way, be free or loose."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 23,
+  "lemmas": [
+    {
+      "formArabic": "طَّلَٰق",
+      "count": 2
+    },
+    {
+      "formArabic": "طَلَّقَ",
+      "count": 10
+    },
+    {
+      "formArabic": "مُطَلَّقَٰت",
+      "count": 2
+    },
+    {
+      "formArabic": "ٱنطَلَقَ",
+      "count": 9
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّلَٰق",
+      "sura": 2,
+      "ayah": 227,
+      "formInAyah": "الطَّلَاقَ",
+      "transliteration": "T-Talāḳa",
+      "gloss": "boşamaya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنْ عَزَمُوا الطَّلَاقَ فَإِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "Ve in azemût talâka fe innallâhe semîun alîm(alîmun).",
+      "verseMeaning": "Eğer boşamaya kesin karar vermişlerse, şüphesiz Allah çok iyi işiten, çok iyi bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّلَٰق",
+      "sura": 2,
+      "ayah": 229,
+      "formInAyah": "الطَّلَاقُ",
+      "transliteration": "ET-Talāḳu",
+      "gloss": "boşama",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "Et talâku merratân(merratâni), fe imsâkun bi ma’rûfin ev tesrîhun bi ihsân(ihsânin), ve lâ yahıllu lekum en te’huzû mimmâ âteytumûhunne şey’en illâ en yehâfâ ellâ yukîmâ hudûdallâh(hudûdallâhi), fe in hıftum ellâ yukîmâ hudûdallâhi, fe lâ cunâha aleyhimâ fî meftedet bih(bihî), tilke hudûdullâhi fe lâ ta’tedûhâ, ve men yeteadde hudûdallâhi fe ulâike humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Boşama iki kezdir. Bunun ardından ya iyilikle tutmak ya da güzelce serbest bırakmak gerekir. Onlara verdiğinizden bir şeyi geri almanız size helal olmaz. Erkekle kadının Allah´ın sınırlarını korumada endişe etmeleri hali başka. Erkek ve kadının Allah´ın sınırlarında duramayacaklarından endişe ederseniz, o zaman kadının verdiği fidyede ikisine de bir günah yoktur. İşte bunlar Allah´ın sınırlarıdır. Bunları aşmayın. Allah´ın sınırlarını aşanlar, işte onlar, zalimlerin ta kendileridirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 2,
+      "ayah": 230,
+      "formInAyah": "طَلَّقَهَا",
+      "transliteration": "Talleḳahā",
+      "gloss": "O (vardığı adam) da boşarsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَإِنْ طَلَّقَهَا فَلَا تَحِلُّ لَهُ مِنْ بَعْدُ حَتَّىٰ تَنْكِحَ زَوْجًا غَيْرَهُ ۗ فَإِنْ طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يَتَرَاجَعَا إِنْ ظَنَّا أَنْ يُقِيمَا حُدُودَ اللَّهِ ۗ وَتِلْكَ حُدُودُ اللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Fe in tallakahâ fe lâ tahıllu lehu min ba’du hattâ tenkiha zevcen gayrah(gayrahu), fe in tallakahâ fe lâ cunâha aleyhimâ en yeterâceâ in zannâ en yukîmâ hudûdallâh(hudûdallâhi), ve tilke hudûdullâhi yubeyyinuhâ li kavmin ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Bütün bunların ardından erkek, kadını boşarsa artık bundan sonra başka bir eşle nikahlanıncaya kadar ilk erkeğe helal olmaz. İkinci erkek kadını boşadığında, boşanan kadınla ilk erkek Allah´ın sınırlarını koruyabileceklerini düşünürlerse, birbirlerine dönmelerinde sakınca yoktur. İşte bunlar Allah´ın sınırlarıdır ki, Allah bunları bilgi sahibi bir topluluğa açıklar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 2,
+      "ayah": 230,
+      "formInAyah": "طَلَّقَهَا",
+      "transliteration": "Talleḳahā",
+      "gloss": "(erkek) yine boşarsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَإِنْ طَلَّقَهَا فَلَا تَحِلُّ لَهُ مِنْ بَعْدُ حَتَّىٰ تَنْكِحَ زَوْجًا غَيْرَهُ ۗ فَإِنْ طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يَتَرَاجَعَا إِنْ ظَنَّا أَنْ يُقِيمَا حُدُودَ اللَّهِ ۗ وَتِلْكَ حُدُودُ اللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Fe in tallakahâ fe lâ tahıllu lehu min ba’du hattâ tenkiha zevcen gayrah(gayrahu), fe in tallakahâ fe lâ cunâha aleyhimâ en yeterâceâ in zannâ en yukîmâ hudûdallâh(hudûdallâhi), ve tilke hudûdullâhi yubeyyinuhâ li kavmin ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Bütün bunların ardından erkek, kadını boşarsa artık bundan sonra başka bir eşle nikahlanıncaya kadar ilk erkeğe helal olmaz. İkinci erkek kadını boşadığında, boşanan kadınla ilk erkek Allah´ın sınırlarını koruyabileceklerini düşünürlerse, birbirlerine dönmelerinde sakınca yoktur. İşte bunlar Allah´ın sınırlarıdır ki, Allah bunları bilgi sahibi bir topluluğa açıklar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 2,
+      "ayah": 231,
+      "formInAyah": "طَلَّقْتُمُ",
+      "transliteration": "Talleḳtumu",
+      "gloss": "boşadığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Ve izâ tallaktumun nisâe fe belagne ecelehunne fe emsikûhunne bi ma’rûfin ev serrihûhunne bi ma’rûf(ma’rûfin), ve lâ tumsikûhunne dırâran li ta’tedû, ve men yef’al zâlike fe kad zaleme nefseh(nefsehu), ve lâ tettehızû âyâtillâhi huzuvâ(huzuven), vezkurû ni’metallâhi aleykum ve mâ enzele aleykum minel kitâbi vel hikmeti yeızukum bih(bihî), vettekûllâhe va’lemû ennallâhe bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Kadınları boşadığınızda, bekleme sürelerini tamamladılar mı ya onları örfe uygun olarak tutun yahut da örfe uygun olarak serbest bırakın. Onları, zulmetmeniz için, zararlarına bir biçimde, tutmayın. Bunu yapan, öz benliğine zulmetmiş olur. Allah´ın ayetlerini eğlence aracı yapmayın. Allah´ın üzerinizdeki nimetini ve kendisiyle size öğüt vermek için indirdiği Kitap´ı ve hikmeti hatırlayın. Allah´tan korkun ve bilin ki, Allah her şeyi çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 2,
+      "ayah": 232,
+      "formInAyah": "طَلَّقْتُمُ",
+      "transliteration": "Talleḳtumu",
+      "gloss": "boşadığınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَنْ يَنْكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْا بَيْنَهُمْ بِالْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِ مَنْ كَانَ مِنْكُمْ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+      "verseTransliteration": "Ve izâ tallaktumun nisâe fe belagne ecelehunne fe lâ ta’dulûhunne en yenkıhne ezvâcehunne izâ terâdav beynehum bil ma’rûf(ma’rûfi), zâlike yûazu bihî men kâne minkum yu’minu billâhi vel yevmil âhır(âhıri), zâlikum ezkâ lekum ve ather(atheru), vallâhu ya’lemu ve entum lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Kadınları boşadığınız zaman bekleme sürelerini tamamladıklarında, kendi aralarında örfe uygun olarak anlaşmışlarsa eski kocalarıyla nikahlanmaları hususunda onlara engel çıkarmayın. Bu, sizin Allah´a ve âhıret gününe inanmış olanınıza verilen öğüttür. Bu sizin için daha isabetli ve daha temizdir, Allah bilir ama siz bilmezsiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 2,
+      "ayah": 236,
+      "formInAyah": "طَلَّقْتُمُ",
+      "transliteration": "Talleḳtumu",
+      "gloss": "boşarsınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "لَا جُنَاحَ عَلَيْكُمْ إِنْ طَلَّقْتُمُ النِّسَاءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ مَتَاعًا بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُحْسِنِينَ",
+      "verseTransliteration": "Lâ cunâha aleykum in tallaktumun nisâe mâ lem temessûhunne ev tefridû lehunne farîdâh(farîdâten) ve mettiûhunne alel mûsiı kaderuhu ve alel muktiri kaderuh(kaderuhu) metâan bil ma’rûf(ma’rûfi), hakkan alel muhsinîn(muhsinîne).",
+      "verseMeaning": "Kendilerine dokunmadan veya onlar için herhangi bir mehr belirlemeden kadınları boşamanızda sizin için günah yoktur. Ancak onları nimetlendirin. İmkânları geniş olan kendi gücünce yapar bunu, imkânları sınırlı olan da kendi gücünce yapar. Örfe uygun bir nimetlendirme... Güzel düşünüp güzel davrananlar üzerine bir borç..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 2,
+      "ayah": 237,
+      "formInAyah": "طَلَّقْتُمُوهُنَّ",
+      "transliteration": "Talleḳtumūhunne",
+      "gloss": "onları boşarsanız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِنْ طَلَّقْتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّا أَنْ يَعْفُونَ أَوْ يَعْفُوَ الَّذِي بِيَدِهِ عُقْدَةُ النِّكَاحِ ۚ وَأَنْ تَعْفُوا أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنْسَوُا الْفَضْلَ بَيْنَكُمْ ۚ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Ve in tallaktumûhunne min kabli en temessûhunne ve kadfaradtum lehunne farîdaten fe nısfu mâ faradtum illâen ya’fûne ev ya’fuvellezî bi yedihî ukdetun nikâh(nikâhı), ve en ta’fû akrabu lit takvâ ve lâ tensevul fadla beynekum innallâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Bir mehr belirlemişseniz ve kadınları hiç dokunmadan boşamışsanız, kestiğiniz mehrin yarısını verin. Ancak kadınların vazgeçmesi ile, nikah bağı elinde bulunan erkeğin durumu müstesna. Erkekler olarak sizin vazgeçmeniz takvaya daha yakındır. Aranızdaki lütufkârlık farkını unutmayın. Allah, yapmakta olduklarınızı en iyi şekilde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 33,
+      "ayah": 49,
+      "formInAyah": "طَلَّقْتُمُوهُنَّ",
+      "transliteration": "Talleḳtumūhunne",
+      "gloss": "boşarsanız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ nekahtumul mu’minâti summe tallaktumûhunne min kabli en temessûhunne fe mâ lekum aleyhinne min iddetin ta’teddûnehâ, fe mettiûhunne ve serrihûhunne serâhan cemîlâ(cemîlen).",
+      "verseMeaning": "Ey iman edenler! Mümin kadınları nikâhlayıp da kendilerini, onlara dokunmadan boşarsanız, sizin belirleyeceğiniz bir iddet boyunca onları bekletme hakkınız yoktur. O halde, böyle durumlarda onları nimetlendirin ve kendilerini güzelce serbest bırakın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 65,
+      "ayah": 1,
+      "formInAyah": "طَلَّقْتُمُ",
+      "transliteration": "Talleḳtumu",
+      "gloss": "boşa(mak iste)diğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu izâ tallaktumun nisâe fe tallikûhunne li iddetihinne ve ahsûl iddeh(iddete), vettekûllâhe rabbekum, lâ tuhricûhunne min buyûtihinne ve lâ yahrucne illâ en ye’tîne bi fâhişetin mubeyyineh(mubeyyinetin), ve tilke hudûdullâh(hudûdullâhi), ve men yeteadde hudûdallâhi fe kad zaleme nefseh(nefsetu), lâ tedrî leallallâhe yuhdısu ba’de zâlike emrâ(emren).",
+      "verseMeaning": "Ey Peygamber! Kadınları boşadığınız zaman iddetlerine doğru boşayın ve iddeti iyi sayın! Rabbiniz olan Allah´tan korkun! Onları evlerinden çıkarmayın; onlar da çıkmasınlar. Apaçık ve belgeli bir yüzsüzlük yapmaları durumu müstesna. İşte bunlar Allah´ın sınırlarıdır. Allah´ın sınırlarını çiğneyen kendi benliğine zulmetmiş olur. Bilemezsin, belki Allah bundan sonra yeni bir iş/oluş ortaya çıkarır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 65,
+      "ayah": 1,
+      "formInAyah": "فَطَلِّقُوهُنَّ",
+      "transliteration": "feTalliḳūhunne",
+      "gloss": "onları boşayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu izâ tallaktumun nisâe fe tallikûhunne li iddetihinne ve ahsûl iddeh(iddete), vettekûllâhe rabbekum, lâ tuhricûhunne min buyûtihinne ve lâ yahrucne illâ en ye’tîne bi fâhişetin mubeyyineh(mubeyyinetin), ve tilke hudûdullâh(hudûdullâhi), ve men yeteadde hudûdallâhi fe kad zaleme nefseh(nefsetu), lâ tedrî leallallâhe yuhdısu ba’de zâlike emrâ(emren).",
+      "verseMeaning": "Ey Peygamber! Kadınları boşadığınız zaman iddetlerine doğru boşayın ve iddeti iyi sayın! Rabbiniz olan Allah´tan korkun! Onları evlerinden çıkarmayın; onlar da çıkmasınlar. Apaçık ve belgeli bir yüzsüzlük yapmaları durumu müstesna. İşte bunlar Allah´ın sınırlarıdır. Allah´ın sınırlarını çiğneyen kendi benliğine zulmetmiş olur. Bilemezsin, belki Allah bundan sonra yeni bir iş/oluş ortaya çıkarır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَلَّقَ",
+      "sura": 66,
+      "ayah": 5,
+      "formInAyah": "طَلَّقَكُنَّ",
+      "transliteration": "Talleḳakunne",
+      "gloss": "o sizi boşarsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "عَسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا",
+      "verseTransliteration": "Asâ rabbuhû in tallakakunne en yubdilehû ezvâcen hayren min kunne muslimâtin mû’minâtin kânitâtin tâibâtin âbidâtin sâihâtin seyyibâtin ve ebkârâ(ebkâren).",
+      "verseMeaning": "O sizi boşarsa, kim bilir belki de Rabbi ona sizin yerinize sizden daha hayırlı eşler nasip eder: Allah´a teslim olan, iman sahibi, gönülden bağlı, tövbe etmesini seven, ibadete düşkün, yolculuk edebilen dullar ve bâkireler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُطَلَّقَٰت",
+      "sura": 2,
+      "ayah": 228,
+      "formInAyah": "وَالْمُطَلَّقَاتُ",
+      "transliteration": "velmuTalleḳātu",
+      "gloss": "boşanmış kadınlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "Dişil, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَنْ يَكْتُمْنَ مَا خَلَقَ اللَّهُ فِي أَرْحَامِهِنَّ إِنْ كُنَّ يُؤْمِنَّ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنْ أَرَادُوا إِصْلَاحًا ۚ وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "Vel mutallakâtu yeterabbasne bi enfusihinne selâsete kurûin, ve lâ yahıllu lehunne en yektumne mâ halakallâhu fî erhâmihinne in kunne yu’minne billâhi vel yevmil âhır(âhıri), ve buûletuhunne ehakku bi reddihinne fî zâlike in erâdû ıslâhâ(ıslâhan), ve lehunne mislullezî aleyhinne bil ma’rûf(ma’rûfi), ve lir ricâli aleyhinne dereceh(derecetun), vallâhu azîzun hakîm(hakîmun).",
+      "verseMeaning": "Boşanmış kadınlar kendi başlarına üç âdet ve temizlenme süresi beklerler. Eğer Allah´a ve âhıret gününe inanmakta iseler, Allah´ın onların rahimlerinde yarattığını saklamaları kendilerine helal olmaz. Kocaları, bu süre içinde herhangi bir şekilde barışmak isterlerse eşlerini geri almaya herkesten daha çok hak sahibidirler. Kadınların, örfe uygun biçimde, sorumluluklarına benzer hakları da vardır. Erkeklerin kadınlar üzerinde bir derece farkı vardır. Allah Azîz´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُطَلَّقَٰت",
+      "sura": 2,
+      "ayah": 241,
+      "formInAyah": "وَلِلْمُطَلَّقَاتِ",
+      "transliteration": "velilmuTalleḳāti",
+      "gloss": "ve boşanmış kadınların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "Edilgen",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُتَّقِينَ",
+      "verseTransliteration": "Ve lil mutallakâti metâun bil ma’rûf(ma’rûfi) hakkan alel muttekîn(muttekîne).",
+      "verseMeaning": "Boşanmış kadınlar için örfe uygun bir geçim imkânı sağlanması Allah´tan korkanlar üzerine bir borçtur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 18,
+      "ayah": 71,
+      "formInAyah": "فَانْطَلَقَا",
+      "transliteration": "fenTaleḳā",
+      "gloss": "sonra yürüdüler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, İkil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَانْطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا",
+      "verseTransliteration": "Fentalakâ, hattâ izâ rakibâ fîs sefîneti harakahâ kâle e haraktehâ li tugrika ehlehâ, lekad ci’te şey’en imrâ(imren).",
+      "verseMeaning": "İkisi birlikte yola koyudular. Bir süre sonra gemiye bindiklerinde, tuttu gemiyi deliverdi. Mûsa dedi: \"İçindekileri boğmak için mi deldin onu? Vallahi korkunç bir iş yaptın!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 18,
+      "ayah": 74,
+      "formInAyah": "فَانْطَلَقَا",
+      "transliteration": "fenTaleḳā",
+      "gloss": "yine yürüdüler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, İkil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَانْطَلَقَا حَتَّىٰ إِذَا لَقِيَا غُلَامًا فَقَتَلَهُ قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَقَدْ جِئْتَ شَيْئًا نُكْرًا",
+      "verseTransliteration": "Fentalekâ, hattâ izâ lekıyâ gulâmen fe katelehu kâle e katelte nefsen zekiyyeten bi gayri nefs(nefsin), lekad ci’te şey’en nukrâ(nukren).",
+      "verseMeaning": "Yine yola koyuldular. Bir süre sonra bir oğlana rastgeldiler; tuttu onu öldürdü. Mûsa dedi: \"Tertemiz bir insanı, bir cana karşılık olmaksızın öldürdün ha!? Vallahi çok kötü bir iş yaptın!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 18,
+      "ayah": 77,
+      "formInAyah": "فَانْطَلَقَا",
+      "transliteration": "fenTaleḳā",
+      "gloss": "yine yürüdüler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, İkil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَانْطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَنْ يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ يَنْقَضَّ فَأَقَامَهُ ۖ قَالَ لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا",
+      "verseTransliteration": "Fentalekâ, hattâ izâ eteyâ ehle karyetin istat’amâ ehlehâ fe ebev en yudayyifûhumâ fe vecedâ fîhâ cidâren yurîdu en yenkadda fe ekâmeh(ekâmehu), kâle lev şi’te lettehazte aleyhi ecrâ(ecren).",
+      "verseMeaning": "Yine yola koyuldular. Biraz sonra bir kente geldiler. Kent halkından yemek istediler, ama onlar bu ikisini konuk etmekten çekindiler. Orada, yıkılmayı bekleyen bir duvara rastladılar; genç adam tuttu onu onardı. Mûsa \"İsteseydin buna karşılık bir ücret elbette alırdın.\" dedi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 26,
+      "ayah": 13,
+      "formInAyah": "يَنْطَلِقُ",
+      "transliteration": "yenTaliḳu",
+      "gloss": "açılmıyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَضِيقُ صَدْرِي وَلَا يَنْطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ",
+      "verseTransliteration": "Ve yadîku sadrî ve lâ yentaliku lisânî fe ersil ilâ hârûn(hârûne).",
+      "verseMeaning": "\"Göğsüm daralıyor, dilim açılmıyor. Görev emrini Hârun´a gönder.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 38,
+      "ayah": 6,
+      "formInAyah": "وَانْطَلَقَ",
+      "transliteration": "venTaleḳa",
+      "gloss": "ve fırladı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَانْطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ ۖ إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ",
+      "verseTransliteration": "Ventalekal meleu minhum enimşû vasbirû alâ âlihetikum inne hâzâ le şey’un yurâd(yurâdu).",
+      "verseMeaning": "İçlerinden kodaman bir grup öne çıktı: \"Haydi, yürüyün! İlahlarınıza sahip çıkmada kararlı davranın! Gerçek şu ki, istenip beklenen şey budur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 48,
+      "ayah": 15,
+      "formInAyah": "انْطَلَقْتُمْ",
+      "transliteration": "nTaleḳtum",
+      "gloss": "gittiğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَنْ يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُلْ لَنْ تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِنْ قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+      "verseTransliteration": "Se yekûlul muhallefûne izentalaktum ilâ megânime li te’huzûhâ zerûnâ nettebi’kum, yurîdûne en yubeddilû kelâmallâh(kelâmallâhi), kul len tettebiûnâ kezâlikum kâlallâhu min kabl(kablu), fe se yekûlûne bel tahsudûnenâ, bel kânû lâ yefkahûne illâ kalîlâ(kalîlen).",
+      "verseMeaning": "Geri bırakılanlar, ganimetleri almak üzere gittiğiniz zaman şöyle diyecekler: \"İzin verin, biz de size uyalım!\" Onlar Allah´ın kelamını değiştirmek istiyorlar. De ki: \"Bize asla uyamazsınız! Allah önceden de böyle buyurmuştu.\" Bu kez şöyle diyecekler: \"Hayır, siz bizi kıskanıyorsunuz.\" İşin doğrusu şu ki, onlar çok az anlıyorlar/onlar, az bir kısmı hariç, anlamıyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 68,
+      "ayah": 23,
+      "formInAyah": "فَانْطَلَقُوا",
+      "transliteration": "fenTaleḳū",
+      "gloss": "derken yürüdüler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ",
+      "verseTransliteration": "Fentalekû ve hum yetehâfetûn(yetehâfetûne).",
+      "verseMeaning": "Yola koyuldular. Aralarında fısıldaşıyorlardı:"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 77,
+      "ayah": 29,
+      "formInAyah": "انْطَلِقُوا",
+      "transliteration": "İnTaliḳū",
+      "gloss": "haydi gidin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "verseTransliteration": "İntalikû ilâ mâ kuntum bihî tukezzibûn(tukezzibûne).",
+      "verseMeaning": "Haydi, yalanlamakta olduğunuz şeye gidin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱنطَلَقَ",
+      "sura": 77,
+      "ayah": 30,
+      "formInAyah": "انْطَلِقُوا",
+      "transliteration": "İnTaliḳū",
+      "gloss": "gidin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İnfi’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+      "verseTransliteration": "İntalikû ilâ zıllin zî selâsi şuâb(şuâbin).",
+      "verseMeaning": "Haydi, üç çatallı gölgeye gidin!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Tlq"
+}

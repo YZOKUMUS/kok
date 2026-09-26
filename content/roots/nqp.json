@@ -1,0 +1,134 @@
+{
+  "id": "nqp",
+  "latinName": "Nun-Kaf-Zal",
+  "lettersArabic": "ن ق ذ",
+  "meanings": [
+    "to liberate, rescue, deliver."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "أَنقَذَ",
+      "count": 4
+    },
+    {
+      "formArabic": "يَسْتَنقِذُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنقَذَ",
+      "sura": 3,
+      "ayah": 103,
+      "formInAyah": "فَأَنْقَذَكُمْ",
+      "transliteration": "feenḳaƶekum",
+      "gloss": "(Allah) sizi kurtardı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنْتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا وَكُنْتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِنَ النَّارِ فَأَنْقَذَكُمْ مِنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ",
+      "verseTransliteration": "Va’tasımû bihablillâhi cemîân ve lâ teferrekû, vezkurû ni’metallâhi aleykum iz kuntum a’dâen fe ellefe beyne kulûbikum fe asbahtum bi ni’metihî ihvânâ(ihvânen), ve kuntum alâ şefâ hufretin minen nâri fe enkazekum minhâ, kezâlike yubeyyinullâhu lekum âyâtihî leallekum tehtedûn(tehtedûne).",
+      "verseMeaning": "Hep birlikte Allah´ın ipine yapışın, fırkalara bölünüp parçalanmayın; Allah´ın üzerinizdeki nimetini hatırlayın. Birbirinizin düşmanı idiniz, Allah kalplerinizi uzlaştırıp kaynaştırdı da O´nun nimeti sayesinde kardeşler haline geldiniz. Ateşten bir çukurun kenarında idiniz; sizi oradan kurtardı. Allah size ayetlerini bu şekilde açıklıyor ki, doğruya ve güzele yol bulasınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنقَذَ",
+      "sura": 36,
+      "ayah": 23,
+      "formInAyah": "يُنْقِذُونِ",
+      "transliteration": "yunḳiƶūni",
+      "gloss": "onlar beni kurtaramazlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَأَتَّخِذُ مِنْ دُونِهِ آلِهَةً إِنْ يُرِدْنِ الرَّحْمَٰنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ",
+      "verseTransliteration": "E ettehızu min dûnihî âliheten in yuridnir rahmânu bi durrin lâ tugni annî şefâatuhum şey’en ve lâ yunkızûn(yunkızûni).",
+      "verseMeaning": "\"O´ndan başka tanrılar mı edineyim ben? Eğer Rahman bana bir zorluk/zarar dilerse onların şefaati benden hiçbir şeyi savamaz; beni kurtaramazlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنقَذَ",
+      "sura": 36,
+      "ayah": 43,
+      "formInAyah": "يُنْقَذُونَ",
+      "transliteration": "yunḳaƶūne",
+      "gloss": "kurtarılmazlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ",
+      "verseTransliteration": "Ve in neşe’ nugrıkhum fe lâ sarîha lehum ve lâ hum yunkazûn(yunkazûne).",
+      "verseMeaning": "Eğer dilersek onları boğarız. Bu durumda ne kendileri için feryat eden olur ne de kurtarılırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنقَذَ",
+      "sura": 39,
+      "ayah": 19,
+      "formInAyah": "تُنْقِذُ",
+      "transliteration": "tunḳiƶu",
+      "gloss": "kurtaracaksın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ الْعَذَابِ أَفَأَنْتَ تُنْقِذُ مَنْ فِي النَّارِ",
+      "verseTransliteration": "E fe men hakka aleyhi kelimetul azâb(azâbi), e fe ente tunkızu men fîn nâr(nâri).",
+      "verseMeaning": "Üzerine azap sözü hak olanı, ateşe dalmış olanı sen mi kurtaracaksın?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَنقِذُ",
+      "sura": 22,
+      "ayah": 73,
+      "formInAyah": "يَسْتَنْقِذُوهُ",
+      "transliteration": "yestenḳiƶūhu",
+      "gloss": "bunu kurtaramazlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ ۚ إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ ۖ وَإِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ ۚ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+      "verseTransliteration": "Yâ eyyuhen nâsu duribe meselun festemiû leh(lehu), innellezîne ted’ûne min dûnillâhi len yahlukû zubâben ve levictemeû leh(lehu), ve in yeslubhumuz zubâbu şey’en lâ yestenkızûhu minh(minhu), daufat tâlibu vel matlûb(matlûbu).",
+      "verseMeaning": "Ey insanlar! Size bir örnek verildi; onu dinleyin. O Allah´ın yanında yakarıp durduklarınız var ya, hepsi bir araya toplansalar bir sinek bile yaratamazlar. Sinek onlardan bir şey kapacak olsa, bunu bile ondan geri alamazlar. İsteyen de âciz, istenen de..."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nqp"
+}

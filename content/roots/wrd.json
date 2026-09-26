@@ -1,0 +1,278 @@
+{
+  "id": "wrd",
+  "latinName": "Vav-Ra-Dal",
+  "lettersArabic": "و ر د",
+  "meanings": [
+    "Gelmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 11,
+  "lemmas": [
+    {
+      "formArabic": "أَوْرَدَ",
+      "count": 1
+    },
+    {
+      "formArabic": "مَوْرُود",
+      "count": 1
+    },
+    {
+      "formArabic": "وَارِد",
+      "count": 3
+    },
+    {
+      "formArabic": "وَرَدَ",
+      "count": 2
+    },
+    {
+      "formArabic": "وِرْد",
+      "count": 2
+    },
+    {
+      "formArabic": "وَرْدَة",
+      "count": 1
+    },
+    {
+      "formArabic": "وَرِيد",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَوْرَدَ",
+      "sura": 11,
+      "ayah": 98,
+      "formInAyah": "فَأَوْرَدَهُمُ",
+      "transliteration": "fe evradehumu",
+      "gloss": "sürükler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَأَوْرَدَهُمُ النَّارَ ۖ وَبِئْسَ الْوِرْدُ الْمَوْرُودُ",
+      "verseTransliteration": "Yakdumu kavmehu yevmel kıyâmeti fe evredehumun nâr(nâre), ve bi’sel virdul mevrûd(mevrûdu).",
+      "verseMeaning": "Kıyamet günü kavmine önderlik eder. İşte onları suya götürür gibi ateşe götürdü. Ne kötü varış yeridir o götürüldükleri yer!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَوْرُود",
+      "sura": 11,
+      "ayah": 98,
+      "formInAyah": "الْمَوْرُودُ",
+      "transliteration": "l-mevrūdu",
+      "gloss": "vardıkları yer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَأَوْرَدَهُمُ النَّارَ ۖ وَبِئْسَ الْوِرْدُ الْمَوْرُودُ",
+      "verseTransliteration": "Yakdumu kavmehu yevmel kıyâmeti fe evredehumun nâr(nâre), ve bi’sel virdul mevrûd(mevrûdu).",
+      "verseMeaning": "Kıyamet günü kavmine önderlik eder. İşte onları suya götürür gibi ateşe götürdü. Ne kötü varış yeridir o götürüldükleri yer!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَارِد",
+      "sura": 12,
+      "ayah": 19,
+      "formInAyah": "وَارِدَهُمْ",
+      "transliteration": "veridehum",
+      "gloss": "sucularını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُ ۖ قَالَ يَا بُشْرَىٰ هَٰذَا غُلَامٌ ۚ وَأَسَرُّوهُ بِضَاعَةً ۚ وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
+      "verseTransliteration": "Ve câet seyyâretun fe erselû vâridehum fe adlâ delveh(delvehu), kâle yâ buşrâ hâzâ gulâm(gulâmun), ve eserrûhu bidâah(bidâ’aten), vallâhu alîmun bi mâ ya’melûn(ya’melûne).",
+      "verseMeaning": "Bir yolcu kafilesi gelmişti. Sucularını gönderdiler. O da kovasını sarkıttı. \"Müjde! Bu bir oğlan!\" diye haykırdı. Ticaret maksadıyla onu sakladılar. Allah ne yaptıklarını çok iyi biliyordu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَارِد",
+      "sura": 19,
+      "ayah": 71,
+      "formInAyah": "وَارِدُهَا",
+      "transliteration": "vāriduhā",
+      "gloss": "oraya gitmeyecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَقْضِيًّا",
+      "verseTransliteration": "Ve in minkum illâ vâriduhâ, kâne alâ rabbike hatmen makdıyyâ(makdıyyen).",
+      "verseMeaning": "İçinizden oraya uğramayacak hiç kimse yoktur. Bu, Rabbin üzerinde kesinleşmiş bir hükümdür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَارِد",
+      "sura": 21,
+      "ayah": 98,
+      "formInAyah": "وَارِدُونَ",
+      "transliteration": "vāridūne",
+      "gloss": "gireceksiniz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنْتُمْ لَهَا وَارِدُونَ",
+      "verseTransliteration": "İnnekum ve mâ ta’budûne min dûnillâhi hasabu cehennem(cehenneme), entum lehâ vâridûn(vâridûne).",
+      "verseMeaning": "Siz ve Allah´ın berisinden, kulluk/kölelik ettikleriniz, cehennem odunusunuz. Hepiniz oraya gireceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَرَدَ",
+      "sura": 21,
+      "ayah": 99,
+      "formInAyah": "وَرَدُوهَا",
+      "transliteration": "veradūhā",
+      "gloss": "oraya girmezlerdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَوْ كَانَ هَٰؤُلَاءِ آلِهَةً مَا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Lev kâne hâulâi âliheten mâ veradûhâ, ve kullun fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Eğer onlar ilah olsalardı, oraya girmezlerdi. Oysaki, hepsi orada sürekli kalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَرَدَ",
+      "sura": 28,
+      "ayah": 23,
+      "formInAyah": "وَرَدَ",
+      "transliteration": "verade",
+      "gloss": "varınca",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "verseTransliteration": "Ve lemmâ verede mâe medyene vecede aleyhi ummeten minen nâsi yeskûn(yeskûne), ve vecede min dûnihimumreeteyni tezûdân(tezûdâni), kâle mâ hatbukumâ, kâletâ lâ neskî hattâ yusdirar riâu ve ebûnâ şeyhun kebîr(kebîrun).",
+      "verseMeaning": "Medyen suyuna ulaştığında, su başında halktan bir grup gördü. Hayvanlarını suluyorlardı. Biraz ötelerinde çekingen bir halde duran iki kadın fark etti. \"Derdiniz nedir?\" dedi. \"Şu çobanlar çekilip gidinceye kadar biz hayvanlarımızı sulamayız. Üstelik babamız da ileri yaşta bir ihtiyardır.\" dediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وِرْد",
+      "sura": 11,
+      "ayah": 98,
+      "formInAyah": "الْوِرْدُ",
+      "transliteration": "l-virdu",
+      "gloss": "bir yerdir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَأَوْرَدَهُمُ النَّارَ ۖ وَبِئْسَ الْوِرْدُ الْمَوْرُودُ",
+      "verseTransliteration": "Yakdumu kavmehu yevmel kıyâmeti fe evredehumun nâr(nâre), ve bi’sel virdul mevrûd(mevrûdu).",
+      "verseMeaning": "Kıyamet günü kavmine önderlik eder. İşte onları suya götürür gibi ateşe götürdü. Ne kötü varış yeridir o götürüldükleri yer!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وِرْد",
+      "sura": 19,
+      "ayah": 86,
+      "formInAyah": "وِرْدًا",
+      "transliteration": "virden",
+      "gloss": "yaya ve susuz olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَنَسُوقُ الْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+      "verseTransliteration": "Ve nesûkul mucrimîne ilâ cehenneme virdâ(virden).",
+      "verseMeaning": "Suçluları da susuz ve yaya olarak cehenneme sevk ederiz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَرْدَة",
+      "sura": 55,
+      "ayah": 37,
+      "formInAyah": "وَرْدَةً",
+      "transliteration": "verdeten",
+      "gloss": "kıpkırmızı bir gül",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "verseTransliteration": "Fe îzen şakkatis semâu fe kânet verdeten keddihân(keddihâni).",
+      "verseMeaning": "Gök yarılarak, eriyip kızarmış yağ/kırmızıya boyanmış deri gibi bir gül haline geldiği zaman,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَرِيد",
+      "sura": 50,
+      "ayah": 16,
+      "formInAyah": "الْوَرِيدِ",
+      "transliteration": "l-verīdi",
+      "gloss": "şah damarı-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+      "verseTransliteration": "Ve lekad halaknel insâne ve na’lemu mâ tuvesvisu bihî nefsuh(nefsuhu), ve nahnu akrebu ileyhi min hablil verîdi.",
+      "verseMeaning": "Yemin olsun ki, insanı biz yarattık. Nefsinin ona neler fısıldadığını da biz biliriz. Biz ona, şah damarından daha yakınız."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wrd"
+}

@@ -1,0 +1,280 @@
+{
+  "id": "wSl",
+  "latinName": "Vav-Sad-Lam",
+  "lettersArabic": "و ص ل",
+  "meanings": [
+    "Ulaşmak, birleşmek, bileştirmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 12,
+  "lemmas": [
+    {
+      "formArabic": "وَصَّلْ",
+      "count": 1
+    },
+    {
+      "formArabic": "وَصِيلَة",
+      "count": 1
+    },
+    {
+      "formArabic": "يَصِلُ",
+      "count": 10
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَصَّلْ",
+      "sura": 28,
+      "ayah": 51,
+      "formInAyah": "وَصَّلْنَا",
+      "transliteration": "veSSalnā",
+      "gloss": "biz birbirine bitiştirdik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "verseTransliteration": "Ve lekad vassalnâ lehumul kavle leallehum yetezekkerûn(yetezekkerûne).",
+      "verseMeaning": "Yemin olsun, biz onlar için sözü ardarda getirdik ki, düşünüp öğüt alabilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَصِيلَة",
+      "sura": 5,
+      "ayah": 103,
+      "formInAyah": "وَصِيلَةٍ",
+      "transliteration": "veSīletin",
+      "gloss": "\"vasîle\"",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا جَعَلَ اللَّهُ مِنْ بَحِيرَةٍ وَلَا سَائِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ ۙ وَلَٰكِنَّ الَّذِينَ كَفَرُوا يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ",
+      "verseTransliteration": "Mâ cealallâhu min bahîretin ve lâ sâibetin ve lâ vasîletin ve lâ hâmin ve lâkinnellezîne keferû yefterûne alâllâhi kezib(kezibe) ve ekseruhum lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Allah ne bahîre yapmıştır ne sâibe ne vasîle ne de hâm. Ne var ki küfre sapanlar yalan uydurarak Allah´a iftira ediyorlar ve çokları da akıl erdiremiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 2,
+      "ayah": 27,
+      "formInAyah": "يُوصَلَ",
+      "transliteration": "yūSale",
+      "gloss": "birleştirmesini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Ellezîne yenkudûne ahdallâhi min ba’di mîsâkıh(mîsâkıhî), ve yaktaûne mâ emerallâhu bihî en yûsale ve yufsidûne fîl ard(ardı) ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "O fâsıklar ki Allah´a verdikleri ahdi, onunla anlaşıp bağlandıktan sonra bozar, Allah´ın birleştirilmesini emrettiği şeyi keser ve yeryüzünde bozgun çıkarırlar. İşte bunlardır hüsrana uğrayanlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 4,
+      "ayah": 90,
+      "formInAyah": "يَصِلُونَ",
+      "transliteration": "yeSilūne",
+      "gloss": "sığınan(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِلَّا الَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ أَوْ جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا قَوْمَهُمْ ۚ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَاتَلُوكُمْ ۚ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا",
+      "verseTransliteration": "İllellezîne yasılûne ilâ kavmin beynekum ve beynehum mîsâkun ev câûkum hasıret sudûruhum en yukâtilûkum ev yukâtilû kavmehum ve lev şâellâhu le selletahum aleykum fe le kâtelûkum, fe inı’tezelûkum fe lem yukâtilûkum ve elkav ileykumus seleme, fe mâ cealallâhu lekum aleyhim sebîlâ(sebîlen).",
+      "verseMeaning": "Ancak sizinle aralarında antlaşma olan bir topluma sığınanlarla, kendi toplumlarıyla yahut sizinle savaşma konusunda yürekleri yetersiz kalıp da size gelenlere dokunmayın. Allah dileseydi onları elbette sizin üstünüze salardı, onlar da sizinle mutlaka savaşırlardı. O halde, sizden uzak durur, sizinle savaşmaz, size barış eli uzatırlarsa, artık Allah size, üzerlerine gitmek için bir yol vermemiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 6,
+      "ayah": 136,
+      "formInAyah": "يَصِلُ",
+      "transliteration": "yeSilu",
+      "gloss": "ulaşmaz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا ۖ فَمَا كَانَ لِشُرَكَائِهِمْ فَلَا يَصِلُ إِلَى اللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَائِهِمْ ۗ سَاءَ مَا يَحْكُمُونَ",
+      "verseTransliteration": "Ve cealû lillâhi mimmâ zeree minel harsi vel en’âmi nasîbenfe kâlû hâzâ lillâhi bi za’mihim ve hâzâ li şurekâinâ, fe mâ kâne li şurekâihim fe lâ yasılu ilâllahi ve mâ kâne lillâhi fe huve yasilu ilâ şurekâihim, sâe mâ yahkumûn(yahkumûne).",
+      "verseMeaning": "Kendi döllendirip yaydığı ekinden ve hayvanlardan Allah´a bir pay ayırdılar da kendi zanlarınca şöyle dediler: \"Bu Allah için, bu da ortaklarımız için.\" ortakları için olan Allah´a ulaşmaz. Ama Allah için olan, ortaklarına ulaşıyor. Ne kötü hüküm veriyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 6,
+      "ayah": 136,
+      "formInAyah": "يَصِلُ",
+      "transliteration": "yeSilu",
+      "gloss": "ulaşır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا فَقَالُوا هَٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَائِنَا ۖ فَمَا كَانَ لِشُرَكَائِهِمْ فَلَا يَصِلُ إِلَى اللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَائِهِمْ ۗ سَاءَ مَا يَحْكُمُونَ",
+      "verseTransliteration": "Ve cealû lillâhi mimmâ zeree minel harsi vel en’âmi nasîbenfe kâlû hâzâ lillâhi bi za’mihim ve hâzâ li şurekâinâ, fe mâ kâne li şurekâihim fe lâ yasılu ilâllahi ve mâ kâne lillâhi fe huve yasilu ilâ şurekâihim, sâe mâ yahkumûn(yahkumûne).",
+      "verseMeaning": "Kendi döllendirip yaydığı ekinden ve hayvanlardan Allah´a bir pay ayırdılar da kendi zanlarınca şöyle dediler: \"Bu Allah için, bu da ortaklarımız için.\" ortakları için olan Allah´a ulaşmaz. Ama Allah için olan, ortaklarına ulaşıyor. Ne kötü hüküm veriyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 11,
+      "ayah": 70,
+      "formInAyah": "تَصِلُ",
+      "transliteration": "teSilu",
+      "gloss": "uzanmadığını",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "فَلَمَّا رَأَىٰ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً ۚ قَالُوا لَا تَخَفْ إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمِ لُوطٍ",
+      "verseTransliteration": "Fe lemmâ reâ eydiyehum lâ tesilu ileyhi nekirehum ve evcese minhum hîfeh(hîfeten), kâlû lâ tehaf innâ ursilnâ ilâ kavmi lût(lûtin).",
+      "verseMeaning": "Ellerinin ona ulaşmadığını görünce onlardan işkillendi. Ve kendilerinden ürpermeye başladı. \"Korkma, dediler, biz Lût kavmine gönderildik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 11,
+      "ayah": 81,
+      "formInAyah": "يَصِلُوا",
+      "transliteration": "yeSilū",
+      "gloss": "ilişemeyecekler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا يَا لُوطُ إِنَّا رُسُلُ رَبِّكَ لَنْ يَصِلُوا إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ ۖ إِنَّهُ مُصِيبُهَا مَا أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ الصُّبْحُ ۚ أَلَيْسَ الصُّبْحُ بِقَرِيبٍ",
+      "verseTransliteration": "Kâlû ya lûtu innâ rusulu rabbike len yasilû ileyke fe esri bi ehlike bi kıt´ın minel leyli ve lâ yeltefit minkum ehadun illemreetek(illemreeteke), innehu musîbuhâ mâ esâbehum, inne mev’ıdehumus subh(subhu), e leyses subhu bi karîb(karîbin).",
+      "verseMeaning": "Melekler dediler: \"Biz senin Rabbinin elçileriyiz. Sana asla el süremezler. Gecenin bir yerinde aileni götür. İçinizden hiç kimse geri kalmasın; karın müstesna. O, ötekilere çatan belaya çarptırılacaktır. Onların azap vakti, sabah vaktidir. Sabah da ne kadar yakın, değil mi?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 13,
+      "ayah": 21,
+      "formInAyah": "يَصِلُونَ",
+      "transliteration": "yeSilūne",
+      "gloss": "bitiştirirler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ",
+      "verseTransliteration": "Vellezîne yasılûne mâ emerallâhu bihî en yûsale ve yahşevne rabbehum ve yehâfûne sûel hisâb(hisâbi).",
+      "verseMeaning": "Onlar, Allah´ın ulaştırılmasını emrettiği şeyi ulaştırırlar, Rablerinden korkarlar ve hesabın kötüsünden ürperti duyarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 13,
+      "ayah": 21,
+      "formInAyah": "يُوصَلَ",
+      "transliteration": "yūSale",
+      "gloss": "bitiştirilmesini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ",
+      "verseTransliteration": "Vellezîne yasılûne mâ emerallâhu bihî en yûsale ve yahşevne rabbehum ve yehâfûne sûel hisâb(hisâbi).",
+      "verseMeaning": "Onlar, Allah´ın ulaştırılmasını emrettiği şeyi ulaştırırlar, Rablerinden korkarlar ve hesabın kötüsünden ürperti duyarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 13,
+      "ayah": 25,
+      "formInAyah": "يُوصَلَ",
+      "transliteration": "yūSale",
+      "gloss": "bitiştirilmesini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۙ أُولَٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ",
+      "verseTransliteration": "Vellezîne yankudûne ahdallâhi min ba’di mîsâkıhi ve yaktaûne mâ emerallâhu bihi en yûsale ve yufsidûne fîl ardı ulâike lehumul la’netu ve lehum sûud dâr(dâri).",
+      "verseMeaning": "Allah´a verdikleri sözü, onu antlaşma haline getirdikten sonra bozanlar, Allah´ın birleştirilmesini emrettiği şeyi parçalayanlar ve yeryüzünde bozgun çıkaranlara gelince, böyleleri için lanet var. Yurdun en kötüsü de onların olacak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصِلُ",
+      "sura": 28,
+      "ayah": 35,
+      "formInAyah": "يَصِلُونَ",
+      "transliteration": "yeSilūne",
+      "gloss": "onlar erişemeycekler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنْتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ",
+      "verseTransliteration": "Kâle se neşuddu adudeke bi ahîke ve nec’alu lekumâ sultânen fe lâ yasılûne ileykumâ bi âyâtinâ, entumâ ve menittebeakumel gâlibûn(gâlibûne).",
+      "verseMeaning": "Allah buyurdu: \"Pazunu kardeşinle kuvvetlendireceğiz; size öyle bir güç/kanıt vereceğiz ki size ulaşamayacaklar. Ayetlerimize yemin olsun ki, siz ve size uyanlar, galip gelenler olacaksınız.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wSl"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "nml",
+  "latinName": "Nun-Mim-Lam",
+  "lettersArabic": "ن م ل",
+  "meanings": [
+    "to slander, disclose a thing maliciously, climb. Ant. namil - clever man. Name of a valley situated between Jibrin and Asqalaan a town on the seacost 12 miles to the north of Gaza, in Sinai and namlah is the name of a tribe living in this valley. anaamil - fingers."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 4,
+  "lemmas": [
+    {
+      "formArabic": "أَنَامِل",
+      "count": 1
+    },
+    {
+      "formArabic": "نَمْلَة",
+      "count": 1
+    },
+    {
+      "formArabic": "نَّمْل",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنَامِل",
+      "sura": 3,
+      "ayah": 119,
+      "formInAyah": "الْأَنَامِلَ",
+      "transliteration": "l-enāmile",
+      "gloss": "parmak uçlarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هَا أَنْتُمْ أُولَاءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِالْكِتَابِ كُلِّهِ وَإِذَا لَقُوكُمْ قَالُوا آمَنَّا وَإِذَا خَلَوْا عَضُّوا عَلَيْكُمُ الْأَنَامِلَ مِنَ الْغَيْظِ ۚ قُلْ مُوتُوا بِغَيْظِكُمْ ۗ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Hâ entum ulâi tuhıbbûnehum ve lâ yuhıbbûnekum ve tû’minûne bil kitâbi kullih(kullihi), ve izâ lekûkum kâlû âmennâ, ve izâ halev addû aleykumul enâmile minel gayz(gayzi), kul mûtû bi gayzikum, innallâhe alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Siz öyle kişilersiniz ki, onlar sizi sevmedikleri halde siz onları seversiniz. Ve Kitap´ın tümüne inanırsınız. Onlar ise sizinle karşılaştıklarında \"İnandık!\" derler; başbaşa kaldıklarında size öfkelerinden parmak uçlarını ısırırlar. De ki onlara: \"Öfkenizle geberin!\" Allah, göğüslerin içindekini çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَمْلَة",
+      "sura": 27,
+      "ayah": 18,
+      "formInAyah": "نَمْلَةٌ",
+      "transliteration": "nemletun",
+      "gloss": "bir karınca",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ",
+      "verseTransliteration": "Hattâ izâ etev alâ vâdin nemli kâlet nemletun yâ eyyuhen nemludhulû mesâkinekum, lâ yahtımennekum suleymânu ve cunûduhu ve hum lâ yeş’urûn(yeş’urûne).",
+      "verseMeaning": "Karınca vadisine geldiklerinde bir karınca şöyle seslendi: \"Ey karıncalar! Yuvalarınıza girin ki, Süeyman ve orduları farkında olmayarak sizi ezmesinler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَّمْل",
+      "sura": 27,
+      "ayah": 18,
+      "formInAyah": "النَّمْلُ",
+      "transliteration": "n-nemlu",
+      "gloss": "karıncalar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ",
+      "verseTransliteration": "Hattâ izâ etev alâ vâdin nemli kâlet nemletun yâ eyyuhen nemludhulû mesâkinekum, lâ yahtımennekum suleymânu ve cunûduhu ve hum lâ yeş’urûn(yeş’urûne).",
+      "verseMeaning": "Karınca vadisine geldiklerinde bir karınca şöyle seslendi: \"Ey karıncalar! Yuvalarınıza girin ki, Süeyman ve orduları farkında olmayarak sizi ezmesinler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَّمْل",
+      "sura": 27,
+      "ayah": 18,
+      "formInAyah": "النَّمْلِ",
+      "transliteration": "n-nemli",
+      "gloss": "karınca",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ",
+      "verseTransliteration": "Hattâ izâ etev alâ vâdin nemli kâlet nemletun yâ eyyuhen nemludhulû mesâkinekum, lâ yahtımennekum suleymânu ve cunûduhu ve hum lâ yeş’urûn(yeş’urûne).",
+      "verseMeaning": "Karınca vadisine geldiklerinde bir karınca şöyle seslendi: \"Ey karıncalar! Yuvalarınıza girin ki, Süeyman ve orduları farkında olmayarak sizi ezmesinler.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nml"
+}

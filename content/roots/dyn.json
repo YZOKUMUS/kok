@@ -1,0 +1,2162 @@
+{
+  "id": "dyn",
+  "latinName": "Dal-Ye-Nun",
+  "lettersArabic": "د ي ن",
+  "meanings": [
+    "İtaat/teslimiyet, kölelik, din; yüksek/yüce/asil/şerefli rütbe/durum/evre; borç almak veya kredi çekmek, borçlu olmak, borca girmek, borç sözleşmesi yapmak, ödünç parayı geri ödemek/geri vermek, ölüm (herkes tarafından ödenmesi gereken bir borç olduğu için), geri ödeme/tazminat; yönetmek/hükmetmek/idare etmek, sahip olmak/elinde bulundurmak; bir şeye alışkın/alışmış hale gelmek, onay, belirli yasa/kanun, sistem, gelenek/alışkanlık/iş, davranış tarzı/biçimi"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [
+    "dindar",
+    "diyanet",
+    "mütedeyyin"
+  ],
+  "cognates": [
+    {
+      "language": "Akad",
+      "form": "dīnu \"yasa, yargı\""
+    },
+    {
+      "language": "İbranice",
+      "form": "/"
+    },
+    {
+      "language": "Aramice",
+      "form": "dīn"
+    }
+  ],
+  "totalOccurrencesInQuran": 101,
+  "lemmas": [
+    {
+      "formArabic": "تَدَايَن",
+      "count": 1
+    },
+    {
+      "formArabic": "دَيْن",
+      "count": 5
+    },
+    {
+      "formArabic": "دِين",
+      "count": 92
+    },
+    {
+      "formArabic": "مَدِينِين",
+      "count": 2
+    },
+    {
+      "formArabic": "يَدِينُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَدَايَن",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "تَدَايَنْتُمْ",
+      "transliteration": "tedāyentum",
+      "gloss": "birbirinize verdiğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefâ’ul Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَيْن",
+      "sura": 2,
+      "ayah": 282,
+      "formInAyah": "بِدَيْنٍ",
+      "transliteration": "bideynin",
+      "gloss": "borç",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ tedâyentum bi deynin ilâ ecelin musemmen fektubûh(fektubûhu), velyektub beynekum kâtibun bil adl(adli), ve lâ ye’be kâtibun en yektube kemâ allemehullâhu felyektub, velyumlilillezî aleyhil hakku velyettekıllâhe rabbehû ve lâ yebhas minhu şey’â(şey’en), fe in kânellezî aleyhil hakku sefîhan ev daîfen ev lâ yestatîu en yumille huve felyumlil veliyyuhu bil adl(adli), vesteşhidû şehîdeyni min ricâlikum, fe in lem yekûnâ raculeyni fe raculun vemraetâni mimmen terdavne mineş şuhedâi en tedılle ıhdâhumâ fe tuzekkire ıhdâhumâl uhrâ ve lâ ye’beş şuhedâu izâ mâ duû, ve lâ tes’emû en tektubûhu sagîran ev kebîran ilâ ecelih(ecelihî), zâlikum aksatu indallâhi ve akvemu liş şehâdeti ve ednâ ellâ tertâbû illâ en tekûne ticâreten hâdıraten tudîrûnehâ beynekum fe leyse aleykum cunâhun ellâ tektubûhâ ve eşhidû izâ tebâya’tum, ve lâ yudârra kâtibun ve lâ şehîd(şehîdun), ve in tef’alû fe innehu fusûkun bikum, vettekûllâh(vettekûllâhe), ve yuallimukumullâh(yuallimukumullâhu), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Ey iman sahipleri! Belirli bir süre için birbirinize borç verdiğinizde onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah´ın kendisine öğrettiği şekilde yazmaktan kaçınmasın, yazsın. Borç altına giren kişi de onu kayda geçirtsin ve Rabb´inden korksun da borcundan hiç bir şey eksiltmesin. Borç altına giren, aklı ermez yahut zayıf, çaresiz biri ise yahut yazdırmaya gücü yetmiyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki kişiyi de tanık tutun. Eğer iki erkek yoksa rızanızla kabul edeceğiniz tanıklardan bir erkek ve iki kadın gerekir. Bu, kadınlardan biri şaşırırsa / unutursa ötekisi ona hatırlatsın diyedir. Tanıklar, çağırıldıklarında çekimser davranmasınlar. Küçük veya büyük, borcu, süresine kadar yazmaktan üşenmeyin. Böyle yapmanız Allah katında adalete daha yakın, tanıklık için daha sağlam, kuşkuya düşmemeniz için daha elverişlidir. Ancak aranızda döndürüp durduğunuz tamamen peşin bir ticaret söz konusu ise onu yazmamanızda sizin için bir sakınca yoktur. Karşılıklı alışveriş yaptığınızda da tanık bulundurun. Yazıcıya da tanığa da zarar verilmesin. Böyle bir şey yaparsanız bu, kendinize kötülük olur. Allah´tan korkun. Allah size öğretiyor. Allah, her şeyi en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَيْن",
+      "sura": 4,
+      "ayah": 11,
+      "formInAyah": "دَيْنٍ",
+      "transliteration": "deynin",
+      "gloss": "borcundan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Yûsîkumullâhu fî evlâdikum liz zekeri mislu hazzıl unseyeyn(unseyeyni), fe in kunne nisâen fevkasneteyni fe le hunne sulusâ mâ terek(tereke), ve in kânet vâhideten fe lehan nısf(nısfu) ve li ebeveyhi li kulli vâhidin min humâs sudusu mimmâ tereke in kâne lehu veled(veledun), fe in lem yekun lehu veledun ve verisehû ebevâhu fe li ummihis sulus(sulusu), fe in kâne lehû ıhvetun fe li ummihis sudusu, min ba’di vasiyyetin yûsî bihâ evdeyn(deynin), âbâukum ve ebnâukum, lâ tedrûne eyyuhum akrabu lekum nef’â(nef’en), ferîdaten minallâh(minallâhi) innallâhe kâne alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Allah size çocuklarınızla ilgili olarak şunu öneriyor: Erkek için, iki dişinin payı kadar. İkiden fazla kadın iseler ölenin bıraktığının üçte ikisi onlarındır. Eğer çocuk sadece bir kadınsa, mirasın yarısı onundur. Ölenin çocuğu varsa, geriye bıraktığından ana-babanın her biri için altıda bir hisse olacaktır. Ölenin çocuğu yoksa ve kendisine ana-babası mirasçı olmuşsa bu durumda anasına üçte bir düşer. Eğer kardeşleri varsa, anasının payı, yapacağı vasiyetten ve borcundan arta kalanın altıda biridir. Babalarınız var, oğullarınız var. Siz bunlardan hangisinin yarar bakımından size daha yakın olduğunu bilemezsiniz. Allah´tan bir buyruğu önemseyin. Hiç kuşkusuz Allah herşeyi bilir, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَيْن",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "دَيْنٍ",
+      "transliteration": "deynin",
+      "gloss": "borçtan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَيْن",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "دَيْنٍ",
+      "transliteration": "deynin",
+      "gloss": "borçtan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دَيْن",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "دَيْنٍ",
+      "transliteration": "deynin",
+      "gloss": "borçtan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 1,
+      "ayah": 4,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "Din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَالِكِ يَوْمِ الدِّينِ",
+      "verseTransliteration": "Mâliki yevmid dîn(dîne).",
+      "verseMeaning": "Din gününün Mâlik´i, sultanıdır O..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 2,
+      "ayah": 132,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "bu dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ",
+      "verseTransliteration": "Ve vassâ bihâ ibrâhîmu benîhi ve ya’kûb(ya’kûbu), yâ beniyye innallâhestafâ lekumud dîne fe lâ temûtunne illâ ve entum muslimûn(muslimûne).",
+      "verseMeaning": "İbrahim de oğullarına şunu vasiyet etti, Yakub da: \"Oğullarım! Allah sizin için bu dini seçmiştir. O halde ancak müslümanlar olarak can verin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 2,
+      "ayah": 193,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ ۖ فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ",
+      "verseTransliteration": "Ve kâtilûhum hattâ lâ tekûne fitnetun ve yekûned dînu lillâh(lillâhi), fe inintehev fe lâ udvâne illâ alez zâlimîn(zâlimîne).",
+      "verseMeaning": "Fitne kalmayıncaya ve din yalnız Allah´ın oluncaya kadar onlarla çarpışın. Eğer çarpışmaktan vazgeçerlerse artık zulme sapanlardan başkasına düşmanlık edilmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 2,
+      "ayah": 217,
+      "formInAyah": "دِينِكُمْ",
+      "transliteration": "dīnikum",
+      "gloss": "dininiz-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَنْ دِينِكُمْ إِنِ اسْتَطَاعُوا ۚ وَمَنْ يَرْتَدِدْ مِنْكُمْ عَنْ دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ فَأُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Yes’elûneke aniş şehril harâmi kıtâlin fîh(fîhi), kul kıtâlun fîhi kebîr(kebîrun), ve saddun an sebîlillâhi ve kufrun bihî vel mescidil harâmi ve ihrâcu ehlihî minhu ekberu indallâh(indallâhi), vel fitnetu ekberu minel katl(katli), ve lâ yezâlûne yukâtilûnekum hattâ yeruddûkum an dînikum inistetâû ve men yertedid minkum an dînihî fe yemut ve huve kâfirun fe ulâike habitat a’mâluhum fîd dunyâ vel âhireh(âhireti), ve ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Sana haram ayı, onda savaşmayı soruyorlar, De ki: \"O ayda savaş büyük bir günahtır. Ama Allah yolundan alıkoymak, O´na ve Mescid-i Haram´a nankörlük etmek, ora halkını oradan sürüp çıkarmak, Allah katında daha büyük bir günahtır.\" Fitne/baskı ve bozgunculuk, cana kıymaktan daha büyük bir kötülüktür. Eğer güçleri yetse sizi dininizden çevirinceye kadar sizinle savaşmayı sürdürürler. İçinizden kim irtidâd edip dininden dönerse kâfir olarak ölür. Böylelerinin amelleri dünyada da âhırette de boşa gitmiştir. Ateş ehlidir onlar. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 2,
+      "ayah": 217,
+      "formInAyah": "دِينِهِ",
+      "transliteration": "dīnihi",
+      "gloss": "dini-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَنْ دِينِكُمْ إِنِ اسْتَطَاعُوا ۚ وَمَنْ يَرْتَدِدْ مِنْكُمْ عَنْ دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ فَأُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Yes’elûneke aniş şehril harâmi kıtâlin fîh(fîhi), kul kıtâlun fîhi kebîr(kebîrun), ve saddun an sebîlillâhi ve kufrun bihî vel mescidil harâmi ve ihrâcu ehlihî minhu ekberu indallâh(indallâhi), vel fitnetu ekberu minel katl(katli), ve lâ yezâlûne yukâtilûnekum hattâ yeruddûkum an dînikum inistetâû ve men yertedid minkum an dînihî fe yemut ve huve kâfirun fe ulâike habitat a’mâluhum fîd dunyâ vel âhireh(âhireti), ve ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Sana haram ayı, onda savaşmayı soruyorlar, De ki: \"O ayda savaş büyük bir günahtır. Ama Allah yolundan alıkoymak, O´na ve Mescid-i Haram´a nankörlük etmek, ora halkını oradan sürüp çıkarmak, Allah katında daha büyük bir günahtır.\" Fitne/baskı ve bozgunculuk, cana kıymaktan daha büyük bir kötülüktür. Eğer güçleri yetse sizi dininizden çevirinceye kadar sizinle savaşmayı sürdürürler. İçinizden kim irtidâd edip dininden dönerse kâfir olarak ölür. Böylelerinin amelleri dünyada da âhırette de boşa gitmiştir. Ateş ehlidir onlar. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 2,
+      "ayah": 256,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "Dinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انْفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "Lâ ikrâhe fîd dîni kad tebeyyener ruşdu minel gayy(gayyi), fe men yekfur bit tâgûti ve yu’min billâhi fe kadistemseke bil urvetil vuskâ, lenfisâme lehâ, vallâhu semîun alîm(alîmun).",
+      "verseMeaning": "Dinde baskı - zorlama - tiksindirme yoktur. Doğru ve güzel olan, çirkinlik ve sapıklıktan açık bir biçimde ayrılmıştır. Her kim tâğuta sırt dönüp Allah´a inanırsa hiç kuşkusuz sapasağlam bir kulpa yapışmış olur. Kopup parçalanması yoktur o kulpun. Allah, hakkıyla işiten, en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 3,
+      "ayah": 19,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَنْ يَكْفُرْ بِآيَاتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+      "verseTransliteration": "İnned dîne indâllâhil islâm(islâmu), ve mahtelefellezîne ûtûl kitâbe illâ min ba’di mâ câehumulılmu bagyen beynehum, ve men yekfur bi âyâtillâhi fe innallâhe serîul hısâb(hısâbı).",
+      "verseMeaning": "Allah katında din İslam´dır/barış ve esenlik için Allah´a teslim olmaktır. Kitap verilmiş olanlar, kendilerine ilim geldikten sonra, aralarındaki kıskançlık/doymazlık/azgınlık/denge noktasından sapma/yalancılık/zulüm/kibir/zinakârlık yüzünden ihtilafa düştü. Kim Allah´ın ayetlerine nankörlük ederse, Allah, hesabı çabucak görecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 3,
+      "ayah": 24,
+      "formInAyah": "دِينِهِمْ",
+      "transliteration": "dīnihim",
+      "gloss": "dinlerinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَاتٍ ۖ وَغَرَّهُمْ فِي دِينِهِمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Zâlike bi ennehum kâlû len temessenen nâru illâ eyyâmen ma’dûdât(ma’dûdâtin), ve garrahum fî dînihim mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Bunun sebebi onların, \"Ateş bize sayılı birkaç gün dışında asla dokunmayacaktır\" demeleridir. Uydurmuş oldukları yalanlar, dinlerinde kendilerini aldatmaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 3,
+      "ayah": 73,
+      "formInAyah": "دِينَكُمْ",
+      "transliteration": "dīnekum",
+      "gloss": "sizin dininize",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا تُؤْمِنُوا إِلَّا لِمَنْ تَبِعَ دِينَكُمْ قُلْ إِنَّ الْهُدَىٰ هُدَى اللَّهِ أَنْ يُؤْتَىٰ أَحَدٌ مِثْلَ مَا أُوتِيتُمْ أَوْ يُحَاجُّوكُمْ عِنْدَ رَبِّكُمْ ۗ قُلْ إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "verseTransliteration": "Ve lâ tu’minû illâ li men tebia dînekum, kul innel hudâ hudallâhi en yu’tâ ehadun misle mâ ûtîtum ev yuhâccûkum inde rabbikum, kul innel fadla bi yedillâh(yedillâhi), yu’tîhi men yeşâ’(yeşâu), vallâhu vâsiun alîm(alîmun).",
+      "verseMeaning": "Dininize uyandan başkasına inanmayın.\" Söyle onlara: \"Hidâyet, Allah´ın kılavuzlamasıdır. Size verilenin benzeri bir başkasına veriliyor yahut Rabbinizin katında tartışarak size üstün gelecekler diye mi bütün bunlar?\" De ki: \"Lütuf Allah´ın elindedir; onu dilediğine verir. Allah Vâsî´dir, varlığı sürekli genişletir; Alîm´dir, herşeyi en iyi şekilde bilir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 3,
+      "ayah": 83,
+      "formInAyah": "دِينِ",
+      "transliteration": "dīni",
+      "gloss": "dininden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَفَغَيْرَ دِينِ اللَّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+      "verseTransliteration": "E fe gayre dînillâhi yebgûne ve lehû esleme men fîs semâvâti vel ardı tav’an ve kerhen ve ileyhi yurceûn(yurceûne).",
+      "verseMeaning": "Hâlâ Allah´ın dininden gayrısını mı arıyorlar? Oysaki, göklerdeki şuurlulur da, yerdekiler de ister istemez O´na teslim olmuşlardır ve yalnız O´na döndürüleceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 3,
+      "ayah": 85,
+      "formInAyah": "دِينًا",
+      "transliteration": "dīnen",
+      "gloss": "bir din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ",
+      "verseTransliteration": "Ve men yebtegi gayrel islâmi dînen fe len yukbele minh(minhu), ve huve fîl âhireti minel hâsirîn(hâsirîne).",
+      "verseMeaning": "Kim İslam´dan/Allah´a teslim olmaktan gayrı bir din ararsa artık o, ondan asla kabul edilmeyecektir. Ve o, âhirette hüsrana düşenlerdendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 4,
+      "ayah": 46,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَأَقْوَمَ وَلَٰكِنْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "verseTransliteration": "Minellezîne hâdû yuharrifûnel kelime an mevâdııhî ve yekûlûne semi’nâ ve asaynâ vesme’ gayra musmeın ve râınâ leyyen bi elsinetihim ve ta’nan fîd dîn(dîni) ve lev ennehum kâlû semi’nâ ve ata’nârnâ le kâne hayran lehum ve akvem(kveme) ve lâkin leanehumullâhu bi kufrihim fe lâ yu’minûne illâ kalîlâ(kalîlen).",
+      "verseMeaning": "Yahudilerden öyleleri var ki, kelimeleri yerlerinden kaydırırlar; din içinde sövgüler üreterek, dillerini eğip bükerek: \"Dinledik, isyan ettik; dinle, dinlenmez olası, davar güder gibi güt bizi\" derler. Eğer onlar, \"Dinledik, boyun eğdik, dinle, bak bize!\" demiş olsalardı, kendileri için daha hayırlı ve daha yerinde olurdu. Fakat Allah, küfürleri yüzünden onlara lanet etmiştir. Çok az bir kısmı hariç, iman etmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 4,
+      "ayah": 125,
+      "formInAyah": "دِينًا",
+      "transliteration": "dīnen",
+      "gloss": "din yönünden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا",
+      "verseTransliteration": "Ve men ahsenu dînen mimmen esleme vechehu lillâhi ve huve muhsinun vettebea millete ibrâhîme hanîfâ(hanîfen), vettehazallâhu ibrâhîme halîlâ(halîlen).",
+      "verseMeaning": "Güzellikler sergileyerek ve özü-sözü doğru bir halde İbrahim´in milletine uyarak yüzünü Allah´a teslim edenden daha güzel dinli kim olabilir! Allah İbrahim´i dost edinmişti."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 4,
+      "ayah": 146,
+      "formInAyah": "دِينَهُمْ",
+      "transliteration": "dīnehum",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَاعْتَصَمُوا بِاللَّهِ وَأَخْلَصُوا دِينَهُمْ لِلَّهِ فَأُولَٰئِكَ مَعَ الْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ اللَّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+      "verseTransliteration": "İllellezîne tâbû ve aslehû va’tesamû billâhi ve ahlesû dînehum lillâhi fe ulâike meal mu’minîn(mu’minîne), ve sevfe yu’tillâhul mu’minîne ecren azîmâ(azîmen).",
+      "verseMeaning": "Ancak tövbe edip hallerini düzelterek Allah´a yapışan ve dinlerini samimiyetle Allah´a özgüleyenler müstesnadır. İşte böyleleri, müminlerle beraber olacaktır. Ve Allah, müminlere yakında çok büyük bir ödül verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 4,
+      "ayah": 171,
+      "formInAyah": "دِينِكُمْ",
+      "transliteration": "dīnikum",
+      "gloss": "dininizde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Yâ ehlel kitâbi lâ taglû fî dînikum ve lâ tekûlû alâllâhi illel hakk(hakka) innemel mesîhu îsebnu meryeme resûlullâhi ve kelimetuh(kelimetuhu), elkâhâ ilâ meryeme ve rûhun minh(minhu), fe âminû billâhi ve rusulih(rusulihî), ve lâ tekûlû selâseh(selâsetun) intehû hayran lekum innemâllâhu ilâhun vâhid(vâhidun), subhânehû en yekûne lehu veled(veledun), lehu mâ fîs semâvâti ve mâ fîl ard(ardı) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "Ey Ehlikitap! Dininizde aşırılığa gidip doymazlık etmeyin! Allah hakkında gerçek dışı bir şey söylemeyin! Meryem oğlu İsa Mesih, Allah´ın resulü ve kelimesidir. Onu, kendisinden bir ruhla beraber Meryem´e atmıştır. Artık Allah´a ve resullerine inanın. \"Üçtür!\" demeyin. Son verin, sizin için daha iyi olur. Allah Vâhid´dir, tek ve biricik ilahtır. Kendisi için bir çocuk olmasından arınmıştır O. Yalnız O´nundur göklerdekiler ve yerdekiler. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 5,
+      "ayah": 3,
+      "formInAyah": "دِينِكُمْ",
+      "transliteration": "dīnikum",
+      "gloss": "sizin dininizden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Hurrimet aleykumul meytetu veddemu ve lahmul hınzîri ve mâ uhılle li gayrillâhi bihî vel munhanikatu vel mevkûzetu vel mutereddiyetu ven natîhatu ve mâ ekeles sebuu illâ mâ zekkeytum ve mâ zubiha alen nusubi ve en testaksimû bil ezlâm(ezlâmi), zâlikum fisk(fiskun), elyevme yeisellezîne keferû min dînikum fe lâ tahşevhum vahşevn(vahşevni) el yevme ekmeltu lekum dînekum ve etmemtu aleykum ni’metî ve radîtu lekumul islâme dînâ(dînen) fe menidturra fî mahmasatin gayra mutecânifin li ismin fe innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Şunlar size haram kılınmıştır: Boğazlanmayarak ölmüş hayvanın eti, kan, domuz eti, üzerine Allah´tan başkasının adı anılmış, boğulmuş, vurulmuş, yuvarlanmış, süsülmüş, canı üzerineyken yetişip kestikleriniz müstesna olmak üzere canavar tarafından yırtılmış ve dikili adak taşları üzerinde boğazlanmış hayvanlar ve bir de fal oklarıyla kısmet paylaşmanız... Bütün bunlar birer sapıştır. Küfre batmış olanlar bugün dininizden ümitlerini kestiler. Artık onlardan korkmayın, benden korkun! Bugün sizin için dininizi kemale erdirdim, üzerinizdeki nimetimi tamamladım ve sizin için din olarak İslam´ı/Allah´a teslim olmayı seçtim. Şu da var ki, her kim ciddi bir açlıkla yüz yüze gelir de günaha kaçmak maksadı olmaksızın onlardan yemek zorunda kalırsa, elbette Allah Gafûr ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 5,
+      "ayah": 3,
+      "formInAyah": "دِينَكُمْ",
+      "transliteration": "dīnekum",
+      "gloss": "dininizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Hurrimet aleykumul meytetu veddemu ve lahmul hınzîri ve mâ uhılle li gayrillâhi bihî vel munhanikatu vel mevkûzetu vel mutereddiyetu ven natîhatu ve mâ ekeles sebuu illâ mâ zekkeytum ve mâ zubiha alen nusubi ve en testaksimû bil ezlâm(ezlâmi), zâlikum fisk(fiskun), elyevme yeisellezîne keferû min dînikum fe lâ tahşevhum vahşevn(vahşevni) el yevme ekmeltu lekum dînekum ve etmemtu aleykum ni’metî ve radîtu lekumul islâme dînâ(dînen) fe menidturra fî mahmasatin gayra mutecânifin li ismin fe innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Şunlar size haram kılınmıştır: Boğazlanmayarak ölmüş hayvanın eti, kan, domuz eti, üzerine Allah´tan başkasının adı anılmış, boğulmuş, vurulmuş, yuvarlanmış, süsülmüş, canı üzerineyken yetişip kestikleriniz müstesna olmak üzere canavar tarafından yırtılmış ve dikili adak taşları üzerinde boğazlanmış hayvanlar ve bir de fal oklarıyla kısmet paylaşmanız... Bütün bunlar birer sapıştır. Küfre batmış olanlar bugün dininizden ümitlerini kestiler. Artık onlardan korkmayın, benden korkun! Bugün sizin için dininizi kemale erdirdim, üzerinizdeki nimetimi tamamladım ve sizin için din olarak İslam´ı/Allah´a teslim olmayı seçtim. Şu da var ki, her kim ciddi bir açlıkla yüz yüze gelir de günaha kaçmak maksadı olmaksızın onlardan yemek zorunda kalırsa, elbette Allah Gafûr ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 5,
+      "ayah": 3,
+      "formInAyah": "دِينًا",
+      "transliteration": "dīnen",
+      "gloss": "din olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Hurrimet aleykumul meytetu veddemu ve lahmul hınzîri ve mâ uhılle li gayrillâhi bihî vel munhanikatu vel mevkûzetu vel mutereddiyetu ven natîhatu ve mâ ekeles sebuu illâ mâ zekkeytum ve mâ zubiha alen nusubi ve en testaksimû bil ezlâm(ezlâmi), zâlikum fisk(fiskun), elyevme yeisellezîne keferû min dînikum fe lâ tahşevhum vahşevn(vahşevni) el yevme ekmeltu lekum dînekum ve etmemtu aleykum ni’metî ve radîtu lekumul islâme dînâ(dînen) fe menidturra fî mahmasatin gayra mutecânifin li ismin fe innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Şunlar size haram kılınmıştır: Boğazlanmayarak ölmüş hayvanın eti, kan, domuz eti, üzerine Allah´tan başkasının adı anılmış, boğulmuş, vurulmuş, yuvarlanmış, süsülmüş, canı üzerineyken yetişip kestikleriniz müstesna olmak üzere canavar tarafından yırtılmış ve dikili adak taşları üzerinde boğazlanmış hayvanlar ve bir de fal oklarıyla kısmet paylaşmanız... Bütün bunlar birer sapıştır. Küfre batmış olanlar bugün dininizden ümitlerini kestiler. Artık onlardan korkmayın, benden korkun! Bugün sizin için dininizi kemale erdirdim, üzerinizdeki nimetimi tamamladım ve sizin için din olarak İslam´ı/Allah´a teslim olmayı seçtim. Şu da var ki, her kim ciddi bir açlıkla yüz yüze gelir de günaha kaçmak maksadı olmaksızın onlardan yemek zorunda kalırsa, elbette Allah Gafûr ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 5,
+      "ayah": 54,
+      "formInAyah": "دِينِهِ",
+      "transliteration": "dīnihi",
+      "gloss": "dini-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ ۚ ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû men yertedde minkum an dînihî fe sevfe ye’tîllâhu bi kavmin yuhıbbuhum ve yuhıbbûnehû ezilletin alâl mu’minîne eizzetin alâl kâfirîn(kâfirîne), yucâhidûne fî sebîlillâhi ve lâ yehâfûne levmete lâim(lâimin) zâlike fadlullâhi yu’tîhi men yeşâ(yeşâu) vallâhu vâsiun alîm(alîmun).",
+      "verseMeaning": "Ey inananlar! İçinizden kim dininden dönerse şunu bilsin: Allah, yakında, kendilerini sevdiği ve kendisini seven, müminlere karşı boynu bükük, kâfirlere karşı başı dik bir topluluk getirecektir. Bunlar Allah yolunda savaşırlar, hiçbir kınayanın kınamasından korkmazlar. Bu, Allah´ın, dilediğine yönelttiği bir lütuftur. Allah, yaratılışı ve yarattıklarını genişletir, her şeyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 5,
+      "ayah": 57,
+      "formInAyah": "دِينَكُمْ",
+      "transliteration": "dīnekum",
+      "gloss": "dininizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الَّذِينَ اتَّخَذُوا دِينَكُمْ هُزُوًا وَلَعِبًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَالْكُفَّارَ أَوْلِيَاءَ ۚ وَاتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tettehızûllezînettehazû dînekum huzuven ve leiben min ellezîne ûtûl kitâbe min kablikum vel kuffâra evliyâ(evliyâe), vettekûllâhe in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Ey iman edenler! Sizden önce kitap verilenlerden ve küfre sapanlardan, dininizi oyun ve eğlence edinenleri dost tutmayın. Eğer inanıyorsanız Allah´tan sakının."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 5,
+      "ayah": 77,
+      "formInAyah": "دِينِكُمْ",
+      "transliteration": "dīnikum",
+      "gloss": "dininizde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ غَيْرَ الْحَقِّ وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِنْ قَبْلُ وَأَضَلُّوا كَثِيرًا وَضَلُّوا عَنْ سَوَاءِ السَّبِيلِ",
+      "verseTransliteration": "Kul yâ ehlel kitâbi, lâ taglû fî dînikum gayral hakkı ve lâ tettebi’û ehvâe kavmin kad dallû min kablu ve edallû kesîran ve dallû an sevâis sebîl(sebîli).",
+      "verseMeaning": "De ki: \"Ey Ehlikitap! Dininizde azgınlık edip hak dışına çıkarak aşırılığa gitmeyin. Daha önce sapmış, birçoğunu saptırmış ve yolun denge noktasından uzağa düşmüş bir topluluğun keyiflerine uymayın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 6,
+      "ayah": 70,
+      "formInAyah": "دِينَهُمْ",
+      "transliteration": "dīnehum",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ وَذَكِّرْ بِهِ أَنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِنْ دُونِ اللَّهِ وَلِيٌّ وَلَا شَفِيعٌ وَإِنْ تَعْدِلْ كُلَّ عَدْلٍ لَا يُؤْخَذْ مِنْهَا ۗ أُولَٰئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا ۖ لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+      "verseTransliteration": "Ve zerillezînettehazû dînehum leiben ve lehven ve garrethumul hayâtud dunyâ ve zekkir bihî en tubsele nefsun bimâ kesebet, leyse lehâ min dûnillâhi veliyyun ve lâ şefî’(şefîun), ve in ta’dil kulle adlin lâ yu’haz minhâ, ulâikellezîne ubsilû bimâ kesebû, lehum şarâbun min hamîmin ve azâbun elîmun bimâ kânû yekfurûn(yekfurûne).",
+      "verseMeaning": "Dinlerini oyun ve eğlence haline getirmiş, dünya hayatı kendilerini aldatmış olanları bırak da o Kur´an ile şunu hatırlat: Bir kişi, kendi elinin üretip kazandığına teslim edilirse onun, Allah dışında ne bir dostu kalır ne de şefaatçısı. Her türlü fidyeyi verse de ondan kabul edilmez. İşte bunlar, kazandıklarına teslim edilmişlerdir. Nankörlük ettiklerinden ötürü onlar için kaynar sudan bir içki ve korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 6,
+      "ayah": 137,
+      "formInAyah": "دِينَهُمْ",
+      "transliteration": "dīnehum",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kezâlike zeyyene li kesîrin minel muşrikîne katle evlâdihim şurekâuhum li yurdûhum ve li yelbisû aleyhim dînehum, ve lev şâellâhu mâ fealûhu fe zerhum ve mâ yefterûn(yefterûne).",
+      "verseMeaning": "Aynen bunun gibi, müşriklerden birçoğuna, Allah´a ortak koştukları kişiler, öz evlatlarını öldürmeyi güzel göstermiştir ki, hem onları yok etsinler hem de dinlerini onlar aleyhine karmakarışık hale getirsinler. Allah dileseydi bunu yapamazlardı. O halde onları, düzdükleri iftiralarla baş başa bırak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 6,
+      "ayah": 159,
+      "formInAyah": "دِينَهُمْ",
+      "transliteration": "dīnehum",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا لَسْتَ مِنْهُمْ فِي شَيْءٍ ۚ إِنَّمَا أَمْرُهُمْ إِلَى اللَّهِ ثُمَّ يُنَبِّئُهُمْ بِمَا كَانُوا يَفْعَلُونَ",
+      "verseTransliteration": "İnnellezîne ferrekû dînehum ve kânû şiyean leste minhum fî şey’(şey’in), innemâ emruhum ilâllâhi summe yunebbiuhum bimâ kânû yef’alûn(yef’alûne).",
+      "verseMeaning": "Dinlerini parça parça edip fırkalara, hiziplere bölünenler var ya, senin onlarla hiçbir ilişiğin yoktur. Onların işi Allah´a kalmıştır. Allah onlara, yapıp ettiklerini haber verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 6,
+      "ayah": 161,
+      "formInAyah": "دِينًا",
+      "transliteration": "dīnen",
+      "gloss": "dine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ دِينًا قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Kul innenî hedânî rabbî ilâ sırâtın mustekîm(mustekîmin) dînen kıyamen millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "De ki: \"Beni, dosdoğru yola Rabbim iletmiştir. Güçlü, pürüzsüz bir dine, hanîf olan İbrahim´in milletine. Müşriklerden değildi o.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 7,
+      "ayah": 29,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ أَمَرَ رَبِّي بِالْقِسْطِ ۖ وَأَقِيمُوا وُجُوهَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ",
+      "verseTransliteration": "Kul emere rabbî bil kıst(kısti) ve ekîmû vucûhekum inde kulli mescidin ved’ûhu muhlisîne lehud dîn(dîne), kemâ bedeekum teûdûn(teûdûne).",
+      "verseMeaning": "Şunu da söyle: \"Rabbim bana adaleti emretti. Her mescitte yüzlerinizi O´na doğrultun. Dini yalnız O´na özgüleyerek O´na yakarın. Tıpkı sizi ilk yarattığı gibi O´na döneceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 7,
+      "ayah": 51,
+      "formInAyah": "دِينَهُمْ",
+      "transliteration": "dīnehum",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِينَ اتَّخَذُوا دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ الْحَيَاةُ الدُّنْيَا ۚ فَالْيَوْمَ نَنْسَاهُمْ كَمَا نَسُوا لِقَاءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا بِآيَاتِنَا يَجْحَدُونَ",
+      "verseTransliteration": "Ellezînettehazû dînehum lehven ve leiben ve garrethumul hayâtud dunyâ, felyevme nensâhum kemâ nesû likâe yevmihim hâzâ ve mâ kânû bi âyâtinâ yechadûn(yechadûne).",
+      "verseMeaning": "Onlar kendi dinlerini eğlence ve oyun haline getirdiler, iğreti hayat onları aldattı. Onlar bugüne kavuşacaklarını unutmuşlardı. Ayetlerimize karşı direniyorlardı. Bugün de biz onları unutuyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 8,
+      "ayah": 39,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ ۚ فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ بِمَا يَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Ve kâtilûhum hattâ lâ tekûne fitnetun ve yekûned dînu kulluhu lillâhi, fe inintehev fe innallâhe bimâ ya´melûne basîr(basîrun).",
+      "verseMeaning": "Fitne kalmayıncaya ve din tümüyle Allah´ın oluncaya kadar onlarla savaş. Vazgeçerlerse kuşkusuz ki Allah, ne yaptıklarını iyice görecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 8,
+      "ayah": 49,
+      "formInAyah": "دِينُهُمْ",
+      "transliteration": "dīnuhum",
+      "gloss": "dinleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ غَرَّ هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "İz yekûlul munâfikûne vellezîne fî kulûbihim maradun garrehâulâi dînuhum, ve men yetevekkel alallâhi fe innallâhe azîzun hakîm(hakîmun).",
+      "verseMeaning": "İkiyüzlülerle kalplerinde hastalık olanlar şöyle diyorlardı: \"Bunları, dinleri aldatmış.\" Oysa Allah´a güvenip dayanan bilir ki, Allah Azîz ve Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 8,
+      "ayah": 72,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوْا وَنَصَرُوا أُولَٰئِكَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَالَّذِينَ آمَنُوا وَلَمْ يُهَاجِرُوا مَا لَكُمْ مِنْ وَلَايَتِهِمْ مِنْ شَيْءٍ حَتَّىٰ يُهَاجِرُوا ۚ وَإِنِ اسْتَنْصَرُوكُمْ فِي الدِّينِ فَعَلَيْكُمُ النَّصْرُ إِلَّا عَلَىٰ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "İnnellezîne âmenû ve hâcerû ve câhedû bi emvâlihim ve enfusihim fî sebîlillâhi vellezîne âvev ve nasarû ulâike ba´duhum evliyâu ba´d(ba´dın), vellezîne âmenû ve lem yuhâcirû mâ lekum min velâyetihim min şey´in hattâ yuhâcirû, ve inistensarûkum fîd dîni fe aleykumun nasru illâ alâ kavmin beynekum ve beynehum mîsâk(mîsâkun), vallâhu bimâ ta´melûne basîr(basîrun).",
+      "verseMeaning": "Onlar ki inanıp hicret ettiler, mallarıyla, canlarıyla Allah yolunda savaştılar ve onlar ki hicret edenleri barındırdılar, onlara yardım ettiler, işte onlar birbirlerinin dostlarıdır. İman edip de hicret etmeyenlere gelince, hicret edecekleri vakte kader size onların yönetiminden bir şey düşmüyor. Ama sizden dinde yardım isterlerse, sizinle aralarında antlaşma bulunan bir topluluk aleyhinde olmamak üzere, kendilerine yardım etmeniz gerekir. Allah, yapmakta olduklarınızı iyice görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 11,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِنْ تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَإِخْوَانُكُمْ فِي الدِّينِ ۗ وَنُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Fe in tâbû ve ekâmus salâte ve âtuz zekâte fe ıhvânukum fîd dîn (dîni), ve nufassılul âyâti li kavmin ya´lemûn(ya´lemûne).",
+      "verseMeaning": "Bununla birlikte tövbe eder, namazı kılar, zekâtı verirlerse, artık sizin, dinde kardeşlerinizdirler. Biz ayetlerimizi, bilen bir topluluk için böyle açık seçik ortaya koyarız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 12,
+      "formInAyah": "دِينِكُمْ",
+      "transliteration": "dīnikum",
+      "gloss": "dininize",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنْ نَكَثُوا أَيْمَانَهُمْ مِنْ بَعْدِ عَهْدِهِمْ وَطَعَنُوا فِي دِينِكُمْ فَقَاتِلُوا أَئِمَّةَ الْكُفْرِ ۙ إِنَّهُمْ لَا أَيْمَانَ لَهُمْ لَعَلَّهُمْ يَنْتَهُونَ",
+      "verseTransliteration": "Ve in nekesû eymânehum min ba´di ahdihim ve ta´anû fî dînikum fe kâtilû eimmetel kufri innehum lâ eymâne lehum leallehum yentehûn(yentehûne).",
+      "verseMeaning": "Eğer verdikleri ahitten sonra yeminlerini bozar, dininize saldırırlarsa, o zaman küfrün elebaşlarını öldürün. Çünkü onların yeminleri yoktur. Böyle yaparsanız hal ve gidişlerine son verebilirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 29,
+      "formInAyah": "دِينَ",
+      "transliteration": "dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلَا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّىٰ يُعْطُوا الْجِزْيَةَ عَنْ يَدٍ وَهُمْ صَاغِرُونَ",
+      "verseTransliteration": "Kâtilûllezîne lâ yu’minûne billâhi ve lâ bil yevmil âhıri ve lâ yuharrimûne mâ harremallâhu ve resûluhu ve lâ yedînûne dînel hakkı minellezîne ûtûl kitâbe hattâ yu’tûl cizyete an yedin ve hum sâgirûn(sâgirûne).",
+      "verseMeaning": "Kendilerine kitap verilenlerden Allah´a ve âhiret gününe inanmayan, Allah´ın ve resulünün yasakladığını haram saymayan ve hak dini din edinmeyenlerle, boyun eğerek kendi elleriyle cizye verecekleri zamana kadar savaşın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 33,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "din(ler)in",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullihî ve lev kerihel muşrikûn(muşrikûne).",
+      "verseMeaning": "O, resulünü hidayet ve hak dinle gönderdi ki, müşrikler hoşlanmasa da o dini dinlerin tümünün üstüne çıkarsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 33,
+      "formInAyah": "وَدِينِ",
+      "transliteration": "ve dīni",
+      "gloss": "ve din ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullihî ve lev kerihel muşrikûn(muşrikûne).",
+      "verseMeaning": "O, resulünü hidayet ve hak dinle gönderdi ki, müşrikler hoşlanmasa da o dini dinlerin tümünün üstüne çıkarsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 36,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا فِي كِتَابِ اللَّهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِنْهَا أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ ۚ فَلَا تَظْلِمُوا فِيهِنَّ أَنْفُسَكُمْ ۚ وَقَاتِلُوا الْمُشْرِكِينَ كَافَّةً كَمَا يُقَاتِلُونَكُمْ كَافَّةً ۚ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
+      "verseTransliteration": "İnne iddeteş şuhûri indallâhisnâ aşere şehren fî kitâbillâhi yevme halakas semâvâti vel arda minhâ erbeatun huruma(hurumun) zâliked dînul kayyimu fe lâ tazlimû fîhinne enfusekum ve kâtilûl muşrikîne kâffeten kemâ yukâtilûnekum kâffeh(kâffeten), va´lemû ennallâhe meal muttekîn(muttekîne).",
+      "verseMeaning": "Gökleri ve yeri yarattığı gündeki yazısına göre, Allah katında ayların sayısı onikidir. Bunlardan dördü haram aylardır. Eskimez din işte budur. Artık o aylar içinde benliklerinize zulmetmeyin. Müşrikler sizinle nasıl topyekün savaşıyorlarsa siz de onlarla topyekün savaşın. Şunu bilin ki, Allah, takva sahipleriyle beraberdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 9,
+      "ayah": 122,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+      "verseTransliteration": "Ve mâ kânel mu’minûne li yenfirû kâffeh(kâffeten), fe lev lâ nefere min kulli firkatin minhum tâifetun li yetefekkahû fîd dîni ve li yunzirû kavmehum izâ receû ileyhim leallehum yahzerûn(yahzerûne).",
+      "verseMeaning": "İnananların hepsinin birden savaşa çıkmaları doğru değildir. Onların her kesiminden bir grubun dinde derin bilgiler edinmek ve sefere çıkan topluluk geri döndüğünde, korunmaları ümidiyle onları uyarmak için arkada kalmaları gerekmez mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 10,
+      "ayah": 22,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي يُسَيِّرُكُمْ فِي الْبَرِّ وَالْبَحْرِ ۖ حَتَّىٰ إِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْ بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا بِهَا جَاءَتْهَا رِيحٌ عَاصِفٌ وَجَاءَهُمُ الْمَوْجُ مِنْ كُلِّ مَكَانٍ وَظَنُّوا أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ لَئِنْ أَنْجَيْتَنَا مِنْ هَٰذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+      "verseTransliteration": "Huvellezî yuseyyirukum fîl berri vel bahr(bahri), hattâ izâ kuntum fîl fulk(fulki), ve cereyne bihim bi rîhin tayyibetin ve ferihû bihâ câethâ rîhun âsifun ve câehumul mevcu min kulli mekânin ve zannû ennehum uhîta bihim deavûllâhe muhlisîne lehud dîn(dîne), le in enceytenâ min hâzihî le nekûnenne mineş şâkirîn(şâkirîne).",
+      "verseMeaning": "O yürütüyor sizi karada ve denizde. Diyelim, gemidesiniz: Gemiler, içindekileri latîf bir rüzgârla götürüyorlar. İçerdekiler ferah ve sevinç duymaktalar. Birden korkunç bir kasırga geliverdi. Her taraftan dalgalar üzerlerine çullandı. Çepeçevre kuşatıldıklarını düşünüp dini yalnız Allah´a özgüleyerek duaya koyuldular: \"Eğer bizi şu durumdan kurtarırsan, yemin olsun, sana şükredenlerden olacağız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 10,
+      "ayah": 104,
+      "formInAyah": "دِينِي",
+      "transliteration": "dīnī",
+      "gloss": "benim dinim-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي شَكٍّ مِنْ دِينِي فَلَا أَعْبُدُ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ وَلَٰكِنْ أَعْبُدُ اللَّهَ الَّذِي يَتَوَفَّاكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Kul yâ eyyuhen nâsu in kuntum fî şekkin min dînî,fe lâ a’budullezîne ta’budûne min dûnillâhi, ve lâkin a’budullâhellezî yeteveffâkum, ve umirtu en ekûne minel mu’minîn(mu’minîne).",
+      "verseMeaning": "De ki: \"Ey insanlar, benim dinimden kuşkuda iseniz, ben sizin Allah´ın berisinden kulluk ettiklerinize kulluk etmeyeceğim. Tam aksine ben, sizin canınızı alacak olan Allah´a kulluk edeceğim. Bana, müminlerden olmam emredildi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 10,
+      "ayah": 105,
+      "formInAyah": "لِلدِّينِ",
+      "transliteration": "liddīni",
+      "gloss": "dine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
+      "verseTransliteration": "Ve en ekim vecheke lid dîni hanîfâ, ve lâ tekûnenne minel muşrikîn(muşrikîne).",
+      "verseMeaning": "Şu da emredildi: \"Yüzünü, bir hanîf olarak dine çevir. Sakın müşriklerden olma!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 12,
+      "ayah": 40,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ ۚ إِنِ الْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Mâ ta’budûne min dûnihî illâ esmâen semmeytumûhâ entum ve âbâukum mâ enzelallâhu bihâ min sultân(sultânin), inil hukmu illâ lillâh(lillâhi), emere ellâ ta’budû illâ iyyâh(iyyâhu), zâliked dînul kayyimu ve lâkinne ekseren nâsi lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "\"O´nun yanında nelere kulluk ediyorsunuz? Sadece bir takım isimlere ki, adlarını siz ve atalarınız koymuştur. Onlar hakkında Allah, hiçbir kanıt indirmemiştir. Hüküm yalnız Allah´ındır. O, yalnız ve yalnız kendisine kulluk etmenizi emretti. Eskimez ve pörsümez din işte budur. Ama insanların çokları bilmiyorlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 12,
+      "ayah": 76,
+      "formInAyah": "دِينِ",
+      "transliteration": "dīni",
+      "gloss": "dini(kanunu)na",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَاءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِنْ وِعَاءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِي دِينِ الْمَلِكِ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ ۗ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ",
+      "verseTransliteration": "Fe bedee bi ev’ıyetihim kable viâi ahîhi, summestahrecehâ min viâi ahîh(ahîhi), kezâlike kidnâ li yûsuf(yûsufe), mâ kâne li ye’huze ehâhu fî dînil meliki, illâ en yeşâallâh(yeşâallâhu), nerfeu derecâtin men neşâ’(neşâu), ve fevka kulli zî ilmin alîm(alîmun).",
+      "verseMeaning": "Bunun üzerine Yûsuf öz kardeşinin heybesinden önce, öteki kardeşlerin heybelerini aramaya başladı. Nihayet su kabını, öz kardeşinin heybesinden çıkardı. Yûsuf´a böyle bir tuzak öğretmiştik. Yoksa Yûsuf, Allah´ın dilemesi dışında, kralın dinine göre öz kardeşini alamazdı. Dilediklerimizi derece derece yükseltiriz biz. Her bilgi sahibinin üstünde bir başka bilen vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 15,
+      "ayah": 35,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَىٰ يَوْمِ الدِّينِ",
+      "verseTransliteration": "Ve inne aleykel lâ’nete ilâ yevmid dîn(dîni).",
+      "verseMeaning": "\"Din gününe kadar üzerinde lanet var.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 16,
+      "ayah": 52,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din (kulluk)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَهُ الدِّينُ وَاصِبًا ۚ أَفَغَيْرَ اللَّهِ تَتَّقُونَ",
+      "verseTransliteration": "Ve lehu mâ fîs semâvâti vel ardı ve lehud dînu vâsıbâ(vâsıben), e fe gayrallâhi tettekûn(tettekûne).",
+      "verseMeaning": "Göklerde ve yerde ne varsa O´nundur. Din de sürekli olarak yalnız O´nundur. Hâlâ, Allah´tan başkasından mı sakınıyorsunuz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 22,
+      "ayah": 78,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ قَبْلُ وَفِي هَٰذَا لِيَكُونَ الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ ۚ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ ۖ فَنِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+      "verseTransliteration": "Ve câhidû fillâhi hakka cihâdih(cihâdihî), huvectebâkum ve mâ ceale aleykum fid dîni min harac(haracin), millete ebîkum ibrâhîm(ibrâhîme), huve semmakumul muslimîne min kablu ve fî hâzâ li yekûner resûlu şehîden aleykum ve tekûnû şuhedâe alen nâs(nâsi), fe ekîmûs salâte ve âtuz zekâte va’tesımû billâh(billâhi), huve mevlâkum, fe ni’mel mevlâ ve ni’men nasîr(nasîru).",
+      "verseMeaning": "Allah uğrunda O´na yaraşır bir gayretle didinin. O sizi seçmiş ve dinde size hiçbir güçlük çıkarmamıştır. Babanız İbrahim´in milletini esas alın. Allah sizi, önceden de şu Kitap´ta da \"Müslümanlar/Allah´a teslim olanlar\" diye adlandırdı ki, resul sizin üzerinize bir tanık olsun, siz de insanlar üzerine tanıklar olasınız. O halde namazı kılın, zekâtı verin ve Allah´a sarılın. O´dur sizin Mevlâ´nız. Ne güzel Mevlâ´dır O, ne güzel yardımcıdır O!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 24,
+      "ayah": 2,
+      "formInAyah": "دِينِ",
+      "transliteration": "dīni",
+      "gloss": "dininde (cezasını uygulamada)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ ۖ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ez zâniyetu vez zânî feclidû kulle vâhıdin min humâ miete celdetin ve lâ te’huzkum bi himâ ra’fetun fî dînillâhi in kuntum tu’minûne billâhi vel yevmil âhır(âhırı), vel yeşhed azâbehumâ tâifetun minel mu’minîn(mu’minîne).",
+      "verseMeaning": "Zina eden kadınla zina eden erkek... Yüz vuruş vurun herbirinin ciltlerine... Allah´a ve âhiret gününe inanıyorsanız, Allah´ın dini konusunda bunlara acıma duygusu sizi yakalamasın. Müminlerden bir grup da bunların cezalarına tanık olsun."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 24,
+      "ayah": 25,
+      "formInAyah": "دِينَهُمُ",
+      "transliteration": "dīnehumu",
+      "gloss": "cezalarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَوْمَئِذٍ يُوَفِّيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ",
+      "verseTransliteration": "Yevme izin yuveffîhimullâhu dînehumul hakka ve ya’lemûne ennallâhe huvel hakkul mubîn(mubînu).",
+      "verseMeaning": "O gün Allah, onlara hak ettikleri cezayı tam verecek ve Allah´ın apaçık Hak olduğunu bilecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 24,
+      "ayah": 55,
+      "formInAyah": "دِينَهُمُ",
+      "transliteration": "dīnehumu",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا ۚ وَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+      "verseTransliteration": "Vaadallâhullezîne âmenû minkum ve amilûs sâlihâti leyestahlifennehum fil ardı kemestahlefellezîne min kablihim, ve leyumekkinenne lehum dînehumullezîrtedâ lehum ve le yubeddilennehum min ba’di havfihim emnâ(emnen), ya’budûnenî lâ yuşrikûne bî şey’â(şey’en), ve men kefere ba’de zâlike fe ulâike humul fâsikûn(fâsikûne).",
+      "verseMeaning": "Allah; sizin, iman edip hayra ve barışa yönelik iyilikler yapanlarınıza şu vaatte bulunmuştur: Onlardan öncekileri halef kıldığı gibi onları da yeryüzünde mutlaka halef kılacak. Onlar için beğenip seçtiği dinlerini yine onlar için güç kaynağı yapacak, onları korkularının arkasından mutlaka güvene ulaştıracak. Bana kulluk/ibadet edecekler, hiçbir şeyi bana ortak koşmayacaklar. Bundan sonra nankörlük edenlerse, yoldan sapanların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 26,
+      "ayah": 82,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "din (ceza)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+      "verseTransliteration": "Vellezî atmeu en yagfira lî hatîetî yevmed dîn(dîni).",
+      "verseMeaning": "\"Din gününde hatalarımı affetmesini umup durduğum da O´dur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 29,
+      "ayah": 65,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
+      "verseTransliteration": "Fe izâ rakibû fîl fulki deavûllâhe muhlisîne lehud dîn(dîne), fe lemmâ neccâhum ilel berri izâ hum yuşrikûn(yuşrikûne).",
+      "verseMeaning": "Gemiye bindiklerinde, dini Allah´a özgüleyerek yalvarıp yakarırlar. Fakat Allah onları kurtarıp karaya çıkardığında, bir bakmışsın ortak koşuyorlar;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 30,
+      "ayah": 30,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Fe ekim vecheke lid dîni hanîfâ(hanîfen), fıtratallâhilletî fataran nâse aleyhâ, lâ tebdîle li halkıllâh(halkıllâhi), zâliked dînul kayyimu ve lâkinne ekseren nâsi lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "O halde sen yüzünü, bir hanîf olarak dine, Allah´ın insanları üzerinde yarattığı fıtrata çevir. Allah´ın yaratışında değiştirme olamaz. Doğru ve eskimez din işte budur. Fakat insanların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 30,
+      "ayah": 30,
+      "formInAyah": "لِلدِّينِ",
+      "transliteration": "liddīni",
+      "gloss": "dine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Fe ekim vecheke lid dîni hanîfâ(hanîfen), fıtratallâhilletî fataran nâse aleyhâ, lâ tebdîle li halkıllâh(halkıllâhi), zâliked dînul kayyimu ve lâkinne ekseren nâsi lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "O halde sen yüzünü, bir hanîf olarak dine, Allah´ın insanları üzerinde yarattığı fıtrata çevir. Allah´ın yaratışında değiştirme olamaz. Doğru ve eskimez din işte budur. Fakat insanların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 30,
+      "ayah": 32,
+      "formInAyah": "دِينَهُمْ",
+      "transliteration": "dīnehum",
+      "gloss": "dinlerini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "verseTransliteration": "Minellezîne ferrakû dînehum ve kânû şiyeâ(şiyean), kullu hızbin bimâ ledeyhim ferihûn(ferihûne).",
+      "verseMeaning": "Onlardan ki, dinlerini parçalayıp hizipler/fırkalar haline geldiler. Her hizip kendi elindekiyle sevinip övünür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 30,
+      "ayah": 43,
+      "formInAyah": "لِلدِّينِ",
+      "transliteration": "liddīni",
+      "gloss": "dine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
+      "verseTransliteration": "Fe ekim vecheke lid dînil kayyimi min kabli en ye’tiye yevmun lâ meredde lehu minallâhi yevmeizin yassaddeûn(yassaddeûne).",
+      "verseMeaning": "Allah tarafından ertelenmesi söz konusu olmayan bir günden önce, yüzünü güçlü ve eskimez dine döndür. O gün herkes bölük bölük ayrılacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 31,
+      "ayah": 32,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ فَمِنْهُمْ مُقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ",
+      "verseTransliteration": "Ve izâ gaşiyehum mevcun kez zuleli deavûllâhe muhlisîne lehud dîn(dîne), fe lemmâ neccâhum ilel berri fe minhum muktesıd(muktesidun), ve mâ yechadu bi âyâtinâ illâ kullu hattârin kefûr(kefûrin).",
+      "verseMeaning": "Kara bulutlar gibi dalga kendilerini kuşattığı zaman; Allah´a, dini O´na özgüleyerek yalvarırlar. Fakat onları karaya çıkarıp kurtarınca, içlerinden sadece bir kısmı doğru yolu tutar. Bizim ayetlerimize, gaddar nankörlerin tümünden başkası karşı çıkmaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 33,
+      "ayah": 5,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِنْدَ اللَّهِ ۚ فَإِنْ لَمْ تَعْلَمُوا آبَاءَهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ وَمَوَالِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَا أَخْطَأْتُمْ بِهِ وَلَٰكِنْ مَا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+      "verseTransliteration": "Ud’ûhum li âbâihim huve aksatu indallâh(indallâhi), fe in lem ta’lemû âbâehum fe ıhvânukum fîd dîni ve mevâlîkum, ve leyse aleykum cunâhun fîmâ ahta’tum bihî ve lâkin mâ taammedet kulûbukum, ve kânallâhu gafûren rahîmâ(rahîmen).",
+      "verseMeaning": "Evlatlıklarınızı öz babalarına nispet ederek çağırın! Böyle yapmanız Allah katında adalete daha uygundur. Eğer onların babalarını bilmiyorsanız, o takdirde onlar sizin din kardeşleriniz ve dostlarınızdır. Yanılarak işlediğiniz şeyde, üzerinize günah yoktur; fakat kalplerinizin kastetmiş oldukları müstesna. Ve Allah Gafûr ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 37,
+      "ayah": 20,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالُوا يَا وَيْلَنَا هَٰذَا يَوْمُ الدِّينِ",
+      "verseTransliteration": "Ve kâlû yâ veylenâ hâzâ yevmud dîn(dîni).",
+      "verseMeaning": "Şöyle derler: \"Vay başımıza! Din günüdür bu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 38,
+      "ayah": 78,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنَّ عَلَيْكَ لَعْنَتِي إِلَىٰ يَوْمِ الدِّينِ",
+      "verseTransliteration": "Ve inne aleyke la´netî ilâ yevmid dîn(dîni).",
+      "verseMeaning": "\"Din gününe kadar lanetim üzerinedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 39,
+      "ayah": 2,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ فَاعْبُدِ اللَّهَ مُخْلِصًا لَهُ الدِّينَ",
+      "verseTransliteration": "İnnâ enzelnâ ileykel kitâbe bil hakkı fa’budillâhe muhlisan lehud dîn(dine).",
+      "verseMeaning": "Emin ol, bu Kitap´ı biz sana hak olarak indirdik. O halde, dini yalnız Allah´a özgüleyerek O´na kulluk/ibadet et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 39,
+      "ayah": 3,
+      "formInAyah": "الدِّينُ",
+      "transliteration": "d-dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَلَا لِلَّهِ الدِّينُ الْخَالِصُ ۚ وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَىٰ إِنَّ اللَّهَ يَحْكُمُ بَيْنَهُمْ فِي مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ اللَّهَ لَا يَهْدِي مَنْ هُوَ كَاذِبٌ كَفَّارٌ",
+      "verseTransliteration": "E lâ lillâhid dînul hâlis(hâlisu), vellezînettehazû min dûnihî evliyâ, mâ na’buduhum illâ li yukarribûnâ ilallâhi zulfâ, innallâhe yahkumu beynehum fî mâ hum fîhi yahtelifûn(yahtelifûne), innallâhe lâ yehdî men huve kâzibun keffâr(keffârun).",
+      "verseMeaning": "Gözünüzü açıp kendinize gelin! Arı duru din yalnız ve yalnız Allah´ındır! O´ndan başkasını veliler edinerek, \"biz onlara, bizi Allah´a yaklaştırmaları dışında bir şey için kulluk etmiyoruz.\" diyenlere gelince, hiç kuşkusuz Allah onlar arasında, tartışıp durdukları konuyla ilgili hükmü verecektir. Şu bir gerçek ki, Allah, yalancı ve nankör kişiyi iyiye ve güzele kılavuzlamaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 39,
+      "ayah": 11,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّينَ",
+      "verseTransliteration": "Kul innî umirtu en a’budallâhe muhlisan lehud dîn(dîne).",
+      "verseMeaning": "De ki: \"Bana, dini yalnız Allah´a özgüleyerek, O´na ibadet/kulluk etmem emredildi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 39,
+      "ayah": 14,
+      "formInAyah": "دِينِي",
+      "transliteration": "dīnī",
+      "gloss": "dinimi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلِ اللَّهَ أَعْبُدُ مُخْلِصًا لَهُ دِينِي",
+      "verseTransliteration": "Kulillâhe a’budu muhlisan lehu dînî.",
+      "verseMeaning": "De ki: \"Ben, dinimi yalnız kendisine özgüleyerek, Allah´a ibadet ediyorum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 40,
+      "ayah": 14,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ",
+      "verseTransliteration": "Fed’ûllâhe muhlisîne lehud dîne ve lev kerihel kâfirûn(kâfirûne).",
+      "verseMeaning": "Kâfirler hoşlanmasa da siz, dini yalnız O´na özgüleyerek, Allah´a dua edin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 40,
+      "ayah": 26,
+      "formInAyah": "دِينَكُمْ",
+      "transliteration": "dīnekum",
+      "gloss": "dininizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالَ فِرْعَوْنُ ذَرُونِي أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُ ۖ إِنِّي أَخَافُ أَنْ يُبَدِّلَ دِينَكُمْ أَوْ أَنْ يُظْهِرَ فِي الْأَرْضِ الْفَسَادَ",
+      "verseTransliteration": "Ve kâle fir’avnu zerûnî aktul mûsâ vel yed’u rabbeh(rabbehu), innî ehâfu en yubeddile dînekum ev en yuzhire fîl ardıl fesâd(fesâde).",
+      "verseMeaning": "Firavun dedi ki: \"Bırakın, şu Mûsa´yı öldüreyim de Rabbine yalvarsın. Çünkü onun, dininizi değiştirmesinden yahut yeryüzünde fesat çıkarmasından korkuyorum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 40,
+      "ayah": 65,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الْحَيُّ لَا إِلَٰهَ إِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۗ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Huvel hayyu lâ ilâhe illâ huve fed’ûhu muhlisîne lehud dîn(dîne), el hamdu lillâhi rabbil âlemîn(âlemîne).",
+      "verseMeaning": "Hayy O´dur! Tanrı yoktur O´ndan başka. Dini kendisine özgüleyerek dua edin O´na. Hamt olsun âlemlerin Rabbi´ne!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 42,
+      "ayah": 13,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ",
+      "verseTransliteration": "Şerea lekum mined dîni mâ vassâ bihî nûhan vellezî evhaynâ ileyke ve mâ vassaynâ bihî ibrâhîme ve mûsâ ve îsâ, en ekîmûd dîne ve lâ teteferrekû fîh(fîhi), kebure alel muşrikîne mâ ted’ûhum ileyh(ileyhi), allâhu yectebî ileyhi men yeşâu ve yehdî ileyhi men yunîb(yunîbu).",
+      "verseMeaning": "Sizin için, dinden, Nûh´a önerdiğini, sana vahyettiğini, İbrahim´e, Mûsa´ya ve İsa´ya önerdiğimizi şöyle diyerek kanunlaştırdı: \"Dini dosdoğru tutun; onda bölünüp fırkalara ayrılmayın!\" Onları çağırdığın bu tutum, şirke bulaşanlara çok ağır gelmiştir. Allah, dilediğini kendisi için seçer ve hakka yönelenleri kendisine iletir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 42,
+      "ayah": 13,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "din-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّىٰ بِهِ نُوحًا وَالَّذِي أَوْحَيْنَا إِلَيْكَ وَمَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ ۖ أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ ۚ كَبُرَ عَلَى الْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ اللَّهُ يَجْتَبِي إِلَيْهِ مَنْ يَشَاءُ وَيَهْدِي إِلَيْهِ مَنْ يُنِيبُ",
+      "verseTransliteration": "Şerea lekum mined dîni mâ vassâ bihî nûhan vellezî evhaynâ ileyke ve mâ vassaynâ bihî ibrâhîme ve mûsâ ve îsâ, en ekîmûd dîne ve lâ teteferrekû fîh(fîhi), kebure alel muşrikîne mâ ted’ûhum ileyh(ileyhi), allâhu yectebî ileyhi men yeşâu ve yehdî ileyhi men yunîb(yunîbu).",
+      "verseMeaning": "Sizin için, dinden, Nûh´a önerdiğini, sana vahyettiğini, İbrahim´e, Mûsa´ya ve İsa´ya önerdiğimizi şöyle diyerek kanunlaştırdı: \"Dini dosdoğru tutun; onda bölünüp fırkalara ayrılmayın!\" Onları çağırdığın bu tutum, şirke bulaşanlara çok ağır gelmiştir. Allah, dilediğini kendisi için seçer ve hakka yönelenleri kendisine iletir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 42,
+      "ayah": 21,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهُ ۚ وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ ۗ وَإِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Em lehum şurekâu şeraû lehum mined dîni mâ lem ye’zen bihillâh(bihillâhu), ve lev lâ kelimetul faslı le kudiye beynehum, ve innez zâlimîne lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Yoksa onların, dinden, Allah´ın izin vermediği şeyi kendileri için yasalaştıran ortakları mı var? Kesin ayrıma ilişkin söz olmasaydı, aralarında hüküm mutlaka verilirdi. O zalimler var ya, onlar için acıklı bir azap öngörülmüştür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 48,
+      "ayah": 28,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dinlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullih(kullihî), ve kefâ billâhi şehîdâ(şehîden).",
+      "verseMeaning": "O, resulünü hidayet ve hak dinle gönderdi ki, o dini tüm dinlere üstün kılsın. Tanık olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 48,
+      "ayah": 28,
+      "formInAyah": "وَدِينِ",
+      "transliteration": "ve dīni",
+      "gloss": "ve din ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullih(kullihî), ve kefâ billâhi şehîdâ(şehîden).",
+      "verseMeaning": "O, resulünü hidayet ve hak dinle gönderdi ki, o dini tüm dinlere üstün kılsın. Tanık olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 49,
+      "ayah": 16,
+      "formInAyah": "بِدِينِكُمْ",
+      "transliteration": "bidīnikum",
+      "gloss": "dininizi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ أَتُعَلِّمُونَ اللَّهَ بِدِينِكُمْ وَاللَّهُ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Kul etualli mûnallâhe bi dînikum vallâhu ya’lemu mâ fîs semâvâti ve mâ fîl ard(ardı), vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "De ki: \"Siz Allah´a dininizi mi öğretiyorsunuz? Oysaki Allah, gökte ne var, yerde ne var hepsini bilir. Allah her şeyi çok iyi bilmektedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 51,
+      "ayah": 6,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنَّ الدِّينَ لَوَاقِعٌ",
+      "verseTransliteration": "Ve inned dîne le vâkıu(vâkıun).",
+      "verseMeaning": "Ve din, şaşmaz bir olgudur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 51,
+      "ayah": 12,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ",
+      "verseTransliteration": "Yes’elûne eyyâne yevmud dîn(dîni).",
+      "verseMeaning": "Sorarlar: \"Ne zaman o din günü?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 56,
+      "ayah": 56,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هَٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+      "verseTransliteration": "Hâzâ nuzuluhum yevmed dîn(dîni).",
+      "verseMeaning": "Din gününde ağırlanışları böyledir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 60,
+      "ayah": 8,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+      "verseTransliteration": "Lâ yenhâkumullâhu anillezîne lem yukâtilûkum fîd dîni ve lem yuhricûkum min diyârikum en teberrûhum ve tuksitû ileyhim, innallâhe yuhıbbul muksitîn(muksitîne).",
+      "verseMeaning": "Allah sizi, din hakkında sizinle savaşmayan ve sizi yurtlarınızdan çıkarmayan kimselere iyilik etmekten, onlara adaletli davranmaktan men etmez. Allah, adaleti ayakta tutanları sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 60,
+      "ayah": 9,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَىٰ إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ ۚ وَمَنْ يَتَوَلَّهُمْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "İnnemâ yenhâkumullâhu anillezîne kâtelûkum fîd dîni ve ahrecûkum min diyârikum ve zâherû alâ ıhrâcikum en tevellevhum, ve men yetevellehum fe ulâike humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Allah sizi; ancak din hakkında sizinle savaşan, sizi yurtlarınızdan çıkaran, çıkarılmanıza yardım eden kimselerle dost olmaktan yasaklar. Böyleleriyle dost olanlar, zalimlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 61,
+      "ayah": 9,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "dinlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullihî ve lev kerihel muşrikû(muşrikûne).",
+      "verseMeaning": "Resulünü hidayet ve hak dini getirmek üzere o gönderdi ki, ortak koşanlar hoşlanmasa bile, onu tüm dinlerden üstün kılsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 61,
+      "ayah": 9,
+      "formInAyah": "وَدِينِ",
+      "transliteration": "ve dīni",
+      "gloss": "ve din ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullihî ve lev kerihel muşrikû(muşrikûne).",
+      "verseMeaning": "Resulünü hidayet ve hak dini getirmek üzere o gönderdi ki, ortak koşanlar hoşlanmasa bile, onu tüm dinlerden üstün kılsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 70,
+      "ayah": 26,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+      "verseTransliteration": "Vellezîne yusaddikûne bi yevmid dîn(dîni).",
+      "verseMeaning": "Bunlar, din gününü içtenlikle doğrularlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 74,
+      "ayah": 46,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+      "verseTransliteration": "Ve kunnâ nukezzibu bi yevmid dîn(dîni).",
+      "verseMeaning": "\"Din gününü yalanlıyorduk.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 82,
+      "ayah": 9,
+      "formInAyah": "بِالدِّينِ",
+      "transliteration": "bid-dīni",
+      "gloss": "cezayı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "verseTransliteration": "Kellâ bel tukezzibûne bid dîn(dîni).",
+      "verseMeaning": "Hayır, iş sanıldığı gibi değil! Siz dini yalanlıyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 82,
+      "ayah": 15,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "verseTransliteration": "Yaslevnehâ yevmed dîn(dîni).",
+      "verseMeaning": "Din günü girerler oraya."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 82,
+      "ayah": 17,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "verseTransliteration": "Ve mâ edrâke mâ yevmud dîn(dîni).",
+      "verseMeaning": "Din gününün ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 82,
+      "ayah": 18,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "verseTransliteration": "Summe mâ edrâke mâ yevmud dîn(dîni).",
+      "verseMeaning": "Evet, din gününün ne olduğunu sana bildiren nedir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 83,
+      "ayah": 11,
+      "formInAyah": "الدِّينِ",
+      "transliteration": "d-dīni",
+      "gloss": "ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+      "verseTransliteration": "Ellezîne yukezzibûne bi yevmiddîn(yevmiddîni).",
+      "verseMeaning": "Onlar ki din gününü yalanlarlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 95,
+      "ayah": 7,
+      "formInAyah": "بِالدِّينِ",
+      "transliteration": "bid-dīni",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+      "verseTransliteration": "Fe mâ yukezzibuke ba’du bid dîn(dîni).",
+      "verseMeaning": "Böyle iken dini sana ne yalanlatır?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 98,
+      "ayah": 5,
+      "formInAyah": "دِينُ",
+      "transliteration": "dīnu",
+      "gloss": "din",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "verseTransliteration": "Ve mâ umirû illâ li ya’budûllâhe muhlisîne lehud dîne hunefâe ve yukîmûs salâte ve yu’tûz zekâte ve zâlike dînul kayyimeh(kayyimeti).",
+      "verseMeaning": "Oysa ki onlara, dini yalnız O´na özgüleyerek, dosdoğru yürüyen kişiler halinde sadece Allah´a ibadet etmeleri, namazı kılmaları, zekâtı vermeleri emredilmişti. İşte budur doğru, eskimez ve aşınmaz din."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 98,
+      "ayah": 5,
+      "formInAyah": "الدِّينَ",
+      "transliteration": "d-dīne",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "verseTransliteration": "Ve mâ umirû illâ li ya’budûllâhe muhlisîne lehud dîne hunefâe ve yukîmûs salâte ve yu’tûz zekâte ve zâlike dînul kayyimeh(kayyimeti).",
+      "verseMeaning": "Oysa ki onlara, dini yalnız O´na özgüleyerek, dosdoğru yürüyen kişiler halinde sadece Allah´a ibadet etmeleri, namazı kılmaları, zekâtı vermeleri emredilmişti. İşte budur doğru, eskimez ve aşınmaz din."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 107,
+      "ayah": 1,
+      "formInAyah": "بِالدِّينِ",
+      "transliteration": "bid-dīni",
+      "gloss": "dini",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "verseTransliteration": "E raeytellezî yukezzibu bid dîn(dîne).",
+      "verseMeaning": "Gördün mü o, dini yalan sayanı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 109,
+      "ayah": 6,
+      "formInAyah": "دِينُكُمْ",
+      "transliteration": "dīnukum",
+      "gloss": "sizin dininiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "verseTransliteration": "Lekum dînukum ve liye dîn(dîni).",
+      "verseMeaning": "Sizin dininiz size, benim dinim bana!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 109,
+      "ayah": 6,
+      "formInAyah": "دِينِ",
+      "transliteration": "dīni",
+      "gloss": "benim dinim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "verseTransliteration": "Lekum dînukum ve liye dîn(dîni).",
+      "verseMeaning": "Sizin dininiz size, benim dinim bana!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">دِين",
+      "sura": 110,
+      "ayah": 2,
+      "formInAyah": "دِينِ",
+      "transliteration": "dīni",
+      "gloss": "dinine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "verseTransliteration": "Ve reeyten nâse yedhulûne fî dînillâhi efvâcâ(efvâcen).",
+      "verseMeaning": "Ve insanları kitleler halinde Allah´ın dinine girerken gördüğünde,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَدِينِين",
+      "sura": 37,
+      "ayah": 53,
+      "formInAyah": "لَمَدِينُونَ",
+      "transliteration": "lemedīnūne",
+      "gloss": "cezalanacağız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
+      "verseTransliteration": "E izâ mitnâ ve kunnâ turâben ve izâmen e innâ le medînûn(medînûne).",
+      "verseMeaning": "\"Biz, ölüp toprak ve kemik haline geldikten sonra, gerçekten cezalandırılacak mıyız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَدِينِين",
+      "sura": 56,
+      "ayah": 86,
+      "formInAyah": "مَدِينِينَ",
+      "transliteration": "medīnīne",
+      "gloss": "cezalandırılmayacak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ",
+      "verseTransliteration": "Fe lev lâ in kuntum gayre medînîn(medînîne).",
+      "verseMeaning": "Madem ceza görmeyecek kişilersiniz,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَدِينُ",
+      "sura": 9,
+      "ayah": 29,
+      "formInAyah": "يَدِينُونَ",
+      "transliteration": "yedīnūne",
+      "gloss": "ve din edinmeyenlerle",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلَا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّىٰ يُعْطُوا الْجِزْيَةَ عَنْ يَدٍ وَهُمْ صَاغِرُونَ",
+      "verseTransliteration": "Kâtilûllezîne lâ yu’minûne billâhi ve lâ bil yevmil âhıri ve lâ yuharrimûne mâ harremallâhu ve resûluhu ve lâ yedînûne dînel hakkı minellezîne ûtûl kitâbe hattâ yu’tûl cizyete an yedin ve hum sâgirûn(sâgirûne).",
+      "verseMeaning": "Kendilerine kitap verilenlerden Allah´a ve âhiret gününe inanmayan, Allah´ın ve resulünün yasakladığını haram saymayan ve hak dini din edinmeyenlerle, boyun eğerek kendi elleriyle cizye verecekleri zamana kadar savaşın."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=dyn"
+}

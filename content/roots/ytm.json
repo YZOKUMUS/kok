@@ -1,0 +1,506 @@
+{
+  "id": "ytm",
+  "latinName": "Ye-Te-Mim",
+  "lettersArabic": "ي ت م",
+  "meanings": [
+    "yetim, babasız olmak, yalnız kalmak, yorgun, dul kalmak, ergenlik-erişkinlik öncesi babasız kalmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 23,
+  "lemmas": [
+    {
+      "formArabic": "يَتِيم",
+      "count": 23
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 17,
+      "ayah": 34,
+      "formInAyah": "الْيَتِيمِ",
+      "transliteration": "l-yetīmi",
+      "gloss": "yetimin",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۚ وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfû bil ahd(ahdi), innel ahde kâne mes’ûlâ(mes’ûlen).",
+      "verseMeaning": "Yetimin malına yaklaşmayın. Ancak rüştüne erişinceye kadar, güzel bir yolla ilgilenebilirsiniz. Ahdinize vefalı olun çünkü verilen söz sorumluluk gerektirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 18,
+      "ayah": 82,
+      "formInAyah": "يَتِيمَيْنِ",
+      "transliteration": "yetīmeyni",
+      "gloss": "iki yetim",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا وَكَانَ أَبُوهُمَا صَالِحًا فَأَرَادَ رَبُّكَ أَنْ يَبْلُغَا أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنْزَهُمَا رَحْمَةً مِنْ رَبِّكَ ۚ وَمَا فَعَلْتُهُ عَنْ أَمْرِي ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًا",
+      "verseTransliteration": "Ve emmel cidâru fe kâne li gulâmeyni yetîmeyni fîl medîneti ve kâne tahtehu kenzun lehumâ ve kâne ebûhumâ sâlihâ(sâlihan), fe erâde rabbuke en yeblugâ eşuddehumâ ve yestahricâ kenzehumâ rahmeten min rabbik(rabbike) ve mâ fealtuhu an emrî, zâlike te’vîlu mâ lem testı’ aleyhi sabrâ(sabren).",
+      "verseMeaning": "\"Ve duvar. Duvar, o kentte yaşayan iki yetim oğlanındı. Altında, oğlanlara ait bir define vardı. Oğlanların babası da hayır ve barış seven bir kimse olarak yaşamıştı. Rabbin istedi ki, o çocuklar ergenliklerine ulaşsınlar da Rabbinden bir rahmet olarak definelerini çıkarsınlar. Ben bunları kendi buyruğumun sonucu olarak yapmadım. İşte senin sabretmeye güç yetiremediğin şeylerin içyüzü budur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 2,
+      "ayah": 83,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve yetimlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ",
+      "verseTransliteration": "Ve iz ehaznâ mîsâka benî isrâîle lâ ta’budûne illâllâhe ve bil vâlideyni ihsânen ve zil kurbâvel yetâmâ vel mesâkîni ve kûlû lin nâsi husnen ve ekîmûs salâte ve âtûz zekât(zekâte), summe tevelleytum illâ kalîlen minkum ve entum mu’ridûn(mu’ridûne).",
+      "verseMeaning": "İsrailoğulları´ndan şöyle bir söz de almıştık: Allah´tan başkasına ibadet etmeyin, anne-babaya, akrabaya, yetimlere, yoksullara iyilik ve güzellikle davranın. İnsanlara güzeli ve güzelliği söyleyin. Namazı kılın, zekâtı verin. Bütün bunlardan sonra siz, pek azınız müstesna, sırt çevirdiniz. Hâlâ da yüz çevirip duruyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 2,
+      "ayah": 177,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve yetimlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا ۖ وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ ۗ أُولَٰئِكَ الَّذِينَ صَدَقُوا ۖ وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ",
+      "verseTransliteration": "Leysel birre en tuvellû vucûhekum kıbelel maşrıkı vel magrıbi ve lâkinnel birre men âmene billâhi vel yevmil âhırı vel melâiketi vel kitâbi ven nebiyyîn(nebiyyîne), ve âtel mâle alâ hubbihî zevil kurbâ vel yetâmâ vel mesâkîne vebnes sebîli, ves sâilîne ve fîr rıkâb(rıkâbi), ve ekâmes salâte ve âtez zekât(zekâte), vel mûfûne bi ahdihim izâ âhed(âhedû), ves sâbirîne fîl be’sâi ved darrâi ve hînel be’s(be’si) ulâikellezîne sadakû, ve ulâike humul muttekûn(muttekûne).",
+      "verseMeaning": "Yüzlerinizi doğu ve batı yönüne çevirmeniz zafer ve mutluluğa ermek değildir. Zafer ve mutluluğa ermek o kişinin hakkıdır ki, Allah´a, âhıret gününe, meleklere, kitaplara, peygamberlere inanır; akrabaya, yetimlere, çaresizlere, yolda kalmışa, yoksullara, özgürlüğüne kavuşmak gayretinde olanlara malı seve seve verir, namazı kılar, zekatı öder. Böyleleri söz verdiklerinde ahitlerine vefalıdırlar; bolluk ve bereket zamanı kadar, zorluk, sıkıntı ve şiddet zamanında da sabırlıdırlar. İşte bunlardır özüyle sözü bir olanlar. Ve işte bunlardır korunan takva sahipleri."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 2,
+      "ayah": 215,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve öksüzler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ ۖ قُلْ مَا أَنْفَقْتُمْ مِنْ خَيْرٍ فَلِلْوَالِدَيْنِ وَالْأَقْرَبِينَ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+      "verseTransliteration": "Yes’elûneke mâzâ yunfikûn(yunfikûne), kul mâ enfaktum min hayrin fe lil vâlideyni vel akrabîne vel yetâmâ vel mesâkîni vebnis sebîl(sebîli), ve mâ tef’alû min hayrin fe innallâhe bihî alîm(alîmun).",
+      "verseMeaning": "Sana, neyi infak edip vereceklerini soruyorlar. De ki: \"İnfak ettiğiniz mal ve nimet; ana-baba, yakınlar, yetimler, yoksul ve çaresizlerle yolda kalan için olmalıdır. Hayır olarak yaptığınızı Allah en iyi biçimde bilmektedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 2,
+      "ayah": 220,
+      "formInAyah": "الْيَتَامَىٰ",
+      "transliteration": "l-yetāmā",
+      "gloss": "öksüzler-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فِي الدُّنْيَا وَالْآخِرَةِ ۗ وَيَسْأَلُونَكَ عَنِ الْيَتَامَىٰ ۖ قُلْ إِصْلَاحٌ لَهُمْ خَيْرٌ ۖ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ ۚ وَاللَّهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ ۚ وَلَوْ شَاءَ اللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "Fîd dunyâ vel âhirah(âhirati) ve yes’elûneke anil yetâmâ kul ıslâhun lehum hayr(hayrun) ve in tuhâlitûhum fe ıhvânukum vallâhu ya’lemul mufside minel muslih(muslihi) ve lev şâallâhu le a’netekum innallâhe azîzun hakîm(hakîmun).",
+      "verseMeaning": "Dünya ve âhıret hakkında... Sana yetimlerden de soruyorlar. De ki: \"Onları, işe yarar hale getirmek kendileri için daha hayırlıdır. Eğer onlarla bir arada yaşarsanız, onlar sizin kardeşlerinizdir.\" Allah, bozguncuyu barışseverden ayırmasını bilir. Eğer Allah dileseydi, sizi zora sürerdi. Allah, tüm onurların sahibi, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 2,
+      "formInAyah": "الْيَتَامَىٰ",
+      "transliteration": "l-yetāmā",
+      "gloss": "öksüzlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ ۚ إِنَّهُ كَانَ حُوبًا كَبِيرًا",
+      "verseTransliteration": "Ve âtûl yetâmâ emvâlehum ve lâ tetebeddelûl habîse bit tayyîb(tayyîbi), ve lâ te’kulû emvâlehum ilâ emvâlikum innehu kâne hûben kebîrâ(kebîran).",
+      "verseMeaning": "Yetimlere mallarını verin. Temizi pise değişmeyin. Yetimlerin mallarını kendi mallarınıza katarak yemeyin. Bunu yapmak gerçekten büyük bir vebaldir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 3,
+      "formInAyah": "الْيَتَامَىٰ",
+      "transliteration": "l-yetāmā",
+      "gloss": "öksüz(kızlar)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ ۚ ذَٰلِكَ أَدْنَىٰ أَلَّا تَعُولُوا",
+      "verseTransliteration": "Ve in hıftum ellâ tuksitû fîl yetâmâ fenkihû mâ tâbe lekum minen nisâi mesnâ ve sulâse ve rubâ’(rubâa), fe in hıftum ellâ ta’dilû fe vâhideten ev mâ meleket eymânukum, zâlike ednâ ellâ teûlû.",
+      "verseMeaning": "Yetimler konusunda adaleti koruyamayacağınızdan korkarsanız, sizin için temiz kılınan kadınlardan ikişer, üçer, dörder nikâhlayın. Eğer bu durumda adaleti gözetemeyeceğinizden korkarsanız, bir tek kadınla yahut yeminlerinizin/sağ ellerinizin sahip olduklarıyla yetinin. İşte bu, haksızlığa sapmamanız için en uygun yoldur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 6,
+      "formInAyah": "الْيَتَامَىٰ",
+      "transliteration": "l-yetāmā",
+      "gloss": "öksüzleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَنْ يَكْبَرُوا ۚ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+      "verseTransliteration": "Vebtelûl yetâmâ hattâ izâ belegun nikâh(nikâha), fe in ânestum minhum ruşden fedfeû ileyhim emvâlehum ve lâ te’kulûhâ isrâfen ve bidâren en yekberû ve men kâne ganiyyen felyesta’fif, ve men kâne fakîran felye’kul bil ma’rûf(ma’rûfi), fe izâ defa’tum ileyhim emvâlehum fe eşhidû aleyhim, ve kefâ billâhi hasîbâ(hasîben).",
+      "verseMeaning": "Yetimleri, nikâh çağına gelmelerine kadar gözetleyip deneyin. O zaman onlarda içinize sinecek bir olgunluk ve erginlik görürseniz, mallarını onlara geri verin. Büyüyecekler diye bu malları tez elden saçıp savurarak yemeyin. Zengin olan, iffetli davransın. Fakir olan ise örfün gerekli kıldığı oranda yesin. Mallarını kendilerine teslim ettiğiniz zaman yanlarında tanıklar bulundurun. Hesap sorucu olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 8,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve öksüzler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينُ فَارْزُقُوهُمْ مِنْهُ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+      "verseTransliteration": "Ve izâ hadaral kısmete ulûl kurbâ vel yetâmâ vel mesâkînu ferzukûhum minhu ve kûlû lehum kavlen ma’rûfâ(ma’rûfen).",
+      "verseMeaning": "Mirasın paylaştırılmasında hısım-akraba, yetimler, yoksul ve çaresizler de hazır bulunurlarsa, ondan onları da rızıklandırın ve onlara güzel ve hoş bir söz de söyleyin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 10,
+      "formInAyah": "الْيَتَامَىٰ",
+      "transliteration": "l-yetāmā",
+      "gloss": "öksüzlerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+      "verseTransliteration": "İnnellezîne ye’kulûne emvâlel yetâmâ zulmen innemâ ye’kulûne fî butûnihim nârâ(nâran) ve seyaslevne seîrâ(seîran).",
+      "verseMeaning": "Şunda kuşkunuz olmasın ki, zulme başvurarak yetimlerin mallarını yiyenler karınlarına doldurmak üzere bir ateş yemekten başka bir şey yapmazlar. Ve onlar yakın bir zamanda, korkunç acılar veren bir azaba dalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 36,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve öksüzlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًا",
+      "verseTransliteration": "Va’budûllâhe ve lâ tuşrikû bihî şeyen ve bil vâlideyni ihsânen ve bizil kurbâ vel yetâmâ vel mesâkîni vel câri zil kurbâ vel câril cunubi ves sâhıbi bil cenbi vebnis sebîli ve mâ meleket eymânukum, innallâhe lâ yuhıbbu men kâne muhtâlen fehûrâ(fehûren).",
+      "verseMeaning": "Allah´a kulluk edin. O´na hiçbir şeyi ortak koşmayın. Ana-babaya, akrabaya, yetim ve öksüzlere, çaresizlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolda kalmışa, size bağımlı olanlara iyi ve güzel davranın. Allah, kasılıp böbürlenen şımarıkları sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 127,
+      "formInAyah": "يَتَامَى",
+      "transliteration": "yetāmā",
+      "gloss": "öksüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+      "verseTransliteration": "Ve yesteftûneke fîn nisâi kulillâhu yuftîkum fîhinne, ve mâ yutlâ aleykum fîl kitâbi fî yetâmen nisâillâtî lâ tu’tûnehunne mâ kutibe lehunne ve tergabûne en tenkihûhunne vel mustad’afîne minel vildâni, ve en tekûmû lil yetâmâ bil kıst(kıstı) ve mâ tef’alû min hayrin fe innallâhe kâne bihî alîmâ(alîmen).",
+      "verseMeaning": "Senden kadınlar hakkında fetva soruyorlar. De ki: \"Onlar hakkında fetvayı size Allah veriyor.\" Yazılmış hakları olanı kendilerine vermeyip de kendileriyle nikâhlanmak istediğiniz kadınların yetimleri hakkında, ezilip horlanan çocuklar hakkında, yetimler için adaleti yerine getirmeniz hakkında. Kitap´ta olup da yüzünüze karşı okunan şeyler var. Hayır olarak yaptığınız her şeyi Allah, hakkıyla bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 4,
+      "ayah": 127,
+      "formInAyah": "لِلْيَتَامَىٰ",
+      "transliteration": "lilyetāmā",
+      "gloss": "öksüzlere karşı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+      "verseTransliteration": "Ve yesteftûneke fîn nisâi kulillâhu yuftîkum fîhinne, ve mâ yutlâ aleykum fîl kitâbi fî yetâmen nisâillâtî lâ tu’tûnehunne mâ kutibe lehunne ve tergabûne en tenkihûhunne vel mustad’afîne minel vildâni, ve en tekûmû lil yetâmâ bil kıst(kıstı) ve mâ tef’alû min hayrin fe innallâhe kâne bihî alîmâ(alîmen).",
+      "verseMeaning": "Senden kadınlar hakkında fetva soruyorlar. De ki: \"Onlar hakkında fetvayı size Allah veriyor.\" Yazılmış hakları olanı kendilerine vermeyip de kendileriyle nikâhlanmak istediğiniz kadınların yetimleri hakkında, ezilip horlanan çocuklar hakkında, yetimler için adaleti yerine getirmeniz hakkında. Kitap´ta olup da yüzünüze karşı okunan şeyler var. Hayır olarak yaptığınız her şeyi Allah, hakkıyla bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 6,
+      "ayah": 152,
+      "formInAyah": "الْيَتِيمِ",
+      "transliteration": "l-yetīmi",
+      "gloss": "yetimin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "verseTransliteration": "Ve lâ takrebû mâlel yetîmi illâ billetî hiye ahsenu hattâ yebluga eşuddeh(eşuddehu), ve evfûl keyle vel mîzâne bil kıst(kıstı), lâ nukellifu nefsen illâ vus’ahâ ve izâ kultum fa’dilû ve lev kâne zâ kurbâ, ve bi ahdillâhi evfû, zâlikum vassâkum bihî leallekum tezekkerûn(tezekkerûne).",
+      "verseMeaning": "\"Yetimin malına yaklaşmayın! Ancak rüştüne erişinceye kadar en güzel yolla ilgilenme hali müstesna. Ölçme ve tartmayı tam bir dürüstlükle yerine getirin. Hiç kimseye yaratılış kapasitesinin üstünde yükümlülük getirmiyoruz. Konuştuğunuz zaman, yakınlarınız/aleyhine de olsa, adaleti gözetin. Ve Allah´a verdiğiniz söze sadık kalın. Düşünüp öğüt alasınız diye O size bunları önerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 8,
+      "ayah": 41,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve yetimlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ وَمَا أَنْزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Va´lemû ennemâ ganimtum min şey´in fe enne lillâhi humusehu ve lir resûli ve li zîl kurbâ vel yetâmâ vel mesâkîni vebnis sebîli in kuntum âmentum billâhi ve mâ enzelnâ alâ abdinâ yevmel furkâni yevmettekal cem´ân(cem´âni), vallâhu alâ kulli şey´in kadîr(kadîrun).",
+      "verseMeaning": "Doğru ile yanlışın ayrılış günü, iki topluluğun karşılaştığı gün, kulumuza indirmiş olduğumuza inanıyorsanız şunu bilin: Ganimet/kazanç olarak elde ettiğiniz şeylerin beşte biri Allah´a, resule, yakınlara, yetimlere, yoksullara ve yolda kalmışa aittir. Allah herşeye kadirdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 59,
+      "ayah": 7,
+      "formInAyah": "وَالْيَتَامَىٰ",
+      "transliteration": "velyetāmā",
+      "gloss": "ve yetimlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ ۚ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Mâ efâ allâhu alâ resûlihî min ehlil kurâ fe lillâhi ve lir resûli ve lizîl kurbâ vel yetâmâ vel mesâkîni vebnis sebîli key lâ yekûne dûleten beynel agniyâi minkum, ve mâ âtâkumur resûlu fe huzûhu ve mâ nehâkum anhu fentehû, vettekûllâh(vettekûllâhe), innallâhe şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Allah´ın, kentler halkından resulüne zahmetsizce aktardığı mal ve nimetler şunlar içindir: Allah, Peygamber, yakınlar, yetimler, yoksullar, yolda kalmışlar. Bu böyle düzenlenmiştir ki, o mal ve nimetler sizden yalnız zengin olanlar arasında dönüp duran bir kudret aracı olmasın. Resul size ne verdiyse onu alın; sizi neden yasakladıysa ona son verin ve Allah´tan korkun. Hiç kuşkusuz, Allah´ın azabı çok şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 76,
+      "ayah": 8,
+      "formInAyah": "وَيَتِيمًا",
+      "transliteration": "ve yetīmen",
+      "gloss": "ve yetime",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "verseTransliteration": "Ve yut’imûnet taâme alâ hubbihî miskînen ve yetîmen ve esîrâ(esîren.)",
+      "verseMeaning": "Yoksula, yetime ve esire, yemeği severek yedirirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 89,
+      "ayah": 17,
+      "formInAyah": "الْيَتِيمَ",
+      "transliteration": "l-yetīme",
+      "gloss": "yetime",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+      "verseTransliteration": "Kellâ bel lâ tukrimûnel yetîm(yetîme).",
+      "verseMeaning": "Doğrusu şu ki, siz yetime ikramda bulunmuyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 90,
+      "ayah": 15,
+      "formInAyah": "يَتِيمًا",
+      "transliteration": "yetīmen",
+      "gloss": "yetimi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "verseTransliteration": "Yetîmen zâ makrabeh(makrabetin).",
+      "verseMeaning": "Yakındaki bir yetimi,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 93,
+      "ayah": 6,
+      "formInAyah": "يَتِيمًا",
+      "transliteration": "yetīmen",
+      "gloss": "yetim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "verseTransliteration": "E lem yecidke yetîmen fe âvâ.",
+      "verseMeaning": "O seni bir yetim olarak bulup da barınağa kavuşturmadı mı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 93,
+      "ayah": 9,
+      "formInAyah": "الْيَتِيمَ",
+      "transliteration": "l-yetīme",
+      "gloss": "öksüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "verseTransliteration": "Fe emmel yetîme fe lâ takher.",
+      "verseMeaning": "O halde, yetimi örseleme,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَتِيم",
+      "sura": 107,
+      "ayah": 2,
+      "formInAyah": "الْيَتِيمَ",
+      "transliteration": "l-yetīme",
+      "gloss": "öksüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "verseTransliteration": "Fe zâlikellezî yedu’ul yetîm(yetîme).",
+      "verseMeaning": "İşte odur yetimi itip kakan;"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=ytm"
+}

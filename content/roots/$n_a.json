@@ -1,0 +1,87 @@
+{
+  "id": "$nA",
+  "latinName": "Şin-Nun-Elif",
+  "lettersArabic": "ش ن ا",
+  "meanings": [
+    "to hate/loathe, shanaanan - hatred, insult, adversity, enmity, hostility, malice, abhorring. shaaniun - insulter, enemy, foe, adversary, antagonist. shaan'ka - your enemy."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "شَانِئ",
+      "count": 1
+    },
+    {
+      "formArabic": "شَنَ َٔان",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَانِئ",
+      "sura": 108,
+      "ayah": 3,
+      "formInAyah": "شَانِئَكَ",
+      "transliteration": "şānieke",
+      "gloss": "sana buğzeden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "verseTransliteration": "İnne şânieke huvel ebter(ebteru).",
+      "verseMeaning": "Kuşkun olmasın ki ebter/soyu kesik, seni kötüleyenin ta kendisidir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَنَ َٔان",
+      "sura": 5,
+      "ayah": 2,
+      "formInAyah": "شَنَانُ",
+      "transliteration": "şenānu",
+      "gloss": "beslediğiniz kin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا ۚ وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا ۘ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tuhıllû şe’âirallâhi veleş şehral harâme ve lâl hedye ve lâl kalâide ve lâ ammînel beytel harâme yebtegûne fadlan min rabbihim ve rıdvânâ(rıdvânen) ve izâ haleltum fastâdû ve lâ yecrimennekum şeneânu kavmin en saddûkum anil mescidil harâmi en ta’tedû, ve teâvenû alel birri vet takva ve lâ teâvenû alel ismi vel udvâni vettekullâh(vettekullâhe) innallâhe şedîdul ıkâb(ıkâbi).",
+      "verseMeaning": "Ey iman edenler! Allah´ın ibadet, iyilik ve güzellik alâmeti kıldığı şeylere, çarpışmanın yasak olduğu haram aya, kurbanlık hediyelere, gerdanlıklara, Rablerinden bir lütuf ve rıza niyaz ederek Mescid-i Haram´a gelmiş olanlara saygısızlık etmeyin! İhramdan çıktığınız vakit avlanın. Bir topluluğun, sizi Mescid-i Haram´dan uzak tutmak için sergilediği kötülük, sizi saldırganlık ve düşmanlığa sakın itmesin! Hayırda erginlik/dürüstlük ve takva üzere yardımlaşın! Kötülük/çirkinlik, düşmanlık/saldırganlık üzere yardımlaşmayın. Allah´tan sakının! Kuşkunuz olmasın ki, Allah´ın azabı çok şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَنَ َٔان",
+      "sura": 5,
+      "ayah": 8,
+      "formInAyah": "شَنَانُ",
+      "transliteration": "şenānu",
+      "gloss": "duyduğunuz kin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû kavvâmîne lillâhi şuhedâe bil kıstı ve lâ yecrimennekum şeneânu kavmin alâ ellâ ta’dilû. I’dilû, huve akrabu lit takva vettekûllâh(vettekûllâhe) innallâhe habîrun bimâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Ey iman edenler! Adalet ve dürüstlüğün tanıkları olarak Allah için kollayıp gözetleyenler olun! Bir topluluğun çirkinlik ve kötülüğü sizi adaletsiz davranmaya asla itmesin. Adaletli olun! Bu, takvaya/korunup sakınmaya daha uygundur. Allah´tan sakının. Allah, yapmakta olduklarınızdan haberdardır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24nA"
+}

@@ -1,0 +1,451 @@
+{
+  "id": "Hzb",
+  "latinName": "Ha-Za-Be",
+  "lettersArabic": "ح ز ب",
+  "meanings": [
+    "bölmek, insanları partilere / sınıflara / organlara / bölümlere ayırmak, insanları toplamak / birleştirmek."
+  ],
+  "derivativeNotes": [
+    "Hizib - Sertliği, gücü olan bir topluluk, grup, taraftar, kafile, tayfa, bölük, ordu - birlik."
+  ],
+  "turkishDerivatives": [
+    "hizip"
+  ],
+  "cognates": [],
+  "totalOccurrencesInQuran": 20,
+  "lemmas": [
+    {
+      "formArabic": "حِزْب",
+      "count": 20
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 5,
+      "ayah": 56,
+      "formInAyah": "حِزْبَ",
+      "transliteration": "Hizbe",
+      "gloss": "taraftarlarıdır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ",
+      "verseTransliteration": "Ve men yetevellallâhe ve resûlehu vellezîne âmenû fe inne hızbellâhi humul gâlibûn(gâlibûne).",
+      "verseMeaning": "Allah´ı, O´nun resulünü ve iman edenleri dost edinen/Allah´tan, O´nun resulünden ve iman edenlerden yüz çeviren bilsin ki, galip gelecek olanlar Allah´ın taraftarlarıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 11,
+      "ayah": 17,
+      "formInAyah": "الْأَحْزَابِ",
+      "transliteration": "l-eHzābi",
+      "gloss": "topluluklardan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ وَمِنْ قَبْلِهِ كِتَابُ مُوسَىٰ إِمَامًا وَرَحْمَةً ۚ أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۚ وَمَنْ يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ فَالنَّارُ مَوْعِدُهُ ۚ فَلَا تَكُ فِي مِرْيَةٍ مِنْهُ ۚ إِنَّهُ الْحَقُّ مِنْ رَبِّكَ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ",
+      "verseTransliteration": "E fe men kâne alâ beyyinetin min rabbihî ve yetlûhu şâhidun minhu ve min kablihî kitâbu mûsâ imâmen ve rahmeh(rahmeten), ulâike yu´minûne bih(bihî), ve men yekfur bihî minel ahzâbi fen nâru mev´ıduh(mev´ıduhu), fe lâ teku fî miryetin minhu innehul hakku min rabbike ve lâkinne ekseren nâsi lâ yu´minûn(yu´minûne).",
+      "verseMeaning": "Böyleleri şu kimse gibi olur mu: Rabbinden bir beyyine üzerinedir, O´ndan bir tanık da kendisini izler. Tanıktan önce de bir kılavuz ve rahmet olarak Mûsa´nın kitabı var. Onlar ona inanırlar. Hiziplerden onu inkâr edenin varış yeri ateştir. Ondan asla kuşkuya düşme; o Rabbinden bir haktır ama insanların çokları inanmıyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 13,
+      "ayah": 36,
+      "formInAyah": "الْأَحْزَابِ",
+      "transliteration": "l-eHzābi",
+      "gloss": "kabilelerden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَفْرَحُونَ بِمَا أُنْزِلَ إِلَيْكَ ۖ وَمِنَ الْأَحْزَابِ مَنْ يُنْكِرُ بَعْضَهُ ۚ قُلْ إِنَّمَا أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ وَلَا أُشْرِكَ بِهِ ۚ إِلَيْهِ أَدْعُو وَإِلَيْهِ مَآبِ",
+      "verseTransliteration": "Vellezîne âteynâhumul kitâbe yefrehûne bimâ unzile ileyke ve minel ahzâbi men yunkiru ba’dah(ba’dahu), kul innemâ umirtu en a’budallâhe ve lâ uşrike bih(bihî), ileyhi ed’û ve ileyhi meâb(meâbi).",
+      "verseMeaning": "Kendilerine kitap verdiklerimiz, sana indirilenle ferahlarlar. Ama hiziplerden bazıları onun bir kısmını inkâr ederler. De ki: \"Bana, yalnız Allah´a kulluk etmem, O´na ortak koşmamam emredildi. Ben O´na yakarır, O´na davet ederim. Dönüşüm de O´nadır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 18,
+      "ayah": 12,
+      "formInAyah": "الْحِزْبَيْنِ",
+      "transliteration": "l-Hizbeyni",
+      "gloss": "iki zümreden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَيُّ الْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوا أَمَدًا",
+      "verseTransliteration": "Summe beasnâhum li na´leme eyyul hızbeyni ahsâ limâ lebisû emedâ(emeden).",
+      "verseMeaning": "Sonra onları dirilttik ki, iki zümreden hangisinin kaldıkları süreyi daha iyi hesap edebileceğini bilelim."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 19,
+      "ayah": 37,
+      "formInAyah": "الْأَحْزَابُ",
+      "transliteration": "l-eHzābu",
+      "gloss": "hizipler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ ۖ فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ مَشْهَدِ يَوْمٍ عَظِيمٍ",
+      "verseTransliteration": "Fahtelefel ahzâbu min beynihim, fe veylun lillezîne keferû min meşhedi yevmin azîm(azîmin).",
+      "verseMeaning": "Kendi aralarından çıkan hizipler ihtilafa düştüler. Büyük bir günün tanıklığından ötürü vay o inkârcıların haline!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 23,
+      "ayah": 53,
+      "formInAyah": "حِزْبٍ",
+      "transliteration": "Hizbin",
+      "gloss": "gurup",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "verseTransliteration": "Fe tekattaû emrehum beynehum zuburâ(zuburan), kullu hızbin bimâ ledeyhim ferihûn(ferihûne).",
+      "verseMeaning": "Fakat onlar işlerini aralarında parçalayıp çeşitli zübürlere/kutsallaştırmış hizip kitaplarına ayırdılar. Her hizip, yalnız kendi yanındakiyle sevinip övünmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 30,
+      "ayah": 32,
+      "formInAyah": "حِزْبٍ",
+      "transliteration": "Hizbin",
+      "gloss": "gurup",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "verseTransliteration": "Minellezîne ferrakû dînehum ve kânû şiyeâ(şiyean), kullu hızbin bimâ ledeyhim ferihûn(ferihûne).",
+      "verseMeaning": "Onlardan ki, dinlerini parçalayıp hizipler/fırkalar haline geldiler. Her hizip kendi elindekiyle sevinip övünür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 33,
+      "ayah": 20,
+      "formInAyah": "الْأَحْزَابَ",
+      "transliteration": "l-eHzābe",
+      "gloss": "orduların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَحْسَبُونَ الْأَحْزَابَ لَمْ يَذْهَبُوا ۖ وَإِنْ يَأْتِ الْأَحْزَابُ يَوَدُّوا لَوْ أَنَّهُمْ بَادُونَ فِي الْأَعْرَابِ يَسْأَلُونَ عَنْ أَنْبَائِكُمْ ۖ وَلَوْ كَانُوا فِيكُمْ مَا قَاتَلُوا إِلَّا قَلِيلًا",
+      "verseTransliteration": "Yahsebûnel ahzâbe lem yezhebû, ve in ye’til ahzâbu yeveddû lev ennehum bâdûne fîl a’râbi yes’elûne an enbâikum, ve lev kânû fîkum mâ kâtelû illâ kalîlâ(kalîlen).",
+      "verseMeaning": "Düşman hiziplerin gitmediğini sanıyorlar. Düşman hizipler gelecek olsalar, bunlar isterler ki, bedevî araplar içinde bulunsunlar da sizinle ilgili haberleri sorsunlar. Şayet içinizde bulunsalardı, pek azı müstesna, savaşmayacaklardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 33,
+      "ayah": 20,
+      "formInAyah": "الْأَحْزَابُ",
+      "transliteration": "l-eHzābu",
+      "gloss": "ordular",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَحْسَبُونَ الْأَحْزَابَ لَمْ يَذْهَبُوا ۖ وَإِنْ يَأْتِ الْأَحْزَابُ يَوَدُّوا لَوْ أَنَّهُمْ بَادُونَ فِي الْأَعْرَابِ يَسْأَلُونَ عَنْ أَنْبَائِكُمْ ۖ وَلَوْ كَانُوا فِيكُمْ مَا قَاتَلُوا إِلَّا قَلِيلًا",
+      "verseTransliteration": "Yahsebûnel ahzâbe lem yezhebû, ve in ye’til ahzâbu yeveddû lev ennehum bâdûne fîl a’râbi yes’elûne an enbâikum, ve lev kânû fîkum mâ kâtelû illâ kalîlâ(kalîlen).",
+      "verseMeaning": "Düşman hiziplerin gitmediğini sanıyorlar. Düşman hizipler gelecek olsalar, bunlar isterler ki, bedevî araplar içinde bulunsunlar da sizinle ilgili haberleri sorsunlar. Şayet içinizde bulunsalardı, pek azı müstesna, savaşmayacaklardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 33,
+      "ayah": 22,
+      "formInAyah": "الْأَحْزَابَ",
+      "transliteration": "l-eHzābe",
+      "gloss": "(düşman) orduları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمَّا رَأَى الْمُؤْمِنُونَ الْأَحْزَابَ قَالُوا هَٰذَا مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ وَصَدَقَ اللَّهُ وَرَسُولُهُ ۚ وَمَا زَادَهُمْ إِلَّا إِيمَانًا وَتَسْلِيمًا",
+      "verseTransliteration": "Ve lemmâ real mu’minûnel ahzâbe kâlû hâzâ mâ vaadenallâhu ve resûluhu ve sadakallâhu ve resûluhu ve mâ zâdehum illâ îmânen ve teslîmâ(teslîmen).",
+      "verseMeaning": "Müminler, düşman hizipleri gördüklerinde şöyle demişlerdir: \"Allah´ın ve resulünün bize vaat ettiği işte budur. Ve Allah da resulü de doğru sözlüdür.\" Bu onların sadece iman ve teslimiyetlerini artırdı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 35,
+      "ayah": 6,
+      "formInAyah": "حِزْبَهُ",
+      "transliteration": "Hizbehu",
+      "gloss": "taraftarlarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ",
+      "verseTransliteration": "İnneş şeytâne lekum aduvvun fettehızûhu aduvvâ(aduvven), innemâ yed’û hızbehu li yekûnû min ashâbis seîr(seîri).",
+      "verseMeaning": "Şu bir gerçek ki, şeytan sizin için bir düşmandır. O halde siz de onu düşman tutun. Hiç kuşkusuz, o kendi hizbini cehennem yâranından olmaları için çağırır durur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 38,
+      "ayah": 11,
+      "formInAyah": "الْأَحْزَابِ",
+      "transliteration": "l-eHzābi",
+      "gloss": "derme çatma",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "جُنْدٌ مَا هُنَالِكَ مَهْزُومٌ مِنَ الْأَحْزَابِ",
+      "verseTransliteration": "Cundun mâ hunâlike mehzûmun minel ahzâb(ahzâbi).",
+      "verseMeaning": "Kabilelerden oluşmuş, sözüm ona bir ordudur bu; şurada bozguna uğratılacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 38,
+      "ayah": 13,
+      "formInAyah": "الْأَحْزَابُ",
+      "transliteration": "l-eHzābu",
+      "gloss": "kabilelerdi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَابُ الْأَيْكَةِ ۚ أُولَٰئِكَ الْأَحْزَابُ",
+      "verseTransliteration": "Ve semûdu ve kavmu lûtın ve ashâbul eykeh(eyketi), ulâikel ahzâb(ahzâbu).",
+      "verseMeaning": "Semûd, Lût kavmi, o sık ağaçları besleyen su kaynağının sahipleri Eykeliler de. İşte onlar da böyle hiziplerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 40,
+      "ayah": 5,
+      "formInAyah": "وَالْأَحْزَابُ",
+      "transliteration": "vel’eHzābu",
+      "gloss": "ve kollar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَالْأَحْزَابُ مِنْ بَعْدِهِمْ ۖ وَهَمَّتْ كُلُّ أُمَّةٍ بِرَسُولِهِمْ لِيَأْخُذُوهُ ۖ وَجَادَلُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ فَأَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+      "verseTransliteration": "Kezzebet kablehum kavmu nûhın vel ahzâbu min ba’dıhım ve hemmet kullu ummetin bi resûlihim li ye’huzûhu ve câdelû bil bâtılı li yudhıdû bihil hakka fe ehaztuhum, fe keyfe kâne ıkâb(ıkâbi).",
+      "verseMeaning": "Onlardan önce Nûh kavmi yalanlamıştı. Onlardan sonra gelen oymaklar da. Her ümmet kendilerine gelen elçiyi yakalasınlar diye uğraştı. Ve hakkı işlemez kılmak için yanlışı/tutarsızlığı esas alarak mücadele ettiler; nihayet onları yakaladım. Nasıl olmuştu azabım?!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 40,
+      "ayah": 30,
+      "formInAyah": "الْأَحْزَابِ",
+      "transliteration": "l-eHzābi",
+      "gloss": "öncekilerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِي آمَنَ يَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ مِثْلَ يَوْمِ الْأَحْزَابِ",
+      "verseTransliteration": "Ve kâlellezî âmene yâ kavmi innî ehâfu aleykum misle yevmil ahzâb(ahzâbi).",
+      "verseMeaning": "İman etmiş olan bir adam dedi: \"Ey toplumum, sizin üzerinize, diğer topluluklarınki gibi bir günün gelmesinden korkuyorum;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 43,
+      "ayah": 65,
+      "formInAyah": "الْأَحْزَابُ",
+      "transliteration": "l-eHzābu",
+      "gloss": "guruplar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ ۖ فَوَيْلٌ لِلَّذِينَ ظَلَمُوا مِنْ عَذَابِ يَوْمٍ أَلِيمٍ",
+      "verseTransliteration": "Fahtelefel ahzâbu min beynihim, fe veylun lillezîne zalemû min azâbi yevmin elîm(elîmin).",
+      "verseMeaning": "Böyle iken, aralarından çıkan hizipler ihtilafa düştüler. Korkunç bir günün azabından vay haline o zulmedenlerin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 58,
+      "ayah": 19,
+      "formInAyah": "حِزْبَ",
+      "transliteration": "Hizbe",
+      "gloss": "hizbi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنْسَاهُمْ ذِكْرَ اللَّهِ ۚ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ ۚ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "İstahveze aleyhimuş şeytânu fe ensâhum zikrallâh(zikrallâhi), ulâike hizbuş şeytân(şeytâni), elâ inne hizbeşşeytâni humul hâsirûn(hâsirûne).",
+      "verseMeaning": "Şeytan onları kuşattı da Allah´ın zikrini/Kur´an´ını onlara unutturdu. İşte bunlar şeytanın hizbidir. Dikkat edin! Şeytanın hizbi hüsrana uğrayanların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 58,
+      "ayah": 19,
+      "formInAyah": "حِزْبُ",
+      "transliteration": "Hizbu",
+      "gloss": "hizbidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنْسَاهُمْ ذِكْرَ اللَّهِ ۚ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ ۚ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "İstahveze aleyhimuş şeytânu fe ensâhum zikrallâh(zikrallâhi), ulâike hizbuş şeytân(şeytâni), elâ inne hizbeşşeytâni humul hâsirûn(hâsirûne).",
+      "verseMeaning": "Şeytan onları kuşattı da Allah´ın zikrini/Kur´an´ını onlara unutturdu. İşte bunlar şeytanın hizbidir. Dikkat edin! Şeytanın hizbi hüsrana uğrayanların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 58,
+      "ayah": 22,
+      "formInAyah": "حِزْبُ",
+      "transliteration": "Hizbu",
+      "gloss": "hizbidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Lâ tecidu kavmen yû’munûne billâhi vel yevmil âhîri yuvâddûne men hâddallâhe ve resûlehu ve lev kânû âbâehum ve ebnâehum ve ihvânehum ev aşîretehum, ulâike ketebe fî kulûbihimul îmâne ve eyyedehum bi rûhin minh(minhu), ve yudhıluhum cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ, radıyallâhu anhum ve radû anh(anhu), ulâike hizbullâh(hizbullâhi), e lâ inne hizbullâhi humul muflihûn(muflihûne).",
+      "verseMeaning": "Allah´a ve âhiret gününe inanan bir topluluğun, Allah´a ve resulüne karşı çıkanlarla sevgiye dayalı bir dostluk kurduğunu göremezsin. Bunlar onların ister babaları olsun, ister çocukları olsun, ister kardeşleri olsun, ister akrabaları olsun. Allah onların kalplerine imanı yazmış ve onları kendisinden bir ruhla desteklemiştir. Onları, altlarından ırmaklar akan cennetlere koyacaktır; sürekli kalacaklardır orada. Allah onlardan hoşnut olmuştur, onlar da Allah´tan hoşnut olmuşlardır. Allah´ın hizbi işte bunlardır. Dikkat edin, Allah´ın hizbi, başarıya ulaşanların ta kendileridir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِزْب",
+      "sura": 58,
+      "ayah": 22,
+      "formInAyah": "حِزْبَ",
+      "transliteration": "Hizbe",
+      "gloss": "hizbidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Lâ tecidu kavmen yû’munûne billâhi vel yevmil âhîri yuvâddûne men hâddallâhe ve resûlehu ve lev kânû âbâehum ve ebnâehum ve ihvânehum ev aşîretehum, ulâike ketebe fî kulûbihimul îmâne ve eyyedehum bi rûhin minh(minhu), ve yudhıluhum cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ, radıyallâhu anhum ve radû anh(anhu), ulâike hizbullâh(hizbullâhi), e lâ inne hizbullâhi humul muflihûn(muflihûne).",
+      "verseMeaning": "Allah´a ve âhiret gününe inanan bir topluluğun, Allah´a ve resulüne karşı çıkanlarla sevgiye dayalı bir dostluk kurduğunu göremezsin. Bunlar onların ister babaları olsun, ister çocukları olsun, ister kardeşleri olsun, ister akrabaları olsun. Allah onların kalplerine imanı yazmış ve onları kendisinden bir ruhla desteklemiştir. Onları, altlarından ırmaklar akan cennetlere koyacaktır; sürekli kalacaklardır orada. Allah onlardan hoşnut olmuştur, onlar da Allah´tan hoşnut olmuşlardır. Allah´ın hizbi işte bunlardır. Dikkat edin, Allah´ın hizbi, başarıya ulaşanların ta kendileridir!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Hzb"
+}

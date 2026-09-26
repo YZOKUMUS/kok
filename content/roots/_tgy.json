@@ -1,0 +1,866 @@
+{
+  "id": "Tgy",
+  "latinName": "Ta-Gayn-Ye",
+  "lettersArabic": "ط غ ي",
+  "meanings": [
+    "Azmak, isyan etmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 39,
+  "lemmas": [
+    {
+      "formArabic": "أَطْغَيْ",
+      "count": 1
+    },
+    {
+      "formArabic": "أَطْغَىٰ",
+      "count": 1
+    },
+    {
+      "formArabic": "طَّاغِيَة",
+      "count": 1
+    },
+    {
+      "formArabic": "طَّٰغُوت",
+      "count": 8
+    },
+    {
+      "formArabic": "طَغْوَىٰ",
+      "count": 1
+    },
+    {
+      "formArabic": "طَغَىٰ",
+      "count": 12
+    },
+    {
+      "formArabic": "طُغْيَٰن",
+      "count": 9
+    },
+    {
+      "formArabic": "طَٰغِين",
+      "count": 6
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَطْغَيْ",
+      "sura": 50,
+      "ayah": 27,
+      "formInAyah": "أَطْغَيْتُهُ",
+      "transliteration": "eTğaytuhu",
+      "gloss": "ben onu azdırmadım",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَٰكِنْ كَانَ فِي ضَلَالٍ بَعِيدٍ",
+      "verseTransliteration": "Kâle karînuhu rabbenâ mâ etgaytuhu ve lâkin kâne fî dalâlin baîdin.",
+      "verseMeaning": "Yoldaşı dedi ki: \"Rabbimiz, onu ben azdırmadım. Onun kendisi, dönüşü olmayan bir sapıklık içindeydi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَطْغَىٰ",
+      "sura": 53,
+      "ayah": 52,
+      "formInAyah": "وَأَطْغَىٰ",
+      "transliteration": "ve eTğā",
+      "gloss": "ve azgın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ ۖ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ",
+      "verseTransliteration": "Ve kavme nûhın min kabl(kablu), innehum kânû hum azleme ve atgâ.",
+      "verseMeaning": "Daha önce de Nûh kavmini. Çünkü onlar, evet onlar zulmettiler, azdılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّاغِيَة",
+      "sura": 69,
+      "ayah": 5,
+      "formInAyah": "بِالطَّاغِيَةِ",
+      "transliteration": "biT-Tāğiyeti",
+      "gloss": "azgın bir vak’a ile",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ",
+      "verseTransliteration": "Fe emmâ semûdu fe uhlikû bit tâgıyeh(tâgıyeti).",
+      "verseMeaning": "Bunun üzerine Semûd, bir doğal felaket ile helâk edildi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 2,
+      "ayah": 256,
+      "formInAyah": "بِالطَّاغُوتِ",
+      "transliteration": "biT-Tāğūti",
+      "gloss": "tağut (şeytan)ı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَا إِكْرَاهَ فِي الدِّينِ ۖ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انْفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "Lâ ikrâhe fîd dîni kad tebeyyener ruşdu minel gayy(gayyi), fe men yekfur bit tâgûti ve yu’min billâhi fe kadistemseke bil urvetil vuskâ, lenfisâme lehâ, vallâhu semîun alîm(alîmun).",
+      "verseMeaning": "Dinde baskı - zorlama - tiksindirme yoktur. Doğru ve güzel olan, çirkinlik ve sapıklıktan açık bir biçimde ayrılmıştır. Her kim tâğuta sırt dönüp Allah´a inanırsa hiç kuşkusuz sapasağlam bir kulpa yapışmış olur. Kopup parçalanması yoktur o kulpun. Allah, hakkıyla işiten, en iyi biçimde bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 2,
+      "ayah": 257,
+      "formInAyah": "الطَّاغُوتُ",
+      "transliteration": "T-TTāğūtu",
+      "gloss": "tağuttur",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim"
+      },
+      "verseArabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Allâhu velîyyullezîne âmenû, yuhricuhum minez zulumâti ilen nûr(nûri), vellezîne keferû evliyâuhumut tâgûtu yuhricûnehum minen nûri ilâz zulumât(zulumâti), ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Allah, iman sahiplerinin Velî´sidir; onları karanlıklardan aydınlığa çıkarır. Küfre sapanlara gelince, onların dostları tağuttur ki, kendilerini nurdan karanlıklara çıkarır. Bunlar cehennemin dostlarıdır. Orada sürekli kalacaklardır onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 4,
+      "ayah": 51,
+      "formInAyah": "وَالطَّاغُوتِ",
+      "transliteration": "ve TTāğūti",
+      "gloss": "ve tağut’a",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا هَٰؤُلَاءِ أَهْدَىٰ مِنَ الَّذِينَ آمَنُوا سَبِيلًا",
+      "verseTransliteration": "E lem tere ilellezîne ûtû nasîben minel kitâbi yu’minûne bil cibti vet tâgûti ve yekûlûne lillezîne keferû hâulâi ehdâ minellezîne âmenû sebîlâ(sebîlen).",
+      "verseMeaning": "Görmedin mi şu kendilerine Kitap´tan bir pay verilmiş olanları? Puta, tâğuta inanıyorlar; küfre batmışlar için, \"Bunlar inananlardan daha doğru yoldadır!\" diyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 4,
+      "ayah": 60,
+      "formInAyah": "الطَّاغُوتِ",
+      "transliteration": "T-Tāğūti",
+      "gloss": "tağuta",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا",
+      "verseTransliteration": "E lem tere ilellezîne yez’umûne ennehum âmenû bimâ unzile ileyke ve mâ unzile min kablike yurîdûne en yetehâkemû ilat tâgûti ve kad umirû en yekfurû bih(bihî) ve yurîduş şeytânu en yudıllehum dalâlen baîdâ(baîden).",
+      "verseMeaning": "Şunları görmedin mi? Kendilerinin, sana indirilene de senden önce indirilene de inandıklarını sanarken, inkâr etmekle emrolundukları tağutu aralarında hakem yapmak istiyorlar. Zaten şeytan da onları geri dönülmez bir sapıklıkla sersem hale getirmek istiyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 4,
+      "ayah": 76,
+      "formInAyah": "الطَّاغُوتِ",
+      "transliteration": "T-Tāğūti",
+      "gloss": "tağut",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ وَالَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ ۖ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا",
+      "verseTransliteration": "Ellezîne âmenû yukâtilûne fî sebîlillâh(sebîlillâhi) vellezîne keferû yukâtilûne fî sebîlit tâgûti fe kâtilû evliyâeş şeytân(şeytâni), inne keydeş şeytâni kâne daîfâ(daîfen).",
+      "verseMeaning": "İman edenler Allah yolunda savaşırlar; küfre sapanlarsa tağut yolunda savaşırlar. O halde, şeytanın dostlarıyla savaşın. Hiç kuşkusuz, şeytanın tuzağı çok zayıftır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 5,
+      "ayah": 60,
+      "formInAyah": "الطَّاغُوتَ",
+      "transliteration": "T-Tāğūte",
+      "gloss": "Tâğût’a",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ ۚ مَنْ لَعَنَهُ اللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ ۚ أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ عَنْ سَوَاءِ السَّبِيلِ",
+      "verseTransliteration": "Kul hel unebbiukum bi şerrin min zâlike mesûbeten ındallâh(ındallâhi) men leanehullâhu ve gadıbe aleyhi ve ceale min humul kıredete vel hanâzîre ve abedet tâgût(tâgûte) ulâike şerrun mekânen ve edallu an sevâis sebîl(sebîli).",
+      "verseMeaning": "De ki: \"Allah katında ceza olarak bundan daha kötüsünü size bildireyim mi? Allah´ın lanetlediği, üzerine gazap indirdiğidir o. Allah böylelerinden maymunlar, domuzlar ve tağut uşakları yapmıştır. İşte bunlardır yer bakımından daha kötü, yolun denge noktasını kaybetme bakımından daha şaşkın olanlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 16,
+      "ayah": 36,
+      "formInAyah": "الطَّاغُوتَ",
+      "transliteration": "T-Tāğūte",
+      "gloss": "tagutdan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَقَدْ بَعَثْنَا فِي كُلِّ أُمَّةٍ رَسُولًا أَنِ اعْبُدُوا اللَّهَ وَاجْتَنِبُوا الطَّاغُوتَ ۖ فَمِنْهُمْ مَنْ هَدَى اللَّهُ وَمِنْهُمْ مَنْ حَقَّتْ عَلَيْهِ الضَّلَالَةُ ۚ فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ",
+      "verseTransliteration": "Ve le kad beasnâ fî kulli ummetin resûlen eni’budûllâhe vectenibût tâgût(tâgûte), fe minhum men hedallâhu ve minhum men hakkat aleyhid dalâleh(dalâletu), fe sîrû fîl ardı fanzurû keyfe kâne âkıbetul mukezzibîn(mukezzibîne).",
+      "verseMeaning": "Andolsun, biz her ümmette şöyle tebliğ yapan bir resul görevlendirdik: \"Allah´a kulluk/ibadet edin, tâğutttan kaçının. Sonra bunlardan kimine Allah kılavuzluk etti, kimine de sapıklık hak oldu. Şimdi yeryüzünde gezip dolaşın da yalanlayanların sonu nasıl olmuş görün."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَّٰغُوت",
+      "sura": 39,
+      "ayah": 17,
+      "formInAyah": "الطَّاغُوتَ",
+      "transliteration": "T-Tāğūte",
+      "gloss": "Tağut’a",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا وَأَنَابُوا إِلَى اللَّهِ لَهُمُ الْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ",
+      "verseTransliteration": "Vellezînectenebût tâgûte en ya’budûhâ ve enâbû ilâllâhi lehumul buşrâ, fe beşşir ıbâd(ıbâdi).",
+      "verseMeaning": "Tağuttan, ona kulluk etmekten kaçınıp Allah´a yönelenlere müjde var. Muştula kullarıma!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغْوَىٰ",
+      "sura": 91,
+      "ayah": 11,
+      "formInAyah": "بِطَغْوَاهَا",
+      "transliteration": "biTağvāhā",
+      "gloss": "azgınlığı yüzünden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+      "verseTransliteration": "Kezzebet semûdu bi tagvâhâ.",
+      "verseMeaning": "Semûd kavmi, azgınlığı yüzünden yalanladı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 11,
+      "ayah": 112,
+      "formInAyah": "تَطْغَوْا",
+      "transliteration": "teTğav",
+      "gloss": "aşırı gitmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ وَلَا تَطْغَوْا ۚ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Festekim kemâ umirte ve men tâbe meake ve lâ tatgav, innehu bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "O halde sen, emrolunduğun gibi dosdoğru yürü! Seninle birlikte tövbe edenler de... Sakın aşırılık edip azmayın! O, yapmakta olduklarınızı görüyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 20,
+      "ayah": 24,
+      "formInAyah": "طَغَىٰ",
+      "transliteration": "Tağā",
+      "gloss": "azdı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+      "verseTransliteration": "İzheb ilâ fir’avne innehu tagâ.",
+      "verseMeaning": "\"Firavun´a git; çünkü o, azdı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 20,
+      "ayah": 43,
+      "formInAyah": "طَغَىٰ",
+      "transliteration": "Tağā",
+      "gloss": "azdı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اذْهَبَا إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+      "verseTransliteration": "İzhebâ ilâ fir’avne innehu tagâ.",
+      "verseMeaning": "\"Firavun´a gidin, çünkü o azdı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 20,
+      "ayah": 45,
+      "formInAyah": "يَطْغَىٰ",
+      "transliteration": "yeTğā",
+      "gloss": "iyice azar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَا رَبَّنَا إِنَّنَا نَخَافُ أَنْ يَفْرُطَ عَلَيْنَا أَوْ أَنْ يَطْغَىٰ",
+      "verseTransliteration": "Kâlâ rabbenâ innenâ nehâfu en yefruta aleynâ ev en yatgâ.",
+      "verseMeaning": "Dediler ki: \"Rabbimiz, onun aleyhimizde bir taşkınlık yapmasından yahut yine azmasından korkuyoruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 20,
+      "ayah": 81,
+      "formInAyah": "تَطْغَوْا",
+      "transliteration": "teTğav",
+      "gloss": "taşkınlık etmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَلَا تَطْغَوْا فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِي ۖ وَمَنْ يَحْلِلْ عَلَيْهِ غَضَبِي فَقَدْ هَوَىٰ",
+      "verseTransliteration": "Kulû min tayyibâti mâ rezaknâkum ve lâ tatgav fîhi fe yahılle aleykum gadabî ve men yahlil aleyhi gadabî fe kad hevâ.",
+      "verseMeaning": "Size verdiğimiz rızkın temizlerinden yiyin! Bu konuda azgınlık etmeyin! Yoksa öfkem üzerinize çöker. Ve kimin üstüne öfkem inerse o uçuruma gider."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 53,
+      "ayah": 17,
+      "formInAyah": "طَغَىٰ",
+      "transliteration": "Tağā",
+      "gloss": "azmadı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ",
+      "verseTransliteration": "Mâ zâgal basaru ve mâ tegâ.",
+      "verseMeaning": "Göz ne kayıp şaştı ne azıp haddi aştı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 55,
+      "ayah": 8,
+      "formInAyah": "تَطْغَوْا",
+      "transliteration": "teTğav",
+      "gloss": "taşkınlık etmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+      "verseTransliteration": "Ellâ tatgav fîl mîzân(mîzâni).",
+      "verseMeaning": "Azgınlık etmeyin ölçü ve tartıda, saptırmayın mizanı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 69,
+      "ayah": 11,
+      "formInAyah": "طَغَى",
+      "transliteration": "Tağā",
+      "gloss": "kabarınca",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ",
+      "verseTransliteration": "İnnâ lemmâ tagal mâu hamelnâkum fîl câriyeh(câriyeti).",
+      "verseMeaning": "Su azıp köpürdüğünde, biz sizi o akıp gidende taşıdık,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 79,
+      "ayah": 17,
+      "formInAyah": "طَغَىٰ",
+      "transliteration": "Tağā",
+      "gloss": "azdı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+      "verseTransliteration": "İzheb ilâ fir’avne innehu tagâ.",
+      "verseMeaning": "\"Firavun´a git! İyice azdı o.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 79,
+      "ayah": 37,
+      "formInAyah": "طَغَىٰ",
+      "transliteration": "Tağā",
+      "gloss": "azmışsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَأَمَّا مَنْ طَغَىٰ",
+      "verseTransliteration": "Fe emmâ men tagâ.",
+      "verseMeaning": "Artık azmış olan,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 89,
+      "ayah": 11,
+      "formInAyah": "طَغَوْا",
+      "transliteration": "Tağav",
+      "gloss": "azmışlardı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+      "verseTransliteration": "Ellezîne tagav fîl bilâd(bilâdi).",
+      "verseMeaning": "Bunlar, ülkelerde azıp zulmetmişlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَغَىٰ",
+      "sura": 96,
+      "ayah": 6,
+      "formInAyah": "لَيَطْغَىٰ",
+      "transliteration": "leyeTğā",
+      "gloss": "azar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+      "verseTransliteration": "Kellâ innel insâne le yatgâ.",
+      "verseMeaning": "İş, sanıldığı gibi değil! İnsan gerçekten azar:"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 2,
+      "ayah": 15,
+      "formInAyah": "طُغْيَانِهِمْ",
+      "transliteration": "Tuğyānihim",
+      "gloss": "taşkınları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Allâhu yestehziu bihim ve yemudduhum fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Allah onlarla alay ediyor ve onları, kendi azgınlıkları içinde bocalar bir halde sürüklüyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 5,
+      "ayah": 64,
+      "formInAyah": "طُغْيَانًا",
+      "transliteration": "Tuğyānen",
+      "gloss": "azgınlığını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا بِمَا قَالُوا ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنْفِقُ كَيْفَ يَشَاءُ ۚ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا ۚ وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ إِلَىٰ يَوْمِ الْقِيَامَةِ ۚ كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا اللَّهُ ۚ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا ۚ وَاللَّهُ لَا يُحِبُّ الْمُفْسِدِينَ",
+      "verseTransliteration": "Ve kâletil yehûdu yedullâhi maglûleh(maglûletun) gullet eydîhim ve luınû bimâ kâlû bel yedâhu mebsûtatâni yunfıku keyfe yeşâ(yeşâû) ve leyezîdenne kesîran minhum mâ unzile ileyke min rabbike tugyanen ve kufrâ(kufren) ve elkaynâ beynehumul adâvete vel bagdâe ilâ yevmil kıyâmeh(kıyâmeti) kullemâ evkadû nâran lil harbi etfeehallâhu ve yes’avne fîl ardı fesâda(fesâden) vallâhu lâ yuhıbbul mufsidîn(mufsidîne).",
+      "verseMeaning": "Yahudiler dediler ki: \"Allah´ın eli bağlıdır.\" Kendi elleri bağlandı/elleri bağlanasıcalar! Söylemiş oldukları yüzünden lanetlendiler. Söylediklerinin aksine, Allah´ın iki eli de alabildiğine açıktır; dilediği gibi bağışta bulunur. İnan olsun ki, Rabbinden sana indirilen, küfür ve taşkınlık yönünden onları iyice azdıracaktır. Onların arasına, ta kıyamet gününe kadar düşmanlık ve nefret atmışızdır. Ne zaman savaş için bir ateş yaksalar, Allah onu söndürür de onlar yeryüzünde yine bozgunculuğa koşarlar. Ama Allah, bozguncuları sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 5,
+      "ayah": 68,
+      "formInAyah": "طُغْيَانًا",
+      "transliteration": "Tuğyānen",
+      "gloss": "azgınlık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ يَا أَهْلَ الْكِتَابِ لَسْتُمْ عَلَىٰ شَيْءٍ حَتَّىٰ تُقِيمُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا ۖ فَلَا تَأْسَ عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Kul yâ ehlel kitâbi! lestum alâ şey’in hattâ tukîmût Tevrâte vel İncîle ve mâ unzile ileykum min rabbikum ve le yezîdenne kesîren minhum mâ unzile ileyke min rabbike tugyanen ve kufr(kufren), fe lâ te’se alâl kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "De ki: \"Ey Ehlikitap! Siz, Tevrat´ı, İncil´i ve Rabbinizden size indirileni tam uygulamadıkça hiçbir şey değilsiniz.\" Rabbinden sana indirilen, onlardan birçoğunun küfür ve azlığını elbette artıracaktır. Küfre batan topluluk için tasalanma artık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 6,
+      "ayah": 110,
+      "formInAyah": "طُغْيَانِهِمْ",
+      "transliteration": "Tuğyānihim",
+      "gloss": "azgınlıkları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Ve nukallibu ef’idetehum ve ebsârehum kemâ lem yu’minû bihî evvele merretin ve nezeruhum fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Biz onların gönüllerini ve gözlerini ters çeviririz, ilk seferinde buna iman etmedikleri gibi bırakırız kendilerini de azgınlıkları içinde körü körüne bocalar dururlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 7,
+      "ayah": 186,
+      "formInAyah": "طُغْيَانِهِمْ",
+      "transliteration": "Tuğyānihim",
+      "gloss": "azgınlıkları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَنْ يُضْلِلِ اللَّهُ فَلَا هَادِيَ لَهُ ۚ وَيَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Men yudlilillâhu fe lâ hâdiye leh(lehu), ve yezeruhum fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Allah´ın şaşırttığına kimse kılavuzluk edemez. O bırakır onları ki, kudurgunlukları içinde bocalayıp dursunlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 10,
+      "ayah": 11,
+      "formInAyah": "طُغْيَانِهِمْ",
+      "transliteration": "Tuğyānihim",
+      "gloss": "taşkınlıkları içinde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَوْ يُعَجِّلُ اللَّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Ve lev yuaccilullâhu lin nâsiş şerresti’câlehum bil hayri le kudiye ileyhim eceluhum, fe nezerullezîne lâ yercûne likâenâ fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Allah, insanlara şerri, onların hayrı acele istedikleri gibi çabucak verseydi, ecellerinin onlara ulaşmasına çoktan hükmedilmiş olurdu. Ama biz, bize kavuşmayı ummayanları kendi azgınlıkları içinde körü körüne bocalamaya bırakırız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 17,
+      "ayah": 60,
+      "formInAyah": "طُغْيَانًا",
+      "transliteration": "Tuğyānen",
+      "gloss": "azgınlıklarından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ ۚ وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا",
+      "verseTransliteration": "Ve iz kulnâ leke inne rabbeke ehâta bin nâs(nâsi), ve mâ cealner ru’yâlletî ereynâke illâ fitneten lin nâsi veş şeceretel mel’ûnete fîl kur’ân(kur’âni), ve nuhavvifuhum fe mâ yezîduhum illâ tugyânen kebîrâ(kebîren).",
+      "verseMeaning": "Hani, sana: \"Rabbin, insanları çepeçevre kuşatmıştır.\" demiştik. Sana gösterdiğimiz o rüyayı da Kur´an´da lanetlenmiş bulunan o ağacı/soyu da insanları sınamak dışında bir sebeple göndermedik. Biz onları korkutuyoruz ama bu onların kudurganlığını artırmaktan başka bir katkı sağlamıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 18,
+      "ayah": 80,
+      "formInAyah": "طُغْيَانًا",
+      "transliteration": "Tuğyānen",
+      "gloss": "azgınlık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا",
+      "verseTransliteration": "Ve emmel gulâmu fe kâne ebevâhu mu’mineyni fe haşînâ en yurhikahumâ tugyânen ve kufrâ(kufren).",
+      "verseMeaning": "\"Oğlan çocuğa gelince: Onun anası babası inanmış kişilerdi. Çocuğun onları azgınlık ve inkâra sürüklemesinden korktuk.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طُغْيَٰن",
+      "sura": 23,
+      "ayah": 75,
+      "formInAyah": "طُغْيَانِهِمْ",
+      "transliteration": "Tuğyānihim",
+      "gloss": "azgınlıklarında",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "verseTransliteration": "Ve lev rahımnâhum ve keşefnâ mâ bihim min durrin le leccû fî tugyânihim ya’mehûn(ya’mehûne).",
+      "verseMeaning": "Eğer biz onlara acıyıp da üstlerindeki sıkıntıyı kaldırsaydık, azgınlıkları içinde sersem sersem bocalamaya devam edeceklerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَٰغِين",
+      "sura": 37,
+      "ayah": 30,
+      "formInAyah": "طَاغِينَ",
+      "transliteration": "Tāğīne",
+      "gloss": "azgın",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا كَانَ لَنَا عَلَيْكُمْ مِنْ سُلْطَانٍ ۖ بَلْ كُنْتُمْ قَوْمًا طَاغِينَ",
+      "verseTransliteration": "Ve mâ kâne lenâ aleykum min sultân(sultânin), bel kuntum kavmen tâgîn(tâgîne).",
+      "verseMeaning": "\"Bizim size karşı bir sultamız yoktu. İşin esası şu ki siz azmış bir topluluktunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَٰغِين",
+      "sura": 52,
+      "ayah": 32,
+      "formInAyah": "طَاغُونَ",
+      "transliteration": "Tāğūne",
+      "gloss": "azgın",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+      "verseTransliteration": "Em te’muruhum ahlâmuhum bi hâzâ em hum kavmun tâgûn (tâgûne).",
+      "verseMeaning": "Acaba bunu onlara hayalleri mi emrediyor yoksa bunlar azmış bir topluluk mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَٰغِين",
+      "sura": 38,
+      "ayah": 55,
+      "formInAyah": "لِلطَّاغِينَ",
+      "transliteration": "liTTāğīne",
+      "gloss": "azgınlara vardır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هَٰذَا ۚ وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ",
+      "verseTransliteration": "Hâzâ, ve inne lit tâgıyne le şerre meâb(meâbin).",
+      "verseMeaning": "Bu, budur! Azgınlara da kötü bir gelecek vardır elbette!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَٰغِين",
+      "sura": 51,
+      "ayah": 53,
+      "formInAyah": "طَاغُونَ",
+      "transliteration": "Tāğūne",
+      "gloss": "azgın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَتَوَاصَوْا بِهِ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ",
+      "verseTransliteration": "E tevâsav bih(bihî), bel hum kavmun tâgûn(tâgûne).",
+      "verseMeaning": "Bunu aralarında vasiyetleştiler mi? Hayır, azıp sapmış bir topluluk bunlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَٰغِين",
+      "sura": 68,
+      "ayah": 31,
+      "formInAyah": "طَاغِينَ",
+      "transliteration": "Tāğīne",
+      "gloss": "azgınlarmışız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ",
+      "verseTransliteration": "Kâlû yâ veylenâ innâ kunnâ tâgîn(tâgîne).",
+      "verseMeaning": "\"Yazıklar olsun bize, dediler, biz gerçekten azgınlarmışız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">طَٰغِين",
+      "sura": 78,
+      "ayah": 22,
+      "formInAyah": "لِلطَّاغِينَ",
+      "transliteration": "liTTāğīne",
+      "gloss": "azgınların",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لِلطَّاغِينَ مَآبًا",
+      "verseTransliteration": "Lit tâgîne meâbâ(meâben).",
+      "verseMeaning": "Azgınlar için bir barınak."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Tgy"
+}

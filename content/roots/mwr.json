@@ -1,0 +1,87 @@
+{
+  "id": "mwr",
+  "latinName": "Mim-Vav-Ra",
+  "lettersArabic": "م و ر",
+  "meanings": [
+    "Sarsılmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "تَمُورُ",
+      "count": 2
+    },
+    {
+      "formArabic": "مَوْر",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَمُورُ",
+      "sura": 52,
+      "ayah": 9,
+      "formInAyah": "تَمُورُ",
+      "transliteration": "temūru",
+      "gloss": "çalkanır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا",
+      "verseTransliteration": "Yevme temûrus semâu mevren.",
+      "verseMeaning": "O gün gök bir çalkanışla çalkanır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَمُورُ",
+      "sura": 67,
+      "ayah": 16,
+      "formInAyah": "تَمُورُ",
+      "transliteration": "temūru",
+      "gloss": "birden sallanır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ",
+      "verseTransliteration": "E emintum men fîs semâi en yahsife bikumul arda fe izâ hiye temûr(temûru).",
+      "verseMeaning": "O göktekinin, sizi yere batırmayacağından emin misiniz? O zaman yer aniden çalkalanmaya başlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَوْر",
+      "sura": 52,
+      "ayah": 9,
+      "formInAyah": "مَوْرًا",
+      "transliteration": "mevran",
+      "gloss": "bir çalkalanış",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا",
+      "verseTransliteration": "Yevme temûrus semâu mevren.",
+      "verseMeaning": "O gün gök bir çalkanışla çalkanır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=mwr"
+}

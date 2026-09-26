@@ -1,0 +1,67 @@
+{
+  "id": "bsr",
+  "latinName": "Be-Sin-Ra",
+  "lettersArabic": "ب س ر",
+  "meanings": [
+    "Kaşını çatmak, yüzünü asmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "بَاسِرَة",
+      "count": 1
+    },
+    {
+      "formArabic": "بَسَرَ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَاسِرَة",
+      "sura": 75,
+      "ayah": 24,
+      "formInAyah": "بَاسِرَةٌ",
+      "transliteration": "bāsiratun",
+      "gloss": "asıktır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+      "verseTransliteration": "Ve vucûhun yevme izin bâsireth(bâsiretun).",
+      "verseMeaning": "Ve yüzler vardır o gün, asık/buruk,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَسَرَ",
+      "sura": 74,
+      "ayah": 22,
+      "formInAyah": "وَبَسَرَ",
+      "transliteration": "ve besera",
+      "gloss": "kaşlarını çattı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "verseTransliteration": "Summe abese ve beser(besere).",
+      "verseMeaning": "Sonra yüzünü buruşturdu, kaşlarını çattı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=bsr"
+}

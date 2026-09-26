@@ -1,0 +1,315 @@
+{
+  "id": "Hwr",
+  "latinName": "Ha-Vav-Ra",
+  "lettersArabic": "ح و ر",
+  "meanings": [
+    "Geri dönmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 13,
+  "lemmas": [
+    {
+      "formArabic": "تَحَاوُر",
+      "count": 1
+    },
+    {
+      "formArabic": "حَوَارِيُّون",
+      "count": 5
+    },
+    {
+      "formArabic": "حُور",
+      "count": 4
+    },
+    {
+      "formArabic": "يُحَاوِرُ",
+      "count": 2
+    },
+    {
+      "formArabic": "يَحُورَ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَحَاوُر",
+      "sura": 58,
+      "ayah": 1,
+      "formInAyah": "تَحَاوُرَكُمَا",
+      "transliteration": "teHāvurakumā",
+      "gloss": "ikinizin konuşmanızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tefâ’ul Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "verseTransliteration": "Kad semiallâhu kavlelletî tucâdiluke fî zevcihâ ve teştekî ilallâhi vallâhu yesmeu tehâvurekumâ, innellâhe semî’un basîr(basîrun).",
+      "verseMeaning": "Allah, kocası hakkında seninle tartışan ve Allah´a şikâyette bulunan kadının sözünü işitmiştir. Allah, ikinizin karşılıklı konuşmasını işitir. Çünkü Allah en iyi işiten, en iyi görendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَوَارِيُّون",
+      "sura": 3,
+      "ayah": 52,
+      "formInAyah": "الْحَوَارِيُّونَ",
+      "transliteration": "l-Havāriyyūne",
+      "gloss": "Havariler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا أَحَسَّ عِيسَىٰ مِنْهُمُ الْكُفْرَ قَالَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ آمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ",
+      "verseTransliteration": "Fe lemmâ ehassa îsâ min humul kufre kâle men ensârî ilâllâh(ilâllâhi), kâlel havâriyyûne nahnu ensârullâh(ensârullâhi), âmennâ billâh(billâhi), veşhed bi ennâ muslimûn(muslimûne).",
+      "verseMeaning": "İsa onlardan inkârı sezince şöyle konuştu: \"Allah´a gidişte benim yardımcılarım kim?\" Havâriler dediler ki: \"Biz Allah´ın yardımcılarıyız. Allah´a iman ettik biz. Tanık ol, biz müslümanlarız/Allah´a teslim olanlarız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَوَارِيُّون",
+      "sura": 5,
+      "ayah": 111,
+      "formInAyah": "الْحَوَارِيِّينَ",
+      "transliteration": "l-Havāriyyīne",
+      "gloss": "Havarilere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ أَوْحَيْتُ إِلَى الْحَوَارِيِّينَ أَنْ آمِنُوا بِي وَبِرَسُولِي قَالُوا آمَنَّا وَاشْهَدْ بِأَنَّنَا مُسْلِمُونَ",
+      "verseTransliteration": "Ve iz evhaytu ilel havâriyyîne en âminû bî ve bi resûlî, kâlû âmennâ veşhed bi ennenâ muslimûn(muslimûne).",
+      "verseMeaning": "Havarilere şunu vahyetmiştim: \"Bana ve resulüme iman edin.\" Şöyle demişlerdi: \"İman ettik, sen de tanık ol ki biz, müslümanlarız/Allah´a teslim olanlarız!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَوَارِيُّون",
+      "sura": 5,
+      "ayah": 112,
+      "formInAyah": "الْحَوَارِيُّونَ",
+      "transliteration": "l-Havāriyyūne",
+      "gloss": "Havariler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِذْ قَالَ الْحَوَارِيُّونَ يَا عِيسَى ابْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَنْ يُنَزِّلَ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ ۖ قَالَ اتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "İz kâlel havâriyyûne yâ îsebne meryeme hel yestetîu rabbuke en yunezzile aleynâ mâideten mines semâ(semâi) kâlettekullâhe in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Havariler demişlerdi ki: \"Ey Meryem´in oğlu İsa! Rabbin bize gökten bir sofra indirebilir mi?\" İsa dedi ki: \"Eğer müminlerseniz Allah´tan sakının!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَوَارِيُّون",
+      "sura": 61,
+      "ayah": 14,
+      "formInAyah": "لِلْحَوَارِيِّينَ",
+      "transliteration": "lilHavāriyyīne",
+      "gloss": "havarilere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ ۖ فَآمَنَتْ طَائِفَةٌ مِنْ بَنِي إِسْرَائِيلَ وَكَفَرَتْ طَائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû ensârallâhi kemâ kâle îsebnu meryeme lil havâriyyîne men ensârî ilâllâh(ilâllâhi), kâlel havâriyûne nahnu ensârullâh(ensârullâhi), fe âmenet tâifetun min benî isrâîle ve keferet tâifeh(tâifetun), fe eyyednellezîne âmenû alâ aduvvihim fe asbehû zâhirîn(zâhirîne).",
+      "verseMeaning": "Ey iman sahipleri! Allah´ın yardımcıları olun! Hani, Meryem oğlu İsa, havarilere: \"Allah´a gidişte benim yardımcılarım kimdir?\" demişti de, havariler: \"Biz, Allah´ın yardımcılarıyız!\" cevabını vermişlerdi. Bunun ardından, İsrailoğullarından bir zümre iman etmiş, bir zümre de küfre sapmıştı. Nihayet biz, iman sahiplerini düşmanlarına karşı güçlendirdik de onlar üstün geldiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حَوَارِيُّون",
+      "sura": 61,
+      "ayah": 14,
+      "formInAyah": "الْحَوَارِيُّونَ",
+      "transliteration": "l-Havāriyyūne",
+      "gloss": "havariler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنْصَارِي إِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ ۖ فَآمَنَتْ طَائِفَةٌ مِنْ بَنِي إِسْرَائِيلَ وَكَفَرَتْ طَائِفَةٌ ۖ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû ensârallâhi kemâ kâle îsebnu meryeme lil havâriyyîne men ensârî ilâllâh(ilâllâhi), kâlel havâriyûne nahnu ensârullâh(ensârullâhi), fe âmenet tâifetun min benî isrâîle ve keferet tâifeh(tâifetun), fe eyyednellezîne âmenû alâ aduvvihim fe asbehû zâhirîn(zâhirîne).",
+      "verseMeaning": "Ey iman sahipleri! Allah´ın yardımcıları olun! Hani, Meryem oğlu İsa, havarilere: \"Allah´a gidişte benim yardımcılarım kimdir?\" demişti de, havariler: \"Biz, Allah´ın yardımcılarıyız!\" cevabını vermişlerdi. Bunun ardından, İsrailoğullarından bir zümre iman etmiş, bir zümre de küfre sapmıştı. Nihayet biz, iman sahiplerini düşmanlarına karşı güçlendirdik de onlar üstün geldiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُور",
+      "sura": 44,
+      "ayah": 54,
+      "formInAyah": "بِحُورٍ",
+      "transliteration": "biHūrin",
+      "gloss": "hurilerle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+      "verseTransliteration": "Kezâlik(kezâlike), ve zevvecnâhum bi hûrin în(înin).",
+      "verseMeaning": "İşte böyle! Onları iri gözlü hurilerle de eşleştirmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُور",
+      "sura": 52,
+      "ayah": 20,
+      "formInAyah": "بِحُورٍ",
+      "transliteration": "biHūrin",
+      "gloss": "hurilerle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَصْفُوفَةٍ ۖ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+      "verseTransliteration": "Muttekiîne alâ sururin masfûfeh(masfûfetin), ve zevvecnâhum bi hûrin înin.",
+      "verseMeaning": "Art arda dizilmiş koltuklar üzerinde yaslanmış olarak.\" Ve biz onları parlak, iri gözlü hurilerle eşleştirmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُور",
+      "sura": 55,
+      "ayah": 72,
+      "formInAyah": "حُورٌ",
+      "transliteration": "Hūrun",
+      "gloss": "huriler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul"
+      },
+      "verseArabic": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ",
+      "verseTransliteration": "Hûrun maksûrâtun fîl hiyâm(hiyâmi).",
+      "verseMeaning": "Çadırlar içinde bekletilen huriler var."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حُور",
+      "sura": 56,
+      "ayah": 22,
+      "formInAyah": "وَحُورٌ",
+      "transliteration": "ve Hūrun",
+      "gloss": "ve huriler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَحُورٌ عِينٌ",
+      "verseTransliteration": "Ve hûrun înun.",
+      "verseMeaning": "Ve genç kadınlar, iri ve siyah gözlü."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُحَاوِرُ",
+      "sura": 18,
+      "ayah": 34,
+      "formInAyah": "يُحَاوِرُهُ",
+      "transliteration": "yuHāviruhu",
+      "gloss": "konuşurken",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَانَ لَهُ ثَمَرٌ فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا",
+      "verseTransliteration": "Ve kâne lehu semer(semerun), fe kâle li sâhıbihî ve huve yuhâviruhû ene ekseru minke mâlen ve eazzu neferâ(neferen).",
+      "verseMeaning": "Adamın başka bir geliri de vardı. Bu yüzden, arkadaşlarıyla konuştuğu bir sırada ona şöyle demişti: \"Ben, malca senden zengin, insan unsuru bakımından da güçlü ve onurluyum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يُحَاوِرُ",
+      "sura": 18,
+      "ayah": 37,
+      "formInAyah": "يُحَاوِرُهُ",
+      "transliteration": "yuHāviruhu",
+      "gloss": "konuşan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا",
+      "verseTransliteration": "Kâle lehu sâhıbuhu ve huve yuhâviruhû e keferte billezî halakake min turâbin summe min nutfetin summe sevvâke raculâ(raculen).",
+      "verseMeaning": "Kendisiyle konuşan arkadaşı ona dedi ki: \"Sen, seni topraktan, sonra meniden yaratıp sonra da bir adam olarak biçimlendiren kudrete nankörlük mü ettin?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَحُورَ",
+      "sura": 84,
+      "ayah": 14,
+      "formInAyah": "يَحُورَ",
+      "transliteration": "yeHūra",
+      "gloss": "dönmeyeceğini",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ",
+      "verseTransliteration": "İnnehu zanne en len yahûr(yahûra).",
+      "verseMeaning": "Daha düşkün bir konuma asla geçmeyeceğini sanmıştı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Hwr"
+}

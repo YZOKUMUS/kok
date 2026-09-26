@@ -1,0 +1,1355 @@
+{
+  "id": "fry",
+  "latinName": "Fe-Ra-Ye",
+  "lettersArabic": "ف ر ي",
+  "meanings": [
+    "to cut/split/cleave, slander, fabricate (a lie). In this root the letter Ya is changed to Alif when the verb is joined to the pronominal. fariya - to be astonished/amazed, blame, repair. farriyun - new, strange, wonderful, remarkable, unheard, unprecedent."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 60,
+  "lemmas": [
+    {
+      "formArabic": "فَرِيّ",
+      "count": 1
+    },
+    {
+      "formArabic": "مُفْتَر",
+      "count": 1
+    },
+    {
+      "formArabic": "مُفْتَرُون",
+      "count": 2
+    },
+    {
+      "formArabic": "مُفْتَرَيَٰت",
+      "count": 1
+    },
+    {
+      "formArabic": "مُّفْتَرًى",
+      "count": 2
+    },
+    {
+      "formArabic": "يَفْتَرِي",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱفْتِرَاء",
+      "count": 2
+    },
+    {
+      "formArabic": "ٱفْتَرَىٰ",
+      "count": 50
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرِيّ",
+      "sura": 19,
+      "ayah": 27,
+      "formInAyah": "فَرِيًّا",
+      "transliteration": "feriyyen",
+      "gloss": "tuhaf, korkunç",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا",
+      "verseTransliteration": "Fe etet bihî kavmehâ tahmiluh(tahmiluhu), kâlû yâ meryemu lekad ci’ti şey’en feriyyâ(feriyyen).",
+      "verseMeaning": "Meryem, onu taşıyarak toplumuna getirdi. \"Ey Meryem, dediler, şaşılacak bir iş yaptın!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُفْتَر",
+      "sura": 16,
+      "ayah": 101,
+      "formInAyah": "مُفْتَرٍ",
+      "transliteration": "mufterin",
+      "gloss": "iftira ediyorsun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذَا بَدَّلْنَا آيَةً مَكَانَ آيَةٍ ۙ وَاللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوا إِنَّمَا أَنْتَ مُفْتَرٍ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Ve izâ beddelnâ âyeten mekâne âyetin vallâhu a’lemu bimâ yunezzilu kâlû innemâ ente mufter(mufterin), bel ekseruhum lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Biz bir ayeti, bir başka ayetin yerine koyduğumuzda -ki Allah neyi indirmekte olduğunu daha iyi bilir- şöyle derler: \"Sen düpedüz bir iftiracısın.\" Hayır, öyle değil. Bunların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُفْتَرُون",
+      "sura": 7,
+      "ayah": 152,
+      "formInAyah": "الْمُفْتَرِينَ",
+      "transliteration": "l-mufterīne",
+      "gloss": "iftiracıları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِنْ رَبِّهِمْ وَذِلَّةٌ فِي الْحَيَاةِ الدُّنْيَا ۚ وَكَذَٰلِكَ نَجْزِي الْمُفْتَرِينَ",
+      "verseTransliteration": "İnnellezînettehazûl ıcle seyenâluhum gadabun min rabbihim ve zilletun fîl hayâtid dunyâ, ve kezâlike neczîl mufterîn(mufterîne).",
+      "verseMeaning": "Buzağıyı ilah edinenler var ya, yakında onlara Rablerinden bir öfke ve dünya hayatında bir zillet ulaşacaktır. İftiracıları böyle cezalandırırız biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُفْتَرُون",
+      "sura": 11,
+      "ayah": 50,
+      "formInAyah": "مُفْتَرُونَ",
+      "transliteration": "mufterūne",
+      "gloss": "yalan uyduranlarsınız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۚ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ إِنْ أَنْتُمْ إِلَّا مُفْتَرُونَ",
+      "verseTransliteration": "Ve ilâ âdin ehâhum hûdâ(hûden), kâle yâ kavmi´budullâhe mâ lekum min ilâhin gayruh(gayruhu), in entum illâ mufterûn(mufterûne).",
+      "verseMeaning": "Âd´a da kardeşleri Hûd´u gönderdik. Dedi ki: \"Ey toplumum! Allah´a kulluk edin. Sizin O´ndan başka ilahınız yok. Siz sadece uydurmalara bel bağlamışsınız.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُفْتَرَيَٰت",
+      "sura": 11,
+      "ayah": 13,
+      "formInAyah": "مُفْتَرَيَاتٍ",
+      "transliteration": "mufterayātin",
+      "gloss": "uydurulmuş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Edilgen",
+          "Dişil, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِثْلِهِ مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُمْ مِنْ دُونِ اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul fe´tû bi aşri suverin mislihî muftereyâtin ved´û menisteta´tum min dûnillâhi in kuntum sâdikîn(sâdikîne).",
+      "verseMeaning": "Yoksa, \"Onu uydurdu\" mu diyorlar! De ki: \"Öyleyse hadi, onun benzeri, uydurma on sure de siz getirin; eğer doğru sözlüler iseniz, Allah´tan başka çağırabildiklerinizi de çağırın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّفْتَرًى",
+      "sura": 28,
+      "ayah": 36,
+      "formInAyah": "مُفْتَرًى",
+      "transliteration": "mufteran",
+      "gloss": "uydurulmuş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا جَاءَهُمْ مُوسَىٰ بِآيَاتِنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا سِحْرٌ مُفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
+      "verseTransliteration": "Fe lemmâ câehum mûsâ bi ayâtinâ beyyinâtin kâlû mâ hâzâ illâ sihrun mufteren ve mâ semi’nâ bi hâzâ fî âbâinel evvelîn(evvelîne).",
+      "verseMeaning": "Bunun ardından Musa onlara açık seçik ayetlerimizi getirdiğinde onlar şöyle dediler: \"Uydurulmuş bir büyüden başkası değil bu. İlk atalarımız arasında bunu hiç duymadık.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّفْتَرًى",
+      "sura": 34,
+      "ayah": 43,
+      "formInAyah": "مُفْتَرًى",
+      "transliteration": "mufteran",
+      "gloss": "uydurulmuş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا رَجُلٌ يُرِيدُ أَنْ يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ آبَاؤُكُمْ وَقَالُوا مَا هَٰذَا إِلَّا إِفْكٌ مُفْتَرًى ۚ وَقَالَ الَّذِينَ كَفَرُوا لِلْحَقِّ لَمَّا جَاءَهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "verseTransliteration": "Ve izâ tutlâ aleyhim âyâtunâ beyyinâtin kâlû mâ hâzâ illâ raculun yurîdu en yasuddekum ammâ kâne ya’budu âbâukum, ve kâlû mâ hâzâ illâ ifkun mufterâ(mufteran) ve kâlellezîne keferû lil hakkı lemmâ câehum in hâzâ illâ sihrun mubîn(mubînun).",
+      "verseMeaning": "Ayetlerimiz açık seçik kanıtlar halinde karşılarında okununca şöyle derler: \"Bu adam, atalarınızın kulluk/ibadet etmekte olduklarından sizi vazgeçirmek isteyen birinden başkası değil.\" Şunu da söylerler: \"Bu, düzenlenmş bir yalandan/iftiradan başka şey değildir.\" Hakkı inkâr edenler, o kendilerine geldiğinde şöyle demişlerdir: \"Açık bir büyüden başka şey değil bu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَفْتَرِي",
+      "sura": 60,
+      "ayah": 12,
+      "formInAyah": "يَفْتَرِينَهُ",
+      "transliteration": "yefterīnehu",
+      "gloss": "bir iftira",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَنْ لَا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu izâ câekel mu´minâtu yubâyi´neke alâ en lâ yuşrikne billâhi şey´en ve lâ yesrikne ve lâ yeznîne ve lâ yaktulne evlâdehunne ve lâ ye´tîne bi buhtânin yefterînehu beyne eydîhinne ve erculihinne ve lâ ya´sîneke fî ma´rûfin fe bâyı´hunne vestagfirlehunnallâh(vestagfirlehunnallâhe) innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Ey Peygamber! İnanmış kadınlar sana gelip Allah´a hiçbir şeyi ortak koşmamaları, hırsızlık etmemeleri, zina etmemeleri, çocuklarını öldürmemeleri, elleriyle ayakları arasında bir iftira uydurup ortaya sürmemeleri, iyilik ve güzelliği belirlenmiş bir işte sana isyan etmemeleri hususunda seninle bey´atleşmek isterlerse, onlarla bey´atleş ve onlar için Allah´tan af dile! Kuşkusuz, Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتِرَاء",
+      "sura": 6,
+      "ayah": 138,
+      "formInAyah": "افْتِرَاءً",
+      "transliteration": "ftirā'en",
+      "gloss": "iftira ederek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا هَٰذِهِ أَنْعَامٌ وَحَرْثٌ حِجْرٌ لَا يَطْعَمُهَا إِلَّا مَنْ نَشَاءُ بِزَعْمِهِمْ وَأَنْعَامٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَامٌ لَا يَذْكُرُونَ اسْمَ اللَّهِ عَلَيْهَا افْتِرَاءً عَلَيْهِ ۚ سَيَجْزِيهِمْ بِمَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kâlû hâzihi en’âmun ve harsun hicrun lâ yat’amuhâ illâ men neşâu bi za’mihim ve en’âmun hurrimet zuhûruhâ ve en’âmun lâ yezkurûnesmallâhi aleyhaftirâen aleyh(aleyhi) se yeczîhim bimâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Kendi kuruntularına uygun olarak şöyle dediler: \"Şunlar, dokunulmaz hayvanlar ve ekinlerdir. Bizim dilediğimizden başkası yiyemez bunları.\" Hayvanlar var, sırtlarına binmek yasaklanmıştır; hayvanlar var, Allah´a iftira yüzünden üzerlerine Allah´ın adını anmıyorlar. Allah onları üretmekte oldukları iftiralar yüzünden cezalandıracaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتِرَاء",
+      "sura": 6,
+      "ayah": 140,
+      "formInAyah": "افْتِرَاءً",
+      "transliteration": "ftirā'en",
+      "gloss": "iftira ederek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İfti’al Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَدْ خَسِرَ الَّذِينَ قَتَلُوا أَوْلَادَهُمْ سَفَهًا بِغَيْرِ عِلْمٍ وَحَرَّمُوا مَا رَزَقَهُمُ اللَّهُ افْتِرَاءً عَلَى اللَّهِ ۚ قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ",
+      "verseTransliteration": "Ve kad hasirellezîne katelû evlâdehum sefehan bi gayri ilmin ve harremû mâ rezekahumullâhuftirâen alâllâh(alâllâhi), kad dallû ve mâ kânû muhtedîn(muhtedîne).",
+      "verseMeaning": "Şu bir gerçek ki, ilimsizlik yüzünden öz evlatlarını beyinsizce katledenlerle Allah´ın kendilerine verdiği rızıkları, Allah´a iftira ederek haramlaştıranlar gerçekten hüsrana uğramışlardır. İnan olsun, sapıtmışlardır onlar; hiçbir zaman doğruyu ve güzeli bulamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 3,
+      "ayah": 24,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَاتٍ ۖ وَغَرَّهُمْ فِي دِينِهِمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Zâlike bi ennehum kâlû len temessenen nâru illâ eyyâmen ma’dûdât(ma’dûdâtin), ve garrahum fî dînihim mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Bunun sebebi onların, \"Ateş bize sayılı birkaç gün dışında asla dokunmayacaktır\" demeleridir. Uydurmuş oldukları yalanlar, dinlerinde kendilerini aldatmaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 3,
+      "ayah": 94,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uydurursa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَمَنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ مِنْ بَعْدِ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+      "verseTransliteration": "Fe menifterâ alâllâhil kezibe min ba’di zâlike fe ulâike humuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Artık bundan sonra kim yalan düzüp Allah´a iftira ederse böyleleri zalimlerin ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 4,
+      "ayah": 48,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "iftira etmiştir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدِ افْتَرَىٰ إِثْمًا عَظِيمًا",
+      "verseTransliteration": "İnnallâhe lâ yagfiru en yuşreke bihî ve yagfiru mâ dûne zâlike li men yeşâu ve men yuşrik billâhi fe kadifterâ ismen azîmâ(azîmen).",
+      "verseMeaning": "Şu bir gerçek ki, Allah kendisine şirk koşulmasını affetmez, bunun dışında kalanı/bundan az olanı dilediği kişi için affeder. Allah´a şirk koşan, gerçekten büyük bir günah işlemiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 4,
+      "ayah": 50,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "انْظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُبِينًا",
+      "verseTransliteration": "Unzur keyfe yefterûne alâllâhil kezib(kezibe) ve kefâ bihî ismen mubînâ(mubînen).",
+      "verseMeaning": "Bir bak, nasıl yalan düzüp iftira ediyorlar Allah´a! Açık günah olarak bu yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 5,
+      "ayah": 103,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا جَعَلَ اللَّهُ مِنْ بَحِيرَةٍ وَلَا سَائِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ ۙ وَلَٰكِنَّ الَّذِينَ كَفَرُوا يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ",
+      "verseTransliteration": "Mâ cealallâhu min bahîretin ve lâ sâibetin ve lâ vasîletin ve lâ hâmin ve lâkinnellezîne keferû yefterûne alâllâhi kezib(kezibe) ve ekseruhum lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Allah ne bahîre yapmıştır ne sâibe ne vasîle ne de hâm. Ne var ki küfre sapanlar yalan uydurarak Allah´a iftira ediyorlar ve çokları da akıl erdiremiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 21,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "iftira",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+      "verseTransliteration": "Ve men azlemu mimmenifterâ alâllâhi keziben ev kezzebe bi âyâtih(âyatihî), innehu lâ yuflihuz zâlimûn(zâlimûne).",
+      "verseMeaning": "Yalan düzerek Allah´a iftira eden yahut O´nun ayetlerini yalanlayandan daha zalim kim vardır? Şu da bir gerçek ki, zalimler asla kurtulamazlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 24,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uydurduruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "انْظُرْ كَيْفَ كَذَبُوا عَلَىٰ أَنْفُسِهِمْ ۚ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Unzur keyfe kezebû alâ enfusihim ve dalle anhum, mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Bak da gör, nasıl yalan söylediler öz benliklerine karşı! Ve iftira için kullandıkları şeyler, onları bırakıp kayboldu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 93,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uyduran",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ قَالَ أُوحِيَ إِلَيَّ وَلَمْ يُوحَ إِلَيْهِ شَيْءٌ وَمَنْ قَالَ سَأُنْزِلُ مِثْلَ مَا أَنْزَلَ اللَّهُ ۗ وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ فِي غَمَرَاتِ الْمَوْتِ وَالْمَلَائِكَةُ بَاسِطُو أَيْدِيهِمْ أَخْرِجُوا أَنْفُسَكُمُ ۖ الْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنْتُمْ تَقُولُونَ عَلَى اللَّهِ غَيْرَ الْحَقِّ وَكُنْتُمْ عَنْ آيَاتِهِ تَسْتَكْبِرُونَ",
+      "verseTransliteration": "Ve men azlemu mimmenifterâ alâllâhi keziben ev kâle ûhıye ileyye ve lem yûha ileyhi şey’un ve men kâle seunzilu misle mâ enzelallâh(enzelallâhu), ve lev terâ iziz zâlimûne fî gamerâtil mevti vel melâiketu bâsitû eydîhim, ahricû enfusekum, el yevme tuczevne azâbel hûni bimâ kuntum tekûlûne alâllâhi gayrel hakkı ve kuntum an âyâtihi testekbirûn(testekbirûne).",
+      "verseMeaning": "Yalan düzüp Allah´a iftira eden veya kendine bir şey vahyedilmediği halde \"Bana vahyedildi\" diyen kişi ile, \"Allah´ın ayet indirdiği gibi ben de indireceğim\" diyen kimseden daha zalim kim vardır? Bir görsen o zalimleri ölüm dalgaları içindeyken. Melekler ellerini uzatmış, \"Çıkarın canlarınızı!\" diye! \"Bugün zillet azabıyla cezalandırılacaksınız; çünkü Allah´a karşı gerçek dışı şeyler söylüyorsunuz ve çünkü O´nun ayetlerine karşı büyüklük taslıyordunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 112,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uydurdukları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا شَيَاطِينَ الْإِنْسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا ۚ وَلَوْ شَاءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kezâlike cealnâ li kulli nebiyyin aduvven şeyâtînel insi vel cinni, yûhî ba’duhum ilâ ba’dın zuhrufel kavli gurûrâ(gurûran), ve lev şâe rabbuke mâ fealûhu fe zerhum ve mâ yefterûn(yefterûne).",
+      "verseMeaning": "İşte böyle, biz peygambere insan ve cin şeytanlarını düşman yaptık. Bunlar aldatmak için birbirlerine lafın yaldızlısını fısıldarlar. Rabbin dileseydi onu yapamazlardı. Bırak onları, düzdükleri iftiralarla başbaşa kalsınlar;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 137,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uydurdukları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kezâlike zeyyene li kesîrin minel muşrikîne katle evlâdihim şurekâuhum li yurdûhum ve li yelbisû aleyhim dînehum, ve lev şâellâhu mâ fealûhu fe zerhum ve mâ yefterûn(yefterûne).",
+      "verseMeaning": "Aynen bunun gibi, müşriklerden birçoğuna, Allah´a ortak koştukları kişiler, öz evlatlarını öldürmeyi güzel göstermiştir ki, hem onları yok etsinler hem de dinlerini onlar aleyhine karmakarışık hale getirsinler. Allah dileseydi bunu yapamazlardı. O halde onları, düzdükleri iftiralarla baş başa bırak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 138,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "iftira etmeleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالُوا هَٰذِهِ أَنْعَامٌ وَحَرْثٌ حِجْرٌ لَا يَطْعَمُهَا إِلَّا مَنْ نَشَاءُ بِزَعْمِهِمْ وَأَنْعَامٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَامٌ لَا يَذْكُرُونَ اسْمَ اللَّهِ عَلَيْهَا افْتِرَاءً عَلَيْهِ ۚ سَيَجْزِيهِمْ بِمَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kâlû hâzihi en’âmun ve harsun hicrun lâ yat’amuhâ illâ men neşâu bi za’mihim ve en’âmun hurrimet zuhûruhâ ve en’âmun lâ yezkurûnesmallâhi aleyhaftirâen aleyh(aleyhi) se yeczîhim bimâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Kendi kuruntularına uygun olarak şöyle dediler: \"Şunlar, dokunulmaz hayvanlar ve ekinlerdir. Bizim dilediğimizden başkası yiyemez bunları.\" Hayvanlar var, sırtlarına binmek yasaklanmıştır; hayvanlar var, Allah´a iftira yüzünden üzerlerine Allah´ın adını anmıyorlar. Allah onları üretmekte oldukları iftiralar yüzünden cezalandıracaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 6,
+      "ayah": 144,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uyduran-",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمِنَ الْإِبِلِ اثْنَيْنِ وَمِنَ الْبَقَرِ اثْنَيْنِ ۗ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنْثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنْثَيَيْنِ ۖ أَمْ كُنْتُمْ شُهَدَاءَ إِذْ وَصَّاكُمُ اللَّهُ بِهَٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا لِيُضِلَّ النَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "verseTransliteration": "Ve minel ibilisneyni ve minel bakarisneyn(bakarisneyni), kul âz zekereyni harreme emil unseyeyni emmeştemelet aleyhi erhâmul unseyeyn(unseyeyni), em kuntum şuhedâe iz vassâkumullâhu bi hâzâ, fe men azlemu mimmenifterâ alâllâhi keziben li yudillen nâse bi gayri ilm(ilmin), innallâhe lâ yehdîl kavmez zâlimîn(zâlimîne).",
+      "verseMeaning": "Ve deveden iki, sığırdan iki. De ki \"İki erkeği mi haram kıldı, iki dişiyi mi, yoksa iki dişinin rahimlerince kuşatılanı mı? Yoksa Allah size bunu önerirken siz de tanıklık mı ediyordunuz?\" İlim dışı bir şekilde insanları şaşırtmak için yalan düzüp Allah´a iftira edenden daha zalim kim olabilir? Allah, zulme sapan bir topluluğa kılavuzluk etmiyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 7,
+      "ayah": 37,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uyduran",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۚ أُولَٰئِكَ يَنَالُهُمْ نَصِيبُهُمْ مِنَ الْكِتَابِ ۖ حَتَّىٰ إِذَا جَاءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْ قَالُوا أَيْنَ مَا كُنْتُمْ تَدْعُونَ مِنْ دُونِ اللَّهِ ۖ قَالُوا ضَلُّوا عَنَّا وَشَهِدُوا عَلَىٰ أَنْفُسِهِمْ أَنَّهُمْ كَانُوا كَافِرِينَ",
+      "verseTransliteration": "Fe men azlemu mimmenifterâ alallâhi keziben ev kezzebe bi âyâtih(âyâtihi) ulâike yenâluhum nasîbuhum minel kitâb(kitâbi), hattâ izâ câethum rusulunâ yeteveffevnehum kâlû eyne mâ kuntum ted´ûne min dûnillâh(dûnillâhi) kâlû dallû annâ ve şehidû alâ enfusihim ennehum kânû kâfirîn(kâfirîne).",
+      "verseMeaning": "Yalan düzerek Allah´a iftira eden yahut O´nun ayetlerini yalanlayanlardan daha zalim kim vardır? İşte bunların Kitap´tan nasipleri kendilerine ulaşır, nihayet elçilerimiz onlara gelip canlarını alırken şöyle derler: \"Allah dışındaki yakardıklarınız nerede?\" Şu cevabı verirler: \"Bizden uzaklaşıp kayboldular.\" Böylece, öz benlikleri aleyhine kendilerinin kafir olduğuna tanıklık ettiler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 7,
+      "ayah": 53,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "هَلْ يَنْظُرُونَ إِلَّا تَأْوِيلَهُ ۚ يَوْمَ يَأْتِي تَأْوِيلُهُ يَقُولُ الَّذِينَ نَسُوهُ مِنْ قَبْلُ قَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ فَهَلْ لَنَا مِنْ شُفَعَاءَ فَيَشْفَعُوا لَنَا أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ قَدْ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Hel yanzurûne illâ te´vîleh(te´vîlehu), yevme ye´tî te´vîluhu yekûlullezîne nesûhu min kablu kad câet rusulu rabbinâ bil hakk(hakkı), fe hel lenâ min şufeâe fe yeşfeû lenâ ev nureddu fe na´mele gayrellezî kunnâ na´mel(na´melu), kad hasirû enfusehum ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Onun yalnız tevilini gözetirler. Onun tevili geldiği gün, daha önce onu unutanlar şöyle derler: \"İnan olsun, Rabbimizin resulleri gerçeği getirmişler. Acaba bizim için şefaatçılar var mı ki, bize şefaat etsinler; yahut daha önce yaptıklarımızdan başkasını yapalım diye geri gönderilebilir miyiz?\" Öz benliklerini hüsrana ittiler. İftiralarına alet ettikleri, onlardan uzaklaşıp kayboldu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 7,
+      "ayah": 89,
+      "formInAyah": "افْتَرَيْنَا",
+      "transliteration": "fteraynā",
+      "gloss": "atmış oluruz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَدِ افْتَرَيْنَا عَلَى اللَّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُمْ بَعْدَ إِذْ نَجَّانَا اللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَا أَنْ نَعُودَ فِيهَا إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًا ۚ عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ",
+      "verseTransliteration": "Kadiftereynâ alallâhi keziben in udnâ fî milletikum ba’de iz necceynallâhu minhâ, ve mâ yekûnu lenâ en neûde fîhâ illâ en yeşâallahu rabbunâ, vesia rabbunâ kulle şey’in ilmen, alallâhi tevekkelnâ, rabbeneftah beynenâ ve beyne kavminâ bil hakkı ve ente hayrul fâtihîn(fâtihîne).",
+      "verseMeaning": "\"Allah bizi, milletimizden kurtardıktan sonra tekrar ona dönersek yalan düzüp Allah´a iftira etmiş oluruz. Rabbimiz Allah istemediği sürece, sizin milletinize dönmemiz söz konusu edilemez. Rabbimiz, bilgice herşeyi kuşatmıştır. Allah´a dayanıp güvendik biz. Ey Rabbimiz! Toplumumuzla bizim aramızda hak ile hükmet. Sen, çözüm getirenlerin en hayırlısısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 17,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uyduran",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۚ إِنَّهُ لَا يُفْلِحُ الْمُجْرِمُونَ",
+      "verseTransliteration": "Fe men azlemu mimmenifterâ alâllâhi keziben ev kezzebe bi âyâtih(âyâtihî), innehû lâ yuflihul mucrimûn(mucrimûne).",
+      "verseMeaning": "Yalan düzerek Allah´a iftira eden yahut onun ayetlerini yalanlayan kişiden daha zalim kim var? Şu bir gerçek ki, suçlular iflah etmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 30,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "هُنَالِكَ تَبْلُو كُلُّ نَفْسٍ مَا أَسْلَفَتْ ۚ وَرُدُّوا إِلَى اللَّهِ مَوْلَاهُمُ الْحَقِّ ۖ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Hunâlike teblû kullu nefsin mâ eslefet ve ruddû ilallâhi mevlâhumul hakkı ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "İşte orada, her benlik önceden gönderdiği şeyi kendisi deneyecektir. Hepsi gerçek Mevlâ´larına döndürülmüş, iftira aracı yaptıkları şeyler kendilerini koyup gitmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 37,
+      "formInAyah": "يُفْتَرَىٰ",
+      "transliteration": "yufterā",
+      "gloss": "uydurulmuş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَا كَانَ هَٰذَا الْقُرْآنُ أَنْ يُفْتَرَىٰ مِنْ دُونِ اللَّهِ وَلَٰكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ الْكِتَابِ لَا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ",
+      "verseTransliteration": "Ve mâ kâne hâzel kur´ânu en yufterâ min dûnillâhi ve lâkin tasdîkallezî beyne yedeyhi ve tafsîlel kitâbi lâ reybe fîhi min rabbil âlemîn(âlemîne).",
+      "verseMeaning": "Bu Kur´an, Allah´ın berisinden birilerince yalan isnatlarla oluşturulmuş değildir. O, kendinden öncekinin tasdiki ve Kitap´ın ayrıntılı kılınmasıdır. Kuşku ve çelişme yoktur onda. Âlemlerin Rabbi´ndendir o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 38,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "O’nu kendisi uydurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِسُورَةٍ مِثْلِهِ وَادْعُوا مَنِ اسْتَطَعْتُمْ مِنْ دُونِ اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul fe´tû bi sûretin mislihî ved´û menisteta´tum min dûnillâhi in kuntum sâdikîn(sâdikîne).",
+      "verseMeaning": "Yoksa, \"onu uydurdu\" mu diyorlar! De ki: \"Eğer doğru sözlüler iseniz Allah dışında, elinizin yettiklerini de çağırın da onun benzeri bir sure ortaya çıkarın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 59,
+      "formInAyah": "تَفْتَرُونَ",
+      "transliteration": "tefterūne",
+      "gloss": "iftira (mı) ediyorsunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ مَا أَنْزَلَ اللَّهُ لَكُمْ مِنْ رِزْقٍ فَجَعَلْتُمْ مِنْهُ حَرَامًا وَحَلَالًا قُلْ آللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى اللَّهِ تَفْتَرُونَ",
+      "verseTransliteration": "Kul e reeytum mâ enzelâllâhu lekum min rızkın fe cealtum minhu harâmen ve halâlâ(halâlen), kul allâhu ezine lekum em alallâhi tefterûn(tefterûne).",
+      "verseMeaning": "De ki: \"Ne oldu size de Allah´ın size rızık olarak indirdiği şeylerden bir haram yaptınız bir de helal?\" De ki: \"Allah mı size izin verdi, yoksa Allah´a iftira mı ediyorsunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 60,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduranların",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا ظَنُّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ يَوْمَ الْقِيَامَةِ ۗ إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "verseTransliteration": "Ve mâ zannullezîne yefterûne alâllahil kezibe yevmel kıyâmeh(kıyâmeti), innallâhe le zû fadlın alen nâsi ve lâkinne ekserehum lâ yeşkurûn(yeşkurûne).",
+      "verseMeaning": "Yalanı Allah´a yakıştıranlar, kıyamet günü hakkında ne düşünüyorlar? Allah, insanlara karşı elbette lütuf sahibidir, fakat onların çokları şükretmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 10,
+      "ayah": 69,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduran(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ",
+      "verseTransliteration": "Kul innellezîne yefterûne alâllâhil kezibe lâ yuflihûn(yuflihûne).",
+      "verseMeaning": "De ki: \"Allah hakkında yalan düzüp iftira edenler iflah etmeyeceklerdir!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 11,
+      "ayah": 13,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "onu kendisi uydurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِثْلِهِ مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُمْ مِنْ دُونِ اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul fe´tû bi aşri suverin mislihî muftereyâtin ved´û menisteta´tum min dûnillâhi in kuntum sâdikîn(sâdikîne).",
+      "verseMeaning": "Yoksa, \"Onu uydurdu\" mu diyorlar! De ki: \"Öyleyse hadi, onun benzeri, uydurma on sure de siz getirin; eğer doğru sözlüler iseniz, Allah´tan başka çağırabildiklerinizi de çağırın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 11,
+      "ayah": 18,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uyduran",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۚ أُولَٰئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ الْأَشْهَادُ هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ",
+      "verseTransliteration": "Ve men ezlemu mimmenifterâ alâllâhi kezibâ(keziben), ulâike yu´radûne alâ rabbihim ve yekûlul eşhâdu hâulâillezîne kezebû alâ rabbihim, e lâ lâ´netullâhi alâz zâlimîn(zâlimîne).",
+      "verseMeaning": "Yalan düzerek Allah´a iftira edenden daha zalim kim var? Onlar Rablerine arz edilecekler. Tanıklar diyecekler ki: \"İşte bunlardır Rableri hakkında yalan uyduranlar.\" Herkes duysun ki, Allah´ın laneti zalimler üstünedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 11,
+      "ayah": 21,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uydurdukları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ulâikellezîne hasirû enfusehum ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "İşte bunlardır öz benliklerini hüsrana uğratanlar. İftira için kullandıkları şeyler de kendilerini bırakıp kaybolmuştur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 11,
+      "ayah": 35,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "onu uydurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي وَأَنَا بَرِيءٌ مِمَّا تُجْرِمُونَ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul iniftereytuhu fe aleyye icrâmî ve ene berîun mimmâ tucrimûn(tucrimûne).",
+      "verseMeaning": "Yoksa, \"Onu kendisini uydurdu.\" mu diyorlar? De ki: \"Eğer onu uydurmuşsam işlediğim suç benim aleyhimedir. Ama ben, sizin işlemekte olduğunuz suçlardan sorumlu değilim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 11,
+      "ayah": 35,
+      "formInAyah": "افْتَرَيْتُهُ",
+      "transliteration": "fteraytuhu",
+      "gloss": "onu ben uydurduysam",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي وَأَنَا بَرِيءٌ مِمَّا تُجْرِمُونَ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul iniftereytuhu fe aleyye icrâmî ve ene berîun mimmâ tucrimûn(tucrimûne).",
+      "verseMeaning": "Yoksa, \"Onu kendisini uydurdu.\" mu diyorlar? De ki: \"Eğer onu uydurmuşsam işlediğim suç benim aleyhimedir. Ama ben, sizin işlemekte olduğunuz suçlardan sorumlu değilim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 12,
+      "ayah": 111,
+      "formInAyah": "يُفْتَرَىٰ",
+      "transliteration": "yufterā",
+      "gloss": "uydurulacak",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "Lekad kâne fî kasasıhim ibretun li ûlîl elbâb(elbâbi), mâ kâne hadîsen yufterâ ve lâkin tasdîkallezî beyne yedeyhi ve tafsîle kulli şey’in ve huden ve rahmeten li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Yemin olsun ki, resullerin hikâyelerinde, aklını ve gönlünü çalıştıranlar için bir ibret vardır. Bu Kur´an, uydurulacak bir hadis/bir söz değildir; aksine o, önündekini tasdikleyici, her şeyi ayrıntılı kılıcıdır. İnanan bir topluluk için de bir kılavuz ve bir rahmettir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 16,
+      "ayah": 56,
+      "formInAyah": "تَفْتَرُونَ",
+      "transliteration": "tefterūne",
+      "gloss": "uyduruyorlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِمَّا رَزَقْنَاهُمْ ۗ تَاللَّهِ لَتُسْأَلُنَّ عَمَّا كُنْتُمْ تَفْتَرُونَ",
+      "verseTransliteration": "Ve yec’alûne li mâ lâ ya’lemûne nasîben mimmâ razaknâhum, tallâhi le tus’elunne ammâ kuntum tefterûn(tefterûne).",
+      "verseMeaning": "Tutuyor, kendilerine verdiğimiz rızıklardan hiçbir şeyin farkında olmayanlara pay çıkarıyorlar. Allah´a yemin olsun ki, iftira edip durduğunuz şeylerden kesinlikle hesaba çekileceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 16,
+      "ayah": 87,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ ۖ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ve elkav ilallâhi yevme izinis seleme ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "O gün hepsi Allah huzurunda teslim bayrağı çekmiş, iftira aracı olarak kullandıklarının tümü onları ortada bırakıp kaybolmuştur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 16,
+      "ayah": 105,
+      "formInAyah": "يَفْتَرِي",
+      "transliteration": "yefterī",
+      "gloss": "uydurur",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْكَاذِبُونَ",
+      "verseTransliteration": "İnnemâ yefterîl kezibellezîne lâ yu’minûne bi âyâtillâhi ve ulâike humul kâzibûn(kâzibûne).",
+      "verseMeaning": "Yalanı ancak, Allah´ın ayetlerine inanmayanlar uydururlar. Yalancılık edenler onların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 16,
+      "ayah": 116,
+      "formInAyah": "لِتَفْتَرُوا",
+      "transliteration": "litefterū",
+      "gloss": "sonra uydurmuş olursunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللَّهِ الْكَذِبَ ۚ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ",
+      "verseTransliteration": "Ve lâ tekûlû limâ tesıfu elsinetukumul kezibe hâzâ halâlun ve hâzâ harâmun li tefterû alâllâhil kezib(kezibe), innellezîne yefterûne alâllâhil kezibe lâ yuflihûn(yuflihûne).",
+      "verseMeaning": "Yalan düzerek Allah´a iftira etmek için, dillerinizin uydurma nitelendirmeleriyle \"Şu helaldir, şu da haramdır!\" demeyin. Yalan düzerek Allah´a iftira edenler kurtulamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 16,
+      "ayah": 116,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduran(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ لِتَفْتَرُوا عَلَى اللَّهِ الْكَذِبَ ۚ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ",
+      "verseTransliteration": "Ve lâ tekûlû limâ tesıfu elsinetukumul kezibe hâzâ halâlun ve hâzâ harâmun li tefterû alâllâhil kezib(kezibe), innellezîne yefterûne alâllâhil kezibe lâ yuflihûn(yuflihûne).",
+      "verseMeaning": "Yalan düzerek Allah´a iftira etmek için, dillerinizin uydurma nitelendirmeleriyle \"Şu helaldir, şu da haramdır!\" demeyin. Yalan düzerek Allah´a iftira edenler kurtulamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 17,
+      "ayah": 73,
+      "formInAyah": "لِتَفْتَرِيَ",
+      "transliteration": "litefteriye",
+      "gloss": "iftira atman için",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ ۖ وَإِذًا لَاتَّخَذُوكَ خَلِيلًا",
+      "verseTransliteration": "Ve in kâdû le yeftinûneke anillezî evhaynâ ileyke li tefteriye aleynâ gayreh(gayrehu) ve izen lettehazûke halîlâ(halîlen).",
+      "verseMeaning": "Az kalsın seni, sana vahyettiğimizden uzaklaştırarak ondan gayrısını bize isnat edesin diye fitneye düşüreceklerdi. İşte o takdirde seni dost edinirlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 18,
+      "ayah": 15,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uydurandan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هَٰؤُلَاءِ قَوْمُنَا اتَّخَذُوا مِنْ دُونِهِ آلِهَةً ۖ لَوْلَا يَأْتُونَ عَلَيْهِمْ بِسُلْطَانٍ بَيِّنٍ ۖ فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا",
+      "verseTransliteration": "Hâulâi kavmunettehazû min dûnihî âliheh(âliheten), lev lâ ye´tûne aleyhim bi sultânin beyyin(beyyinin), fe men azlemu mimmenifterâ alâllâhi kezibâ(keziben).",
+      "verseMeaning": "\"Şunlar, şu kavmimiz O´ndan başka ilahlar edindiler. Onlar hakkında açık bir kanıt getirselerdi ya! Yalan düzerek Allah´a iftira edenden daha zalim kim olabilir?!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 20,
+      "ayah": 61,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "iftira eden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ لَهُمْ مُوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى اللَّهِ كَذِبًا فَيُسْحِتَكُمْ بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ افْتَرَىٰ",
+      "verseTransliteration": "Kâle lehum mûsâ veylekum lâ tefterû alallâhi keziben fe yushıtekum bi azâb(azâbin), ve kad hâbe menifterâ.",
+      "verseMeaning": "Mûsa onlara dedi ki: \"Yazıklar olsun size, yalan düzerek Allah´a iftira etmeyin! Yoksa bir azap ile kökünüzü kurutur. İftira eden, perişan olmuştur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 20,
+      "ayah": 61,
+      "formInAyah": "تَفْتَرُوا",
+      "transliteration": "tefterū",
+      "gloss": "uydurmayın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ لَهُمْ مُوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى اللَّهِ كَذِبًا فَيُسْحِتَكُمْ بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ افْتَرَىٰ",
+      "verseTransliteration": "Kâle lehum mûsâ veylekum lâ tefterû alallâhi keziben fe yushıtekum bi azâb(azâbin), ve kad hâbe menifterâ.",
+      "verseMeaning": "Mûsa onlara dedi ki: \"Yazıklar olsun size, yalan düzerek Allah´a iftira etmeyin! Yoksa bir azap ile kökünüzü kurutur. İftira eden, perişan olmuştur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 21,
+      "ayah": 5,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "onu uydurmuş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ بَلِ افْتَرَاهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِآيَةٍ كَمَا أُرْسِلَ الْأَوَّلُونَ",
+      "verseTransliteration": "Bel kâlû adgâsu ahlâmin belifterâhu bel huve şâır(şâırun), fel ye’tinâ bi âyetin kemâ ursilel evvelûn(evvelûne).",
+      "verseMeaning": "Şöyle de dediler: \"Saçma sapan rüyalar bunlar! Belki de uydurduğu bir yalandır. Belki de bir şairdir o. Hadi bir mucize getirsin bize, öncekilere gönderildiği gibi...\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 23,
+      "ayah": 38,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uyduran",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنْ هُوَ إِلَّا رَجُلٌ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا وَمَا نَحْنُ لَهُ بِمُؤْمِنِينَ",
+      "verseTransliteration": "İn huve illâ raculunifterâ alâllâhi keziben ve mâ nahnu lehu bi mu’minîn(mu’minîne).",
+      "verseMeaning": "\"O, yalan düzüp Allah´a iftira eden bir adamdan başkası değil. Biz ona inanmıyoruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 25,
+      "ayah": 4,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "onu uydurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا إِفْكٌ افْتَرَاهُ وَأَعَانَهُ عَلَيْهِ قَوْمٌ آخَرُونَ ۖ فَقَدْ جَاءُوا ظُلْمًا وَزُورًا",
+      "verseTransliteration": "Ve kâlellezîne keferû in hâzâ illâ ifkunifterâhu ve eânehu aleyhi kavmun âharûn(âharûne), fe kad câû zulmen ve zûrâ(zûran).",
+      "verseMeaning": "Küfre batanlar dediler ki: \"Bu, onun uydurduğu bir düzmeceden başka şey değildir. Ve bu düzmecede ona, başka bir topluluk da yardım etmiştir.\" Yemin olsun ki, bunu söyleyenler bir zulüm, günah ve iftira sergilemişlerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 28,
+      "ayah": 75,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَنَزَعْنَا مِنْ كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ve neza’nâ min kulli ummetin şehîden fe kulnâ hâtû burhânekum fe alimû ennel hakka lillâhi ve dalle anhum mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Her ümmetten bir tanık çıkarmış da şöyle demişizdir: \"Getirin susturucu kanıtınızı!\" Bunun üzerine onlar hakkın Allah´a ait olduğunu bilmişlerdir. O iftira aracı yaptıkları şeyler de onları yüzüstü koyup kaybolmuşlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 29,
+      "ayah": 13,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uyduruyor(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَعَ أَثْقَالِهِمْ ۖ وَلَيُسْأَلُنَّ يَوْمَ الْقِيَامَةِ عَمَّا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Ve le yahmilunne eskâlehum ve eskâlen mea eskâlihim ve le yus’elunne yevmel kıyâmeti ammâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Onlar hem kendi yüklerini hem de kendi yükleriyle beraber başkalarının yüklerini taşıyacaklar. Bunda kuşku yok. Kıyamet günü de iftira edip durdukları şeylerden zorlu bir sorguya mutlaka çekileceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 29,
+      "ayah": 68,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "iftira atan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+      "verseTransliteration": "Ve men azlemu mimmenifterâ alallâhi keziben ev kezzebe bil hakkı lemmâ câeh(câehu), e leyse fî cehenneme mesven lil kâfirîn(kâfirîne).",
+      "verseMeaning": "Yalan düzüp Allah´a iftira eden, yahut kendisine geldiği zaman hakkı yalanlayan kişiden daha zalim kim vardır? Cehennemde değil midir kâfirlerin barınağı?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 32,
+      "ayah": 3,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "onu uydurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۚ بَلْ هُوَ الْحَقُّ مِنْ رَبِّكَ لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), bel huvel hakku min rabbike li tunzire kavmen mâ etâhum min nezîrin min kablike leallehum yehtedûn(yehtedûne).",
+      "verseMeaning": "Yoksa \"Onu uydurdu\" mu diyorlar? Hayır, haktır o; senin Rabbindendir; senden önce kendilerine hiçbir uyarıcı gelmemiş bir toplumu uyarman içindir. Umulur ki, doğruya ve güzele kılavuzlanırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 34,
+      "ayah": 8,
+      "formInAyah": "أَفْتَرَىٰ",
+      "transliteration": "efterā",
+      "gloss": "uydurdu mu?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَفْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَمْ بِهِ جِنَّةٌ ۗ بَلِ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ فِي الْعَذَابِ وَالضَّلَالِ الْبَعِيدِ",
+      "verseTransliteration": "Efterâ alâllahi keziben em bihî cinneh(cinnetun), belillezîne lâ yûminûne bil âhireti fîl azâbi ved dalâlil baîd(baîdi).",
+      "verseMeaning": "\"Yalan düzüp Allah´a iftira mı ediyor, yoksa çıldırmış mı bu?\" Hayır, söyledikleri gibi değil! Gerçek şu ki, âhirete inanmayanlar, dönüşü olmayan bir sapıklık ve bir azap içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 42,
+      "ayah": 24,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "uydurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۖ فَإِنْ يَشَإِ اللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ اللَّهُ الْبَاطِلَ وَيُحِقُّ الْحَقَّ بِكَلِمَاتِهِ ۚ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Em yekûlûnefterâ alâllâhi kezibâ(keziben), fe in yeşeillâhu yahtim alâ kalbik(kalbike), ve yemhullâhul bâtıla ve yuhıkkul hakka bi kelimâtih(kelimâtihî), innehu alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Yoksa, \"yalan düzüp Allah´a iftira etti\" mi diyorlar? Allah dilerse senin kalbini mühürler; bâtılı mahveder ve hakkı kendi sözleriyle gerçekleştirir. Kuşkusuz O, göğüslerin özündekini çok iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 46,
+      "ayah": 8,
+      "formInAyah": "افْتَرَاهُ",
+      "transliteration": "fterāhu",
+      "gloss": "onu kendisi uydurdu-",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ إِنِ افْتَرَيْتُهُ فَلَا تَمْلِكُونَ لِي مِنَ اللَّهِ شَيْئًا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ ۖ وَهُوَ الْغَفُورُ الرَّحِيمُ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul iniftereytuhu fe lâ temlikûne lî minallahi şey’â(şey’en), huve a’lemu bi mâ tufîdûne fîh(fîhi), kefâ bihî şehîden beynî ve beynekum ve huvel gafûrur rahîm(rahîmu).",
+      "verseMeaning": "Yahut da şöyle diyorlar: \"Uyduruyor onu!\" De ki: \"Eğer uydursaydım onu, hiçbir şeye sahip olamazdınız Allah´tan kurtarmak için beni. İçine gömüldüğünüz yaygarayı en iyi bilen O´dur. Benimle sizin aranızda tanık olarak O yeter. Çok affedici, çok merhametlidir O.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 46,
+      "ayah": 8,
+      "formInAyah": "افْتَرَيْتُهُ",
+      "transliteration": "fteraytuhu",
+      "gloss": "ben onu uydurmuşsam",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ إِنِ افْتَرَيْتُهُ فَلَا تَمْلِكُونَ لِي مِنَ اللَّهِ شَيْئًا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ ۖ وَهُوَ الْغَفُورُ الرَّحِيمُ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul iniftereytuhu fe lâ temlikûne lî minallahi şey’â(şey’en), huve a’lemu bi mâ tufîdûne fîh(fîhi), kefâ bihî şehîden beynî ve beynekum ve huvel gafûrur rahîm(rahîmu).",
+      "verseMeaning": "Yahut da şöyle diyorlar: \"Uyduruyor onu!\" De ki: \"Eğer uydursaydım onu, hiçbir şeye sahip olamazdınız Allah´tan kurtarmak için beni. İçine gömüldüğünüz yaygarayı en iyi bilen O´dur. Benimle sizin aranızda tanık olarak O yeter. Çok affedici, çok merhametlidir O.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 46,
+      "ayah": 28,
+      "formInAyah": "يَفْتَرُونَ",
+      "transliteration": "yefterūne",
+      "gloss": "uydurmuş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَوْلَا نَصَرَهُمُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ قُرْبَانًا آلِهَةً ۖ بَلْ ضَلُّوا عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا يَفْتَرُونَ",
+      "verseTransliteration": "Fe lev lâ nasare humullezînettehâzu min dûnillâhi kurbânen âliheh(âliheten), bel dallû anhum, ve zâlike ifkuhum ve mâ kânû yefterûn(yefterûne).",
+      "verseMeaning": "Allah´ın yanında yakınlık sağlamak için edindikleri ilahlar, onlara yardım etseydi ya! Tam aksine, onlardan uzaklaşıp kayboldular. Bu, onların yalanları, uydurup durduklarıydı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱفْتَرَىٰ",
+      "sura": 61,
+      "ayah": 7,
+      "formInAyah": "افْتَرَىٰ",
+      "transliteration": "fterā",
+      "gloss": "iftira atan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "verseTransliteration": "Ve men azlemu mimmenifterâ alallâhil kezibe ve huve yud’â ilel islâm, vallâhu lâ yehdîl kavmez zâlimîn(zâlimîne).",
+      "verseMeaning": "İslam´a/Allah´a teslim olmaya çağrılıp durduğu halde, yalanlar düzerek Allah´a iftira edenden daha zalim kim vardır? Allah, zulme bulaşmış kişiler topluluğunu doğruya ve güzele iletmez."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fry"
+}

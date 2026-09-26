@@ -1,0 +1,68 @@
+{
+  "id": "Etl",
+  "latinName": "Ayn-Te-Lam",
+  "lettersArabic": "ع ت ل",
+  "meanings": [
+    "Sürüklemek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "عُتُلّ",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱعْتِلُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُتُلّ",
+      "sura": 68,
+      "ayah": 13,
+      "formInAyah": "عُتُلٍّ",
+      "transliteration": "ǔtullin",
+      "gloss": "kaba",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+      "verseTransliteration": "Utullin ba’de zâlike zenîm(zenîmin).",
+      "verseMeaning": "Kaba/obur, bütün bunlardan sonra da soyu bozuk, kötülükle damgalı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱعْتِلُ",
+      "sura": 44,
+      "ayah": 47,
+      "formInAyah": "فَاعْتِلُوهُ",
+      "transliteration": "feǎ’tilūhu",
+      "gloss": "sürükleyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ",
+      "verseTransliteration": "Huzûhu fa’tilûhu ilâ sevâil cahîm(cahîmi).",
+      "verseMeaning": "\"Tutun onu, cehennemin tam ortasına götürün!\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Etl"
+}

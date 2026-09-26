@@ -1,0 +1,68 @@
+{
+  "id": "hDm",
+  "latinName": "he-Dad-Mim",
+  "lettersArabic": "ه ض م",
+  "meanings": [
+    "to withold one's dues, be near break, oppress, do wrong, fall on each other, be slander."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "هَضْم",
+      "count": 1
+    },
+    {
+      "formArabic": "هَضِيم",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَضْم",
+      "sura": 20,
+      "ayah": 112,
+      "formInAyah": "هَضْمًا",
+      "transliteration": "heDmen",
+      "gloss": "hakkının çiğnenmesinden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+      "verseTransliteration": "Ve men ya’mel mines sâlihâti ve huve mu’minun fe lâ yehâfu zulmen ve lâ hadmâ(hadmen).",
+      "verseMeaning": "Mümin olarak hayra ve barışa yönelik iyilikler yapan ise ne haksızlığa uğratılmaktan korkar ne de ezilip horlanmaktan."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">هَضِيم",
+      "sura": 26,
+      "ayah": 148,
+      "formInAyah": "هَضِيمٌ",
+      "transliteration": "heDīmun",
+      "gloss": "yumuşak",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+      "verseTransliteration": "Ve zurûın ve nahlin tal’uhâ hedîm(hedîmun).",
+      "verseMeaning": "\"Ekinler, salkımları sarkmış hurmalıklar içinde.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=hDm"
+}

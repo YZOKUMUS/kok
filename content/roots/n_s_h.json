@@ -1,0 +1,305 @@
+{
+  "id": "nSH",
+  "latinName": "Nun-Sad-Ha",
+  "lettersArabic": "ن ص ح",
+  "meanings": [
+    "Nasihat etmek, öğüt vermek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 13,
+  "lemmas": [
+    {
+      "formArabic": "نَاصِح",
+      "count": 6
+    },
+    {
+      "formArabic": "نَصَحُ",
+      "count": 5
+    },
+    {
+      "formArabic": "نُصْح",
+      "count": 1
+    },
+    {
+      "formArabic": "نَّصُوح",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاصِح",
+      "sura": 7,
+      "ayah": 21,
+      "formInAyah": "النَّاصِحِينَ",
+      "transliteration": "n-nāSiHīne",
+      "gloss": "öğüt verenlerdenim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ",
+      "verseTransliteration": "Ve kâsemehumâ innî lekumâ le minen nâsıhîn(nâsıhîne).",
+      "verseMeaning": "Ve onlara, \"ben size öğüt verenlerdenim\" diye yemin de etti."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاصِح",
+      "sura": 7,
+      "ayah": 68,
+      "formInAyah": "نَاصِحٌ",
+      "transliteration": "nāSiHun",
+      "gloss": "bir öğütçüyüm",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي وَأَنَا لَكُمْ نَاصِحٌ أَمِينٌ",
+      "verseTransliteration": "Ubelligukum risâlâti rabbî ve ene lekum nâsıhun emîn(emînun).",
+      "verseMeaning": "\"Rabbimin mesajlarını size tebliğ ediyorum. Ben sizin için güvenilir bir öğütçüyüm.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاصِح",
+      "sura": 7,
+      "ayah": 79,
+      "formInAyah": "النَّاصِحِينَ",
+      "transliteration": "n-nāSiHīne",
+      "gloss": "öğüt verenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَٰكِنْ لَا تُحِبُّونَ النَّاصِحِينَ",
+      "verseTransliteration": "Fe tevellâ anhum ve kâle yâ kavmi lekad eblagtukum risâlete rabbî ve nesahtu lekum ve lâkin lâ tuhıbbûnen nâsıhîn(nâsıhîne).",
+      "verseMeaning": "Nihayet, Salih onlardan yüzünü döndürüp şöyle dedi: \"Ey toplumum! Andolsun ki, Rabbimin mesajını size tebliğ ettim, size öğüt verdim; ama siz öğüt verenleri sevmiyorsunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاصِح",
+      "sura": 12,
+      "ayah": 11,
+      "formInAyah": "لَنَاصِحُونَ",
+      "transliteration": "lenāSiHūne",
+      "gloss": "öğüt verenleriz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا يَا أَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُ لَنَاصِحُونَ",
+      "verseTransliteration": "Kâlû yâ ebânâ mâ leke lâ te’mennâ alâ yûsufe ve innâ lehu lenâsıhûn(lenâsıhûne).",
+      "verseMeaning": "Dediler ki: \"Ey babamız, ne oluyor da Yûsuf konusunda bize güvenmiyorsun. Oysaki biz ona hep öğüt vermekteyiz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاصِح",
+      "sura": 28,
+      "ayah": 12,
+      "formInAyah": "نَاصِحُونَ",
+      "transliteration": "nāSiHūne",
+      "gloss": "öğüt verecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
+      "verseTransliteration": "Ve harremnâ aleyhil merâdıa min kablu fe kâlet hel edullukum alâ ehli beytin yekfulûnehu lekum ve hum lehu nâsıhûn(nâsıhûne).",
+      "verseMeaning": "Biz daha önce ona, süt emziren kadınları haram kılmıştık. Bu sırada kızkardeşi dedi ki: \"Onun bakımını sizin için üstlenecek, onu eğitip öğretmeyi yüklenecek bir ev halkını size tanıtayım mı?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاصِح",
+      "sura": 28,
+      "ayah": 20,
+      "formInAyah": "النَّاصِحِينَ",
+      "transliteration": "n-nāSiHīne",
+      "gloss": "öğüt verenler-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَاءَ رَجُلٌ مِنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَا مُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ",
+      "verseTransliteration": "Ve câe raculun min aksal medîneti yes’â kâle yâ mûsâ innel melee ye’temirûne bike li yaktulûke fahruc innî leke minen nâsıhîn(nâsıhîne).",
+      "verseMeaning": "Şehrin öbür ucundan bir adam koşarak geldi. Dedi: \"Ey Mûsa, kentin ileri gelenleri seni öldürmeyi planlıyorlar. Çık buradan! Ben sana öğüt verenlerdenim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَصَحُ",
+      "sura": 7,
+      "ayah": 62,
+      "formInAyah": "وَأَنْصَحُ",
+      "transliteration": "ve enSaHu",
+      "gloss": "ve öğüt veriyorum",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي وَأَنْصَحُ لَكُمْ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Ubelligukum risâlâti rabbî ve ensahu lekum ve a’lemu minallahi mâ lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "\"Size Rabbimin vahiylerini tebliğ ediyorum, size öğüt veriyorum. Allah´ın yardımıyla, sizin bilmediğiniz şeyleri biliyorum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَصَحُ",
+      "sura": 7,
+      "ayah": 79,
+      "formInAyah": "وَنَصَحْتُ",
+      "transliteration": "ve neSaHtu",
+      "gloss": "ve öğüt verdim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَٰكِنْ لَا تُحِبُّونَ النَّاصِحِينَ",
+      "verseTransliteration": "Fe tevellâ anhum ve kâle yâ kavmi lekad eblagtukum risâlete rabbî ve nesahtu lekum ve lâkin lâ tuhıbbûnen nâsıhîn(nâsıhîne).",
+      "verseMeaning": "Nihayet, Salih onlardan yüzünü döndürüp şöyle dedi: \"Ey toplumum! Andolsun ki, Rabbimin mesajını size tebliğ ettim, size öğüt verdim; ama siz öğüt verenleri sevmiyorsunuz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَصَحُ",
+      "sura": 7,
+      "ayah": 93,
+      "formInAyah": "وَنَصَحْتُ",
+      "transliteration": "ve neSaHtu",
+      "gloss": "ve öğüt verdim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ آسَىٰ عَلَىٰ قَوْمٍ كَافِرِينَ",
+      "verseTransliteration": "Fe tevellâ anhum ve kâle yâ kavmi lekad eblagtukum risâlâti rabbî ve nesahtu lekum, fe keyfe âsâ alâ kavmin kâfirîn(kâfirîne).",
+      "verseMeaning": "Şuayb onlardan yüzünü döndürdü de şöyle dedi: \"Yemin olsun, ben size Rabbimin mesajlarını ilettim. Size öğüt verdim. Artık küfre batmış bir topluluğa nasıl acırım?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَصَحُ",
+      "sura": 9,
+      "ayah": 91,
+      "formInAyah": "نَصَحُوا",
+      "transliteration": "neSaHū",
+      "gloss": "öğüt verdikleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنْفِقُونَ حَرَجٌ إِذَا نَصَحُوا لِلَّهِ وَرَسُولِهِ ۚ مَا عَلَى الْمُحْسِنِينَ مِنْ سَبِيلٍ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Leyse alâd duafâi ve lâ alel merdâ ve lâ alellezîne lâ yecidûne mâ yunfikûne haracun izâ nasahû lillâhi ve resûlih(resûlihî), mâ alel muhsinîne min sebîl(sebîlin), vallâhu gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Güçsüzlere, hastalara, infak edecek bir şey bulamayanlara, Allah ve resulü için öğüt verdikleri takdirde bir günah yoktur. Güzel davrananlar aleyhine bir yol yok. Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَصَحُ",
+      "sura": 11,
+      "ayah": 34,
+      "formInAyah": "أَنْصَحَ",
+      "transliteration": "enSaHa",
+      "gloss": "öğüt vermek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَلَا يَنْفَعُكُمْ نُصْحِي إِنْ أَرَدْتُ أَنْ أَنْصَحَ لَكُمْ إِنْ كَانَ اللَّهُ يُرِيدُ أَنْ يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ",
+      "verseTransliteration": "Ve lâ yenfeukum nushî in eredtu en ensaha lekum in kânallâhu yurîdu en yugviyekum, huve rabbukum ve ileyhi turceûn(turceûne).",
+      "verseMeaning": "\"Eğer Allah sizi azdırmak istiyorsa, ben size öğüt vermeyi gaye edinsem de öğüdüm size hiçbir yarar sağlamaz. O´dur sizin Rabbiniz ve O´na döndürüleceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُصْح",
+      "sura": 11,
+      "ayah": 34,
+      "formInAyah": "نُصْحِي",
+      "transliteration": "nuSHī",
+      "gloss": "öğüdüm",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا يَنْفَعُكُمْ نُصْحِي إِنْ أَرَدْتُ أَنْ أَنْصَحَ لَكُمْ إِنْ كَانَ اللَّهُ يُرِيدُ أَنْ يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ",
+      "verseTransliteration": "Ve lâ yenfeukum nushî in eredtu en ensaha lekum in kânallâhu yurîdu en yugviyekum, huve rabbukum ve ileyhi turceûn(turceûne).",
+      "verseMeaning": "\"Eğer Allah sizi azdırmak istiyorsa, ben size öğüt vermeyi gaye edinsem de öğüdüm size hiçbir yarar sağlamaz. O´dur sizin Rabbiniz ve O´na döndürüleceksiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَّصُوح",
+      "sura": 66,
+      "ayah": 8,
+      "formInAyah": "نَصُوحًا",
+      "transliteration": "neSūHen",
+      "gloss": "yürekten",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا عَسَىٰ رَبُّكُمْ أَنْ يُكَفِّرَ عَنْكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يَوْمَ لَا يُخْزِي اللَّهُ النَّبِيَّ وَالَّذِينَ آمَنُوا مَعَهُ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû tûbû ilâllâhi tevbeten nasûhâ(nasûhan), asâ rabbukum en yukeffire ankum seyyiâtikum ve yudhilekum cennâtin tecrî min tahtihel enhâru, yevme lâ yuhzîllâhun nebiyye vellezîne âmenû meah(meahu), nûruhum yes´â beyne eydîhim ve bi eymânihim yekûlûne rabbenâ etmim lenâ nûrenâ vagfir lenâ, inneke alâ kulli şey´in kadîr(kadîrun).",
+      "verseMeaning": "Ey iman edenler! Etkili öğüt veren bir tövbe ile Allah´a yönelin. Umulur ki Rabbiniz, çirkinliklerinizi ve günahlarınızı örter ve sizi altlarından ırmaklar akan cennetlere yerleştirir. O gün Allah, peygamberi ve onunla birlikte inananları utandırmayacaktır. Onların ışığı önlerinden ve sağ yanlarından koşup gelir. Şöyle derler: \"Ey Rabbimiz! Işığımızı tamamla ve bizi bağışla! Sen her şeye Kadîr´sin, her şeye gücün yeter.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nSH"
+}

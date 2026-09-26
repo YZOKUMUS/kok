@@ -1,0 +1,68 @@
+{
+  "id": "Ebv",
+  "latinName": "Ayn-Be-Se",
+  "lettersArabic": "ع ب ث",
+  "meanings": [
+    "Abesle uğraşmak, boş şeylerle eğlenmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "تَعْبَثُ",
+      "count": 1
+    },
+    {
+      "formArabic": "عَبَث",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَعْبَثُ",
+      "sura": 26,
+      "ayah": 128,
+      "formInAyah": "تَعْبَثُونَ",
+      "transliteration": "teǎ’beṧūne",
+      "gloss": "eğleniyor (musunuz?)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ",
+      "verseTransliteration": "E tebnûne bi kulli rîın âyeten ta’besûn(ta’besûne).",
+      "verseMeaning": "\"Her yüksek tepeye/yola şaşılacak bir bina kurarak/bir işaret dikerek mi eğleniyorsunuz!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَبَث",
+      "sura": 23,
+      "ayah": 115,
+      "formInAyah": "عَبَثًا",
+      "transliteration": "ǎbeṧen",
+      "gloss": "boş yere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+      "verseTransliteration": "E fe hasibtum ennemâ halaknâkum abesen ve ennekum ileynâ lâ turceûn(turceûne).",
+      "verseMeaning": "\"Sizi, boş yere yarattığımızı ve bize döndürülmeyeceğinizi mi sandınız?\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Ebv"
+}

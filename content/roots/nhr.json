@@ -1,0 +1,2421 @@
+{
+  "id": "nhr",
+  "latinName": "Nun-he-Ra",
+  "lettersArabic": "ن ه ر",
+  "meanings": [
+    "Azarlamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 113,
+  "lemmas": [
+    {
+      "formArabic": "تَنْهَرْ",
+      "count": 2
+    },
+    {
+      "formArabic": "نَهَار",
+      "count": 57
+    },
+    {
+      "formArabic": "نَهَر",
+      "count": 54
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَنْهَرْ",
+      "sura": 17,
+      "ayah": 23,
+      "formInAyah": "تَنْهَرْهُمَا",
+      "transliteration": "tenherhumā",
+      "gloss": "onları azarlama",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا",
+      "verseTransliteration": "Ve kadâ rabbuke ellâ ta’budû illâ iyyâhu ve bil vâlideyni ihsânâ(ihsânen), immâ yebluganne indekel kibere ehaduhumâ ev kilâ humâ fe lâ tekul lehumâ uffin ve lâ tenher humâ ve kul lehumâ kavlen kerîmâ(kerîmen).",
+      "verseMeaning": "Rabbin şöyle hükmetti: O´ndan başkasına kulluk / ibadet etmeyin, anaya babaya çok iyi davranın: Onlardan birisi yahut her ikisi senin yanında ihtiyarlık çağına gelirse sakın onlara \"Öf!\" bile deme; onları azarlama, onlara tatlı, iltifatlı söz söyle."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَنْهَرْ",
+      "sura": 93,
+      "ayah": 10,
+      "formInAyah": "تَنْهَرْ",
+      "transliteration": "tenher",
+      "gloss": "azarlama",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "verseTransliteration": "Ve emmes sâile fe lâ tenher.",
+      "verseMeaning": "Yoksulu/dilenciyi azarlama!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 71,
+      "ayah": 5,
+      "formInAyah": "وَنَهَارًا",
+      "transliteration": "ve nehāran",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "Zaman Zarfı",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+      "verseTransliteration": "Kâle rabbi innî deavtu kavmî leylen ve nehârâ(nehâran).",
+      "verseMeaning": "Nûh şöyle yakardı: \"Ey Rabbim! Ben toplumumu gece ve gündüz davet ettim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 2,
+      "ayah": 164,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ مَاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "İnne fî halkıs semâvâti vel ardı vahtilâfil leyli ven nehâri vel fulkilletî tecrî fîl bahri bimâ yenfeun nâse ve mâ enzelallâhu mines semâi min mâin fe ahyâ bihil arda ba’de mevtihâ ve besse fîhâ min kulli dâbbe(dâbbetin), ve tasrîfir riyâhı ves sehâbil musahhari beynes semâi vel ardı le âyâtin li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Şu bir gerçek ki göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelişinde, insanların yararı için denizde yüzüp giden gemilerde, Allah´ın gökten suyu indirip onunla, ölümünden sonra toprağı dirilterek üzerine tüm canlılardan yaymasında, rüzgarların bir düzen içinde yönden yöne çevrilmesinde, gök ve yer arasında bir hizmete memur edilen bulutlarda, aklını işleten bir topluluk için sayısız izler-işaretler-ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 2,
+      "ayah": 274,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "verseTransliteration": "Ellezîne yunfikûne emvâlehum bil leyli ven nehâri sirran ve alâniyeten fe lehum ecruhum inde rabbihim, ve lâ havfun aleyhim ve lâ hum yahzenûn(yahzenûne).",
+      "verseMeaning": "Mallarını; gece ve gündüz, gizli ve açık infak edenler var ya, işte onlar için Rableri katında kendilerine özgü ödüller vardır. Korku yoktur onlar için; tasalanmayacaklardır onlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 3,
+      "ayah": 27,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüze",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَنْ تَشَاءُ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Tûlicul leyle fîn nehâri ve tûlicun nehâra fîl leyl(leyli), ve tuhricul hayya minel meyyiti ve tuhricul meyyite minel hayy(hayyi), ve terzuku men teşâu bi gayri hısâb(hısâbın).",
+      "verseMeaning": "\"Geceyi gündüzün içine sokarsın, gündüzü de gecenin içine sokarsın. Diriyi ölüden çıkarırsın, ölüyü diriden çıkarırsın. Dilediğini hesapsızca rızıklandırırsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 3,
+      "ayah": 27,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَنْ تَشَاءُ بِغَيْرِ حِسَابٍ",
+      "verseTransliteration": "Tûlicul leyle fîn nehâri ve tûlicun nehâra fîl leyl(leyli), ve tuhricul hayya minel meyyiti ve tuhricul meyyite minel hayy(hayyi), ve terzuku men teşâu bi gayri hısâb(hısâbın).",
+      "verseMeaning": "\"Geceyi gündüzün içine sokarsın, gündüzü de gecenin içine sokarsın. Diriyi ölüden çıkarırsın, ölüyü diriden çıkarırsın. Dilediğini hesapsızca rızıklandırırsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 3,
+      "ayah": 72,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "günün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَتْ طَائِفَةٌ مِنْ أَهْلِ الْكِتَابِ آمِنُوا بِالَّذِي أُنْزِلَ عَلَى الَّذِينَ آمَنُوا وَجْهَ النَّهَارِ وَاكْفُرُوا آخِرَهُ لَعَلَّهُمْ يَرْجِعُونَ",
+      "verseTransliteration": "Ve kâlet tâifetun min ehlil kitâbi âminû billezî unzile alellezîne âmenû vechen nehâri vekfurû âhirahu leallehum yerciûn(yerciûne).",
+      "verseMeaning": "Ehlikitap´tan bir zümre şöyle dedi: \"Şu iman edenlere indirilene günün başlangıcında inanın, günün sonunda karşı çıkın. Belki onları döndürebilirsiniz;"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 3,
+      "ayah": 190,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِأُولِي الْأَلْبَابِ",
+      "verseTransliteration": "İnne fî halkıs semâvâti vel ardı vahtilâfil leyli ven nehâri le âyâtin li ulîl elbâb(ulîl elbâbı).",
+      "verseMeaning": "Şu bir gerçek ki, göklerin ve yerin yaratılışında, geceyle gündüzün birbiri ardınca gelişinde, aklını ve gönlünü işletenler için çok ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 6,
+      "ayah": 13,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseTransliteration": "Ve lehu mâ sekene fîl leyli ven nehâr(nehâri), ve huves semîul alîm(alîmu).",
+      "verseMeaning": "Gecenin ve gündüzün içinde yer alan her şey O´nundur. O, Semî´dir, her şeyi duyar; Alîm´dir, her şeyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 6,
+      "ayah": 60,
+      "formInAyah": "بِالنَّهَارِ",
+      "transliteration": "bin-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي يَتَوَفَّاكُمْ بِاللَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰ أَجَلٌ مُسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve huvellezî yeteveffâkum bil leyli ve ya’lemu mâ cerahtum bin nehâri summe yeb’asukum fîhi li yukdâ ecelun musemmâ(musemmen), summe ileyhi merci’ukum summe yunebbiukum bimâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "O, odur ki, geceleyin sizi öldürür. Gün boyunca neler yapıp neler kazandığınızı bilir. Sonra, belirlenmiş süre işletilip tamamlansın diye, gün içinde sizi diriltir. Nihayet O´nadır dönüşünüz. Sonra, yapıp ettiklerinizi size haber verecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 7,
+      "ayah": 54,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüz(ün üzerin)e",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ",
+      "verseTransliteration": "İnne rabbekumullâhullezî halakas semâvâti vel arda fî sitteti eyyâmin summestevâ alel arşı, yugşîl leylen nehâre yatlubuhu hasîsen veş şemse vel kamere ven nucûme musahharâtin bi emrih(emrihi), e lâ lehul halku vel emr(emru), tebârekallâhu rabbulâlemîn(âlemîne).",
+      "verseMeaning": "Rabbiniz o Allah´tır ki, gökleri ve yeri altı günde yaratmış, sonra da arş üzerinde egemenlik kurmuştur. Geceyi gündüze bürüyüp örter. O bunu, bu da onu aralıksız ve titiz bir biçimde kovalar durur. Güneş, Ay, yıldızlar O´nun emrine boyun eğmiş. Gözünüzü açın; yaratış da O´nundur, emir veriş de/yaratış da O´nun içindir, emir veriş de. Alemlerin Rabbi olan Allah çok yücedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 10,
+      "ayah": 6,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ فِي اخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا خَلَقَ اللَّهُ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِقَوْمٍ يَتَّقُونَ",
+      "verseTransliteration": "İnne fîhtilâfil leyli ven nehâri ve mâ halakallâhu fîs semâvâti vel ardı le âyâtin li kavmin yettekûn(yettekûne).",
+      "verseMeaning": "Şu bir gerçek ki, geceyle gündüzün birbiri ardınca değişip durmasında, Allah´ın göklerde ve yerde vücut verdiği şeylerde, sakınan bir topluluk için sayısız ayetler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 10,
+      "ayah": 24,
+      "formInAyah": "نَهَارًا",
+      "transliteration": "nehāran",
+      "gloss": "gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّمَا مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْأَنْعَامُ حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَنْ لَمْ تَغْنَ بِالْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "İnnemâ meselul hayâtid dunyâ ke mâin enzelnâhu mines semâi fahteleta bihî nebâtul ardı mimmâ ye´kulun nâsu vel en´âm(en´âmu), hattâ izâ ehazetil ardu zuhrufehâ vezzeyyenet ve zanne ehluhâ ennehum kâdirûne aleyhâ etâhâ emrunâ leylen ev nehâren fe cealnâhâ hasîden ke en lem tagne bil ems(emsi), kezâlike nufassilul âyâti li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Şu iğreti hayatın durumu gökten indirdiğimiz bir suya benzer: İnsanların ve davarların yedikleri yeryüzü bitkisi onunla karışmıştır. Nihayet toprak, takılarını kuşanmış, süslenmiştir. Toprağın sahipleri onun üzerinde egemen olduklarını sanmaktadırlar. Tam bu sırada emrimiz ona gece veya gündüz ulaşmıştır. Ve onu, sanki dün yerinde yokmuş gibi biçip atmışızdır. Derin derin düşünen bir topluluk için ayetleri böyle ayrıntılı olarak veriyoruz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 10,
+      "ayah": 45,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüz-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَوْمَ يَحْشُرُهُمْ كَأَنْ لَمْ يَلْبَثُوا إِلَّا سَاعَةً مِنَ النَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَاءِ اللَّهِ وَمَا كَانُوا مُهْتَدِينَ",
+      "verseTransliteration": "Ve yevme yahşuruhum keen lem yelbesû illâ sâaten minen nehâri yete ârefûne beynehum, kad hasirellezîne kezzebû bi likâillâhi ve mâ kânû muhtedîn(muhtedîne).",
+      "verseMeaning": "Onları huzuruna toplayacağı gün, gündüzün bir saatinden başka, dünyada durmamış gibidirler; aralarında tanışırlar. Allah´a kavuşmayı yalanlayıp da doğru yolu tutmamış bulunanlar, hüsrana uğramışlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 10,
+      "ayah": 50,
+      "formInAyah": "نَهَارًا",
+      "transliteration": "nehāran",
+      "gloss": "gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ إِنْ أَتَاكُمْ عَذَابُهُ بَيَاتًا أَوْ نَهَارًا مَاذَا يَسْتَعْجِلُ مِنْهُ الْمُجْرِمُونَ",
+      "verseTransliteration": "Kul ereeytum in etâkum azâbuhu beyâten ev nehâren mâzâ yesta´cilu minhul mucrimûn(mucrimûne).",
+      "verseMeaning": "Şöyle söyle: \"Diyelim O´nun azabı size gündüzün veya geceleyin gelecektir. Suçlular bunlardan hangisini aceleyle ister?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 10,
+      "ayah": 67,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَسْمَعُونَ",
+      "verseTransliteration": "Huvellezî ceale lekumul leyle li teskunû fîhi ven nehâre mubsırâ(mubsıren), inne fî zâlike leâyâtin li kavmin yesmeûn(yesmeûne).",
+      "verseMeaning": "O, odur ki, içinde durup dinlenesiniz diye sizin için geceye vücut verdi, gündüzü de aydınlık kıldı. Hiç kuşkusuz, bunda, dinleyecek bir topluluk için ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 11,
+      "ayah": 114,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِنَ اللَّيْلِ ۚ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
+      "verseTransliteration": "Ve ekımis salâte tarafeyin nehâri ve zulefen minel leyl(leyli), innel hasenâti yuzhibnes seyyiât(seyyiâti), zâlike zikrâ liz zâkirîn(zâkirîne).",
+      "verseMeaning": "Gündüzün iki tarafında ve geceye yakın saatlerde namaz kıl! Güzellikler kötülükleri silip süpürür. İşte bu, Allah´ı ananlara bir öğüttür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 13,
+      "ayah": 3,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüz(ün üzerine)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا ۖ وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ ۖ يُغْشِي اللَّيْلَ النَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Ve huvellezî meddel arda ve ceale fîhâ revâsiye ve enhârâ(enhâren), ve min kullis semerâti ceale fîhâ zevceynisneyni yugşil leylen nehâr(nehâre), inne fî zâlike le âyâtin li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Yeri uzatıp döşeyen ve onda oturaklı dağlar ve nehirler vücuda getiren O´dur. Bütün meyvalardan kendi içlerinde ikişer çift yaratmıştır O. Geceyi gündüze sarıp bürümektedir O. Bütün bunlarda derin derin düşünecek bir topluluk için elbette ayetler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 13,
+      "ayah": 10,
+      "formInAyah": "بِالنَّهَارِ",
+      "transliteration": "bin-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سَوَاءٌ مِنْكُمْ مَنْ أَسَرَّ الْقَوْلَ وَمَنْ جَهَرَ بِهِ وَمَنْ هُوَ مُسْتَخْفٍ بِاللَّيْلِ وَسَارِبٌ بِالنَّهَارِ",
+      "verseTransliteration": "Sevâun minkum men eserrel kavle ve men cehere bihî ve men huve mustahfin bil leyli ve sâribun bin nehâr(nehâri).",
+      "verseMeaning": "Sizden, sözü saklayan da açıklayan da geceye sığınıp gizlenen de gündüz yol alan da onun için birdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 14,
+      "ayah": 33,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَائِبَيْنِ ۖ وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ",
+      "verseTransliteration": "Ve sehhare lekumuş şemse vel kamere dâibeyn(dâibeyni), ve sehhare lekumul leyle ven nehâr(nehâra).",
+      "verseMeaning": "Görevlerini şaşmadan yapmak üzere Güneş´i ve Ay´ı da size boyun eğdirdi. Geceyi ve gündüzü de hizmetinize verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 16,
+      "ayah": 12,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "Ve sehhara lekumul leyle ven nehâre veş şemse vel kamer(kamere), ven nucûmu musahharâtun bi emrih(emrihî), inne fî zâlike le âyâtin li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Geceyi, gündüzü, Güneş´i ve Ay´ı sizin emrinize vermiştir. Yıldızlar da O´nun emriyle bir hizmete boyun eğmiştir. Bütün bunlarda, aklını çalıştıran bir topluluk için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 17,
+      "ayah": 12,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً لِتَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ وَلِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلًا",
+      "verseTransliteration": "Ve cealnel leyle ven nehâre âyeteyni fe mehavnâ âyetel leyli ve cealnâ âyeten nehâri mubsıraten li tebtegû fadlen min rabbikum ve li ta’lemû adedes sinîne vel hisâb(hisâbe), ve kulle şey’in fassalnâhu tafsîlâ(tafsîlen).",
+      "verseMeaning": "Biz, geceyi ve gündüzü iki ayet yaptık; sonra gecenin ayetini silip gündüzün ayetini gösterici yaptık ki, Rabbinizden bir lütuf isteyesiniz, yılların sayısını ve hesabı bilesiniz. Biz her şeyi ayrıntılı bir biçimde açıkladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 17,
+      "ayah": 12,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً لِتَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ وَلِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلًا",
+      "verseTransliteration": "Ve cealnel leyle ven nehâre âyeteyni fe mehavnâ âyetel leyli ve cealnâ âyeten nehâri mubsıraten li tebtegû fadlen min rabbikum ve li ta’lemû adedes sinîne vel hisâb(hisâbe), ve kulle şey’in fassalnâhu tafsîlâ(tafsîlen).",
+      "verseMeaning": "Biz, geceyi ve gündüzü iki ayet yaptık; sonra gecenin ayetini silip gündüzün ayetini gösterici yaptık ki, Rabbinizden bir lütuf isteyesiniz, yılların sayısını ve hesabı bilesiniz. Biz her şeyi ayrıntılı bir biçimde açıkladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 20,
+      "ayah": 130,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kable gurûbihâ, ve min ânâil leyli fe sebbih ve etrâfen nehâri lealleke terdâ.",
+      "verseMeaning": "Artık, onların söylediklerine sabret; Güneş´in doğuşundan önce de batışından önce de Rabbini överek tespih et! Gecenin bazı saatleriyle gündüzün iki ucunda da tespih et ki, hoşnutluğa erebilesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 21,
+      "ayah": 20,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ",
+      "verseTransliteration": "Yusebbihûnel leyle ven nehâre lâ yefturûn(yefturûne).",
+      "verseMeaning": "Gece ve gündüz tespih ederler, bıkıp usanmazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 21,
+      "ayah": 33,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+      "verseTransliteration": "Ve huvellezî halakal leyle ven nehâre veş şemse vel kamer(kamere), kullun fî felekin yesbehûn(yesbehûne).",
+      "verseMeaning": "O odur ki, geceyi, gündüzü, Güneş´i ve Ay´ı yarattı. Her biri bir yörüngede yüzmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 21,
+      "ayah": 42,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ ۗ بَلْ هُمْ عَنْ ذِكْرِ رَبِّهِمْ مُعْرِضُونَ",
+      "verseTransliteration": "Kul men yekleukum bil leyli ven nehâri miner rahmân(rahmâni), bel hum an zikri rabbihim mu’ridûn(mu’ridûne).",
+      "verseMeaning": "De ki: \"Sizi gece ve gündüz Rahman´dan kim koruyabilir?\" Hayır, hayır! Onlar, Rablerinin zikrinden/Kur´an´ından yüz çeviriyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 22,
+      "ayah": 61,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "verseTransliteration": "Zâlike bi ennallâhe yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli ve ennallâhe semîun basîr(basîrun).",
+      "verseMeaning": "İşte böyle. Allah geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar. Allah Semî´dir, Basîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 22,
+      "ayah": 61,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+      "verseTransliteration": "Zâlike bi ennallâhe yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli ve ennallâhe semîun basîr(basîrun).",
+      "verseMeaning": "İşte böyle. Allah geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar. Allah Semî´dir, Basîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 23,
+      "ayah": 80,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ وَالنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ",
+      "verseTransliteration": "Ve huvellezî yuhyî ve yumîtu ve lehuhtilâful leyli ven nehâr(nehâri), e fe lâ ta’kılûn(ta’kılûne).",
+      "verseMeaning": "O hayat veriyor, O öldürüyor. Gece ile gündüzün birbiri ardınca gelişi O´nun için. Hâlâ aklınızı kullanmayacak mısınız?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 24,
+      "ayah": 44,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يُقَلِّبُ اللَّهُ اللَّيْلَ وَالنَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ",
+      "verseTransliteration": "Yukallibullâhul leyle ven nehâr(nehâre), inne fî zâlike le ibreten li ulil ebsâr(ebsâri).",
+      "verseMeaning": "Allah, gece ile gündüzü evirip çeviriyor. Gözleri olanlar için bunda elbette bir ibret vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 25,
+      "ayah": 47,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا وَجَعَلَ النَّهَارَ نُشُورًا",
+      "verseTransliteration": "Ve huvellezî ceale lekumul leyle libâsen ven nevme subâten ve cealen nehâre nuşûrâ(nuşûren).",
+      "verseMeaning": "O´dur sizin için geceyi elbise, uykuyu dinlence yapan. Gündüzü, dağılıp yayılma zamanı yapan da O´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 25,
+      "ayah": 62,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِمَنْ أَرَادَ أَنْ يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+      "verseTransliteration": "Ve huvellezî cealel leyle ven nehâre hılfeten li men erâde en yezzekkere ev erâde şukûrâ(şukûren).",
+      "verseMeaning": "Geceyle gündüzü, öğüt almak isteyenlerle şükretmek isteyenler için, birbirini izler hale getiren O´dur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 27,
+      "ayah": 86,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ يَرَوْا أَنَّا جَعَلْنَا اللَّيْلَ لِيَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "E lem yerev ennâ cealnel leyle li yeskunû fîhî ven nehâra mubsırâ(mubsıran), inne fî zâlike le âyâtin li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Görmedin mi; biz geceyi, içinde dinlensinler diye, gündüzü de gösterici bir ışık olsun diye oluşturduk. İşte bunda, inanan bir topluluk için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 28,
+      "ayah": 72,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ النَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِلَيْلٍ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ",
+      "verseTransliteration": "Kul e reeytum in cealallâhu aleykumun nehâre sermeden ilâ yevmil kıyâmeti men ilâhun gayrullâhi ye’tîkum bi leylin teskunûne fîh(fîhi), e fe lâ tubsırûn(tubsırûne).",
+      "verseMeaning": "De ki: \"Söyleyin bakalım, eğer Allah kıyamet gününe kadar, gündüzü üzerinizde sürekli tutsa, Allah´tan başka hangi tanrı, içinde sükûnet bulacağınız bir gece verebilir size? Hâlâ görmeyecek misiniz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 28,
+      "ayah": 73,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنْ رَحْمَتِهِ جَعَلَ لَكُمُ اللَّيْلَ وَالنَّهَارَ لِتَسْكُنُوا فِيهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "verseTransliteration": "Ve min rahmetihî ceale lekumul leyle ven nehâre li teskunû fîhi ve li tebtegû min fadlihî ve leallekum teşkurûn(teşkurûne).",
+      "verseMeaning": "Rahmetinin bir eseri olarak geceyi ve gündüzü sizin için oluşturdu ki, onda sükûnet bulasınız, O´nun lütfundan bir şeyler dileyesiniz ve şükredebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 30,
+      "ayah": 23,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ مَنَامُكُمْ بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَسْمَعُونَ",
+      "verseTransliteration": "Ve min âyâtihî menâmukum bil leyli ven nehâri vebtigâukum min fadlih(fadlihi), inne fî zâlike le âyâtin li kavmin yesmeûn(yesmeûne).",
+      "verseMeaning": "Gece ve gündüz uyumanız, onun lütfundan nasip aramanız da O´nun ayetlerindendir. Bunda, işitebilen bir toplum için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 31,
+      "ayah": 29,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُسَمًّى وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "verseTransliteration": "E lem tere ennallâhe yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli, ve sehhareş şemse vel kamere kullun yecrî ilâ ecelin musemmen ve ennallâhe bi mâ ta’melûne habîr(habîrun).",
+      "verseMeaning": "Görmedin mi, Allah geceyi gündüzün içine sokuyor, gündüzü de gecenin içine sokuyor. Güneş´i ve Ay´ı bir emre boyun eğdirmiş. Hepsi belirlenmiş bir süreye doğru akıp gidiyor. Kuşkusuz, Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 31,
+      "ayah": 29,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُسَمًّى وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "verseTransliteration": "E lem tere ennallâhe yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli, ve sehhareş şemse vel kamere kullun yecrî ilâ ecelin musemmen ve ennallâhe bi mâ ta’melûne habîr(habîrun).",
+      "verseMeaning": "Görmedin mi, Allah geceyi gündüzün içine sokuyor, gündüzü de gecenin içine sokuyor. Güneş´i ve Ay´ı bir emre boyun eğdirmiş. Hepsi belirlenmiş bir süreye doğru akıp gidiyor. Kuşkusuz, Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 34,
+      "ayah": 33,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَا أَنْ نَكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَنْدَادًا ۚ وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ وَجَعَلْنَا الْأَغْلَالَ فِي أَعْنَاقِ الَّذِينَ كَفَرُوا ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا يَعْمَلُونَ",
+      "verseTransliteration": "Ve kâlellezînestud’ifû lillezînestekberû bel mekrul leyli ven nehâri iz te’murûnenâ en nekfure billâhi ve nec’ale lehû endâdâ(endâden), ve eserrûn nedâmete lemmâ raevûl azâb(azâbe), ve cealnel aglâle fî a’nâkıllezîne keferû, hel yuczevne illâ mâ kânû ya’melûn(ya’melûne).",
+      "verseMeaning": "Bu kez, basit görülüp horlananlar büyüklük taslayanlara şöyle derler: \"Hayır, öyle değil!\" İşiniz gece gündüz düzenbazlıktı. Siz bize Allah´a nankörlük etmemizi, O´na eşler, ortaklar tutmamızı emrediyordunuz.\" Nihayet, azabı gördüklerinde, pişmanlığı içlerine gömerler. Biz ise inkârcıların boyunlarına bukağıları vurmuşuzdur. Yapıp ettiklerinden başka, neyin karşılığını görüyorlar ki!..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 35,
+      "ayah": 13,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ",
+      "verseTransliteration": "Yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli ve sehhareş şemse vel kamere kullun yecrî li ecelin musemmâ(musemmen), zâlikumullâhu rabbukum lehul mulk(mulku), vellezîne ted’ûne min dûnihî mâ yemlikûne min kıtmîr(kıtmîrin).",
+      "verseMeaning": "Allah, geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar. Güneş´i ve Ay´ı buyruk altına almıştır. Herbiri belirlenen bir süreye kadar akıp gidiyor. İşte Rabbiniz Allah bu; mülk ve yönetim O´nundur. Onun berisinden yakardıklarınız ise bir çekirdek zarına bile hükmedemezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 35,
+      "ayah": 13,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ",
+      "verseTransliteration": "Yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli ve sehhareş şemse vel kamere kullun yecrî li ecelin musemmâ(musemmen), zâlikumullâhu rabbukum lehul mulk(mulku), vellezîne ted’ûne min dûnihî mâ yemlikûne min kıtmîr(kıtmîrin).",
+      "verseMeaning": "Allah, geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar. Güneş´i ve Ay´ı buyruk altına almıştır. Herbiri belirlenen bir süreye kadar akıp gidiyor. İşte Rabbiniz Allah bu; mülk ve yönetim O´nundur. Onun berisinden yakardıklarınız ise bir çekirdek zarına bile hükmedemezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 36,
+      "ayah": 37,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَآيَةٌ لَهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُمْ مُظْلِمُونَ",
+      "verseTransliteration": "Ve âyetun lehumul leyl(leylu), neslehu minhun nehâre fe izâ hum muzlimûn(muzlimûne).",
+      "verseMeaning": "Gece de onlar için bir mucizedir. Gündüzü ondan soyup alırız da onlar karanlığa gömülüverirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 36,
+      "ayah": 40,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+      "verseTransliteration": "Leş şemsu yenbegî lehâ en tudrikel kamere ve lel leylu sâbikun nehâr(nehâri), ve kullun fî felekin yesbehûn(yesbehûne).",
+      "verseMeaning": "Güneş´in Ay´a ulaşıp çatması gerekmiyor. Gecenin de gündüzü geçmesi gerekmez. Her biri bir yörüngede yüzmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 39,
+      "ayah": 5,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۖ يُكَوِّرُ اللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۗ أَلَا هُوَ الْعَزِيزُ الْغَفَّارُ",
+      "verseTransliteration": "Halakas semâvâti vel arda bil hakk(hakkı), yukevvirul leyle alen nehâri ve yukevvirun nehâre alel leyli ve sehhareş şemse vel kamer(kamere), kullun yecrî li ecelin musemmâ(musemmen), e lâ huvel azîzul gaffâr(gaffâru).",
+      "verseMeaning": "Gökleri ve yeri hak olarak yaratmıştır. Geceyi gündüzün üstüne çekip örtüyor; gündüzü de gecenin üstüne sarıp dürüyor. Güneş´i ve Ay´ı bir buyruğa boyun eğdirmiştir. Hepsi, belirlenmiş bir süreye kadar akıp gider. Gözünüzü açın; Aziz´dir O, Gaffar´dır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 39,
+      "ayah": 5,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۖ يُكَوِّرُ اللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۗ أَلَا هُوَ الْعَزِيزُ الْغَفَّارُ",
+      "verseTransliteration": "Halakas semâvâti vel arda bil hakk(hakkı), yukevvirul leyle alen nehâri ve yukevvirun nehâre alel leyli ve sehhareş şemse vel kamer(kamere), kullun yecrî li ecelin musemmâ(musemmen), e lâ huvel azîzul gaffâr(gaffâru).",
+      "verseMeaning": "Gökleri ve yeri hak olarak yaratmıştır. Geceyi gündüzün üstüne çekip örtüyor; gündüzü de gecenin üstüne sarıp dürüyor. Güneş´i ve Ay´ı bir buyruğa boyun eğdirmiştir. Hepsi, belirlenmiş bir süreye kadar akıp gider. Gözünüzü açın; Aziz´dir O, Gaffar´dır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 40,
+      "ayah": 61,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا ۚ إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+      "verseTransliteration": "Allâhullezî ceale lekumul leyle li teskunû fîhi ven nehâre mubsırâ(mubsıren), innallâhe le zû fadlin alen nâsi ve lâkinne ekseren nâsi lâ yeşkurûn(yeşkurûne).",
+      "verseMeaning": "Allah, içinde dinlenesiniz diye sizin için geceyi yarattı. Gündüzü de aydınlık kıldı. Şu bir gerçek ki, Allah, insanlara her halde lütufkâr davranıyor fakat insanların çokları şükretmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 41,
+      "ayah": 37,
+      "formInAyah": "وَالنَّهَارُ",
+      "transliteration": "ve nnehāru",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "verseTransliteration": "Ve min âyâtihil leylu ven nehâru veş şemsu vel kamer(kameru), lâ tescudû liş şemsi ve lâ lil kameri vescudû lillâhillezî halakahunne in kuntum iyyâhu ta’budûn(ta’budûne). (SECDE ÂYETİ)",
+      "verseMeaning": "Gece ve gündüz, Güneş ve Ay onun ayetlerindendir. Eğer sadece Allah´a kulluk/ibadet ediyorsanız, Güneş´e, Ay´a secde etmeyin; onları yaratan Allah´a secde edin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 41,
+      "ayah": 38,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْأَمُونَ ۩",
+      "verseTransliteration": "Fe inistekberû fellezîne inde rabbike yusebbihûne lehu bil leyli ven nehâri ve hum lâ yes’emûn(yes’emûne).",
+      "verseMeaning": "Eğer büyüklük taslarlarsa bilsinler ki, Rabbin katındakiler hiç usanmadan, gece ve gündüz O´nu tespih ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 45,
+      "ayah": 5,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ رِزْقٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَاحِ آيَاتٌ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "Vahtilâfil leyli ven nehâri ve mâ enzelallâhu mines semâi min rızkın fe ahyâ bihil arda ba’de mevtihâ ve tasrîfir rîyâhı âyâtun li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Geceyle gündüzün birbiri ardınca gelişinde, Allah´ın gökten bir rızık indirip de onunla yerküreyi ölümünden sonra hayata kavuşturmasında, rüzgârların herbir yana sevkedilişinde de aklını çalıştıran bir topluluk için izler, işaretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 46,
+      "ayah": 35,
+      "formInAyah": "نَهَارٍ",
+      "transliteration": "nehārin",
+      "gloss": "gündüz-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَاصْبِرْ كَمَا صَبَرَ أُولُو الْعَزْمِ مِنَ الرُّسُلِ وَلَا تَسْتَعْجِلْ لَهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوا إِلَّا سَاعَةً مِنْ نَهَارٍ ۚ بَلَاغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا الْقَوْمُ الْفَاسِقُونَ",
+      "verseTransliteration": "Fasbir kemâ sabere ulûl azmi miner rusuli ve lâ testa’cil lehum, ke ennehum yevme yerevne mâ yûadûne lem yelbesû illâ sâaten min nehâr(nehârin), belâg(belâgun), fe hel yuhleku illel kavmul fâsikûn(fâsikûne).",
+      "verseMeaning": "Artık, resullerin azim sahibi olanlarının sabrettiği gibi sabret! O inkârcılar için acele etme! Tehdit edildikleri azabı gördükleri gün, gündüzün sadece bir saati kadar yaşamış gibi olurlar. Bir duyurudur bu. Sapmışlar topluluğundan başka kim helâk edilir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 57,
+      "ayah": 6,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzün",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ ۚ وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyl(leyli) ve huve alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Geceyi gündüzün içine sokar O; gündüzü de gecenin içine sokar. Göğüslerin sakladıklarını çok iyi bilendir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 57,
+      "ayah": 6,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ ۚ وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+      "verseTransliteration": "Yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyl(leyli) ve huve alîmun bi zâtis sudûr(sudûri).",
+      "verseMeaning": "Geceyi gündüzün içine sokar O; gündüzü de gecenin içine sokar. Göğüslerin sakladıklarını çok iyi bilendir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 73,
+      "ayah": 7,
+      "formInAyah": "النَّهَارِ",
+      "transliteration": "n-nehāri",
+      "gloss": "gündüzde",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+      "verseTransliteration": "İnne leke fîn nehâri sebhan tavîlâ(tavîlen).",
+      "verseMeaning": "Kuşkusuz, gündüz boyu senin için uzun bir dolaşma/yoğun bir uğraş vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 73,
+      "ayah": 20,
+      "formInAyah": "وَالنَّهَارَ",
+      "transliteration": "ve nnehāra",
+      "gloss": "ve gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "İnne rabbeke ya´lemu enneke tekûmu ednâ min suluseyil leyli ve nısfehu ve sulusehu ve tâifetun minellezîne meak(meake), vallâhu yukaddirul leyle ven nehâr(nehâre), alime en len tuhsûhu fe tâbe aleykum, fakreû mâ teyessere minel kur´ân(kur’ânî), alime en seyekûnu minkum merdâ ve âharûne yadribûne fîl’ardı yebtegûne min fadlillâhi ve âharûne yukâtilûne fî sebîlillâhi fakreû mâ teyessere minhu ve ekîmus salâte ve âtûz zekâte ve akridullâhe kardan hasenâ(hasenen), ve mâ tukaddimû li enfusikum min hayrin tecidûhu indallâhi huve hayren ve a´zame ecrâ(ecren), vestagfirûllâh(vestağfirûllâhe), innellâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Hiç kuşkun olmasın, Rabbin senin durumunu biliyor. Gecenin üçte ikisinden daha azını, yarısını, üçte birini ayakta geçiriyorsun. Seninle beraber olanlardan bir grup da öyle. Allah, geceyi de gündüzü de ölçüye bağlamıştır. Sizin onu kuşatamayacağınızı bildi de size tövbe nasip etti. O halde Kur´an´dan, kolay geleni okuyun. Sizden hastalar olacağını bildi. Bir kısmının yeryüzünde dolaşıp Allah´ın lütfundan bir şeyler isteyeceklerini, diğer bir kısmının da Allah yolunda çarpışacaklarını bildi. O halde Kur´an´dan, kolay geleni okuyun! Namazı kılın! Zekâtı verin. Güzel bir ödünçle Allah´a ödünç verin! Öz benlikleriniz için önden gönderdiğiniz iyiliğin, Allah katında hayrını daha çok, ödülünü daha büyük olarak bulacaksınız. Allah´tan af dileyin. Hiç kuşkusuz, Allah çok affedici, çok esirgeyicidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 78,
+      "ayah": 11,
+      "formInAyah": "النَّهَارَ",
+      "transliteration": "n-nehāra",
+      "gloss": "gündüzü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+      "verseTransliteration": "Ve cealnen nehâre meâşâ(meaşen).",
+      "verseMeaning": "Gündüzü, geçim için çalışma zamanı yaptık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 91,
+      "ayah": 3,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüze andolsun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+      "verseTransliteration": "Ven nehâri izâ cellâhâ.",
+      "verseMeaning": "Onu iyice açtığı vakit gündüze,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَار",
+      "sura": 92,
+      "ayah": 2,
+      "formInAyah": "وَالنَّهَارِ",
+      "transliteration": "ve nnehāri",
+      "gloss": "ve gündüze andolsun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+      "verseTransliteration": "Ven nehâri izâ tecellâ.",
+      "verseMeaning": "Ve parıldadığı zaman gündüze,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 2,
+      "ayah": 25,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا ۙ قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ ۖ وَأُتُوا بِهِ مُتَشَابِهًا ۖ وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Ve beşşirillezîne âmenû ve amilûs sâlihâti enne lehum cennâtin tecrî min tahtihel enhâr(enhâru), kullemâ ruzikû minhâ min semeretin rızkan kâlû hâzellezî ruzıknâ min kabl(kablu) ve utû bihî muteşâbihâ(muteşâbihan), ve lehum fîhâ ezvâcun mutahharatun ve hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik değerler üretenlere şunu müjdele: Kendileri için, altlarından ırmaklar akan cennetler olacaktır. Onlardaki herhangi bir meyvadan bir rızk olarak her nasiplendirildiklerinde, şöyle diyeceklerdir: \"İşte bu, daha önce rızklandırıldığımız şey!\" Bu rızk onlara buna benzer şekilde verilmişti. Onlar için orada tertemiz eşler de vardır. Ve onlar orada sürekli kalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 2,
+      "ayah": 74,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "verseTransliteration": "Summe kaset kulûbukum min ba’di zâlike fe hiye kel hıcâreti ev eşeddu kasveh(kasveten), ve inne minel hıcâreti lemâ yetefecceru minhul enhâr(enhâru), ve inne minhâ lemâ yeşşakkaku fe yahrucu minhul mâu, ve inne minhâ lemâyehbitu min haşyetillâh(haşyetillâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Sonra bunun ardından kalpleriniz yine kaskatı kesildi. Taş gibidir o. Belki daha da katıdır. Taşların bazıları var ki, ondan ırmaklar fışkırır. Bazıları var ki, çatır çatır yarılır da içinden su çıkar. Öylesi var ki, Allah korkusundan aşağılara düşer. Allah, yapıp durduklarınızdan gafil değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 2,
+      "ayah": 249,
+      "formInAyah": "بِنَهَرٍ",
+      "transliteration": "bineherin",
+      "gloss": "bir ırmakla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ مُبْتَلِيكُمْ بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ لَمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلَّا مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ ۚ فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِنْهُمْ ۚ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَجُنُودِهِ ۚ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
+      "verseTransliteration": "Fe lemmâ fesale tâlûtu bil cunûdi, kâle innallâhe mubtelîkum bi neher(neherin), fe men şeribe minhu fe leyse minnî, ve men lem yat’amhu fe innehu minnî illâ menigterafe gurfeten bi yedih(yedihî), fe şeribû minhu illâ kalîlen minhum fe lemmâ câvezehu huve vellezîne âmenû meahu, kâlû lâ tâkate lenâl yevme bi câlûte ve cunûdih(cunûdihî), kâlellezîne yezunnûne ennehum mulâkûllâhi, kem min fietin kalîletin galebet fieten kesîraten bi iznillâh(iznillâhi), vallâhu meas sâbirîn(sâbirîne).",
+      "verseMeaning": "Tâlût, askerleriyle yola çıkınca dedi ki: \"Allah sizi bir ırmakla imtihan edecektir. O halde, ondan içen benden değildir. Ama onu tatmayan bendendir. Eliyle bir avuç alan kişi başka.\" Bunun ardından, pek azı müstesna olmak üzere ondan içtiler. Nihayet o ve onunla beraber iman edenler ırmağı geçtiklerinde şöyle dediler: \"Bugün bizim Câlût´a ve ordusuna karşı hiç bir gücümüz yoktur.\" Allah´a kavuşacaklarını düşünenler ise şöyle konuştular: \"Sayıca az nice topluluk vardır ki, sayıca çok nice topluluğa Allah´ın izniyle galip gelmiştir. Allah sabredenlerle beraberdir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 2,
+      "ayah": 266,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَيَوَدُّ أَحَدُكُمْ أَنْ تَكُونَ لَهُ جَنَّةٌ مِنْ نَخِيلٍ وَأَعْنَابٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ لَهُ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ فَأَصَابَهَا إِعْصَارٌ فِيهِ نَارٌ فَاحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "verseTransliteration": "E yeveddu ehadukum en tekûne lehu cennetun min nahîlin ve a’nâbin tecrî min tahtihel enhâru, lehû fîhâ min kullis semarâti ve esâbehul kiberu ve lehu zurriyyetun duafâu fe esâbehâ ı’sârun fîhi nârun fahterakat kezâlike yubeyyinullâhu lekumul âyâti leallekum tetefekkerûn(tetefekkerûne).",
+      "verseMeaning": "Herhangi biriniz ister mi ki; altından ırmaklar akan, içinde her tür meyvası olan, hurmalardan,üzümlerden oluşmuş bir bahçesi bulunsun, kendisinin güçsüz-çaresiz yavruları da olsun ve bu haldeyken üstüne ihtiyarlık çöksün, tam bu sırada o bahçeye alevli bir bora isabet etsin de bahçe, baştan başa yansın. Allah size ayetleri işte bu şekilde açıklıyor ki, inceden inceye ve derinden derine düşünebilesiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 3,
+      "ayah": 15,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ أَؤُنَبِّئُكُمْ بِخَيْرٍ مِنْ ذَٰلِكُمْ ۚ لِلَّذِينَ اتَّقَوْا عِنْدَ رَبِّهِمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَأَزْوَاجٌ مُطَهَّرَةٌ وَرِضْوَانٌ مِنَ اللَّهِ ۗ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ",
+      "verseTransliteration": "Kul e unebbiukum bi hayrın min zâlikum, lillezînettekav inde rabbihim cennâtun tecrî min tahtıhel enhâru hâlidîne fîhâ ve ezvâcun mutahharatun ve rıdvânun minallâh(minallâhi), vallâhu basîrun bil ıbâd(ıbâdi).",
+      "verseMeaning": "De ki: \"Bu sayılanlardan daha iyisini size haber vereyim mi? Sakınıp korunanlar için, Rableri katında, altlarından nehirler akan, içinde sürekli kalacakları cennetler, tertemiz eşler ve Allah´tan bir hoşnutluk olacaktır. Allah, kulları en iyi biçimde görmektedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 3,
+      "ayah": 136,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ جَزَاؤُهُمْ مَغْفِرَةٌ مِنْ رَبِّهِمْ وَجَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ الْعَامِلِينَ",
+      "verseTransliteration": "Ulâike cezâuhum magfiretun min rabbihim ve cennâtun tecrî min tahtihâl enhâru hâlidîne fîhâ, ve ni’me ecrul âmilîn(âmilîne).",
+      "verseMeaning": "İşte bunların ödülleri Rablerinden bir bağışlanma ve altlarından ırmaklar akan cennetler olacaktır. Sürekli kalacaklardır orada. İş yapıp değer üretenlerin ücreti ne güzeldir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 3,
+      "ayah": 195,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ بَعْضُكُمْ مِنْ بَعْضٍ ۖ فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِنْ دِيَارِهِمْ وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِنْ عِنْدِ اللَّهِ ۗ وَاللَّهُ عِنْدَهُ حُسْنُ الثَّوَابِ",
+      "verseTransliteration": "Festecâbe lehum rabbuhum ennî lâ udîu amele âmilin minkum min zekerin ev unsâ, ba’dukum min ba’d(ba’dın), fellezîne hâcerû ve uhricû min diyârihim ve uzû fî sebîlî ve kâtelû ve kutilû le ukeffirenne anhum seyyiâtihim ve le udhılennehum cennâtin tecrî min tahtihâl enhâr(enhâru), sevâben min indillâh(indillâhi) vallâhu indehû husnus sevâb(sevâbi).",
+      "verseMeaning": "Rableri onlara cevap verdi: \"Ben sizden, erkek-kadın hiçbir çalışanın ürettiğini boşa çıkarmayacağım. Hep birbirinizdensiniz. Göç edenler, yurtlarından çıkarılanlar, yolumda işkenceye uğratılanlar, çarpışıp da öldürülenler var ya, onların kötülüklerini yemin olsun örteceğim. Ve yemin olsun ki onları, Allah katından bir karşılık olarak, altlarından ırmaklar akan cennetlere koyacağım.\" Allah katındandır karşılıkların en güzeli."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 3,
+      "ayah": 198,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا نُزُلًا مِنْ عِنْدِ اللَّهِ ۗ وَمَا عِنْدَ اللَّهِ خَيْرٌ لِلْأَبْرَارِ",
+      "verseTransliteration": "Lâkinillezînettekav rabbehum lehum cennâtun tecrî min tahtihâl enhâru hâlidîne fîhâ nuzulen min indillâh(indillâhi), ve mâ indallâhi hayrun lil ebrâr(ebrâri).",
+      "verseMeaning": "Ama Rablerinden korkanlar için altlarından ırmaklar akan cennetler var. Allah katından bir konukseverlikle sürekli kalıcıdırlar orada. Allah katındaki ödüller iyiler için daha hayırlıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 4,
+      "ayah": 13,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "تِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Tilke hudûdullâh(hudûdullâhi) ve men yutııllâhe ve resûlehu yudhılhu cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ve zâlikel fevzul azîm(azîmu).",
+      "verseMeaning": "İşte bunlar Allah´ın sınırlarıdır. Kim Allah´a ve onun resulüne itaat ederse Allah onu, altından nehirler akan cennetlere, orada sürekli kalıcılar halinde, sokar. İşte bu, en büyük başarıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 4,
+      "ayah": 57,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+      "verseTransliteration": "Vellezîne âmenû ve amilûs sâlihâti senudhıluhum cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ebedâ(ebeden), lehum fîhâ ezvâcun mutahharatun ve nudhıluhum zıllen zalîlâ(zalîlen).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik işler yapanlara gelince, onları altından ırmaklar akan cennetlere koyacağız. Hep orada kalacaklardır, sonsuza dek. Orada kendileri için tertemiz eşler de olacaktır. Ve onları, en güzel biçimde serinleten bir gölgeye kavuşturacağız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 4,
+      "ayah": 122,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ اللَّهِ قِيلًا",
+      "verseTransliteration": "Vellezîne âmenû ve amilûs sâlihâti se nudhiluhum cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ebedâ(ebeden), va’dallâhi hakkâ(hakkan), ve men asdaku minallâhi kîlâ(kîlen).",
+      "verseMeaning": "İnanıp hayra ve barışa yönelik işler yapanları, altlarından ırmaklar akan cennetlere sokacağız. Sonsuza değin kalacaklardır orada. Allah´ın şaşmaz vaadidir bu. Söz söyleme bakımından Allah´tan daha doğru ve tutarlı kim olabilir?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 5,
+      "ayah": 12,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ أَخَذَ اللَّهُ مِيثَاقَ بَنِي إِسْرَائِيلَ وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيبًا ۖ وَقَالَ اللَّهُ إِنِّي مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ الصَّلَاةَ وَآتَيْتُمُ الزَّكَاةَ وَآمَنْتُمْ بِرُسُلِي وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ اللَّهَ قَرْضًا حَسَنًا لَأُكَفِّرَنَّ عَنْكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ فَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+      "verseTransliteration": "Ve lekad ehazallâhu mîsâka benî isrâîl(isrâîle), ve beasnâ minhumusney aşera nakîbâ(nakîben) ve kâlellâhu innî meakum lein ekamtumus salâte ve âteytumuz zekâte ve âmentum bi rusulî ve azzertumûhum ve akradtumullâhe kardan hasenen le ukeffirenne ankum seyyiâtikum ve le udhılennekum cennâtin tecrî min tahtıhel enhâr(enhâru), fe men kefere ba’de zâlike minkum fe kad dalle sevâes sebîl(sebîli).",
+      "verseMeaning": "Yemin olsun ki, Allah İsrailoğullarının mîsakını almıştı da içlerinden on iki temsilci/başkan göndermiştik. Allah şöyle demişti: \"Ben sizinle beraberim. Namazı kılarsanız, zekâtı verirseniz, resullerime inanır, onları desteklerseniz ve Allah´a güzel bir biçimde borç verirseniz, kötülüklerinizi elbette örteceğim ve sizi, altlarından ırmaklar akan cennetlere elbette koyacağım. Artık bundan sonra küfre gideniniz yolun denge noktasından sapmış olur.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 5,
+      "ayah": 85,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ",
+      "verseTransliteration": "Fe esâbehumullâhu bimâ kâlû cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ve zâlike cezâûl muhsinîn(muhsinîne).",
+      "verseMeaning": "Böyle söyledikleri için Allah onları, altlarından ırmaklar akan cennetlerle lütuflandırdı. Sürekli kalıcıdırlar orada. İşte budur güzel davrananların ödülü."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 5,
+      "ayah": 119,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ اللَّهُ هَٰذَا يَوْمُ يَنْفَعُ الصَّادِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Kâlellâhu hâzâ yevmu yenfeus sâdikîne sıdkuhum, lehum cennâtun tecrî min tahtihel enhâru hâlidîne fîhâ ebedâ(ebeden) radiyallâhu anhum ve radû anh(anhu) zâlikel fevzul azîm(azîmu).",
+      "verseMeaning": "Allah buyurdu: \"Özü-sözü doğru olanlara, doğruluklarının yarar sağlayacağı gün budur. Altlarından ırmaklar akan cennetler var onlar için. Sonsuza dek kalacaklardır orada.\" Allah onlardan razı olmuştur, onlar da Allah´tan razı olmuşlardır. İşte budur büyük kurtuluş."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 6,
+      "ayah": 6,
+      "formInAyah": "الْأَنْهَارَ",
+      "transliteration": "l-enhāra",
+      "gloss": "ırmakları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ مَكَّنَّاهُمْ فِي الْأَرْضِ مَا لَمْ نُمَكِّنْ لَكُمْ وَأَرْسَلْنَا السَّمَاءَ عَلَيْهِمْ مِدْرَارًا وَجَعَلْنَا الْأَنْهَارَ تَجْرِي مِنْ تَحْتِهِمْ فَأَهْلَكْنَاهُمْ بِذُنُوبِهِمْ وَأَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ",
+      "verseTransliteration": "E lem yerev kem ehleknâ min kablihim min karnin mekkennâhum fîl ardı mâ lem numekkin lekum ve erselnes semâe aleyhim midrâren ve cealnâl enhâre tecrî min tahtihim fe ehleknâhum bi zunûbihim ve enşe’nâ min ba’dihim karnen âharîn(âharîne).",
+      "verseMeaning": "Kendilerinden önce nice yurt ve medeniyeti yerle bir ettiğimizi görmediler mi? Biz o yurtlara yeryüzünde size vermediğimiz imkânları vermiş, üzerlerine gök bereketini bol bol indirmiş, nehirleri altlarından akar hale getirmiştik. Derken, onları kendi günahlarıyla helâk ettik ve arkalarından başka bir nesil oluşturduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 7,
+      "ayah": 43,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ تَجْرِي مِنْ تَحْتِهِمُ الْأَنْهَارُ ۖ وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ ۖ لَقَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ ۖ وَنُودُوا أَنْ تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve neza´nâ mâ fî sudûrihim min gıllin tecrî min tahtihimul enhâr(enhâru), ve kâlûl hamdu lillâhillezî hedânâ li hâzâ ve mâ kunnâ li nehtediye levlâ en hedânallâh(hedânallâhu), lekad câet rusulu rabbinâ bil hakk(hakkı), ve nûdû en tilkumul cennetu ûristumûhâ bimâ kuntum ta´melûn(ta´melûne).",
+      "verseMeaning": "Göğüslerinde düşmanlıktan ne varsa söküp atmışızdır. Irmaklar akar altlarından. Şöyle derler: \"Hamdolsun bizi buraya ulaştıran Allah´a. Eğer Allah bize kılavuzluk etmeseydi, biz buraya ulaşamazdık. Andolsun ki, Rabbimizin resulleri gerçeği getirmişler.\" Şöyle seslenilir: \"İşte size, yaptıklarınıza karşılık mirasçı kılındığınız cennet.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 9,
+      "ayah": 72,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Vaadallâhul mu’minîne vel mu’minâti cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ve mesâkine tayyibeten fî cennâti adn(adnin), ve rıdvânun minallâhi ekber(ekberu), zâlike huvel fevzul azîm(azîmu).",
+      "verseMeaning": "Allah, mümin erkeklerle mümin kadınlara, altından ırmaklar akan cennetler vaat etmiştir. Sürekli kalacaklardır orada. Adn cennetlerinde de tertemiz barınaklar vaat etmiştir. Allah´ın bir hoşnutluğu ise hepsinden büyüktür. İşte budur o büyük başarı/o büyük kurtuluş."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 9,
+      "ayah": 89,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَعَدَّ اللَّهُ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Eaddallâhu lehum cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ, zâlikel fevzul azîm(azîmu).",
+      "verseMeaning": "Allah onlar için, altlarından ırmaklar akan cennetler hazırlamıştır. Sürekli kalacaklardır orada. İşte budur büyük başarı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 9,
+      "ayah": 100,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ وَأَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Ves sâbikûnel evvelûne minel muhâcirîne vel ensâri vellezînettebeûhum bi ıhsânin radıyallâhu anhum ve radû anhu ve eadde lehum cennâtin tecrî tahtehel enhâru hâlidîne fîhâ ebedâ(ebeden), zâlikel fevzul azîm(azîmu).",
+      "verseMeaning": "Muhacirlerden ve Ensar´dan ilklerle, güzel düşünüp güzel davranmada onları izleyenler var ya, Allah onlardan razı olmuştur; onlar da O´ndan razıdırlar. Onlara altlarından ırmaklar akan cennetler hazırlamıştır. Sonsuza dek hep orada kalacaklardır. Büyük kurtuluş işte budur!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 10,
+      "ayah": 9,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ ۖ تَجْرِي مِنْ تَحْتِهِمُ الْأَنْهَارُ فِي جَنَّاتِ النَّعِيمِ",
+      "verseTransliteration": "İnnellezîne âmenû ve amilûs sâlihâti yehdîhim rabbuhum bi îmânihim, tecrî min tahtihimul enhâru fî cennâtin naîm(naîmi).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik amel sergileyenlere gelince, Rableri onları imanlarıyla doğruya ve güzele iletir. Nimetlerle dolu cennetlerde onların altlarından ırmaklar akacaktır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 13,
+      "ayah": 3,
+      "formInAyah": "وَأَنْهَارًا",
+      "transliteration": "ve enhāran",
+      "gloss": "ve ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا ۖ وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ ۖ يُغْشِي اللَّيْلَ النَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "verseTransliteration": "Ve huvellezî meddel arda ve ceale fîhâ revâsiye ve enhârâ(enhâren), ve min kullis semerâti ceale fîhâ zevceynisneyni yugşil leylen nehâr(nehâre), inne fî zâlike le âyâtin li kavmin yetefekkerûn(yetefekkerûne).",
+      "verseMeaning": "Yeri uzatıp döşeyen ve onda oturaklı dağlar ve nehirler vücuda getiren O´dur. Bütün meyvalardan kendi içlerinde ikişer çift yaratmıştır O. Geceyi gündüze sarıp bürümektedir O. Bütün bunlarda derin derin düşünecek bir topluluk için elbette ayetler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 13,
+      "ayah": 35,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ أُكُلُهَا دَائِمٌ وَظِلُّهَا ۚ تِلْكَ عُقْبَى الَّذِينَ اتَّقَوْا ۖ وَعُقْبَى الْكَافِرِينَ النَّارُ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), tecrî min tahtihel enhâr(enhâru), ukuluhâ dâimun ve zilluhâ, tilke ukbellezînettekav ve ukbel kâfirînen nâr(nâru).",
+      "verseMeaning": "Sakınıp korunanlara vaat edilen cennetin temsilî anlatımı şu: Altından ırmaklar akar, yemişleri de sürekli, gölgesi de. İşte korunup sakınanların son yurdu. Kâfirlerin son yurdu ise ateş..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 14,
+      "ayah": 23,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَامٌ",
+      "verseTransliteration": "Ve udhilellezîne âmenû ve amilûs sâlihâti cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ bi izni rabbihim, tehıyyetuhum fîhâ selâm(selâmun).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik iyi işler yapanlar ise rablerinin izniyle altlarından ırmaklar akan cennetlere sokulmuşlardır. Sürekli kalıcıdırlar orada. Birbirlerine esenlik dilemeleri, \"selam\" şeklindedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 14,
+      "ayah": 32,
+      "formInAyah": "الْأَنْهَارَ",
+      "transliteration": "l-enhāra",
+      "gloss": "ırmakları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ۖ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِأَمْرِهِ ۖ وَسَخَّرَ لَكُمُ الْأَنْهَارَ",
+      "verseTransliteration": "Allâhullezî halakas semâvâti vel arda ve enzele mines semâi mâen fe ahrece bihî mines semerâti rızkan lekum, ve sehhare lekumul fulke li tecriye fil bahri bi emrih(emrihî), ve sehhare lekumul enhâr(enhâra).",
+      "verseMeaning": "Allah odur ki, gökleri ve yeri yarattı. Gökten bir su indirdi de onunla size rızık olarak türlü meyveler çıkardı. Emriyle denizde akıp gitmeleri için gemileri hizmetinize verdi. Irmakları da emrinize verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 16,
+      "ayah": 15,
+      "formInAyah": "وَأَنْهَارًا",
+      "transliteration": "ve enhāran",
+      "gloss": "ve ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَأَنْهَارًا وَسُبُلًا لَعَلَّكُمْ تَهْتَدُونَ",
+      "verseTransliteration": "Ve elkâ fîl ardı revâsiye en temîde bikum ve enhâren ve subulen leallekum tehtedûn(tehtedûne).",
+      "verseMeaning": "Sizi çalkayıp sarsar diye yerküreye ağır dağlar, ırmaklar, yollar koydu. İyiye ve doğruya ulaşmanız umulmaktadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 16,
+      "ayah": 31,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ لَهُمْ فِيهَا مَا يَشَاءُونَ ۚ كَذَٰلِكَ يَجْزِي اللَّهُ الْمُتَّقِينَ",
+      "verseTransliteration": "Cennâtu adnin yedhulûnehâ tecrî min tahtihel enhâru lehum fîhâ mâ yeşâûn(yeşâûne), kezâlike yeczîllâhul muttekîn(muttekîne).",
+      "verseMeaning": "Adn cennetleri... Girecekler içlerine. Altlarından ırmaklar akacak. Orada diledikleri şey kendilerinin olacak. Allah, korunup sakınanları işte böyle ödüllendirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 17,
+      "ayah": 91,
+      "formInAyah": "الْأَنْهَارَ",
+      "transliteration": "l-enhāra",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِنْ نَخِيلٍ وَعِنَبٍ فَتُفَجِّرَ الْأَنْهَارَ خِلَالَهَا تَفْجِيرًا",
+      "verseTransliteration": "Ev tekûne leke cennetun min nahîlin ve inebin fe tufeccirel enhâre hılâlehâ tefcîrâ(tefcîren).",
+      "verseMeaning": "\"Yahut senin, hurmalardan, üzümlerden oluşan bir bahçen olmalı. Onların aralarından şarıl şarıl ırmaklar akıtmalısın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 18,
+      "ayah": 31,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أُولَٰئِكَ لَهُمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۚ نِعْمَ الثَّوَابُ وَحَسُنَتْ مُرْتَفَقًا",
+      "verseTransliteration": "Ulâike lehum cennâtu adnin tecrî min tahtihimul enharu yuhallevne fîhâ min esâvire min zehebin ve yelbesûne siyâben hudren min sundusin ve istebrekın muttekiîne fîhâ alel erâik(erâiki), ni´mes sevâb(sevâbu), ve hasunet murtefekâ(murtefekan).",
+      "verseMeaning": "Bunlar için, altlarından ırmaklar akan Adn cennetleri vardır. Orada altın bileziklerle süslenecekler, ince ve kalın ipekten yeşil giysiler giyip koltuklar üzerine kurulacaklar. O ne güzel karşılık, o ne güzel dayanak!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 18,
+      "ayah": 33,
+      "formInAyah": "نَهَرًا",
+      "transliteration": "neheran",
+      "gloss": "bir ırmak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْئًا ۚ وَفَجَّرْنَا خِلَالَهُمَا نَهَرًا",
+      "verseTransliteration": "Kiltel cenneteyni âtet ukulehâ ve lem tazlim minhu şey’en ve feccernâ hılâlehumâ neherâ(neheren).",
+      "verseMeaning": "İki bağ da yemişlerini vermiş o adamdan hiçbir şeyi eksik bırakmamıştı. İkisinin ortasından bir de nehir fışkırtmışız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 20,
+      "ayah": 76,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ مَنْ تَزَكَّىٰ",
+      "verseTransliteration": "Cennâtu adnin tecrî min tahtihel enhâru hâlidîne fîhâ ve zâlike cezâu men tezekkâ.",
+      "verseMeaning": "Adn cennetleri ki, altlarından ırmaklar akar; sürekli kalacaklar içlerinde. Arınıp temizlenenlerin ödülü işte budur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 22,
+      "ayah": 14,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "verseTransliteration": "İnnallâhe yudhılullezîne âmenû ve amilûs sâlihâti cennâtin tecrî min tahtihel enhâr(enhâru), innallâhe yef’alu mâ yurîd(yurîdu).",
+      "verseMeaning": "Allah, iman edip hayra ve barışa yönelik işler yapanları altlarından ırmaklar akan cennetlere koyacaktır. Allah, dilediğini yapar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 22,
+      "ayah": 23,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+      "verseTransliteration": "İnnallâhe yudhılullezîne âmenû ve amilus sâlihâti cennâtin tecrî min tahtihel enhâru yuhallevne fîhâ min esâvira min zehebin ve lu’luâ(lu’luen), ve libâsuhum fîhâ harîr(harîrun).",
+      "verseMeaning": "Allah, iman edip hayra ve barışa yönelik işler yapanları, altlarından ırmaklar akan cennetlere koyacaktır. Orada, altından bilezikler ve inciyle süsleneceklerdir. Ve orada giysileri ipektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 25,
+      "ayah": 10,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "تَبَارَكَ الَّذِي إِنْ شَاءَ جَعَلَ لَكَ خَيْرًا مِنْ ذَٰلِكَ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَيَجْعَلْ لَكَ قُصُورًا",
+      "verseTransliteration": "Tebârekellezî in şâe ceale leke hayren min zâlike cennâtin tecrî min tahtihel enhâru ve yec’al leke kusûrâ(kusûran).",
+      "verseMeaning": "Şanı yücedir o kudretin ki, dilerse sana ondan daha hayırlısını, altından nehirler akan bahçeleri verir ve senin için köşkler de yapar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 27,
+      "ayah": 61,
+      "formInAyah": "أَنْهَارًا",
+      "transliteration": "enhāran",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَمَّنْ جَعَلَ الْأَرْضَ قَرَارًا وَجَعَلَ خِلَالَهَا أَنْهَارًا وَجَعَلَ لَهَا رَوَاسِيَ وَجَعَلَ بَيْنَ الْبَحْرَيْنِ حَاجِزًا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Emmen cealel arda karâren ve ceale hılâlehâ enhâren ve ceale lehâ revâsiye ve ceale beynel bahreyni hâcizâ(hâcizen), e ilâhun meallâh(meallâhi), bel ekseruhum lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Yoksa yeri bir karargâh yapıp şurasına burasına nehirler serpiştiren, üzerine dayanaklı dağlar konduran ve iki deniz arasına bir engel yerleştiren mi hayırlı? İlah mı var Allah´ın yanında!? Hayır! Ama onların çokları ilimden nasipsizliği sürdürüyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 29,
+      "ayah": 58,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُمْ مِنَ الْجَنَّةِ غُرَفًا تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ نِعْمَ أَجْرُ الْعَامِلِينَ",
+      "verseTransliteration": "Vellezîne âmenû ve amilûs sâlihâti le nubevviennehum minel cenneti gurafan tecrîmin tahtihel enhâru hâlidîne fîhâ, ni’me ecrul âmilîn(âmilîne).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik işler yapanları, altlarından ırmaklar akan cennetin görkemli odalarına yerleştireceğiz. Sürekli kalacaklardır orada. Ne güzeldir iş yapıp değer üretenlerin ödülü!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 39,
+      "ayah": 20,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ غُرَفٌ مِنْ فَوْقِهَا غُرَفٌ مَبْنِيَّةٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَعْدَ اللَّهِ ۖ لَا يُخْلِفُ اللَّهُ الْمِيعَادَ",
+      "verseTransliteration": "Lâkinillezînettekav rabbehum lehum gurefun min fevkıhâ gurefun mebniyyetun tecrî min tahtihel enhâr(enhâru), va’dallâh(va’dallâhi), lâ yuhlifullâhul mîâd(mîâde).",
+      "verseMeaning": "Hayır, kurtaramazsın! Rablerinden korkanlara gelince, onlar için üstüste bina edilmiş odalar var; altlarından ırmaklar akar. Allah´ın vaadidir bu, Allah vaadine ters düşmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 43,
+      "ayah": 51,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِنْ تَحْتِي ۖ أَفَلَا تُبْصِرُونَ",
+      "verseTransliteration": "Ve nâdâ fir’avnu fî kavmihî kâle yâ kavmi e leyse lî mulku mısra ve hâzihil enhâru tecrî min tahtî, e fe lâ tubsirûn(tubsirûne).",
+      "verseMeaning": "Firavun, toplumu içinde haykırıp şöyle dedi: \"Ey toplumum! Mısır´ın mülk ve yönetimi benim değil mi? İşte şu nehirler benim altımdan akıyor. Görmüyor musunuz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 47,
+      "ayah": 12,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَهُمْ",
+      "verseTransliteration": "İnnallâhe yudhılullezîne âmenû ve amilûs sâlihâti cennâtin tecrî min tahtihel enhâr(enhâru), vellezîne keferû yetemetteûne ve ye’kulûne kemâ te’kulul en’âmu ven nâru mesven lehum.",
+      "verseMeaning": "Şu bir gerçek ki Allah, iman edip hayra ve barışa yönelik işler yapanları, altlarından ırmaklar akan cennetlere koyacaktır. Küfre sapanlarsa zevk edip eğlenmeye bakarlar; davarların yediği gibi yer içerler. Varacakları yer ateştir onların."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 47,
+      "ayah": 15,
+      "formInAyah": "وَأَنْهَارٌ",
+      "transliteration": "ve enhārun",
+      "gloss": "ve ırmakları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), fîhâ enhârun min mâin gayri âsin(âsinin), ve enhârun min lebenin lem yetegayyer ta’muh(ta’muhu), ve enhârun min hamrin lezzetin liş şâribîn(şâribîne), ve enhârun min aselin musaffâ(musaffen), ve lehum fîhâ min kullis semerâti ve magfiretun min rabbihim, ke men huve hâlidun fîn nâri ve sukû mâen hamîmen fe kattaa em’âehum.",
+      "verseMeaning": "Sakınanlara vaat olunan cennetin durumu şöyledir: Orada, bozulmayan sudan ırmaklar; tadı bozulmayan sütten nehirler, içenlere lezzet sunan bir şaraptan nehirler, süzme bir baldan oluşan nehirler var. Ve orada kendileri için her türlü meyvenin yanında, Rablerinden bir de bağışlanma var. Bu nimetler içindeki ile, sürekli ateşte olup da içirildiği sıcak su tarafından bağırsakları parçalanan kimse aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 47,
+      "ayah": 15,
+      "formInAyah": "وَأَنْهَارٌ",
+      "transliteration": "ve enhārun",
+      "gloss": "ve ırmakları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), fîhâ enhârun min mâin gayri âsin(âsinin), ve enhârun min lebenin lem yetegayyer ta’muh(ta’muhu), ve enhârun min hamrin lezzetin liş şâribîn(şâribîne), ve enhârun min aselin musaffâ(musaffen), ve lehum fîhâ min kullis semerâti ve magfiretun min rabbihim, ke men huve hâlidun fîn nâri ve sukû mâen hamîmen fe kattaa em’âehum.",
+      "verseMeaning": "Sakınanlara vaat olunan cennetin durumu şöyledir: Orada, bozulmayan sudan ırmaklar; tadı bozulmayan sütten nehirler, içenlere lezzet sunan bir şaraptan nehirler, süzme bir baldan oluşan nehirler var. Ve orada kendileri için her türlü meyvenin yanında, Rablerinden bir de bağışlanma var. Bu nimetler içindeki ile, sürekli ateşte olup da içirildiği sıcak su tarafından bağırsakları parçalanan kimse aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 47,
+      "ayah": 15,
+      "formInAyah": "وَأَنْهَارٌ",
+      "transliteration": "ve enhārun",
+      "gloss": "ve ırmakları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), fîhâ enhârun min mâin gayri âsin(âsinin), ve enhârun min lebenin lem yetegayyer ta’muh(ta’muhu), ve enhârun min hamrin lezzetin liş şâribîn(şâribîne), ve enhârun min aselin musaffâ(musaffen), ve lehum fîhâ min kullis semerâti ve magfiretun min rabbihim, ke men huve hâlidun fîn nâri ve sukû mâen hamîmen fe kattaa em’âehum.",
+      "verseMeaning": "Sakınanlara vaat olunan cennetin durumu şöyledir: Orada, bozulmayan sudan ırmaklar; tadı bozulmayan sütten nehirler, içenlere lezzet sunan bir şaraptan nehirler, süzme bir baldan oluşan nehirler var. Ve orada kendileri için her türlü meyvenin yanında, Rablerinden bir de bağışlanma var. Bu nimetler içindeki ile, sürekli ateşte olup da içirildiği sıcak su tarafından bağırsakları parçalanan kimse aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 47,
+      "ayah": 15,
+      "formInAyah": "أَنْهَارٌ",
+      "transliteration": "enhārun",
+      "gloss": "ırmakları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+      "verseTransliteration": "Meselul cennetilletî vuidel muttekûn(muttekûne), fîhâ enhârun min mâin gayri âsin(âsinin), ve enhârun min lebenin lem yetegayyer ta’muh(ta’muhu), ve enhârun min hamrin lezzetin liş şâribîn(şâribîne), ve enhârun min aselin musaffâ(musaffen), ve lehum fîhâ min kullis semerâti ve magfiretun min rabbihim, ke men huve hâlidun fîn nâri ve sukû mâen hamîmen fe kattaa em’âehum.",
+      "verseMeaning": "Sakınanlara vaat olunan cennetin durumu şöyledir: Orada, bozulmayan sudan ırmaklar; tadı bozulmayan sütten nehirler, içenlere lezzet sunan bir şaraptan nehirler, süzme bir baldan oluşan nehirler var. Ve orada kendileri için her türlü meyvenin yanında, Rablerinden bir de bağışlanma var. Bu nimetler içindeki ile, sürekli ateşte olup da içirildiği sıcak su tarafından bağırsakları parçalanan kimse aynı olur mu?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 48,
+      "ayah": 5,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لِيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِنْدَ اللَّهِ فَوْزًا عَظِيمًا",
+      "verseTransliteration": "Li yudhilel mu’minîne vel mu’minâti cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ve yukeffire anhum seyyiâtihim, ve kâne zâlike indallâhi fevzen azîmâ(azîmen).",
+      "verseMeaning": "İnanmış erkekleri ve inanmış kadınları, altlarından ırmaklar akan cennetlere sokması içindir bu. Sürekli kalıcıdırlar orada. Ve onların çirkin davranışlarını örtüp gizlemesi içindir. İşte bu, Allah katında çok büyük bir kurtuluş ve eriştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 48,
+      "ayah": 17,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَمَنْ يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+      "verseTransliteration": "Leyse alel a’mâ haracun ve lâ alel a’reci haracun ve lâ alel marîdı harac(haracun), ve men yutııllahe ve resûlehu yudhılhu cennâtin tecrî min tahtihel enhâr(enhâru), ve men yetevelle yuazzibhu azâben elîmâ(elîmen).",
+      "verseMeaning": "Köre zorlama yoktur, topala zorlama yoktur, hastaya da zorlama yoktur. Kim Allah´a ve resulüne itaat ederse, Allah onu altından ırmaklar akan cennetlere koyar. Kim de yüz çevirirse, Allah onu acıklı bir azapla cezalandırır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 54,
+      "ayah": 54,
+      "formInAyah": "وَنَهَرٍ",
+      "transliteration": "ve neherin",
+      "gloss": "ve ırmaklar(ın kenarın)dadırlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ",
+      "verseTransliteration": "İnnel muttekîne fî cennâtin ve neher(neherin).",
+      "verseMeaning": "Korunup sakınanlar; bahçelerde, nehir kıyılarındadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 57,
+      "ayah": 12,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُهُمْ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ بُشْرَاكُمُ الْيَوْمَ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Yevme terel mû’minîne vel mû’minâti yes’â nûruhum beyne eydîhim ve bi eymânihim buşrâkumul yevme cennâtun tecrî min tahtihel enhâru hâlidîne fîh(fîhâ), zâlike huvel fevzul azîm(azîmu).",
+      "verseMeaning": "Gün olur, mümin erkeklerle mümin kadınları, ışıkları önlerinde ve sağ yanlarında koşar görürsün. Şöyle denilir: \"Bugün size, altlarından ırmaklar akan cennetler müjdeleniyor. Sürekli kalıcısınız içlerinde.\" İşte büyük başarının ta kendisidir bu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 58,
+      "ayah": 22,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ يُوَادُّونَ مَنْ حَادَّ اللَّهَ وَرَسُولَهُ وَلَوْ كَانُوا آبَاءَهُمْ أَوْ أَبْنَاءَهُمْ أَوْ إِخْوَانَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُولَٰئِكَ كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ وَأَيَّدَهُمْ بِرُوحٍ مِنْهُ ۖ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ أُولَٰئِكَ حِزْبُ اللَّهِ ۚ أَلَا إِنَّ حِزْبَ اللَّهِ هُمُ الْمُفْلِحُونَ",
+      "verseTransliteration": "Lâ tecidu kavmen yû’munûne billâhi vel yevmil âhîri yuvâddûne men hâddallâhe ve resûlehu ve lev kânû âbâehum ve ebnâehum ve ihvânehum ev aşîretehum, ulâike ketebe fî kulûbihimul îmâne ve eyyedehum bi rûhin minh(minhu), ve yudhıluhum cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ, radıyallâhu anhum ve radû anh(anhu), ulâike hizbullâh(hizbullâhi), e lâ inne hizbullâhi humul muflihûn(muflihûne).",
+      "verseMeaning": "Allah´a ve âhiret gününe inanan bir topluluğun, Allah´a ve resulüne karşı çıkanlarla sevgiye dayalı bir dostluk kurduğunu göremezsin. Bunlar onların ister babaları olsun, ister çocukları olsun, ister kardeşleri olsun, ister akrabaları olsun. Allah onların kalplerine imanı yazmış ve onları kendisinden bir ruhla desteklemiştir. Onları, altlarından ırmaklar akan cennetlere koyacaktır; sürekli kalacaklardır orada. Allah onlardan hoşnut olmuştur, onlar da Allah´tan hoşnut olmuşlardır. Allah´ın hizbi işte bunlardır. Dikkat edin, Allah´ın hizbi, başarıya ulaşanların ta kendileridir!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 61,
+      "ayah": 12,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Yagfir lekum zunûbekum ve yudhılkum cennâtin tecrî min tahtihel enhâru ve mesâkine tayyibeten fî cennâti adn(adnin), zâlikel fevzul azîm(azîmu).",
+      "verseMeaning": "Günahlarınızı affeder ve sizi, altından nehirler akan bahçelere, sürekli cennetlerdeki temiz, bereketli barınaklara yerleştirir. İşte bu en büyük başarıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 64,
+      "ayah": 9,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+      "verseTransliteration": "Yevme yecmeukum li yevmil cem’i zâlike yevmut tegâbun(tegâbuni), ve men yû’min billâhi ve ya’mel sâlihan yukeffir anhu seyyiâtihî ve yudhılhu cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ebedâ(ebeden), zâlikel fevzul azîm(azîmu).",
+      "verseMeaning": "\"Toplanma günü\" için sizi bir araya getirdiği gün, karşılıklı aldatış ve aldanışların ortaya çıktığı gündür. Kim Allah´a iman eder, barışa ve hayra yönelik iş yaparsa Allah onun çirkinliklerini örter ve kendisini altından nehirler akan bahçelere, içlerinde sürekli kalmak üzere yerleştirir. İşte büyük başarı budur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 65,
+      "ayah": 11,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "رَسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ لِيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا",
+      "verseTransliteration": "Resûlen yetlû aleykum âyâtillâhi mubeyyinâtin li yuhricellezîne âmenû ve amilûs sâlihâti minez zulumâti ilen nûr(nûri), ve men yû´min billâhi ve ya´mel sâlihan yudhilhu cennâtin tecrî min tahtihel enhâru hâlidîne fîhâ ebedâ(ebeden), kad ahsenallâhu lehu rızkâ(rızkan).",
+      "verseMeaning": "Bir elçi indirmiştir ki, iman edip hayra ve barışa yönelik işler sergileyenleri, karanlıklardan nura çıkarmak için Allah´ın ayetlerini açık seçik okur. Allah´a inanıp hayra ve barışa yönelik işler yapanları Allah, altlarından ırmaklar akan cennetlere/bahçelere koyacaktır. Onlar orada sonsuza dek kalıcıdır. Allah böylesi için rızkı gerçekten güzelleştirmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 66,
+      "ayah": 8,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا عَسَىٰ رَبُّكُمْ أَنْ يُكَفِّرَ عَنْكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يَوْمَ لَا يُخْزِي اللَّهُ النَّبِيَّ وَالَّذِينَ آمَنُوا مَعَهُ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû tûbû ilâllâhi tevbeten nasûhâ(nasûhan), asâ rabbukum en yukeffire ankum seyyiâtikum ve yudhilekum cennâtin tecrî min tahtihel enhâru, yevme lâ yuhzîllâhun nebiyye vellezîne âmenû meah(meahu), nûruhum yes´â beyne eydîhim ve bi eymânihim yekûlûne rabbenâ etmim lenâ nûrenâ vagfir lenâ, inneke alâ kulli şey´in kadîr(kadîrun).",
+      "verseMeaning": "Ey iman edenler! Etkili öğüt veren bir tövbe ile Allah´a yönelin. Umulur ki Rabbiniz, çirkinliklerinizi ve günahlarınızı örter ve sizi altlarından ırmaklar akan cennetlere yerleştirir. O gün Allah, peygamberi ve onunla birlikte inananları utandırmayacaktır. Onların ışığı önlerinden ve sağ yanlarından koşup gelir. Şöyle derler: \"Ey Rabbimiz! Işığımızı tamamla ve bizi bağışla! Sen her şeye Kadîr´sin, her şeye gücün yeter.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 71,
+      "ayah": 12,
+      "formInAyah": "أَنْهَارًا",
+      "transliteration": "enhāran",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+      "verseTransliteration": "Ve yumdidkum biemvâlin ve benîne ve yec’al lekum cennâtin ve yec’al lekum enhârâ(enhâren).",
+      "verseMeaning": "\"Sizi, mallar ve oğullarla güçlendirir, size yeşil bahçeler lütfeder. Ve sizin için nehirler akıtır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 85,
+      "ayah": 11,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+      "verseTransliteration": "İnnellezîne âmenû ve amilus sâlihâti lehum cennâtun tecrî min tahtihel enhâr(enhâru), zâlikel fevzul kebîr(kebîru).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik işler yapanlara gelince onlar için, altlarından ırmaklar akan cennetler vardır. Büyük başarı işte budur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَهَر",
+      "sura": 98,
+      "ayah": 8,
+      "formInAyah": "الْأَنْهَارُ",
+      "transliteration": "l-enhāru",
+      "gloss": "ırmaklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+      "verseTransliteration": "Cezâuhum inde rabbihim cennâtu adnin tecrî min tahtihel enhâru hâlidîne fîhâ ebedâ(ebeden), radıyallâhu anhum ve radû anh(anhu), zâlike li men haşiye rabbeh(rabbehu).",
+      "verseMeaning": "Onların, Rableri katındaki ödülleri, altlarından ırmaklar akan Adn cennetleri/sürekli yeşilliklerdeki temizlik/bereketli bahçelerdir. Sonsuza dek kalacaklardır orada. Allah onlardan razı olmuştur, onlar da O´ndan razı olmuşlardır. İşte bu, içi ürpererek Rabbine saygı duyan kişi içindir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nhr"
+}

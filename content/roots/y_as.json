@@ -1,0 +1,300 @@
+{
+  "id": "yAs",
+  "latinName": "Ye-Elif-Sin",
+  "lettersArabic": "ي ا س",
+  "meanings": [
+    "Ümidini kaybetmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 13,
+  "lemmas": [
+    {
+      "formArabic": "يَ ُٔوس",
+      "count": 3
+    },
+    {
+      "formArabic": "يَئِسَ",
+      "count": 8
+    },
+    {
+      "formArabic": "ٱسْتَيْ َٔسَ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَ ُٔوس",
+      "sura": 11,
+      "ayah": 9,
+      "formInAyah": "لَيَئُوسٌ",
+      "transliteration": "leyeūsun",
+      "gloss": "ümitsiz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَئِنْ أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ",
+      "verseTransliteration": "Ve le in ezaknal insâne minnâ rahmeten summe neza´nâhâ minh(minhu), innehu le yeûsun kefûr(kefûrun).",
+      "verseMeaning": "İnsana bizden bir rahmet tattırıp sonra onu ondan çekip alsak, insan elbette çok ümitsiz, çok nankör bir hale düşer."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَ ُٔوس",
+      "sura": 17,
+      "ayah": 83,
+      "formInAyah": "يَئُوسًا",
+      "transliteration": "yeūsen",
+      "gloss": "umutsuzluğa düşer",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ ۖ وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَئُوسًا",
+      "verseTransliteration": "Ve izâ en’amnâ alel insâni a’rada ve neâbi cânibih(cânibihî), ve izâ messehuş şerru kâne yeûsâ(yeûsen).",
+      "verseMeaning": "İnsana nimet verdiğimizde yüz çevirip yan çizer. Kendisine şer dokununca da hemen ümitsiz oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَ ُٔوس",
+      "sura": 41,
+      "ayah": 49,
+      "formInAyah": "فَيَئُوسٌ",
+      "transliteration": "feyeūsun",
+      "gloss": "hemen üzülür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَا يَسْأَمُ الْإِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ الشَّرُّ فَيَئُوسٌ قَنُوطٌ",
+      "verseTransliteration": "Lâ yes’emul insânu min duâil hayri ve in messehuş şerru fe yeûsun kanût(kanûtun).",
+      "verseMeaning": "İnsan, hayır istemekten/hayır için dua etmekten bıkıp usanmaz. Kendisine bir şey dokunmaya görsün; hemen ümidini keser, yıkılır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 5,
+      "ayah": 3,
+      "formInAyah": "يَئِسَ",
+      "transliteration": "yeise",
+      "gloss": "umudu kesmişlerdir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Hurrimet aleykumul meytetu veddemu ve lahmul hınzîri ve mâ uhılle li gayrillâhi bihî vel munhanikatu vel mevkûzetu vel mutereddiyetu ven natîhatu ve mâ ekeles sebuu illâ mâ zekkeytum ve mâ zubiha alen nusubi ve en testaksimû bil ezlâm(ezlâmi), zâlikum fisk(fiskun), elyevme yeisellezîne keferû min dînikum fe lâ tahşevhum vahşevn(vahşevni) el yevme ekmeltu lekum dînekum ve etmemtu aleykum ni’metî ve radîtu lekumul islâme dînâ(dînen) fe menidturra fî mahmasatin gayra mutecânifin li ismin fe innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Şunlar size haram kılınmıştır: Boğazlanmayarak ölmüş hayvanın eti, kan, domuz eti, üzerine Allah´tan başkasının adı anılmış, boğulmuş, vurulmuş, yuvarlanmış, süsülmüş, canı üzerineyken yetişip kestikleriniz müstesna olmak üzere canavar tarafından yırtılmış ve dikili adak taşları üzerinde boğazlanmış hayvanlar ve bir de fal oklarıyla kısmet paylaşmanız... Bütün bunlar birer sapıştır. Küfre batmış olanlar bugün dininizden ümitlerini kestiler. Artık onlardan korkmayın, benden korkun! Bugün sizin için dininizi kemale erdirdim, üzerinizdeki nimetimi tamamladım ve sizin için din olarak İslam´ı/Allah´a teslim olmayı seçtim. Şu da var ki, her kim ciddi bir açlıkla yüz yüze gelir de günaha kaçmak maksadı olmaksızın onlardan yemek zorunda kalırsa, elbette Allah Gafûr ve Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 12,
+      "ayah": 87,
+      "formInAyah": "يَيْأَسُ",
+      "transliteration": "yeyesu",
+      "gloss": "umut kesmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "verseTransliteration": "Yâ beniyyezhebû fe tehassesû min yûsufe ve ehîhi ve lâ te’yesû min revhillâh(revhıllâhi), innehu lâ ye’yesu min revhillâhi illel kavmul kâfirûn(kâfirûne).",
+      "verseMeaning": "\"Ey oğullarım! Gidin, artık Yûsuf´u ve kardeşini bulmak için dikkat kesilin. Allah´ın rahmetinden ümit kesmeyin; çünkü, Allah´ın rahmetinden de, küfre sapanlar topluluğundan başkası ümit kesmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 12,
+      "ayah": 87,
+      "formInAyah": "تَيْأَسُوا",
+      "transliteration": "teyesū",
+      "gloss": "umut kesmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+      "verseTransliteration": "Yâ beniyyezhebû fe tehassesû min yûsufe ve ehîhi ve lâ te’yesû min revhillâh(revhıllâhi), innehu lâ ye’yesu min revhillâhi illel kavmul kâfirûn(kâfirûne).",
+      "verseMeaning": "\"Ey oğullarım! Gidin, artık Yûsuf´u ve kardeşini bulmak için dikkat kesilin. Allah´ın rahmetinden ümit kesmeyin; çünkü, Allah´ın rahmetinden de, küfre sapanlar topluluğundan başkası ümit kesmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 13,
+      "ayah": 31,
+      "formInAyah": "يَيْأَسِ",
+      "transliteration": "yeyesi",
+      "gloss": "hala anlamadılar mı?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ ۗ بَلْ لِلَّهِ الْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا أَنْ لَوْ يَشَاءُ اللَّهُ لَهَدَى النَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِنْ دَارِهِمْ حَتَّىٰ يَأْتِيَ وَعْدُ اللَّهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ",
+      "verseTransliteration": "Ve lev enne kur’ânen suyyiret bihil cibâlu ev kuttıat bihil ardu ev kullime bihil mevtâ, bel lillâhil emru cemîâ(cemîan), e fe lem ye’yesillezîne âmenû en lev yeşâullâhu le heden nâse cemîâ(cemîan),ve lâ yezâlullezîne keferû tusîbuhum bi mâ sanaû kâriatun ev tehullu karîben min dârihim hattâ ye’tiye va’dullâh(va’dullâhi), innallâhe lâ yuhliful mîâd(mîâde).",
+      "verseMeaning": "Kendisiyle, dağların yürütüldüğü yahut yerkürenin parçalandığı yahut ölülerin konuşturulduğu bir Kur´an mı olsaydı! Hayır, iş ve oluşun tümü Allah´ındır. İman edenler hâlâ ümidi kesip anlamadılar mı ki, Allah dileseydi elbette insanlara tümden hidayet verirdi. O küfre sapanlara gelince, sanayi olarak ürettiklerinin sonucu halinde başlarına gülle, tokmak türünden belalar inmeye devam edecek yahut o belalar onların yurtlarının yakınına konacak. Ta, Allah´ın vaadi gelinceye değin. Allah, vaadine asla ters düşmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 29,
+      "ayah": 23,
+      "formInAyah": "يَئِسُوا",
+      "transliteration": "yeisū",
+      "gloss": "ümidi kesmişlerdir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ أُولَٰئِكَ يَئِسُوا مِنْ رَحْمَتِي وَأُولَٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Vellezîne keferû bi âyâtillâhi ve likâihî ulâike yeisû min rahmetî ve ulâike lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Allah´ın ayetlerini ve Allah´a varmayı inkâr edenler, işte onlar, rahmetimden ümidi kesmişlerdir. Ve bunlar için acıklı bir azap öngörülmüştür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 60,
+      "ayah": 13,
+      "formInAyah": "يَئِسُوا",
+      "transliteration": "yeisū",
+      "gloss": "umudu kesmiş olan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْآخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ الْقُبُورِ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tetevellev kavmen gadıballâhu aleyhim kad yeisû minel âhireti kemâ yeisel kuffâru min ashâbil kubûr(kubûri).",
+      "verseMeaning": "Ey iman edenler! Allah´ın kendilerine gazap ettiği bir toplulukla dostluk kurmayın! Çünkü bunlar âhiretten ümitlerini kesmişlerdir. Tıpkı, kabir halkından olan inkârcıların, ümitlerini kestikleri gibi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 60,
+      "ayah": 13,
+      "formInAyah": "يَئِسَ",
+      "transliteration": "yeise",
+      "gloss": "umudu kestiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْآخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ الْقُبُورِ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tetevellev kavmen gadıballâhu aleyhim kad yeisû minel âhireti kemâ yeisel kuffâru min ashâbil kubûr(kubûri).",
+      "verseMeaning": "Ey iman edenler! Allah´ın kendilerine gazap ettiği bir toplulukla dostluk kurmayın! Çünkü bunlar âhiretten ümitlerini kesmişlerdir. Tıpkı, kabir halkından olan inkârcıların, ümitlerini kestikleri gibi..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَئِسَ",
+      "sura": 65,
+      "ayah": 4,
+      "formInAyah": "يَئِسْنَ",
+      "transliteration": "yeisne",
+      "gloss": "kesilenler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِنْ نِسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَاللَّائِي لَمْ يَحِضْنَ ۚ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ ۚ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مِنْ أَمْرِهِ يُسْرًا",
+      "verseTransliteration": "Vellâî yeisne minel mahîdı min nisâikum inirtebtum fe iddetuhunne selâsetu eşhurin vellâî lem yahıdn(yahıdne), ve ulâtul ahmâli eceluhunne en yada’ne hamlehunn(hamlehunne), ve men yettekıllâhe yec’al lehu min emrihî yusrâ(yusren).",
+      "verseMeaning": "Âdetten kesilen kadınlarınızın iddet bekleme sürelerinde kuşkuya düşerseniz, onların iddetleri üç aydır. Hiç âdet görmemiş kadınların süreleri de böyledir. Gebe olan kadınların süreleri ise yüklerini bırakmalarına kadardır. Kim Allah´tan korkarsa, O ona işinde bir kolaylık nasip eder."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَيْ َٔسَ",
+      "sura": 12,
+      "ayah": 80,
+      "formInAyah": "اسْتَيْأَسُوا",
+      "transliteration": "steyesū",
+      "gloss": "umudu kesince",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيًّا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوا أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُمْ مَوْثِقًا مِنَ اللَّهِ وَمِنْ قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ ۖ فَلَنْ أَبْرَحَ الْأَرْضَ حَتَّىٰ يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي ۖ وَهُوَ خَيْرُ الْحَاكِمِينَ",
+      "verseTransliteration": "Fe lemmestey’esû minhu halesû neciyyâ(neciyyen), kâle kebîruhum e lem ta’lemû enne ebâkum kad ehaze aleykum mevsikan minallâhi ve min kablu mâ ferrattum fî yûsuf(yûsufe), fe len ebrahal arda hattâ ye’zene lî ebî ev yahkumallâhu lî ve huve hayrul hâkimîn(hâkimîne).",
+      "verseMeaning": "Yûsuf´tan ümidi kesince bir kenara çekilip tartışmaya başladılar. Büyükleri dedi ki: \"Babanızın sizden Allah adına garanti aldığını, daha önce Yûsuf´a yaptığınız haksızlığı bilmez misiniz? Babam bana izin verinceye, yahut da Allah hakkımda hükmedinceye kadar bu ülkeden ayrılmayacağım. Yargıçların en hayırlısıdır O.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَيْ َٔسَ",
+      "sura": 12,
+      "ayah": 110,
+      "formInAyah": "اسْتَيْأَسَ",
+      "transliteration": "steyese",
+      "gloss": "umutlarını kestiler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+      "verseTransliteration": "Hattâ izestey’eser rusulu ve zannû ennehum kad kuzibû câehum nasrunâ fe nucciye men neşâ’(neşâu), ve lâ yureddu be’sunâ anil kavmil mucrimîn(mucrimîne).",
+      "verseMeaning": "Ne zaman ki resuller ümitsizliğe düşüp yalanlandıkları kanısına vardılar, işte o zaman yardımımız kendilerine ulaştı da dilediklerimiz kurtarıldı. Azabımız suçlular topluluğundan geri çevrilemez."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=yAs"
+}

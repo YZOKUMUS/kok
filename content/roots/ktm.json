@@ -1,0 +1,458 @@
+{
+  "id": "ktm",
+  "latinName": "Kef-Te-Mim",
+  "lettersArabic": "ك ت م",
+  "meanings": [
+    "Gizlemek, saklamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 21,
+  "lemmas": [
+    {
+      "formArabic": "كَتَمَ",
+      "count": 21
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 33,
+      "formInAyah": "تَكْتُمُونَ",
+      "transliteration": "tektumūne",
+      "gloss": "gizlemekte",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+      "verseTransliteration": "Kâle yâ âdemu enbi’hum bi esmâihim, fe lemmâ enbeehum bi esmâihim, kâle e lem ekul lekum innî a’lemu gaybes semâvâti vel ardı ve a’lemu mâ tubdûne ve mâ kuntum tektumûn(tektumûne).",
+      "verseMeaning": "Allah buyurdu: \"Ey Âdem, haber ver onlara onların adlarını.\" Adem onlara onların adlarını haber verince, Allah şöyle buyurdu: \"Dememiş miydim ben size! Ki ben, göklerin ve yerin gaybını en iyi bilenim. Ve ben, sizin açığa vurduklarınızı da saklayageldiklerinizi de en iyi biçimde bilmekteyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 42,
+      "formInAyah": "وَتَكْتُمُوا",
+      "transliteration": "ve tektumū",
+      "gloss": "ve gizlemeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ve lâ telbisûl hakka bil bâtılı ve tektumûl hakka ve entum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Hakkı batılla/saçmalık ve tutarsızlıkla kirletmeyin. Bilip durduğunuz halde gerçeği gizliyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 72,
+      "formInAyah": "تَكْتُمُونَ",
+      "transliteration": "tektumūne",
+      "gloss": "gizlemiş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ",
+      "verseTransliteration": "Ve iz kateltum nefsen feddâre’tum fîhâ vallâhu muhricun mâ kuntum tektumûn(tektumûne).",
+      "verseMeaning": "Siz bir adam öldürmüştünüz de onunla ilgili olarak çekişip duruyordunuz. Oysa ki Allah, sizin sakladıklarınızı ortaya çıkaracaktı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 140,
+      "formInAyah": "كَتَمَ",
+      "transliteration": "keteme",
+      "gloss": "gizleyen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ تَقُولُونَ إِنَّ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطَ كَانُوا هُودًا أَوْ نَصَارَىٰ ۗ قُلْ أَأَنْتُمْ أَعْلَمُ أَمِ اللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّنْ كَتَمَ شَهَادَةً عِنْدَهُ مِنَ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "verseTransliteration": "Em tekûlûne inne ibrâhîme ve ismâîle ve ishâka ve ya’kûbe vel esbâta kânû hûden ev nasârâ kul e entum a’lemu emillâh(emillâhu), ve men azlemu mimmen keteme şehâdeten indehu minallâh(minallâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Yoksa siz, \"İbrahim, İsmail, İshak, Yakub ve torunları Yahudi yahut Hıristiyanlardı\" mı diyorsunuz? Söyle onlara: \"Siz mi daha bilgilisiniz yoksa Allah mı?\" Allah´tan kendine ulaşmış bir tanıklığı gizleyenden daha zalim kim vardır! Allah, yapmakta olduklarınızdan habersiz değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 146,
+      "formInAyah": "لَيَكْتُمُونَ",
+      "transliteration": "leyektumūne",
+      "gloss": "gizlerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ ۖ وَإِنَّ فَرِيقًا مِنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ",
+      "verseTransliteration": "Ellezîne âteynâhumul kitâbe ya’rifûnehu kemâ ya’rifûne ebnâehum ve inne ferîkan minhum le yektumûnel hakka ve hum ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Kendilerine kitap verdiklerimiz, onu öz oğullarını tanıdıkları gibi tanırlar. Bununla birlikte, içlerinden bir zümre, bilip durdukları halde gerçeği gizliyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 159,
+      "formInAyah": "يَكْتُمُونَ",
+      "transliteration": "yektumūne",
+      "gloss": "gizleyen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَىٰ مِنْ بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ ۙ أُولَٰئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ",
+      "verseTransliteration": "İnnellezîne yektumûne mâ enzelnâ min el beyyinâti vel hudâ min ba’di mâ beyyennâhu lin nâsi fîl kitâbi, ulâike yel’anuhumullâhu ve yel’anuhumul lâinûn(lâinûne).",
+      "verseMeaning": "İndirdiğimiz açık-seçik delillerle, kılavuz mesajı; biz onu Kitap´ta insanlara ayan-beyan gösterdikten sonra gizleyenlere, işte onlara, hem Allah lanet eder hem de diğer lanet okuyanlar lanet eder."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 174,
+      "formInAyah": "يَكْتُمُونَ",
+      "transliteration": "yektumūne",
+      "gloss": "gizleyen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلَ اللَّهُ مِنَ الْكِتَابِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا ۙ أُولَٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "İnnellezîne yektumûne mâ enzelallâhu minel kitâbî ve yeşterûne bihî semenen kalîlen, ulâike mâ ye’kulûne fî butûnihim illen nâre ve lâ yukellimuhumullâhu yevmel kıyâmeti ve lâ yuzekkîhim, ve lehum azâbun elîm(elîmun).",
+      "verseMeaning": "Allah´ın Kitap´tan indirdiği şeyi gizleyip onu basit bir ücret karşılığı satanlar, karınlarında ateşten başka bir şey yemiş olmazlar, Kıyamet günü Allah onlarla konuşmayacaktır, onları arındırmayacaktır da... Onlar için korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 228,
+      "formInAyah": "يَكْتُمْنَ",
+      "transliteration": "yektumne",
+      "gloss": "gizlemeleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَنْ يَكْتُمْنَ مَا خَلَقَ اللَّهُ فِي أَرْحَامِهِنَّ إِنْ كُنَّ يُؤْمِنَّ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنْ أَرَادُوا إِصْلَاحًا ۚ وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "Vel mutallakâtu yeterabbasne bi enfusihinne selâsete kurûin, ve lâ yahıllu lehunne en yektumne mâ halakallâhu fî erhâmihinne in kunne yu’minne billâhi vel yevmil âhır(âhıri), ve buûletuhunne ehakku bi reddihinne fî zâlike in erâdû ıslâhâ(ıslâhan), ve lehunne mislullezî aleyhinne bil ma’rûf(ma’rûfi), ve lir ricâli aleyhinne dereceh(derecetun), vallâhu azîzun hakîm(hakîmun).",
+      "verseMeaning": "Boşanmış kadınlar kendi başlarına üç âdet ve temizlenme süresi beklerler. Eğer Allah´a ve âhıret gününe inanmakta iseler, Allah´ın onların rahimlerinde yarattığını saklamaları kendilerine helal olmaz. Kocaları, bu süre içinde herhangi bir şekilde barışmak isterlerse eşlerini geri almaya herkesten daha çok hak sahibidirler. Kadınların, örfe uygun biçimde, sorumluluklarına benzer hakları da vardır. Erkeklerin kadınlar üzerinde bir derece farkı vardır. Allah Azîz´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 283,
+      "formInAyah": "تَكْتُمُوا",
+      "transliteration": "tektumū",
+      "gloss": "gizlemeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِنْ كُنْتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُمْ بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ ۗ وَلَا تَكْتُمُوا الشَّهَادَةَ ۚ وَمَنْ يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "verseTransliteration": "Ve in kuntum alâ seferin ve lem tecidû kâtiben fe rihânun makbûdah(makbûdatun), fe in emine ba’dukum ba’dan felyueddillezî’tumine emânetehu velyettekıllâhe rabbeh(rabbehu), ve lâ tektumûş şehâdeh(şehâdete), ve men yektumhâ fe innehû âsimun kalbuh(kalbuhu), vallâhu bi mâ ta’melûne alîm(alîmun).",
+      "verseMeaning": "Eğer yolculuk halinde olur da yazacak birini bulamazsanız, o takdirde, alınan rehinler yeter. Birbirinize güvenmişseniz, kendisine güvenilen kişi, emaneti ödesin; Rabb´i olan Allah´tan korksun. Tanıklığı gizlemeyin. Onu gizleyen, kalbi günaha batmış/kendi kalbine kötülük etmiş biridir. Allah, yapmakta olduklarınızı çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 2,
+      "ayah": 283,
+      "formInAyah": "يَكْتُمْهَا",
+      "transliteration": "yektumhā",
+      "gloss": "onu gizleyen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِنْ كُنْتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُمْ بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ ۗ وَلَا تَكْتُمُوا الشَّهَادَةَ ۚ وَمَنْ يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "verseTransliteration": "Ve in kuntum alâ seferin ve lem tecidû kâtiben fe rihânun makbûdah(makbûdatun), fe in emine ba’dukum ba’dan felyueddillezî’tumine emânetehu velyettekıllâhe rabbeh(rabbehu), ve lâ tektumûş şehâdeh(şehâdete), ve men yektumhâ fe innehû âsimun kalbuh(kalbuhu), vallâhu bi mâ ta’melûne alîm(alîmun).",
+      "verseMeaning": "Eğer yolculuk halinde olur da yazacak birini bulamazsanız, o takdirde, alınan rehinler yeter. Birbirinize güvenmişseniz, kendisine güvenilen kişi, emaneti ödesin; Rabb´i olan Allah´tan korksun. Tanıklığı gizlemeyin. Onu gizleyen, kalbi günaha batmış/kendi kalbine kötülük etmiş biridir. Allah, yapmakta olduklarınızı çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 3,
+      "ayah": 71,
+      "formInAyah": "وَتَكْتُمُونَ",
+      "transliteration": "ve tektumūne",
+      "gloss": "ve gizliyorsunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُونَ الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ya ehlel kitâbi lime telbisûnel hakka bil bâtılı ve tektumûnel hakka ve entum ta’lemûn(ta’lemûne).",
+      "verseMeaning": "Ey Ehlikitap! Neden hakkı batılla kirletiyorsunuz ve bilip durduğunuz halde gerçeği gizliyorsunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 3,
+      "ayah": 167,
+      "formInAyah": "يَكْتُمُونَ",
+      "transliteration": "yektumūne",
+      "gloss": "içlerinde sakladıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلِيَعْلَمَ الَّذِينَ نَافَقُوا ۚ وَقِيلَ لَهُمْ تَعَالَوْا قَاتِلُوا فِي سَبِيلِ اللَّهِ أَوِ ادْفَعُوا ۖ قَالُوا لَوْ نَعْلَمُ قِتَالًا لَاتَّبَعْنَاكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَانِ ۚ يَقُولُونَ بِأَفْوَاهِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۗ وَاللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ",
+      "verseTransliteration": "Ve li ya’lemellezîne nâfekû, ve kîle lehum teâlev kâtilû fî sebîlillâhi evidfeû kâlû lev na’lemu kıtâlen letteba’nâkum, hum lil kufri yevmeizin akrabu minhum lil îmân(îmâni), yekûlûne bi efvâhihim mâ leyse fî kulûbihim, vallâhu a’lemu bi mâ yektumûn(yektumûne).",
+      "verseMeaning": "Ve ikiyüzlülük yapan münafıkları bilsin diye. Onlara, \"Hadi gelin, Allah yolunda çarpışın yahut savunma yapın!\" dendiğinde: \"Savaştan haberimiz olsaydı sizi elbette izlerdik.\" dediler. O gün onlar, imandan çok küfre yakın idiler. Kalplerinde olmayanı ağızlarıyla söylüyorlar. Allah, onların gizlemekte oldukları şeyi çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 3,
+      "ayah": 187,
+      "formInAyah": "تَكْتُمُونَهُ",
+      "transliteration": "tektumūnehu",
+      "gloss": "gizlemeyeceksiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ",
+      "verseTransliteration": "Ve iz ehazallâhu mîsâkallezîne ûtûl kitâbe le tubeyyinunnehu lin nâsi ve lâ tektumûneh(tektumûnehu), fe nebezûhu verâe zuhûrihim veşterav bihî semenen kalîlâ(kalîlen), fe bi’se mâ yeşterûn(yeşterûne).",
+      "verseMeaning": "Allah, kendilerine kitap verilenlerden şu yolda mîsak almıştı: \"Onu insanlara mutlaka açık-seçik bildireceksiniz, onu saklamayacaksınız.\" Ama onlar Kitap´ı sırtlarının gerisine attılar, basit bir ücret karşılığı onu sattılar. Ne kötü şey satın alıyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 4,
+      "ayah": 37,
+      "formInAyah": "وَيَكْتُمُونَ",
+      "transliteration": "ve yektumūne",
+      "gloss": "ve gizlerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+      "verseTransliteration": "Ellezîne yebhalûne ve ye’murûnen nâse bil buhli ve yektumûne mâ âtâhumullâhu min fadlıh(fadlıhî) ve a’tednâ lil kâfirîne azâben muhînâ(muhînen).",
+      "verseMeaning": "Böyleleri cimriliğe saparlar, insanlara cimriliği emrederler ve Allah´ın lütfundan kendilerine verdiği şeyi saklarlar. Nankörler için biz, rezil edici bir azap hazırladık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 4,
+      "ayah": 42,
+      "formInAyah": "يَكْتُمُونَ",
+      "transliteration": "yektumūne",
+      "gloss": "ve gizleyemezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوُا الرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ الْأَرْضُ وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا",
+      "verseTransliteration": "Yevme izin yeveddullezîne keferû ve asavur resûle lev tusevvâ bihimul ard(ardu) ve lâ yektumûnallâhe hadîsâ(hadîsen).",
+      "verseMeaning": "Bir gündür ki o, küfre sapıp resule isyan edenler toprağa karışıp gitmeyi isteyecekler ve Allah´tan hiçbir sözü gizleyemeyecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 5,
+      "ayah": 61,
+      "formInAyah": "يَكْتُمُونَ",
+      "transliteration": "yektumūne",
+      "gloss": "gizliyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا جَاءُوكُمْ قَالُوا آمَنَّا وَقَدْ دَخَلُوا بِالْكُفْرِ وَهُمْ قَدْ خَرَجُوا بِهِ ۚ وَاللَّهُ أَعْلَمُ بِمَا كَانُوا يَكْتُمُونَ",
+      "verseTransliteration": "Ve izâ câukum kâlû âmennâ ve kad dehalû bil kufri ve hum kad haracû bih(bihî) vallâhu a’lemu bimâ kânû yektumûn(yektumûne).",
+      "verseMeaning": "Size geldiklerinde \"İnandık!\" derler. Gerçekte ise küfürle girmiş, yine onunla çıkmışlardır. Neler saklıyor olduklarını Allah daha iyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 5,
+      "ayah": 99,
+      "formInAyah": "تَكْتُمُونَ",
+      "transliteration": "tektumūne",
+      "gloss": "gizlediğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "مَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "verseTransliteration": "Mâ aler resûli illel belâg(belâgu) vallâhu ya’lemu mâ tubdûne ve mâ tektumûn(tektumûne).",
+      "verseMeaning": "Resule düşen, tebliğden başka bir şey değildir. Allah sizin açığa vurduklarınızı da gizlediklerinizi de bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 5,
+      "ayah": 106,
+      "formInAyah": "نَكْتُمُ",
+      "transliteration": "nektumu",
+      "gloss": "gizlemeyeceğiz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الْأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلَاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ إِنَّا إِذًا لَمِنَ الْآثِمِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû şehâdetu beynikum izâ hadara ehadekumul mevtu hînel vasiyyetisnâni zevâ adlin minkum ev âharâni min gayrikum in entum darabtum fîl ardı fe esâbetkum musîbetul mevt(mevti) tahbisûnehumâ min ba’dis salâti fe yuksîmâni billâhi in irtebtum lâ neşterî bihî semenen ve lev kâne zâ kurbâ ve lâ nektumu şehâdetallâhi innâ izen le minel âsimîn(âsimîne).",
+      "verseMeaning": "Ey iman edenler! Herhangi birinize ölüm gelip çattığında, vasiyet zamanı aranızdaki tanıklık şöyle olsun: Kendinizden adalet sahibi iki kişi yahut yolculuk etmekte iken ölüm musibeti başınıza geldiyse sizin dışınızdan iki kişi. Bunları namazdan sonra alıkoyarsınız; kuşkulanırsanız şöyle yemin ederler: \"Vallahi, yakınlarımız da olsa yeminimizi hiçbir ücret karşılığı satmayacağız, Allah´ın tanıklığını saklamayacağız. Çünkü böyle yaparsak mutlaka günahkârlardan oluruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 21,
+      "ayah": 110,
+      "formInAyah": "تَكْتُمُونَ",
+      "transliteration": "tektumūne",
+      "gloss": "gizliyorsanız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+      "verseTransliteration": "İnnehu ya’lemul cehre minel kavli ve ya’lemu mâ tektumûn(tektumûne).",
+      "verseMeaning": "Kuşkusuz O, sözün açığa vurulanını da bilir; saklamakta olduklarınızı da bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 24,
+      "ayah": 29,
+      "formInAyah": "تَكْتُمُونَ",
+      "transliteration": "tektumūne",
+      "gloss": "gizlediğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَكُمْ ۚ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+      "verseTransliteration": "Leyse aleykum cunâhun en tedhulû buyûten gayre meskûnetin fîhâ metâun lekum, vallâhu ya’lemu mâ tubdûne ve mâ tektumûn(tektumûne).",
+      "verseMeaning": "Oturanı bulunmayan ve içinde size ait eşya olan evlere girmenizde bir sakınca yoktur. Allah, sizin açıkladıklarınızı da sakladıklarınızı da bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَتَمَ",
+      "sura": 40,
+      "ayah": 28,
+      "formInAyah": "يَكْتُمُ",
+      "transliteration": "yektumu",
+      "gloss": "gizleyen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ يَكْتُمُ إِيمَانَهُ أَتَقْتُلُونَ رَجُلًا أَنْ يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُمْ بِالْبَيِّنَاتِ مِنْ رَبِّكُمْ ۖ وَإِنْ يَكُ كَاذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَإِنْ يَكُ صَادِقًا يُصِبْكُمْ بَعْضُ الَّذِي يَعِدُكُمْ ۖ إِنَّ اللَّهَ لَا يَهْدِي مَنْ هُوَ مُسْرِفٌ كَذَّابٌ",
+      "verseTransliteration": "Ve kâle raculun mû’minun min âli fir’avne yektumu îmânehû e taktulûne raculen en yekûle rabbiyallâhu ve kad câekum bil beyyinâti min rabbikum, ve in yeku kâziben fe aleyhi kezibuh(kezibuhu), ve in yeku sâdikan yusibkum ba’dullezî yeidukum, innallâhe lâ yehdî men huve musrifun kezzâb(kezzâbun).",
+      "verseMeaning": "Firavun hanedanından, imanını gizleyen bir adam şöyle konuştu: \"Rabbim Allah´tır, dediği için bir adamı öldürüyor musunuz? Üstelik size, Rabbinizden açık seçik deliler de getirdi. Eğer yalancıysa yalancılığı kendi aleyhinedir. Eğer doğru sözlü ise size vaat ettiklerinden bir kısmı başınıza gelir. Kuşkusuz, Allah, haddi aşan yalancıları doğruya ulaştırmaz.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=ktm"
+}

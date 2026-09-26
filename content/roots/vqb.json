@@ -1,0 +1,64 @@
+{
+  "id": "vqb",
+  "latinName": "Se-Kaf-Be",
+  "lettersArabic": "ث ق ب",
+  "meanings": [
+    "Delmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "ثَاقِب",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ثَاقِب",
+      "sura": 86,
+      "ayah": 3,
+      "formInAyah": "الثَّاقِبُ",
+      "transliteration": "ṧ-ṧāḳibu",
+      "gloss": "parlayan",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "النَّجْمُ الثَّاقِبُ",
+      "verseTransliteration": "En necmus sâkıb(sâkıbu).",
+      "verseMeaning": "Parlayan, ışığıyla karanlığı delen yıldızdır o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ثَاقِب",
+      "sura": 37,
+      "ayah": 10,
+      "formInAyah": "ثَاقِبٌ",
+      "transliteration": "ṧāḳibun",
+      "gloss": "delici",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+      "verseTransliteration": "İllâ men hatıfel hatfete fe etbeahu şihâbun sâkib(sâkibun).",
+      "verseMeaning": "Yüce konseyden bir söz çalıp çarpan olabilirse de onun peşine hemen delici, alevli bir yıldız takılır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=vqb"
+}

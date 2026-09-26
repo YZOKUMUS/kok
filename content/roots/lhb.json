@@ -1,0 +1,96 @@
+{
+  "id": "lhb",
+  "latinName": "Lam-he-Be",
+  "lettersArabic": "ل ه ب",
+  "meanings": [
+    "ateşin tutuşması, alev alev olması demektir.",
+    "lehîb - ateşin görünen alevlenmiş hali",
+    "leheb - duman, toz",
+    "mülhîb - kızışmış",
+    "ülhüb - hızlı koşan",
+    "lühâb -susamış insana dokunan sıcaklık",
+    "lühbeh- siması kırmızıya dönük olan, öfkeli, hırçın, basit olaylarda bile parlayan kimse"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "لَهَب",
+      "count": 1
+    },
+    {
+      "formArabic": "لَهَب",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لَهَب",
+      "sura": 77,
+      "ayah": 31,
+      "formInAyah": "اللَّهَبِ",
+      "transliteration": "llahebi",
+      "gloss": "alev-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+      "verseTransliteration": "Lâ zalîlin ve lâ yugnî minel leheb(lehebi).",
+      "verseMeaning": "Ne gölgelendirir ne alevden korur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لَهَب",
+      "sura": 111,
+      "ayah": 1,
+      "formInAyah": "لَهَبٍ",
+      "transliteration": "lehebin",
+      "gloss": "Leheb’in",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "verseTransliteration": "Tebbet yedâ ebî lehebin ve tebb(tebbe).",
+      "verseMeaning": "Elleri kurusun Ebru Leheb´in; zaten kurudu ya!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لَهَب",
+      "sura": 111,
+      "ayah": 3,
+      "formInAyah": "لَهَبٍ",
+      "transliteration": "lehebin",
+      "gloss": "alevli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "verseTransliteration": "Se yaslâ nâren zâte leheb(lehebin).",
+      "verseMeaning": "Alevli bir ateşe yaslanacaktır o;"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=lhb"
+}

@@ -1,0 +1,2272 @@
+{
+  "id": "wld",
+  "latinName": "Vav-Lam-Dal",
+  "lettersArabic": "و ل د",
+  "meanings": [
+    "doğurmak. Neden olmak, yol açmak."
+  ],
+  "derivativeNotes": [
+    "Veled (çoğ. Vildân) - doğan çocuk, tekili ve çoğulu, küçüğü ve büyüğü hep bu isimle anılır. Evlat edinilen çocuk için de kullanılır. Hem erkek hem de kız çocuğu için kullanılır.",
+    "Vuld - aile ve çocuklar",
+    "Vâlid - Baba",
+    "Vâlideh - Anne",
+    "Velîd - doğmak üzere olan çocuk. Asıl anlamı doğum zamanı yakın veya uzak olsun her çocuktur.",
+    "Velîdeh - doğum yapan cariye",
+    "Tevellud - herhangi bir sebeple bir şeyden bir şeyi türetmek"
+  ],
+  "turkishDerivatives": [
+    "velet",
+    "evlat",
+    "mevlit",
+    "müvellet",
+    "tevellüt (mütevellit)",
+    "tevlit",
+    "valide",
+    "veladet",
+    "velut",
+    "yelda (milat)"
+  ],
+  "cognates": [
+    {
+      "language": "Aramice",
+      "form": "yaldā"
+    },
+    {
+      "language": "Akad",
+      "form": "walādu \"doğurma\""
+    },
+    {
+      "language": "İbranice",
+      "form": "yeled \"çocuk\". ~"
+    },
+    {
+      "language": "Aramice",
+      "form": "yaldā [#yld] doğum, milad <",
+      "script": "ילדא"
+    },
+    {
+      "language": "Aramice",
+      "form": "yəlad doğdu. ~",
+      "script": "ילד"
+    },
+    {
+      "language": "Aramice",
+      "form": "mīlād [#yld] a.a. <",
+      "script": "מילׇד"
+    },
+    {
+      "language": "Aramice",
+      "form": "yālad doğurmak"
+    }
+  ],
+  "totalOccurrencesInQuran": 102,
+  "lemmas": [
+    {
+      "formArabic": "مَوْلُود",
+      "count": 3
+    },
+    {
+      "formArabic": "وَالِد",
+      "count": 14
+    },
+    {
+      "formArabic": "وَلَد",
+      "count": 56
+    },
+    {
+      "formArabic": "وَلَدَ",
+      "count": 9
+    },
+    {
+      "formArabic": "وَلِيد",
+      "count": 7
+    },
+    {
+      "formArabic": "وَٰلِدَة",
+      "count": 2
+    },
+    {
+      "formArabic": "وَٰلِدَي",
+      "count": 10
+    },
+    {
+      "formArabic": "وَٰلِدَٰت",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَوْلُود",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "مَوْلُودٌ",
+      "transliteration": "mevlūdun",
+      "gloss": "baba",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَوْلُود",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "الْمَوْلُودِ",
+      "transliteration": "l-mevlūdi",
+      "gloss": "babanın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَوْلُود",
+      "sura": 31,
+      "ayah": 33,
+      "formInAyah": "مَوْلُودٌ",
+      "transliteration": "mevlūdun",
+      "gloss": "çocuk da",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Edilgen",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَا يَجْزِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا ۚ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+      "verseTransliteration": "Yâ eyyuhen nâsuttekû rabbekum vahşev yevmen lâ yeczî vâlidun an veledihî ve lâ mevlûdun huve câzin an vâlidihî şey’â(şey’en) inne va’dallâhi hakkun fe lâ tegurrennekumul hayâtud dunyâ, ve lâ yagurrennekum billâhil garûr(garûru).",
+      "verseMeaning": "Ey insanlar! Rabbinizden korkun! Herhangi bir şeyde babanın, evladı; evladın da babası yerine karşılık ödemeyeceği günden ürperin! Allah´ın vaadi haktır; dünya hayatı sizi sakın aldatmasın. O yaman aldatıcı, sakın sizi Allah ile aldatmasın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 2,
+      "ayah": 83,
+      "formInAyah": "وَبِالْوَالِدَيْنِ",
+      "transliteration": "ve bil-vālideyni",
+      "gloss": "ve anaya-babaya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ",
+      "verseTransliteration": "Ve iz ehaznâ mîsâka benî isrâîle lâ ta’budûne illâllâhe ve bil vâlideyni ihsânen ve zil kurbâvel yetâmâ vel mesâkîni ve kûlû lin nâsi husnen ve ekîmûs salâte ve âtûz zekât(zekâte), summe tevelleytum illâ kalîlen minkum ve entum mu’ridûn(mu’ridûne).",
+      "verseMeaning": "İsrailoğulları´ndan şöyle bir söz de almıştık: Allah´tan başkasına ibadet etmeyin, anne-babaya, akrabaya, yetimlere, yoksullara iyilik ve güzellikle davranın. İnsanlara güzeli ve güzelliği söyleyin. Namazı kılın, zekâtı verin. Bütün bunlardan sonra siz, pek azınız müstesna, sırt çevirdiniz. Hâlâ da yüz çevirip duruyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 2,
+      "ayah": 180,
+      "formInAyah": "لِلْوَالِدَيْنِ",
+      "transliteration": "lilvālideyni",
+      "gloss": "anaya babaya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُتَّقِينَ",
+      "verseTransliteration": "Kutibe aleykum izâ hadara ehadekumul mevtu in tereke hayrâ(hayran), el vasiyyetu lil vâlideyni vel akrabîne bil ma’rûf(ma’rûfi), hakkan alel muttekîn(muttekîne).",
+      "verseMeaning": "İçinizden birine ölüm geldiğinde, eğer bir hayır bırakacaksa, üzerinize yazılan şudur: Ana-babaya, akrabaya, örfe uygun vasiyette bulunmak. Takva sahipleri üstüne bir hak olarak..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 2,
+      "ayah": 215,
+      "formInAyah": "فَلِلْوَالِدَيْنِ",
+      "transliteration": "felilvālideyni",
+      "gloss": "ana-baba içindir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ ۖ قُلْ مَا أَنْفَقْتُمْ مِنْ خَيْرٍ فَلِلْوَالِدَيْنِ وَالْأَقْرَبِينَ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+      "verseTransliteration": "Yes’elûneke mâzâ yunfikûn(yunfikûne), kul mâ enfaktum min hayrin fe lil vâlideyni vel akrabîne vel yetâmâ vel mesâkîni vebnis sebîl(sebîli), ve mâ tef’alû min hayrin fe innallâhe bihî alîm(alîmun).",
+      "verseMeaning": "Sana, neyi infak edip vereceklerini soruyorlar. De ki: \"İnfak ettiğiniz mal ve nimet; ana-baba, yakınlar, yetimler, yoksul ve çaresizlerle yolda kalan için olmalıdır. Hayır olarak yaptığınızı Allah en iyi biçimde bilmektedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 4,
+      "ayah": 7,
+      "formInAyah": "الْوَالِدَانِ",
+      "transliteration": "l-vālidāni",
+      "gloss": "ana babanın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَفْرُوضًا",
+      "verseTransliteration": "Lir ricâli nasîbun mimmâ terekel vâlidâni vel akrabûne, ve lin nisâi nasîbun mimmâ terekel vâlidâni vel akrabûne mimmâ kalle minhu ev kesur(kesura), nasîben mefrûdâ(mefrûdan).",
+      "verseMeaning": "Ana-baba ve akrabanın geriye bıraktığından erkeklere bir pay vardır. Ana-baba ve akrabanın geriye bıraktığından -onun azından da çoğundan da- farz kılınmış bir nasip olarak kadınlara da bir pay vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 4,
+      "ayah": 7,
+      "formInAyah": "الْوَالِدَانِ",
+      "transliteration": "l-vālidāni",
+      "gloss": "ana babanın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَفْرُوضًا",
+      "verseTransliteration": "Lir ricâli nasîbun mimmâ terekel vâlidâni vel akrabûne, ve lin nisâi nasîbun mimmâ terekel vâlidâni vel akrabûne mimmâ kalle minhu ev kesur(kesura), nasîben mefrûdâ(mefrûdan).",
+      "verseMeaning": "Ana-baba ve akrabanın geriye bıraktığından erkeklere bir pay vardır. Ana-baba ve akrabanın geriye bıraktığından -onun azından da çoğundan da- farz kılınmış bir nasip olarak kadınlara da bir pay vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 4,
+      "ayah": 33,
+      "formInAyah": "الْوَالِدَانِ",
+      "transliteration": "l-vālidāni",
+      "gloss": "ana babanın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ ۚ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدًا",
+      "verseTransliteration": "Ve li kullin cealnâ mevâliye mimmâ terekel vâlidâni vel akrabûn(akrabûne) vellezîne akadet eymânukum fe âtûhum nasîbehum innallâhe kâne alâ kulli şey’in şehîdâ(şehîden).",
+      "verseMeaning": "Ana-babanın ve akrabanın geriye bıraktıkları malların hepsi için mirasçılar belirledik. Yeminlerinizin/anlaşmalarınızın akde bağladığı kimselere gelince, onların paylarını da kendilerine verin! Allah her şeyi dikkatli bir tanık olarak gözetlemektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 4,
+      "ayah": 36,
+      "formInAyah": "وَبِالْوَالِدَيْنِ",
+      "transliteration": "ve bil-vālideyni",
+      "gloss": "ve ana babaya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًا",
+      "verseTransliteration": "Va’budûllâhe ve lâ tuşrikû bihî şeyen ve bil vâlideyni ihsânen ve bizil kurbâ vel yetâmâ vel mesâkîni vel câri zil kurbâ vel câril cunubi ves sâhıbi bil cenbi vebnis sebîli ve mâ meleket eymânukum, innallâhe lâ yuhıbbu men kâne muhtâlen fehûrâ(fehûren).",
+      "verseMeaning": "Allah´a kulluk edin. O´na hiçbir şeyi ortak koşmayın. Ana-babaya, akrabaya, yetim ve öksüzlere, çaresizlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolda kalmışa, size bağımlı olanlara iyi ve güzel davranın. Allah, kasılıp böbürlenen şımarıkları sevmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 4,
+      "ayah": 135,
+      "formInAyah": "الْوَالِدَيْنِ",
+      "transliteration": "l-vālideyni",
+      "gloss": "ana babanızın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِنْ يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا الْهَوَىٰ أَنْ تَعْدِلُوا ۚ وَإِنْ تَلْوُوا أَوْ تُعْرِضُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû kûnû kavvamîne bil kıstı şuhedâe lillâhi ve lev alâ enfusıkum evil vâlideyni vel akrabîn(akrabîne), in yekun ganiyyen ev fakîren fallâhu evlâ bihimâ fe lâ tettebiûl hevâ en ta’dilû, ve in telvû ev tu’rıdû fe innallâhe kâne bi mâ ta’melûne habîrâ(habîran).",
+      "verseMeaning": "Ey iman edenler! Öz benliğiniz, anne-babanız, yakınlarınız aleyhine de olsa, zengin veya fakir de olsalar, adaleti dimdik ayakta tutarak Allah için tanıklık edenler olun. Allah, ikisine de sizden daha yakındır. O halde nefsinizin arzusuna uyarak adaletten sapmayın. Eğer dilinizi eğip büker yahut çekimser kalırsanız, Allah yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 6,
+      "ayah": 151,
+      "formInAyah": "وَبِالْوَالِدَيْنِ",
+      "transliteration": "ve bil-vālideyni",
+      "gloss": "ve ana babaya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Kul teâlev etlu mâ harreme rabbukum aleykum ellâ tuşrikû bihî şey’â(şey’en), ve bil vâlideyni ihsânâ(ihsânen), ve lâ taktulû evlâdekum min imlak(imlakin), nahnu nerzukukum ve iyyâhum, ve lâ takrebûl fevâhışe mâ zahere minhâ ve mâ batan(batane), ve lâ taktulûn nefselletî harremallâhu illâ bil hakk(hakkı), zâlikum vassâkum bihî leallekum ta’kılûn(ta’kılûne).",
+      "verseMeaning": "De ki onlara: \"Hadi gelin, Rabbinizin size neleri haram kıldığını yüzünüze karşı okuyayım: Hiçbir şeyi O´na ortak koşmayın. Ana-babaya çok iyi davranın. Yoksulluk endişesiyle çocuklarınızı öldürmeyin; biz sizi de onları da rızıklandırırız. Kötülüklerin görünenine de gizli kalanına da yaklaşmayın. Allah´ın saygın ve aziz kıldığı cana, bir hakkı savunmak dışında kıymayın. Allah size bunları önerdi ki, aklınızı işletebilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 17,
+      "ayah": 23,
+      "formInAyah": "وَبِالْوَالِدَيْنِ",
+      "transliteration": "ve bil-vālideyni",
+      "gloss": "ve anaya babaya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا",
+      "verseTransliteration": "Ve kadâ rabbuke ellâ ta’budû illâ iyyâhu ve bil vâlideyni ihsânâ(ihsânen), immâ yebluganne indekel kibere ehaduhumâ ev kilâ humâ fe lâ tekul lehumâ uffin ve lâ tenher humâ ve kul lehumâ kavlen kerîmâ(kerîmen).",
+      "verseMeaning": "Rabbin şöyle hükmetti: O´ndan başkasına kulluk / ibadet etmeyin, anaya babaya çok iyi davranın: Onlardan birisi yahut her ikisi senin yanında ihtiyarlık çağına gelirse sakın onlara \"Öf!\" bile deme; onları azarlama, onlara tatlı, iltifatlı söz söyle."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 19,
+      "ayah": 32,
+      "formInAyah": "بِوَالِدَتِي",
+      "transliteration": "bivālidetī",
+      "gloss": "anneme",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا",
+      "verseTransliteration": "Ve berren bi vâlidetî ve lem yec’alnî cebbâren şakıyyâ(şakıyyen).",
+      "verseMeaning": "\"Anneme iyilik etmemi önerdi. Beni zorba bir eşkıya yapmadı.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 31,
+      "ayah": 33,
+      "formInAyah": "وَالِدِهِ",
+      "transliteration": "velidihi",
+      "gloss": "babası",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَا يَجْزِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا ۚ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+      "verseTransliteration": "Yâ eyyuhen nâsuttekû rabbekum vahşev yevmen lâ yeczî vâlidun an veledihî ve lâ mevlûdun huve câzin an vâlidihî şey’â(şey’en) inne va’dallâhi hakkun fe lâ tegurrennekumul hayâtud dunyâ, ve lâ yagurrennekum billâhil garûr(garûru).",
+      "verseMeaning": "Ey insanlar! Rabbinizden korkun! Herhangi bir şeyde babanın, evladı; evladın da babası yerine karşılık ödemeyeceği günden ürperin! Allah´ın vaadi haktır; dünya hayatı sizi sakın aldatmasın. O yaman aldatıcı, sakın sizi Allah ile aldatmasın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 31,
+      "ayah": 33,
+      "formInAyah": "وَالِدٌ",
+      "transliteration": "velidun",
+      "gloss": "baba",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَا يَجْزِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا ۚ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+      "verseTransliteration": "Yâ eyyuhen nâsuttekû rabbekum vahşev yevmen lâ yeczî vâlidun an veledihî ve lâ mevlûdun huve câzin an vâlidihî şey’â(şey’en) inne va’dallâhi hakkun fe lâ tegurrennekumul hayâtud dunyâ, ve lâ yagurrennekum billâhil garûr(garûru).",
+      "verseMeaning": "Ey insanlar! Rabbinizden korkun! Herhangi bir şeyde babanın, evladı; evladın da babası yerine karşılık ödemeyeceği günden ürperin! Allah´ın vaadi haktır; dünya hayatı sizi sakın aldatmasın. O yaman aldatıcı, sakın sizi Allah ile aldatmasın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَالِد",
+      "sura": 90,
+      "ayah": 3,
+      "formInAyah": "وَوَالِدٍ",
+      "transliteration": "ve vālidin",
+      "gloss": "ve doğurana (andolsun)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَالِدٍ وَمَا وَلَدَ",
+      "verseTransliteration": "Ve vâlidin ve mâ veled(velede).",
+      "verseMeaning": "Ve doğurana ve doğurduğuna da yemin olsun ki,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 2,
+      "ayah": 116,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ بَلْ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَهُ قَانِتُونَ",
+      "verseTransliteration": "Ve kâlûttehazellâhu veleden, subhâneh(subhânehu), bel lehu mâ fîs semâvâti vel ard(ardı), kullun lehu kânitûn(kânitûne).",
+      "verseMeaning": "\"Allah çocuk edindi.\" dediler. Haşâ! Böyle bir şeyden arınmıştır O! Tam aksine, göklerdekiler de yerdekiler de O´na aittir. Bunların tümü O´nun önünde boyun bükmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "بِوَلَدِهِ",
+      "transliteration": "biveledihi",
+      "gloss": "çocuğu yüzünden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "أَوْلَادَهُنَّ",
+      "transliteration": "evlādehunne",
+      "gloss": "çocuklarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "أَوْلَادَكُمْ",
+      "transliteration": "evlādekum",
+      "gloss": "çocuklarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "بِوَلَدِهَا",
+      "transliteration": "biveledihā",
+      "gloss": "çocuğu yüzünden",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 3,
+      "ayah": 10,
+      "formInAyah": "أَوْلَادُهُمْ",
+      "transliteration": "evlāduhum",
+      "gloss": "çocukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ كَفَرُوا لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ شَيْئًا ۖ وَأُولَٰئِكَ هُمْ وَقُودُ النَّارِ",
+      "verseTransliteration": "İnnellezîne keferû len tuğniye anhum emvâluhum ve lâ evlâduhum minallâhi şey’â(şey’en), ve ûlâike hum vekûdun nâr(nâri).",
+      "verseMeaning": "Küfre sapanlara gelince, onların malları da çocukları da Allah´a karşı kendilerine hiçbir yarar sağlamayacaktır. Onlar, işte onlar, ateşin yakıtıdırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 3,
+      "ayah": 47,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğum",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٌ وَلَمْ يَمْسَسْنِي بَشَرٌ ۖ قَالَ كَذَٰلِكِ اللَّهُ يَخْلُقُ مَا يَشَاءُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Kâlet rabbi ennâ yekûnu lî veledun ve lem yemsesnî beşer(beşerun), kâle kezâlikillâhu yahluku mâ yeşâ’(yeşâu) izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Meryem dedi ki: \"Rabbim, çocuğum nasıl olur benim? Bana hiçbir insan dokunmadı ki!\" Allah cevap verdi: \"Allah dilediğini işte böyle yaratır. Bir iş ve oluşa karar verdiğinde sadece ona \"Ol!\" der; ve o hemen oluverir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 3,
+      "ayah": 116,
+      "formInAyah": "أَوْلَادُهُمْ",
+      "transliteration": "evlāduhum",
+      "gloss": "evladları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ كَفَرُوا لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ شَيْئًا ۖ وَأُولَٰئِكَ أَصْحَابُ النَّارِ ۚ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "İnnellezîne keferû len tugniye anhum emvâluhum ve lâ evlâduhum minallâhi şey’â(şey’en), ve ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Küfre sapanlara gelince, onların malları da çocukları da kendilerine Allah´a karşı bir yarar asla sağlamayacaktır. Ateşin dostlarıdır onlar. Sürekli kalacaklardır onun içinde."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 11,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Yûsîkumullâhu fî evlâdikum liz zekeri mislu hazzıl unseyeyn(unseyeyni), fe in kunne nisâen fevkasneteyni fe le hunne sulusâ mâ terek(tereke), ve in kânet vâhideten fe lehan nısf(nısfu) ve li ebeveyhi li kulli vâhidin min humâs sudusu mimmâ tereke in kâne lehu veled(veledun), fe in lem yekun lehu veledun ve verisehû ebevâhu fe li ummihis sulus(sulusu), fe in kâne lehû ıhvetun fe li ummihis sudusu, min ba’di vasiyyetin yûsî bihâ evdeyn(deynin), âbâukum ve ebnâukum, lâ tedrûne eyyuhum akrabu lekum nef’â(nef’en), ferîdaten minallâh(minallâhi) innallâhe kâne alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Allah size çocuklarınızla ilgili olarak şunu öneriyor: Erkek için, iki dişinin payı kadar. İkiden fazla kadın iseler ölenin bıraktığının üçte ikisi onlarındır. Eğer çocuk sadece bir kadınsa, mirasın yarısı onundur. Ölenin çocuğu varsa, geriye bıraktığından ana-babanın her biri için altıda bir hisse olacaktır. Ölenin çocuğu yoksa ve kendisine ana-babası mirasçı olmuşsa bu durumda anasına üçte bir düşer. Eğer kardeşleri varsa, anasının payı, yapacağı vasiyetten ve borcundan arta kalanın altıda biridir. Babalarınız var, oğullarınız var. Siz bunlardan hangisinin yarar bakımından size daha yakın olduğunu bilemezsiniz. Allah´tan bir buyruğu önemseyin. Hiç kuşkusuz Allah herşeyi bilir, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 11,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Yûsîkumullâhu fî evlâdikum liz zekeri mislu hazzıl unseyeyn(unseyeyni), fe in kunne nisâen fevkasneteyni fe le hunne sulusâ mâ terek(tereke), ve in kânet vâhideten fe lehan nısf(nısfu) ve li ebeveyhi li kulli vâhidin min humâs sudusu mimmâ tereke in kâne lehu veled(veledun), fe in lem yekun lehu veledun ve verisehû ebevâhu fe li ummihis sulus(sulusu), fe in kâne lehû ıhvetun fe li ummihis sudusu, min ba’di vasiyyetin yûsî bihâ evdeyn(deynin), âbâukum ve ebnâukum, lâ tedrûne eyyuhum akrabu lekum nef’â(nef’en), ferîdaten minallâh(minallâhi) innallâhe kâne alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Allah size çocuklarınızla ilgili olarak şunu öneriyor: Erkek için, iki dişinin payı kadar. İkiden fazla kadın iseler ölenin bıraktığının üçte ikisi onlarındır. Eğer çocuk sadece bir kadınsa, mirasın yarısı onundur. Ölenin çocuğu varsa, geriye bıraktığından ana-babanın her biri için altıda bir hisse olacaktır. Ölenin çocuğu yoksa ve kendisine ana-babası mirasçı olmuşsa bu durumda anasına üçte bir düşer. Eğer kardeşleri varsa, anasının payı, yapacağı vasiyetten ve borcundan arta kalanın altıda biridir. Babalarınız var, oğullarınız var. Siz bunlardan hangisinin yarar bakımından size daha yakın olduğunu bilemezsiniz. Allah´tan bir buyruğu önemseyin. Hiç kuşkusuz Allah herşeyi bilir, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 11,
+      "formInAyah": "أَوْلَادِكُمْ",
+      "transliteration": "evlādikum",
+      "gloss": "çocuklarınız(ın alacağı miras)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Yûsîkumullâhu fî evlâdikum liz zekeri mislu hazzıl unseyeyn(unseyeyni), fe in kunne nisâen fevkasneteyni fe le hunne sulusâ mâ terek(tereke), ve in kânet vâhideten fe lehan nısf(nısfu) ve li ebeveyhi li kulli vâhidin min humâs sudusu mimmâ tereke in kâne lehu veled(veledun), fe in lem yekun lehu veledun ve verisehû ebevâhu fe li ummihis sulus(sulusu), fe in kâne lehû ıhvetun fe li ummihis sudusu, min ba’di vasiyyetin yûsî bihâ evdeyn(deynin), âbâukum ve ebnâukum, lâ tedrûne eyyuhum akrabu lekum nef’â(nef’en), ferîdaten minallâh(minallâhi) innallâhe kâne alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Allah size çocuklarınızla ilgili olarak şunu öneriyor: Erkek için, iki dişinin payı kadar. İkiden fazla kadın iseler ölenin bıraktığının üçte ikisi onlarındır. Eğer çocuk sadece bir kadınsa, mirasın yarısı onundur. Ölenin çocuğu varsa, geriye bıraktığından ana-babanın her biri için altıda bir hisse olacaktır. Ölenin çocuğu yoksa ve kendisine ana-babası mirasçı olmuşsa bu durumda anasına üçte bir düşer. Eğer kardeşleri varsa, anasının payı, yapacağı vasiyetten ve borcundan arta kalanın altıda biridir. Babalarınız var, oğullarınız var. Siz bunlardan hangisinin yarar bakımından size daha yakın olduğunu bilemezsiniz. Allah´tan bir buyruğu önemseyin. Hiç kuşkusuz Allah herşeyi bilir, tüm hikmetlerin sahibidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğunuz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 12,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğunuz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+      "verseTransliteration": "Ve lekum nısfu mâ tereke ezvâcukum in lem yekun lehunne veled(veledun), fe in kâne lehunne veledun fe lekumur rubuu mimmâ terekne min ba’di vasıyyetin yûsîne bihâ ev deyn(deynin) ve le hunner rubuu mimmâ terektum in lem yekun lekum veled(veledun) fe in kâne lekum veledun fe le hunnes sumunu mimmâ terektum min ba’di vasıyyetin tûsûne bihâ ev deyn(deynin) ve in kâne raculun yûresu kelâleten ev imraetun ve lehû ahun ev uhtun fe li kulli vâhidin min humâs sudus(sudusu), fe in kânû eksere min zâlike fe hum şurekâu fîs sulusi min ba’di vasiyyetin yûsâ bihâ ev deynin gayre mudârr(mudârrin), vasıyyeten minallâh(minallâhi) vallâhu alîmun halîm(halîmun).",
+      "verseMeaning": "Zevcelerinizin geriye bıraktığının yarısı sizindir, eğer onların çocuğu yoksa. Eğer onların çocuğu varsa, vasiyet ettikleri ve borçları ödendikten sonra geriye bıraktıklarının dörtte biri sizindir. Eğer sizin çocuğunuz yoksa bıraktığınızın dörtte biri zevcelerinizindir. Eğer sizin çocuğunuz varsa bu durumda, yaptığınız vasiyet ve borcunuz ödendikten sonra geriye kalanın sekizde biri zevcelerinizindir. Eğer miras bırakan erkek veya kadının ana-babası ve çocuğu yok da erkek kardeşi veya kız kardeşi varsa, bu kardeşlerden herbirine altıda bir düşer. Kardeşler bundan fazla ise bu takdirde onlar, yapılmış bulunan vasiyet ve borç ödendikten sonra üçte bire ortaktırlar. Kimseye zarar verilmemelidir. Allah´tan bir öneridir bu. Allah Alîm´dir, Halîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 171,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuk sahibi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Yâ ehlel kitâbi lâ taglû fî dînikum ve lâ tekûlû alâllâhi illel hakk(hakka) innemel mesîhu îsebnu meryeme resûlullâhi ve kelimetuh(kelimetuhu), elkâhâ ilâ meryeme ve rûhun minh(minhu), fe âminû billâhi ve rusulih(rusulihî), ve lâ tekûlû selâseh(selâsetun) intehû hayran lekum innemâllâhu ilâhun vâhid(vâhidun), subhânehû en yekûne lehu veled(veledun), lehu mâ fîs semâvâti ve mâ fîl ard(ardı) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "Ey Ehlikitap! Dininizde aşırılığa gidip doymazlık etmeyin! Allah hakkında gerçek dışı bir şey söylemeyin! Meryem oğlu İsa Mesih, Allah´ın resulü ve kelimesidir. Onu, kendisinden bir ruhla beraber Meryem´e atmıştır. Artık Allah´a ve resullerine inanın. \"Üçtür!\" demeyin. Son verin, sizin için daha iyi olur. Allah Vâhid´dir, tek ve biricik ilahtır. Kendisi için bir çocuk olmasından arınmıştır O. Yalnız O´nundur göklerdekiler ve yerdekiler. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 176,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yesteftûnek(yesteftûneke), kulillâhu yuftîkum fîl kelâleh(kelâleti) inimruun heleke leyse lehû veled(veledun), ve lehû uhtun fe lehâ nısfu mâ terak(terake), ve huve yerisuhâ in lem yekun lehâ veled(veledun), fe in kânetesneteyni fe le humes sulusâni mimmâ terak(terake) ve in kânû ıhveten ricâlen ve nisâen fe liz zekeri mislu hazzıl unseyeyn(unseyeyni), yubeyyinullâhu lekum en tadıllû vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Fetva istiyorlar senden. De ki: \"Allah size, ana-babasız ve çocuksuz kişi hakkında şöyle fetva veriyor: ´Çocuğu olmayan, bir kızkardeşi bulunan kişi öldüğünde, onun terekesinin yarısı kızkardeşindir. Böyle bir kişi, çocuğu olmayan kızkardeşi öldüğünde, onun terekesinin tamamına mirasçı olur. Eğer ölenin iki kızkardeşi varsa terekenin üçte ikisi onlarındır. Eğer mirasçılar, kadın-erkek, birçok kardeşlerse bu durumda erkek kardeşe, iki kızkardeşin payı kadar verilir.´ Allah size açık-seçik bildiriyor ki sapmayasınız. Allah, her şeyi gereğince bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 4,
+      "ayah": 176,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Yesteftûnek(yesteftûneke), kulillâhu yuftîkum fîl kelâleh(kelâleti) inimruun heleke leyse lehû veled(veledun), ve lehû uhtun fe lehâ nısfu mâ terak(terake), ve huve yerisuhâ in lem yekun lehâ veled(veledun), fe in kânetesneteyni fe le humes sulusâni mimmâ terak(terake) ve in kânû ıhveten ricâlen ve nisâen fe liz zekeri mislu hazzıl unseyeyn(unseyeyni), yubeyyinullâhu lekum en tadıllû vallâhu bi kulli şey’in alîm(alîmun).",
+      "verseMeaning": "Fetva istiyorlar senden. De ki: \"Allah size, ana-babasız ve çocuksuz kişi hakkında şöyle fetva veriyor: ´Çocuğu olmayan, bir kızkardeşi bulunan kişi öldüğünde, onun terekesinin yarısı kızkardeşindir. Böyle bir kişi, çocuğu olmayan kızkardeşi öldüğünde, onun terekesinin tamamına mirasçı olur. Eğer ölenin iki kızkardeşi varsa terekenin üçte ikisi onlarındır. Eğer mirasçılar, kadın-erkek, birçok kardeşlerse bu durumda erkek kardeşe, iki kızkardeşin payı kadar verilir.´ Allah size açık-seçik bildiriyor ki sapmayasınız. Allah, her şeyi gereğince bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 6,
+      "ayah": 101,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ وَلَمْ تَكُنْ لَهُ صَاحِبَةٌ ۖ وَخَلَقَ كُلَّ شَيْءٍ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "verseTransliteration": "Bedîus semâvâti vel ard(ardı), ennâ yekûnu lehu veledun ve lem tekun lehu sâhıbeh(sâhıbetun), ve halaka kulle şey’(şeyin), ve huve bikulli şey’in alîm(alîmun).",
+      "verseMeaning": "Gökleri ve yeri yaratıp donatan Bedî´ O´dur! Nasıl çocuğu olur O´nun, kendisinin bir eşi olmadı ki! Her şeyi O yarattı ve her şeyi en iyi şekilde bilen de O´dur!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 6,
+      "ayah": 137,
+      "formInAyah": "أَوْلَادِهِمْ",
+      "transliteration": "evlādihim",
+      "gloss": "evladlarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "verseTransliteration": "Ve kezâlike zeyyene li kesîrin minel muşrikîne katle evlâdihim şurekâuhum li yurdûhum ve li yelbisû aleyhim dînehum, ve lev şâellâhu mâ fealûhu fe zerhum ve mâ yefterûn(yefterûne).",
+      "verseMeaning": "Aynen bunun gibi, müşriklerden birçoğuna, Allah´a ortak koştukları kişiler, öz evlatlarını öldürmeyi güzel göstermiştir ki, hem onları yok etsinler hem de dinlerini onlar aleyhine karmakarışık hale getirsinler. Allah dileseydi bunu yapamazlardı. O halde onları, düzdükleri iftiralarla baş başa bırak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 6,
+      "ayah": 140,
+      "formInAyah": "أَوْلَادَهُمْ",
+      "transliteration": "evlādehum",
+      "gloss": "çocuklarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَدْ خَسِرَ الَّذِينَ قَتَلُوا أَوْلَادَهُمْ سَفَهًا بِغَيْرِ عِلْمٍ وَحَرَّمُوا مَا رَزَقَهُمُ اللَّهُ افْتِرَاءً عَلَى اللَّهِ ۚ قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ",
+      "verseTransliteration": "Ve kad hasirellezîne katelû evlâdehum sefehan bi gayri ilmin ve harremû mâ rezekahumullâhuftirâen alâllâh(alâllâhi), kad dallû ve mâ kânû muhtedîn(muhtedîne).",
+      "verseMeaning": "Şu bir gerçek ki, ilimsizlik yüzünden öz evlatlarını beyinsizce katledenlerle Allah´ın kendilerine verdiği rızıkları, Allah´a iftira ederek haramlaştıranlar gerçekten hüsrana uğramışlardır. İnan olsun, sapıtmışlardır onlar; hiçbir zaman doğruyu ve güzeli bulamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 6,
+      "ayah": 151,
+      "formInAyah": "أَوْلَادَكُمْ",
+      "transliteration": "evlādekum",
+      "gloss": "çocuklarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا ۖ وَلَا تَقْتُلُوا أَوْلَادَكُمْ مِنْ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Kul teâlev etlu mâ harreme rabbukum aleykum ellâ tuşrikû bihî şey’â(şey’en), ve bil vâlideyni ihsânâ(ihsânen), ve lâ taktulû evlâdekum min imlak(imlakin), nahnu nerzukukum ve iyyâhum, ve lâ takrebûl fevâhışe mâ zahere minhâ ve mâ batan(batane), ve lâ taktulûn nefselletî harremallâhu illâ bil hakk(hakkı), zâlikum vassâkum bihî leallekum ta’kılûn(ta’kılûne).",
+      "verseMeaning": "De ki onlara: \"Hadi gelin, Rabbinizin size neleri haram kıldığını yüzünüze karşı okuyayım: Hiçbir şeyi O´na ortak koşmayın. Ana-babaya çok iyi davranın. Yoksulluk endişesiyle çocuklarınızı öldürmeyin; biz sizi de onları da rızıklandırırız. Kötülüklerin görünenine de gizli kalanına da yaklaşmayın. Allah´ın saygın ve aziz kıldığı cana, bir hakkı savunmak dışında kıymayın. Allah size bunları önerdi ki, aklınızı işletebilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 8,
+      "ayah": 28,
+      "formInAyah": "وَأَوْلَادُكُمْ",
+      "transliteration": "ve evlādukum",
+      "gloss": "ve çocuklarınız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "Va´lemû ennemâ emvâlukum ve evlâdukum fitnetun ve ennallâhe indehû ecrun azîm(azîmun).",
+      "verseMeaning": "Bilin ki, mallarınız ve çocuklarınız sizin için bir imtihan aracıdır. Allah´a gelince, büyük ödül O´nun katındadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 9,
+      "ayah": 55,
+      "formInAyah": "أَوْلَادُهُمْ",
+      "transliteration": "evlāduhum",
+      "gloss": "evladları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَا تُعْجِبْكَ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ ۚ إِنَّمَا يُرِيدُ اللَّهُ لِيُعَذِّبَهُمْ بِهَا فِي الْحَيَاةِ الدُّنْيَا وَتَزْهَقَ أَنْفُسُهُمْ وَهُمْ كَافِرُونَ",
+      "verseTransliteration": "Fe lâ tu’cibke emvâluhum ve lâ evlâduhum, innemâ yurîdullâhu li yuazzibehum bihâ fîl hayâtid dunyâ ve tezheka enfusuhum ve hum kâfirûn(kâfirûne).",
+      "verseMeaning": "Onların malları da evlatları da seni imrendirmesin. İş sadece şudur: Allah onlara şu iğreti hayatta azap etmeyi ve canlarının küfre sapmış bir halde çıkmasını istiyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 9,
+      "ayah": 69,
+      "formInAyah": "وَأَوْلَادًا",
+      "transliteration": "ve evlāden",
+      "gloss": "ve evladça",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كَالَّذِينَ مِنْ قَبْلِكُمْ كَانُوا أَشَدَّ مِنْكُمْ قُوَّةً وَأَكْثَرَ أَمْوَالًا وَأَوْلَادًا فَاسْتَمْتَعُوا بِخَلَاقِهِمْ فَاسْتَمْتَعْتُمْ بِخَلَاقِكُمْ كَمَا اسْتَمْتَعَ الَّذِينَ مِنْ قَبْلِكُمْ بِخَلَاقِهِمْ وَخُضْتُمْ كَالَّذِي خَاضُوا ۚ أُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Kellezîne min kablikum kânû eşedde minkum kuvveten ve eksere emvâlen ve evlâdâ(evlâden), festemteû bi halâkihim, festemta’tum bi halâkikum kemastemteallezîne min kablikum bi halâkihim ve hudtum kellezî hâdû, ulâike habitat a’mâluhum fid dunyâ vel âhıreh(âhıreti), ve ulâike humul hâsirûn (hâsirûne).",
+      "verseMeaning": "Tıpkı sizden öncekiler gibi. Onlar kuvvetçe sizden daha zorlu, mallar ve çocuklar bakımından daha zengindiler. Kendi nasipleriyle zevk sürdüler. Siz de kendi payınıza düşenle zevk sürdünüz. Tıpkı sizden öncekilerin kendi nasipleriyle zevklendikleri gibi. Tıpkı onların dalıp gittiği gibi siz de dalıp gittiniz. İşte böylelerinin amelleri dünyada da âhirette de boşa çıkmıştır. İşte böyleleri hüsrana batmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 9,
+      "ayah": 85,
+      "formInAyah": "وَأَوْلَادُهُمْ",
+      "transliteration": "ve evlāduhum",
+      "gloss": "ve evladları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تُعْجِبْكَ أَمْوَالُهُمْ وَأَوْلَادُهُمْ ۚ إِنَّمَا يُرِيدُ اللَّهُ أَنْ يُعَذِّبَهُمْ بِهَا فِي الدُّنْيَا وَتَزْهَقَ أَنْفُسُهُمْ وَهُمْ كَافِرُونَ",
+      "verseTransliteration": "Ve Lâ tu’cibke emvâluhum ve evlâduhum, innemâ yurîdullâhu en yuazzibehum bihâ fîd dunyâ ve tezheka enfusuhum ve hum kâfirûn(kâfirûne).",
+      "verseMeaning": "Malları da evlatları da seni imrendirmesin. Allah bunlarla, dünyada onlara azap etmek istiyor. Kâfir olarak çıkaracaktır canları."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 10,
+      "ayah": 68,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ هُوَ الْغَنِيُّ ۖ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ إِنْ عِنْدَكُمْ مِنْ سُلْطَانٍ بِهَٰذَا ۚ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+      "verseTransliteration": "Kâlûttehazallâhu veleden subhâneh(subhânehu), huvel ganiy(ganiyyu), lehu mâ fîs semâvâti ve mâ fîl ard(ardı), in indekum min sultânin bi hâzâ, e tekûlûne alâllâhi mâ lâ ta’lemûn(ta’lemûne).",
+      "verseMeaning": "\"Allah çocuk edindi!\" dediler. Hâşâ! Allah bundan arınmıştır! O Ganî´dir, hiçbir şeye muhtaç olmaz! Göklerdekiler de yerdekiler de O´nundur. Elinizde, söylediğinize ilişkin hiçbir kanıt yok. Allah hakkında bilmediğiniz şeyi mi söylüyorsunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 12,
+      "ayah": 21,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "evlad",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ ۚ وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Ve kâlellezîşterâhu min mısra limre’etihî ekrimî mesvâhu asâ en yenfeanâ ev nettehizehu veledâ(veleden), ve kezâlike mekkennâ li yûsufe fîl ardı ve li nuallimehu min te’vîlil ehâdîs(ehâdîsi), vallâhu gâlibun alâ emrihî ve lâkinne ekseren nâsi lâ ya’lemun(ya’lemune).",
+      "verseMeaning": "Onu satın alan Mısırlı, karısına şöyle dedi: \"Ona iyi bak, kendisine güzel bir yer hazırla. Bize yararı dokunabilir. Belki de evlat ediniriz onu.\" İşte bu şekilde biz Yûsuf´a yeryüzünde imkân verip o toprağa yerleştirdik ki, ona olayların/haberlerin yorumunu öğretelim. Allah, kendi emrine Gâlib´dir/kendi emrine hükmeder. Ama insanların çokları bilmiyorlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 17,
+      "ayah": 31,
+      "formInAyah": "أَوْلَادَكُمْ",
+      "transliteration": "evlādekum",
+      "gloss": "çocuklarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا",
+      "verseTransliteration": "Ve lâ taktulû evlâdekum haşyete imlâk(imlâkın), nahnu nerzukuhum ve iyyâkum, inne katlehum kâne hıt’en kebîrâ(kebîren).",
+      "verseMeaning": "Yoksulluk korkusuyla çocuklarınızı öldürmeyin. Onları da sizi de biz rızıklandırıyoruz. Kuşkusuz, onları öldürmek büyük bir günahtır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 17,
+      "ayah": 64,
+      "formInAyah": "وَالْأَوْلَادِ",
+      "transliteration": "vel’evlādi",
+      "gloss": "ve evladlarda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا",
+      "verseTransliteration": "Vestefziz menisteta’te minhum bi savtike ve eclib aleyhim bi haylike ve recilike ve şârikhum fîl emvâli vel evlâdi vaıdhum, ve mâ yaiduhumuş şeytânu illâ gurûrâ(gurûren).",
+      "verseMeaning": "\"Onlardan güç yetirdiğini sesinle yerinden oynat. Atlıların ve yayalarınla yaygara çıkarıp üzerlerine çullan. Mallarda, evlatlarda onlara ortak ol, onlara ha bire vaatte bulun.\" Şeytan onlara bir aldanıştan başka ne vaat eder ki?!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 17,
+      "ayah": 111,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا",
+      "verseTransliteration": "Ve kulil hamdu lillâhillezî lem yettehız veleden ve lem yekun lehu şerîkun fîl mulki ve lem yekun lehu veliyyun minez zulli ve kebbirhu tekbîrâ(tekbîren).",
+      "verseMeaning": "Şöyle de: \"Hamt, o Allah´a özgüdür ki, çocuk edinmemiştir; mülk ve yönetiminde ortağı yoktur; âcizlik yüzünden dost edinmemiştir.\" Ve tekbir edip yücelt O´nu!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 18,
+      "ayah": 4,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيُنْذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَدًا",
+      "verseTransliteration": "Ve yunzirellezîne kâlûttehazellâhu veledâ(veleden).",
+      "verseMeaning": "Ve \"Allah bir çocuk edindi\" diyenleri uyarsın diye indirdi onu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 18,
+      "ayah": 39,
+      "formInAyah": "وَوَلَدًا",
+      "transliteration": "ve veleden",
+      "gloss": "ve evlatça",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ ۚ إِنْ تَرَنِ أَنَا أَقَلَّ مِنْكَ مَالًا وَوَلَدًا",
+      "verseTransliteration": "Ve lev lâ iz dehalte cenneteke kulte mâ şâallâhu lâ kuvvete illâ billâh(billâhi), in tereni ene ekalle minke mâlen ve veledâ(veleden).",
+      "verseMeaning": "\"Bağına girdiğinde, ´Mâşallah, kuvvet yalhız Allah´tandır!´ desen olmaz mıydı? Gerçi sen beni, malca ve evlatça senden basit görüyorsun ama,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 19,
+      "ayah": 35,
+      "formInAyah": "وَلَدٍ",
+      "transliteration": "veledin",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ ۖ سُبْحَانَهُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "Mâ kâne lillâhi en yettehıze min veledin subhâneh(subhânehu), izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Bir oğul edinmek Allah´a asla yakışmaz. O´nun şanı yücedir. Bir iş ve oluşa karar verdi mi, ona sadece \"Ol!\" der, o hemen oluverir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 19,
+      "ayah": 77,
+      "formInAyah": "وَوَلَدًا",
+      "transliteration": "ve veleden",
+      "gloss": "ve evlad",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+      "verseTransliteration": "E fe raeytellezî kefere bi âyâtinâ ve kâle le ûteyenne mâlen ve veledâ(veleden).",
+      "verseMeaning": "Ayetlerimizi inkâr edip, \"Bana mal da evlat da kesinlikle verilecek.\" diyeni gördün mü?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 19,
+      "ayah": 88,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا",
+      "verseTransliteration": "Ve kâluttehazer rahmânu veledâ(veleden).",
+      "verseMeaning": "\"Rahman çocuk edindi.\" dediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 19,
+      "ayah": 91,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَنْ دَعَوْا لِلرَّحْمَٰنِ وَلَدًا",
+      "verseTransliteration": "En deav lir rahmâni veledâ(veleden).",
+      "verseMeaning": "Rahman için çocuk iddia ettiklerinden ötürü."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 19,
+      "ayah": 92,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا يَنْبَغِي لِلرَّحْمَٰنِ أَنْ يَتَّخِذَ وَلَدًا",
+      "verseTransliteration": "Ve mâ yenbagî lir rahmâni en yettehıze veledâ(veleden).",
+      "verseMeaning": "Rahman´a çocuk edinmek yakışmaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 21,
+      "ayah": 26,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا ۗ سُبْحَانَهُ ۚ بَلْ عِبَادٌ مُكْرَمُونَ",
+      "verseTransliteration": "Ve kâlûttehazer rahmânu veleden subhâneh(subhânehu), bel ıbâdun mukremûn(mukremûne).",
+      "verseMeaning": "\"Rahman çocuk edindi\" dediler. Hâşâ, bundan arınmıştır O! Onlar, lütuflandırılmış kullardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 23,
+      "ayah": 91,
+      "formInAyah": "وَلَدٍ",
+      "transliteration": "veledin",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا اتَّخَذَ اللَّهُ مِنْ وَلَدٍ وَمَا كَانَ مَعَهُ مِنْ إِلَٰهٍ ۚ إِذًا لَذَهَبَ كُلُّ إِلَٰهٍ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+      "verseTransliteration": "Mettehazallâhu min veledin ve mâ kâne meahu min ilâhin izen le zehebe kullu ilâhin bimâ halaka ve le alâ ba’duhum alâ ba’d(ba’dın), subhânallâhi ammâ yasıfûn(yasıfûne).",
+      "verseMeaning": "Allah, çocuk filan edinmemiştir. O´nunla beraber herhangi bir ilah da yoktur. Eğer böyle olsaydı, her ilah kendi yarattığını yok ederdi ve mutlaka biri ötekine üstün gelmeye çalışırdı. Allah´ın şanı onların nitelendirmelerinden yücedir, arınmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 25,
+      "ayah": 2,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "bir çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَخَلَقَ كُلَّ شَيْءٍ فَقَدَّرَهُ تَقْدِيرًا",
+      "verseTransliteration": "Ellezî lehu mulkus semâvâti vel ardı ve lem yettehız veleden ve lem yekûn lehu şerîkun fîl mulki ve halaka kulle şey’in fe kadderahu takdîrâ(takdîren).",
+      "verseMeaning": "Göklerin ve yerin mülk ve saltanatı yalnız O´nundur. Çocuk edinmemiştir O. Mülk ve saltanatında ortak yoktur O´na. Herşeyi yaratmış ve herşeye bir ölçü ve oluş tarzı takdir etmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 28,
+      "ayah": 9,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "evlad",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِي وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+      "verseTransliteration": "Ve kâletimraetu fir’avne kurretu aynin lî ve lek(leke), lâ taktulûhu asâ en yenfeanâ ev nettehızehu veleden ve hum lâ yeş’urûn(yeş’urûne).",
+      "verseMeaning": "Firavun´un karısı şöyle dedi: \"Benim için de senin için de bir göz aydınlığıdır bu. Öldürmeyin onu, bize yararı olabilir, yahut onu çocuk ediniriz.\" Onlar işin farkında olmuyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 31,
+      "ayah": 33,
+      "formInAyah": "وَلَدِهِ",
+      "transliteration": "veledihi",
+      "gloss": "çocuğunun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَا يَجْزِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا ۚ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ",
+      "verseTransliteration": "Yâ eyyuhen nâsuttekû rabbekum vahşev yevmen lâ yeczî vâlidun an veledihî ve lâ mevlûdun huve câzin an vâlidihî şey’â(şey’en) inne va’dallâhi hakkun fe lâ tegurrennekumul hayâtud dunyâ, ve lâ yagurrennekum billâhil garûr(garûru).",
+      "verseMeaning": "Ey insanlar! Rabbinizden korkun! Herhangi bir şeyde babanın, evladı; evladın da babası yerine karşılık ödemeyeceği günden ürperin! Allah´ın vaadi haktır; dünya hayatı sizi sakın aldatmasın. O yaman aldatıcı, sakın sizi Allah ile aldatmasın!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 34,
+      "ayah": 35,
+      "formInAyah": "وَأَوْلَادًا",
+      "transliteration": "ve evlāden",
+      "gloss": "ve evladça",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "verseTransliteration": "Ve kâlû nahnu ekseru emvâlen ve evlâden ve mâ nahnu bi muazzebîn(muazzebîne).",
+      "verseMeaning": "Şunu da söylemişlerdir: \"Biz, malca da evlatça da çoğuz. Azaba uğratılacak olanlar, bizler değiliz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 34,
+      "ayah": 37,
+      "formInAyah": "أَوْلَادُكُمْ",
+      "transliteration": "evlādukum",
+      "gloss": "evladlarınız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَمَا أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ بِالَّتِي تُقَرِّبُكُمْ عِنْدَنَا زُلْفَىٰ إِلَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَأُولَٰئِكَ لَهُمْ جَزَاءُ الضِّعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُفَاتِ آمِنُونَ",
+      "verseTransliteration": "Ve mâ emvâlukum ve lâ evlâdukum billetî tukarribukum indenâ zulfâ illâ men âmene ve amile sâlihan fe ulâike lehum cezâud dı’fi bimâ amilû ve hum fîl gurufâti âminûn(âminûne).",
+      "verseMeaning": "Sizi bize yaklaştırıp, katımızda size yakınlık sağlayacak olan, ne mallarınızdır ne de çocuklarınız. İman edip hayra ve barışa yönelik iş yapanlar müstesna. Onlara, yaptıklarının kat kat fazlası ödül vardır. Onlar, seçkin odalarda güven içindedirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 39,
+      "ayah": 4,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "لَوْ أَرَادَ اللَّهُ أَنْ يَتَّخِذَ وَلَدًا لَاصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَاءُ ۚ سُبْحَانَهُ ۖ هُوَ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+      "verseTransliteration": "Lev erâdallâhu en yettehıze veleden lastafâ mimmâ yahluku mâ yeşâu subhâneh(subhânehu), huvallâhul vâhıdul kahhâr(kahhâru).",
+      "verseMeaning": "Eğer Allah bir çocuk edinmek isteseydi, yaratmakta olduklarından dilediğini seçerdi. Böyle birşeyden arınmıştır O. Allah´tır, Vahid´dir, Kahhar´dır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 43,
+      "ayah": 81,
+      "formInAyah": "وَلَدٌ",
+      "transliteration": "veledun",
+      "gloss": "çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ إِنْ كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ",
+      "verseTransliteration": "Kul in kâne lir rahmâni veledun fe enâ evvelul âbidîn(âbidîne).",
+      "verseMeaning": "De ki: \"Eğer Rahman´ın bir çocuğu olsaydı, ona kulluk edenlerin ilki ben olurdum.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 57,
+      "ayah": 20,
+      "formInAyah": "وَالْأَوْلَادِ",
+      "transliteration": "vel’evlādi",
+      "gloss": "ve evladda",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِنَ اللَّهِ وَرِضْوَانٌ ۚ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ",
+      "verseTransliteration": "İ’lemû ennemel hayâtud dunyâ leibun ve lehvun ve zînetun ve tefâhurun beynekum ve tekâsurun fîl emvâli vel evlâd(evlâdi), ke meseli gaysin a’cebel kuffâre nebâtuhu summe yehîcu fe terâhu musferren summe yekûnu hutâmâ(hutâmen), ve fîl âhıreti azâbun şedîdun ve magfiretun minallâhi ve rıdvân(rıdvânun), ve mel hayâtud dunyâ illâ metâul gurûr(gurûri).",
+      "verseMeaning": "Bilin ki, şu iğreti dünya hayatı bir oyun ve eğlenceden, bir süsten, aranızda bir övünmeden, mallarda ve evlatlarda çoğalma yarışından başka şey değildir. Bir yağmur misali ki, çıkardığı bitkiler çiftçilerin hoşuna gider. Ama biraz sonra o ot kurur, sapsarı kesildiğini görürsün. Nihayet bir ot ufantısı haline gelir. Âhirette şiddetli bir azap var, Allah´tan bir af ve hoşnutluk da var. Dünya hayatı bir aldanış/gurur aracından başka şey değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 58,
+      "ayah": 17,
+      "formInAyah": "أَوْلَادُهُمْ",
+      "transliteration": "evlāduhum",
+      "gloss": "çocukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَنْ تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ مِنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Len tugniye anhum emvâluhum ve lâ evlâduhum min allâhi şey’â(şey’en), ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Onların malları da çocukları da kendilerine, Allah´a karşı hiçbir şey sağlamaz. Ateş halkıdır onlar. Sürekli kalacaklardır orada."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 60,
+      "ayah": 3,
+      "formInAyah": "أَوْلَادُكُمْ",
+      "transliteration": "evlādukum",
+      "gloss": "çocuklarınız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَنْ تَنْفَعَكُمْ أَرْحَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Len tenfeakum erhâmukum ve lâ evlâdukum, yevmel kıyâmeh(kıyâmeti) yefsılu beynekum, vallâhu bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Kıyamet gününde ne hısımlarınızın ne de çocuklarınızın size hiçbir yararı olmaz. O, sizi birbirinizden ayıracaktır. Allah, işleyip ürettiklerinizi açık açık görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 60,
+      "ayah": 12,
+      "formInAyah": "أَوْلَادَهُنَّ",
+      "transliteration": "evlādehunne",
+      "gloss": "çocuklarını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَنْ لَا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Yâ eyyuhen nebiyyu izâ câekel mu´minâtu yubâyi´neke alâ en lâ yuşrikne billâhi şey´en ve lâ yesrikne ve lâ yeznîne ve lâ yaktulne evlâdehunne ve lâ ye´tîne bi buhtânin yefterînehu beyne eydîhinne ve erculihinne ve lâ ya´sîneke fî ma´rûfin fe bâyı´hunne vestagfirlehunnallâh(vestagfirlehunnallâhe) innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Ey Peygamber! İnanmış kadınlar sana gelip Allah´a hiçbir şeyi ortak koşmamaları, hırsızlık etmemeleri, zina etmemeleri, çocuklarını öldürmemeleri, elleriyle ayakları arasında bir iftira uydurup ortaya sürmemeleri, iyilik ve güzelliği belirlenmiş bir işte sana isyan etmemeleri hususunda seninle bey´atleşmek isterlerse, onlarla bey´atleş ve onlar için Allah´tan af dile! Kuşkusuz, Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 63,
+      "ayah": 9,
+      "formInAyah": "أَوْلَادُكُمْ",
+      "transliteration": "evlādukum",
+      "gloss": "çocuklarınız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tulhikum emvâlukum ve lâ evlâdukum an zikrillâh(zikrillâhi), ve men yef´al zâlike fe ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "Ey iman edenler! Mallarınız ve çocuklarınız, sizi, Allah´ı anmaktan/Allah´ın zikri olan Kur´an´dan alıkoymasın! Böyle bir şey yapanlar, hüsrana uğramışların ta kendileridir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 64,
+      "ayah": 14,
+      "formInAyah": "وَأَوْلَادِكُمْ",
+      "transliteration": "ve evlādikum",
+      "gloss": "ve çocuklarınızdan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَكُمْ فَاحْذَرُوهُمْ ۚ وَإِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Yâ eyhuhellezîne âmenû inne min ezvâcikum ve evlâdikum aduvven lekum fahzerûhum, ve in ta’fû ve tasfehû ve tagfirû fe innallâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Ey iman edenler! Şu bir gerçek ki, eşlerinizin ve evlatlarınızın içinden size bir düşman vardır; onlara karşı dikkatli olun! Eğer affeder, ellerini tutar, hatalarını görmezden gelirseniz, kuşkusuz, Allah da affedici, merhamet edici olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 64,
+      "ayah": 15,
+      "formInAyah": "وَأَوْلَادُكُمْ",
+      "transliteration": "ve evlādukum",
+      "gloss": "ve evladlarınız",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِنْدَهُ أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "İnnemâ emvalukum ve evlâdukum fitneh(fitnetun), vallâhu indehû ecrun azîm(azîmun).",
+      "verseMeaning": "Şu da bir gerçek ki, mallarınız ve çocuklarınız bir imtihan aracıdır. Allah´a gelince, onun katında büyük bir ödül vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 71,
+      "ayah": 21,
+      "formInAyah": "وَوَلَدُهُ",
+      "transliteration": "ve veleduhu",
+      "gloss": "ve çocuğu",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+      "verseTransliteration": "Kâle nûhun rabbi innehum asavnî vettebeû men lem yezidhu mâluhu ve veleduhû illâ hasârâ(hasâran).",
+      "verseMeaning": "Nûh dedi ki: \"Rabbim! Onlar bana isyan ettiler de malı ve çocuğu kendisine hüsrandan başka bir artış getirmeyen kişiye uydular.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَد",
+      "sura": 72,
+      "ayah": 3,
+      "formInAyah": "وَلَدًا",
+      "transliteration": "veleden",
+      "gloss": "çocuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا",
+      "verseTransliteration": "Ve ennehu teâlâ ceddu rabbinâ mettehaze sâhıbeten ve lâ veledâ(veleden).",
+      "verseMeaning": "\"Rabbimizin adı/kudreti/işi/gayreti çok yücedir. O, ne bir dişi dost edinmiştir ne de bir çocuk.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 11,
+      "ayah": 72,
+      "formInAyah": "أَأَلِدُ",
+      "transliteration": "eelidu",
+      "gloss": "ben doğuracak mıyım?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "قَالَتْ يَا وَيْلَتَىٰ أَأَلِدُ وَأَنَا عَجُوزٌ وَهَٰذَا بَعْلِي شَيْخًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عَجِيبٌ",
+      "verseTransliteration": "Kâlet yâ veyletâ e elidu ve ene ecûzun ve hâzâ ba´lî şeyhâ(şeyhan), inne hâzâ le şey´un acîb(acîbun).",
+      "verseMeaning": "\"Vay başıma, dedi. Doğuracak mıyım ben? Kendim bir kocakarı, kocam bir ihtiyar. Gerçekten şaşılacak şey bu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 19,
+      "ayah": 15,
+      "formInAyah": "وُلِدَ",
+      "transliteration": "vulide",
+      "gloss": "doğduğu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+      "verseTransliteration": "Ve selâmun aleyhi yevme vulide ve yevme yemûtu ve yevme yub’asu hayyâ(hayyen).",
+      "verseMeaning": "Selam olsun ona, doğduğu gün, öleceği gün ve diri olarak kaldırılacağı gün."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 19,
+      "ayah": 33,
+      "formInAyah": "وُلِدْتُ",
+      "transliteration": "vulidtu",
+      "gloss": "doğduğum",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا",
+      "verseTransliteration": "Ves selâmu aleyye yevme vulidtu ve yevme emûtu ve yevme ub’asu hayyâ(hayyen).",
+      "verseMeaning": "\"Selam bana doğduğum gün, öleceğim gün ve diri olarak kaldırılacağım gün.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 37,
+      "ayah": 152,
+      "formInAyah": "وَلَدَ",
+      "transliteration": "velede",
+      "gloss": "doğurdu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+      "verseTransliteration": "Veledallâhu ve innehum le kâzibûn(kâzibûne).",
+      "verseMeaning": "\"Allah doğurdu!\" Vallahi onlar yalancıdırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 58,
+      "ayah": 2,
+      "formInAyah": "وَلَدْنَهُمْ",
+      "transliteration": "velednehum",
+      "gloss": "onları doğuranlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ يُظَاهِرُونَ مِنْكُمْ مِنْ نِسَائِهِمْ مَا هُنَّ أُمَّهَاتِهِمْ ۖ إِنْ أُمَّهَاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنْكَرًا مِنَ الْقَوْلِ وَزُورًا ۚ وَإِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "verseTransliteration": "Ellezîne yuzâhirûne minkum min nisâihim mâ hunne ummehâtihim, in ummehâtuhum illellâî velednehum, ve innehum le yekûlûne munkeren minel kavli ve zûrâ(zûren), ve innellâhe le afuvvun gafûr(gafûrun).",
+      "verseMeaning": "İçinizden, kadınlarına zıhar edenlerin, o kadınlar anneleri değildir. Onların anneleri ancak kendilerini doğuran kadınlardır. Böyleleri, kabul edilemez bir söz ve boş bir lakırdı sarf ediyorlar. Bununla birlikte Allah, gerçekten çok affedici, çok bağışlayıcıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 71,
+      "ayah": 27,
+      "formInAyah": "يَلِدُوا",
+      "transliteration": "yelidū",
+      "gloss": "doğurmazlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+      "verseTransliteration": "İnneke in tezerhum yudıllû ıbâdeke ve lâ yelidû illâ fâciren keffârâ(keffâre).",
+      "verseMeaning": "\"Çünkü eğer sen onları bırakırsan, kullarını saptırırlar ve kötülük üreten nankörden başkasını doğurmazlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 90,
+      "ayah": 3,
+      "formInAyah": "وَلَدَ",
+      "transliteration": "velede",
+      "gloss": "doğurduğuna",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَوَالِدٍ وَمَا وَلَدَ",
+      "verseTransliteration": "Ve vâlidin ve mâ veled(velede).",
+      "verseMeaning": "Ve doğurana ve doğurduğuna da yemin olsun ki,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 112,
+      "ayah": 3,
+      "formInAyah": "يَلِدْ",
+      "transliteration": "yelid",
+      "gloss": "doğurmamıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "verseTransliteration": "Lem yelid ve lem yûled.",
+      "verseMeaning": "Ne doğurmuştur O, ne doğurulmuştur!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلَدَ",
+      "sura": 112,
+      "ayah": 3,
+      "formInAyah": "يُولَدْ",
+      "transliteration": "yūled",
+      "gloss": "doğurulmamıştır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "verseTransliteration": "Lem yelid ve lem yûled.",
+      "verseMeaning": "Ne doğurmuştur O, ne doğurulmuştur!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 4,
+      "ayah": 75,
+      "formInAyah": "وَالْوِلْدَانِ",
+      "transliteration": "velvildāni",
+      "gloss": "ve çocuklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ رَبَّنَا أَخْرِجْنَا مِنْ هَٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا",
+      "verseTransliteration": "Ve mâ lekum lâ tukâtilûne fî sebîlillâhi vel mustad’afîne miner ricâli ven nisâi vel vildânillezîne yekûlûne rabbenâ ahricnâ min hâzihil karyetiz zâlimi ehluhâ, vec’al lenâ min ledunke veliyyâ(veliyyen), vec’al lenâ min ledunke nasîrâ(nasîran).",
+      "verseMeaning": "Size ne oluyor da Allah yolunda ve \"Ey Rabbimiz bizi, halkı zulme sapmış şu kentten çıkar; katından bize bir dost gönder, katından bize bir yardımcı gönder!\" diye yakaran mazlum ve çaresiz erkekler, kadınlar, yavrular için savaşmıyorsunuz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 4,
+      "ayah": 98,
+      "formInAyah": "وَالْوِلْدَانِ",
+      "transliteration": "velvildāni",
+      "gloss": "ve çocuklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+      "verseTransliteration": "İllel mustad’afîne miner ricâli ven nisâi vel vildâni lâ yestatîûne hîleten ve lâ yehtedûne sebîlâ(sebîlen).",
+      "verseMeaning": "Kadınlardan, erkeklerden, yavrulardan hiçbiri beceri gösteremeyen, hiçbir yol bulamayanların durumu farklıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 4,
+      "ayah": 127,
+      "formInAyah": "الْوِلْدَانِ",
+      "transliteration": "l-vildāni",
+      "gloss": "çocuklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+      "verseTransliteration": "Ve yesteftûneke fîn nisâi kulillâhu yuftîkum fîhinne, ve mâ yutlâ aleykum fîl kitâbi fî yetâmen nisâillâtî lâ tu’tûnehunne mâ kutibe lehunne ve tergabûne en tenkihûhunne vel mustad’afîne minel vildâni, ve en tekûmû lil yetâmâ bil kıst(kıstı) ve mâ tef’alû min hayrin fe innallâhe kâne bihî alîmâ(alîmen).",
+      "verseMeaning": "Senden kadınlar hakkında fetva soruyorlar. De ki: \"Onlar hakkında fetvayı size Allah veriyor.\" Yazılmış hakları olanı kendilerine vermeyip de kendileriyle nikâhlanmak istediğiniz kadınların yetimleri hakkında, ezilip horlanan çocuklar hakkında, yetimler için adaleti yerine getirmeniz hakkında. Kitap´ta olup da yüzünüze karşı okunan şeyler var. Hayır olarak yaptığınız her şeyi Allah, hakkıyla bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 26,
+      "ayah": 18,
+      "formInAyah": "وَلِيدًا",
+      "transliteration": "velīden",
+      "gloss": "bir çocuk olarak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "verseTransliteration": "Kâle e lem nurabbike fînâ velîden ve lebiste fînâ min umurike sinîn(sinîne).",
+      "verseMeaning": "Firavun dedi: \"Biz seni aramızda, bir çocuk olarak koruyup beslemedik mi? Ömrünün nice yıllarını aramızda geçirdin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 56,
+      "ayah": 17,
+      "formInAyah": "وِلْدَانٌ",
+      "transliteration": "vildānun",
+      "gloss": "gençler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ",
+      "verseTransliteration": "Yetûfu aleyhim vildânun muhalledûn(muhalledûne).",
+      "verseMeaning": "Gencecik uşaklar dolanır çevrelerinde. Sürekli hizmete adanmışlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 73,
+      "ayah": 17,
+      "formInAyah": "الْوِلْدَانَ",
+      "transliteration": "l-vildāne",
+      "gloss": "çocukları",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+      "verseTransliteration": "Fe keyfe tettekûne in kefertum yevmen yec’alul vildâne şîbâ(şîben).",
+      "verseMeaning": "Eğer inkâr ve nankörlüğe saparsanız, çocukları ak saçlı ihtiyarlara çeviren o günden nasıl korunacaksınız?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَلِيد",
+      "sura": 76,
+      "ayah": 19,
+      "formInAyah": "وِلْدَانٌ",
+      "transliteration": "vildānun",
+      "gloss": "gençler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَنْثُورًا",
+      "verseTransliteration": "Ve yetûfu aleyhim vildânun muhalledûn(muhalledûne), izâ reeytehum hasibtehum lu’luen mensûrâ(mensûren).",
+      "verseMeaning": "Dolaşır çevrelerinde, sürekli görevlendirilmiş gençler. Görseydin onları, dizilmiş inciler sanırdın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَة",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "وَالِدَةٌ",
+      "transliteration": "velidetun",
+      "gloss": "(ne) anne",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَة",
+      "sura": 5,
+      "ayah": 110,
+      "formInAyah": "وَالِدَتِكَ",
+      "transliteration": "velidetike",
+      "gloss": "annene",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي ۖ وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "verseTransliteration": "İz kâlellâhu yâ îsebne meryemezkur ni’metî aleyke ve alâ vâlidetike iz eyyedtuke bi rûhil kudusi tukellimun nâse fîl mehdi ve kehl(kehlen), ve iz allemtukel kitâbe vel hikmete vet tevrâte vel incîl(incîle), ve iz tahluku minet tîni ke hey’etit tayri bi iznî fe tenfuhu fîhâ fe tekûnu tayran bi iznî ve tubriul ekmehe vel ebrasa bi iznî, ve iz tuhricul mevtâ bi iznî, ve iz kefeftu benî isrâîle anke iz ci’tehum bil beyyinâti fe kâlellezîne keferû minhum in hâzâ illâ sihrun mubîn(mubînun).",
+      "verseMeaning": "Hani, Allah şöyle demişti: \"Ey Meryem´in oğlu İsa! Senin ve annenin üzerindeki nimetimi hatırla. Seni Ruhulkudüs´le desteklemiştim, beşikte iken ve erginlik çağında insanlarla konuşuyordun. Sana Kitap´ı, hikmeti, Tevrat´ı, İncil´i öğretmiştim. Benim iznimle çamurdan kuş görünümünde bir şey yaratıyor, içine üflüyordun da o benim iznimle kuş oluyordu. Doğuştan körü, abraşı benim iznimle iyileştiriyordun. Benim iznimle ölüleri çıkarıyordun. İsrailoğullarını senden uzak tutmuştum. Hani, sen onlara açık-seçik ayetleri getirdiğinde, küfre sapanları şöyle deyivermişti: \"Açık bir büyüden başka bir şey değil bu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 14,
+      "ayah": 41,
+      "formInAyah": "وَلِوَالِدَيَّ",
+      "transliteration": "velivālideyye",
+      "gloss": "anamı-babamı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+      "verseTransliteration": "Rabbenagfirlî ve li vâlideyye ve lil mu’minîne yevme yekûmul hisâb(hisâbu).",
+      "verseMeaning": "\"Rabbimiz, hesabın ortaya geleceği gün; beni, anne babamı ve inananları affet!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 19,
+      "ayah": 14,
+      "formInAyah": "بِوَالِدَيْهِ",
+      "transliteration": "bivālideyhi",
+      "gloss": "ana babasına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَبَرًّا بِوَالِدَيْهِ وَلَمْ يَكُنْ جَبَّارًا عَصِيًّا",
+      "verseTransliteration": "Ve berren bi vâlideyhi ve lem yekun cebbâren asıyyâ(asıyyen).",
+      "verseMeaning": "Ana-babasına iyilik eden biriydi; zorba, isyancı biri değil."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 27,
+      "ayah": 19,
+      "formInAyah": "وَالِدَيَّ",
+      "transliteration": "velideyye",
+      "gloss": "anama babama",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+      "verseTransliteration": "Fe tebesseme dâhıken min kavlihâ ve kâle rabbi evzı’nî en eşkure ni’metekelletî en’amte aleyye ve alâ vâlideyye ve en a’mele salihan terdâhu ve edhılnî bi rahmetike fî ibâdikes sâlihîn(sâlihîne).",
+      "verseMeaning": "Bunun üzerine Süleyman, karıncanın sözüne güldü ve dedi: \"Rabbim, bana ve ebeveynime lütfettiğin nimetine şükretmeme, hoşnut olacağın hayırlı ve barışçıl bir iş yapmama imkân ver. Ve rahmetinle beni iyilik ve barışı seven kullarının arasına sok.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 29,
+      "ayah": 8,
+      "formInAyah": "بِوَالِدَيْهِ",
+      "transliteration": "bivālideyhi",
+      "gloss": "ana babasına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حُسْنًا ۖ وَإِنْ جَاهَدَاكَ لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۚ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyhi husnâ(husnen), ve in câhedâke li tuşrike bî mâ leyse leke bihî ilmun fe lâ tutı’humâ, ileyye merciukum fe unebbiukum bimâ kuntum ta’melûn(ta’melûne).",
+      "verseMeaning": "Biz insana, anne babasına en güzel bir biçimde davranmasını, şunu söyleyerek önerdik: \"Eğer onlar, hakkında hiçbir bilgin olmayan bir şeyle bana ortak koşman için seninle çekişirlerse, o takdirde onlara itaat etme. Yalnız banadır dönüşünüz. Nihayet ben size yapıp ettiğiniz şeylerin haberini bildireceğim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 31,
+      "ayah": 14,
+      "formInAyah": "وَلِوَالِدَيْكَ",
+      "transliteration": "velivālideyke",
+      "gloss": "ve anana-babana",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyh(vâlideyhi), hamelethu ummuhu vehnen alâ vehnin ve fisâluhu fî âmeyni enişkurlî ve li vâlideyk(vâlideyke), ileyyel masîr(masîru).",
+      "verseMeaning": "Biz, insana anne babasını önerdik. Annesi onu güçsüzlükle taşımıştır. Sütten kesilmesi de iki yılda olmuştur. O halde bana ve ana babana şükret. Dönüş banadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 31,
+      "ayah": 14,
+      "formInAyah": "بِوَالِدَيْهِ",
+      "transliteration": "bivālideyhi",
+      "gloss": "ana babasını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyh(vâlideyhi), hamelethu ummuhu vehnen alâ vehnin ve fisâluhu fî âmeyni enişkurlî ve li vâlideyk(vâlideyke), ileyyel masîr(masîru).",
+      "verseMeaning": "Biz, insana anne babasını önerdik. Annesi onu güçsüzlükle taşımıştır. Sütten kesilmesi de iki yılda olmuştur. O halde bana ve ana babana şükret. Dönüş banadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 46,
+      "ayah": 15,
+      "formInAyah": "بِوَالِدَيْهِ",
+      "transliteration": "bivālideyhi",
+      "gloss": "ana babasına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا ۖ حَمَلَتْهُ أُمُّهُ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا ۚ حَتَّىٰ إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyhi ihsânâ(ihsânen), hamelethu ummuhu kurhen ve vadaathu kurhâ(kurhan), ve hamluhu ve fisâluhu selâsûne şehrâ(şehren), hattâ izâ belega eşuddehu ve belega erbaîne seneten kâle rabbi evzı’nî en eşkure ni’metekelletî en’amte aleyye ve alâ vâlideyye ve en a’mele sâlihan terdâhu ve aslıh lî fî zurriyyetî, innî tubtu ileyke ve innî minel muslimîn(muslimîne).",
+      "verseMeaning": "Biz insana, anne babasına çok iyi davranmasını önerdik. Annesi onu zahmetle taşıdı, zahmetle doğurdu. Taşınması ve sütten kesilmesi otuz aydır. Nihayet, yiğitlik çağına gelip kırk yıla erdiğinde şöyle der: \"Rabbim; beni, bana ve ebeveynime verdiğin nimete şükretmeye, hoşnut olacağın iyi bir iş yapmaya yönelt! Soyum içinde, benim için barışı gerçekleştir. Sana yöneldim ben, sana teslim olanlardanım ben!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 46,
+      "ayah": 15,
+      "formInAyah": "وَالِدَيَّ",
+      "transliteration": "velideyye",
+      "gloss": "anama babama",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ إِحْسَانًا ۖ حَمَلَتْهُ أُمُّهُ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرًا ۚ حَتَّىٰ إِذَا بَلَغَ أَشُدَّهُ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyhi ihsânâ(ihsânen), hamelethu ummuhu kurhen ve vadaathu kurhâ(kurhan), ve hamluhu ve fisâluhu selâsûne şehrâ(şehren), hattâ izâ belega eşuddehu ve belega erbaîne seneten kâle rabbi evzı’nî en eşkure ni’metekelletî en’amte aleyye ve alâ vâlideyye ve en a’mele sâlihan terdâhu ve aslıh lî fî zurriyyetî, innî tubtu ileyke ve innî minel muslimîn(muslimîne).",
+      "verseMeaning": "Biz insana, anne babasına çok iyi davranmasını önerdik. Annesi onu zahmetle taşıdı, zahmetle doğurdu. Taşınması ve sütten kesilmesi otuz aydır. Nihayet, yiğitlik çağına gelip kırk yıla erdiğinde şöyle der: \"Rabbim; beni, bana ve ebeveynime verdiğin nimete şükretmeye, hoşnut olacağın iyi bir iş yapmaya yönelt! Soyum içinde, benim için barışı gerçekleştir. Sana yöneldim ben, sana teslim olanlardanım ben!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 46,
+      "ayah": 17,
+      "formInAyah": "لِوَالِدَيْهِ",
+      "transliteration": "livālideyhi",
+      "gloss": "anasına babasına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَكُمَا أَتَعِدَانِنِي أَنْ أُخْرَجَ وَقَدْ خَلَتِ الْقُرُونُ مِنْ قَبْلِي وَهُمَا يَسْتَغِيثَانِ اللَّهَ وَيْلَكَ آمِنْ إِنَّ وَعْدَ اللَّهِ حَقٌّ فَيَقُولُ مَا هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "verseTransliteration": "Vellezî kâle li vâlideyhi uffın lekumâ e teidâninî en uhrece ve kad haletil kurûnu min kablî ve humâ yestegîsânillâhe veyleke âmin, inne va’dallâhi hakk(hakkun), fe yekûlu mâ hâzâ illâ esâtîrul evvelîn(evvelîne).",
+      "verseMeaning": "Birisi de ana babasına: \"Yazık size, benden önce bir yığın nesil gelip geçtiği halde, siz bana, benim diriltileceğimi mi söylüyorsunuz?\" dedi. Onlarsa; Allah´a sığınarak, \"Yazıklar olsun; inansana, Allah´ın vaadi haktır\" diye vahlanınca o şöyle dedi: \"Bu, öncekilerin masallarından başkası değil!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَي",
+      "sura": 71,
+      "ayah": 28,
+      "formInAyah": "وَلِوَالِدَيَّ",
+      "transliteration": "velivālideyye",
+      "gloss": "ve babamı-anamı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, İkil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+      "verseTransliteration": "Rabbigfirlî ve li vâlideyye ve li men dehale beytiye mu’minen ve lil mu’minîne vel mu’minât(mu’minâti) ve lâ tezidiz zâlimîne illâ tebârâ(tebâren).",
+      "verseMeaning": "\"Rabbim! Beni, anne babamı, inanmış olarak evime gireni, tüm inanmış erkekleri ve inanmış kadınları affet! Zalimlerin de sadece helâk ve perişanlığını artır!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَٰلِدَٰت",
+      "sura": 2,
+      "ayah": 233,
+      "formInAyah": "وَالْوَالِدَاتُ",
+      "transliteration": "velvelidātu",
+      "gloss": "ve anneler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Dişil, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Vel vâlidâtu yurdı’ne evlâdehunne havleyni kâmileyni li men erâde en yutimmer radâah(radâate), ve alel mevlûdi lehu rızkuhunne ve kisvetuhunne bil ma’rûf(ma’rûfi), lâ tukellefu nefsun illâ vus’ahâ, lâ tudârra vâlidetun bi veledihâ ve lâ mevlûdun lehu bi veledihî ve alel vârisi mislu zâlik(zâlike), fe in erâdâ fısâlen an terâdın min humâ ve teşâvurin fe lâ cunâha aleyhimâ ve in eradtum en testerdıû evlâdekum fe lâ cunâha aleykum izâ sellemtum mâ âteytum bil ma’rûf(ma’rûfi), vettekullâhe va’lemû ennellâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Anneler çocuklarını - emzirmeyi tamamlamak isteyen kimseler için - tam iki yıl emzirirler. Annelerin yiyeceklerini ve giyeceklerini örfe uygun biçimde hazırlamak çocuğun babasına aittir. Hiç bir benlik yaratılış kapasitesi dışında bir şeyle yükümlü tutulamaz. Anne çocuğu yüzünden, çocuğun babası da kendi çocuğu yüzünden zarara sokulmasın. Mirasçı için de aynı ilke uygulanır. Eğer anne-baba karşılıklı anlaşma ve danışma sonucu çocuğu sütten kesmek isterlerse, kendilerine günah yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, örfe uygun olarak belirlediğiniz ücreti güzelce teslim etmek şartıyla, bunu yapmanızda bir günah yoktur. Allah´tan korkun ve bilin ki Allah, yapmakta olduklarınızı en iyi biçimde görmektedir."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wld"
+}

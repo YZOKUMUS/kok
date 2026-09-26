@@ -1,0 +1,517 @@
+{
+  "id": "trb",
+  "latinName": "Te-Ra-Be",
+  "lettersArabic": "ت ر ب",
+  "meanings": [
+    "To have much earth, have dust in the hands, dusty, be destitute, poverty, neediness, misery, suffering loss. Poor man intimately acquainted with his mother earth. He sank from the wealth."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 22,
+  "lemmas": [
+    {
+      "formArabic": "أَتْرَاب",
+      "count": 3
+    },
+    {
+      "formArabic": "تَّرَائِب",
+      "count": 1
+    },
+    {
+      "formArabic": "تُرَاب",
+      "count": 17
+    },
+    {
+      "formArabic": "مَتْرَبَة",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَتْرَاب",
+      "sura": 78,
+      "ayah": 33,
+      "formInAyah": "أَتْرَابًا",
+      "transliteration": "etrāben",
+      "gloss": "yaşıt kızlar",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Dişil, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَوَاعِبَ أَتْرَابًا",
+      "verseTransliteration": "Ve kevâıbe etrâbâ(etrâben).",
+      "verseMeaning": "Göğüsleri turunç gibi yaşıtlar,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَتْرَاب",
+      "sura": 38,
+      "ayah": 52,
+      "formInAyah": "أَتْرَابٌ",
+      "transliteration": "etrābun",
+      "gloss": "yaşıt dilberler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ أَتْرَابٌ",
+      "verseTransliteration": "Ve ındehum kâsırâtut tarfi etrâb(etrâbun).",
+      "verseMeaning": "Yanlarında, bakışlarını eşlerine yöneltmiş yaşıt dilberler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَتْرَاب",
+      "sura": 56,
+      "ayah": 37,
+      "formInAyah": "أَتْرَابًا",
+      "transliteration": "etrāben",
+      "gloss": "hep yaşıt",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "عُرُبًا أَتْرَابًا",
+      "verseTransliteration": "Uruben etrâbâ(etrâben).",
+      "verseMeaning": "Yaşıt cilveli dilberler halinde,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَّرَائِب",
+      "sura": 86,
+      "ayah": 7,
+      "formInAyah": "وَالتَّرَائِبِ",
+      "transliteration": "ve tterāibi",
+      "gloss": "ve kaburga kemikleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+      "verseTransliteration": "Yahrucu min beynis sulbi vet terâib(terâibi).",
+      "verseMeaning": "Bel ile kaburgalar arasından çıkar o su."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 2,
+      "ayah": 264,
+      "formInAyah": "تُرَابٌ",
+      "transliteration": "turābun",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُمْ بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا ۖ لَا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِمَّا كَسَبُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tubtılû sadakâtikum bil menni vel ezâ, kellezî yunfiku mâlehu riâen nâsi ve lâ yu’minu billâhi vel yevmil âhır(âhıri), fe meseluhu ke meseli safvânin aleyhi turâbun fe esâbehu vâbilun fe terakehu saldâ(salden), lâ yakdirûne alâ şey’in mimmâ kesebû vallâhu lâ yehdîl kavmel kâfirîn(kâfirîne).",
+      "verseMeaning": "Ey iman sahipleri! Allah´a ve âhıret gününe inanmadığı halde, insanlara riya için malını infak eden kişi gibi, sadakalarınızı başa kakmak ve eza etmek suretiyle boşa çıkarmayın. Böylesinin durumu, üzerinde biraz toprak varken tepesine şiddetli bir yağmur inip kendisini cascavlak bırakmış yalçın bir kayanın haline benzer. Böyleleri, kazandıklarından hiç bir şey elde edemezler. Allah, küfre sapan bir topluluğu doğruya ve güzele kılavuzlamaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 3,
+      "ayah": 59,
+      "formInAyah": "تُرَابٍ",
+      "transliteration": "turābin",
+      "gloss": "toprak-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ مَثَلَ عِيسَىٰ عِنْدَ اللَّهِ كَمَثَلِ آدَمَ ۖ خَلَقَهُ مِنْ تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ",
+      "verseTransliteration": "İnne mesele îsâ indallâhi ke meseli âdem(âdeme), halakahu min turâbin summe kâle lehu kun fe yekûn(yekûnu).",
+      "verseMeaning": "Allah katında İsa´nın durumu, Âdem´in durumu gibidir. Onu topraktan yarattı, sonra ona \"Ol!\" dedi. Artık o, olur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 13,
+      "ayah": 5,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنْ تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ أَإِذَا كُنَّا تُرَابًا أَإِنَّا لَفِي خَلْقٍ جَدِيدٍ ۗ أُولَٰئِكَ الَّذِينَ كَفَرُوا بِرَبِّهِمْ ۖ وَأُولَٰئِكَ الْأَغْلَالُ فِي أَعْنَاقِهِمْ ۖ وَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+      "verseTransliteration": "Ve in ta’ceb fe acebun kavluhum e izâ kunnâ turâben e innâ le fî halkın cedîd(cedîdin), ulâikellezîne keferû bi rabbihim, ve ulâikel aglâlu fî a’nâkıhim, ve ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne).",
+      "verseMeaning": "Eğer şaşıyorsan, esas şaşılacak olan onların şu sözüdür: \"Biz toprak olunca mı ve gerçekten mi yeni bir yaratılış içinde bulunacağız?\" Bunlar Rablerini inkâr edenlerdir. Ve bunlar boyunlarına bukağılar vurulanlardır. Bunlar ateşe dost olanların ta kendileridir; orada sürekli kalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 16,
+      "ayah": 59,
+      "formInAyah": "التُّرَابِ",
+      "transliteration": "t-turābi",
+      "gloss": "toprağa",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَتَوَارَىٰ مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ",
+      "verseTransliteration": "Yetevârâ minel kavmi min sûi mâ buşşire bih(bihî), e yumsikuhu alâ hûnin em yedussuhu fît turâb(turâbi), e lâ sâe mâ yahkumûn(yahkumûne).",
+      "verseMeaning": "Kendisine muştulananın utancından ötürü toplumdan gizlenir. Hakaret/eziklik üzere tutsun mu onu yoksa toprağın bağrına mı gömsün onu. Bakın ne kötü hüküm veriyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 18,
+      "ayah": 37,
+      "formInAyah": "تُرَابٍ",
+      "transliteration": "turābin",
+      "gloss": "topraktan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا",
+      "verseTransliteration": "Kâle lehu sâhıbuhu ve huve yuhâviruhû e keferte billezî halakake min turâbin summe min nutfetin summe sevvâke raculâ(raculen).",
+      "verseMeaning": "Kendisiyle konuşan arkadaşı ona dedi ki: \"Sen, seni topraktan, sonra meniden yaratıp sonra da bir adam olarak biçimlendiren kudrete nankörlük mü ettin?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 22,
+      "ayah": 5,
+      "formInAyah": "تُرَابٍ",
+      "transliteration": "turābin",
+      "gloss": "(önce) toprak-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَىٰ أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ۖ وَمِنْكُمْ مَنْ يُتَوَفَّىٰ وَمِنْكُمْ مَنْ يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا ۚ وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+      "verseTransliteration": "Yâ eyyuhen nâsu in kuntum fî raybin minel ba’si fe innâ halaknâkum min turâbin summe min nutfetin summe min alakatin summe min mudgatin muhallekatin ve gayri muhallekatin li nubeyyine lekum, ve nukırru fîl erhâmi mâ neşâu ilâ ecelin musemmen summe nuhricukum tıflen summe li teblugû eşuddekum ve minkum men yuteveffâ ve minkum men yuraddu ilâ erzelil umuri li keylâ ya’leme min ba’di ilmin şey’â(şey’an), ve terel arda hâmideten fe izâ enzelnâ aleyhel mâehtezzet ve rabet ve enbetet min kulli zevcin behîc(behîcin).",
+      "verseMeaning": "Ey insanlar! Ölümden sonra dirilme konusunda kuşku içinde olabilirsiniz. Ama şu bir gerçek ki, biz sizi bir topraktan, sonra bir spermden, sonra bir embriyodan/döllenmiş bir karışımdan, sonra ne olduğu kısmen belirli, kısmen belirsiz bir et parçasından yarattık ki, size açık seçik beyanda bulunalım. Ve sizi rahimlerde, belirlenen bir süreye kadar dilediğimiz şekilde bekletiyoruz. Sonra sizi bir çocuk olarak çıkarıyoruz. Daha sonra da tam kuvvetinize ulaşmanızı sağlıyoruz. Bununla birlikte içinizden bir kısmı öldürülüyor, yine içinizden bir kısmı ilimden sonra bir şey bilmesin diye ömrün en basit ve düşük noktasına geri gönderiliyor. Yeryüzünü de sönmüş kül halinde görürsün. Nihayet onun üzerine suyu indirdiğimizde titrer, kabarır ve her güzel/bereketli çiftten bir şeyler bitirir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 23,
+      "ayah": 35,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنْتُمْ تُرَابًا وَعِظَامًا أَنَّكُمْ مُخْرَجُونَ",
+      "verseTransliteration": "E yaıdukum ennekum izâ mittum ve kuntum turâben ve izâmen ennekum muhracûn(muhracûne).",
+      "verseMeaning": "\"Size, ölüp toprak ve kemik haline geldikten sonra tekrar meydana çıkarılacağınızı mı vaat ediyor?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 23,
+      "ayah": 82,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "verseTransliteration": "Kâlû e izâ mitnâ ve kunnâ turâben ve izâmen e innâ le meb’ûsûn(meb’ûsûne).",
+      "verseMeaning": "Dediler ki: \"Ölüp, toprak ve kemik haline geldiğimiz zaman mı, gerçekten o zaman mı diriltileceğiz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 27,
+      "ayah": 67,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا أَإِذَا كُنَّا تُرَابًا وَآبَاؤُنَا أَئِنَّا لَمُخْرَجُونَ",
+      "verseTransliteration": "Ve kâlellezîne keferû e izâ kunnâ turâben ve âbâunâ e innâ le muhracûn(muhracûne).",
+      "verseMeaning": "İnkârcılar dediler ki: \"Biz ve atalarımız toprak olduktan sonra, gerçekten biz bundan sonra ortaya mı çıkarılacağız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 30,
+      "ayah": 20,
+      "formInAyah": "تُرَابٍ",
+      "transliteration": "turābin",
+      "gloss": "toprak-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ إِذَا أَنْتُمْ بَشَرٌ تَنْتَشِرُونَ",
+      "verseTransliteration": "Ve min âyâtihî en halakakum min turâbin summe izâ entum beşerun tenteşirûn(tenteşirûne).",
+      "verseMeaning": "Onun ayetlerinden biri de sizi, topraktan yaratmış olmasıdır. Sonra siz bir insan türü oldunuz, her tarafa yayılıyorsunuz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 35,
+      "ayah": 11,
+      "formInAyah": "تُرَابٍ",
+      "transliteration": "turābin",
+      "gloss": "toprak-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَاللَّهُ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَاجًا ۚ وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ وَمَا يُعَمَّرُ مِنْ مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+      "verseTransliteration": "Vallâhu halakakum min turâbin summe min nutfetin summe cealekum ezvâcâ(ezvâcen), ve mâ tahmilu min unsâ ve lâ tedau illâ bi ilmih(ilmihî), ve mâ yuammeru min muammerin ve lâ yunkasu min umurihî illâ fî kitâb(kitâbin), inne zâlike alâllâhi yesîr(yesîrun).",
+      "verseMeaning": "Allah sizi bir topraktan, sonra bir spermden yarattı; sonra sizi çiftler haline getirdi. O´nun ilmi dışında, bir dişi ne hamile olur ne de doğurur. Yaşayan bir varlığa daha çok ömür verilmesi de onun ömründen biraz azaltılması da mutlaka bir Kitap´ta yazılıdır. Bu, Allah için gerçekten çok kolaydır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 37,
+      "ayah": 16,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "verseTransliteration": "E izâ mitnâ ve kunnâ turâben ve izâmen e innâ le meb’ûsûn(meb’ûsûne).",
+      "verseMeaning": "\"Öldüğümüz, toprak ve kemik haline geldiğimiz zaman mı? Biz gerçekten diriltilecek miyiz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 37,
+      "ayah": 53,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
+      "verseTransliteration": "E izâ mitnâ ve kunnâ turâben ve izâmen e innâ le medînûn(medînûne).",
+      "verseMeaning": "\"Biz, ölüp toprak ve kemik haline geldikten sonra, gerçekten cezalandırılacak mıyız?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 40,
+      "ayah": 67,
+      "formInAyah": "تُرَابٍ",
+      "transliteration": "turābin",
+      "gloss": "toprak-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ثُمَّ لِتَكُونُوا شُيُوخًا ۚ وَمِنْكُمْ مَنْ يُتَوَفَّىٰ مِنْ قَبْلُ ۖ وَلِتَبْلُغُوا أَجَلًا مُسَمًّى وَلَعَلَّكُمْ تَعْقِلُونَ",
+      "verseTransliteration": "Huvellezî halakakum min turâbin summe min nutfetin summe min alakatin summe yuhricukum tıflen summe li teblugû eşuddekum summe li tekûnû şuyûhâ(şuyûhan), ve minkum men yuteveffâ min kablu ve li teblugû ecelen musemmen ve leallekum ta’kılûn(ta’kılûne).",
+      "verseMeaning": "O, O´dur ki; sizi önce topraktan, sonra bir spermden, sonra bir embriyodan yarattı. Sonra sizi bebek olarak annelerinizin karnından çıkarıyor, sonra güçlü çağınıza ulaşasınız ve nihayet ihtiyarlar olasınız diye sizi yaşatıyor. İçinizden bir kısmı daha önce vefat ettiriliyor. Tüm bunlar, belirlenen bir süreye ulaşasınız ve aklınızı işletesiniz diyedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 50,
+      "ayah": 3,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌ بَعِيدٌ",
+      "verseTransliteration": "E izâ mitnâ ve kunnâ turâbâ(turâben), zâlike rec’un baîdun.",
+      "verseMeaning": "Ölünce mi, biz toprak olunca mı? Çok uzak bir dönüştür bu.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 56,
+      "ayah": 47,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "verseTransliteration": "Ve kânû yekûlûne e izâ mitnâ ve kunnâ turâben ve izâ men e innâ le meb’ûsûn(meb’ûsûne).",
+      "verseMeaning": "Ve şöyle derlerdi: \"Ölünce mi, toprak ve kemik haline gelince mi, sahi o zaman mı yeniden diriltileceğiz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُرَاب",
+      "sura": 78,
+      "ayah": 40,
+      "formInAyah": "تُرَابًا",
+      "transliteration": "turāben",
+      "gloss": "toprak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
+      "verseTransliteration": "İnnâ enzernâkum azâben karîbâ(karîben), yevme yenzurul mer’u mâ kaddemet yedâhu ve yekûlul kâfiru yâ leytenî kuntu turâbâ(turâben).",
+      "verseMeaning": "Biz sizi yakın bir azap ile uyardık. Bir gündedir ki o, kişi kendi ellerinin önden gönderdiğine bakar ve küfre sapan şöyle der: \"Keşke toprak olsaydım!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَتْرَبَة",
+      "sura": 90,
+      "ayah": 16,
+      "formInAyah": "مَتْرَبَةٍ",
+      "transliteration": "metrabetin",
+      "gloss": "hiçbir şeyi olmayan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "verseTransliteration": "Ev miskînen zâ metrabeh(metrabetin).",
+      "verseMeaning": "Yahut ezilmiş, boynu bükük bir yoksulu."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=trb"
+}

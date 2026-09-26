@@ -1,0 +1,48 @@
+{
+  "id": "nfv",
+  "latinName": "Nun-Fe-Se",
+  "lettersArabic": "ن ف ث",
+  "meanings": [
+    "tükürüklü üflemek. Akıtmak. Dile getirmek."
+  ],
+  "derivativeNotes": [
+    "Nefṧ - Efsun ve büyü yapanların hafif tükürerek üfürmeleri",
+    "Neffâṧât - üfürükçü",
+    "Nüfâṧe - döküntü",
+    "Nefiṧ - kirli"
+  ],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "نَّفَّٰثَٰت",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَّفَّٰثَٰت",
+      "sura": 113,
+      "ayah": 4,
+      "formInAyah": "النَّفَّاثَاتِ",
+      "transliteration": "n-neffāṧāti",
+      "gloss": "üfleyenlerin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "verseTransliteration": "Ve min şerrin neffâsâti fîl ukad(ukadi).",
+      "verseMeaning": "Düğümlere üfleyip tüküren üfürükçülerin şerrinden!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nfv"
+}

@@ -1,0 +1,1104 @@
+{
+  "id": "qdm",
+  "latinName": "Kaf-Dal-Mim",
+  "lettersArabic": "ق د م",
+  "meanings": [
+    "Yönelmek, öne geçmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 48,
+  "lemmas": [
+    {
+      "formArabic": "أَقْدَمُون",
+      "count": 1
+    },
+    {
+      "formArabic": "تَقَدَّمَ",
+      "count": 2
+    },
+    {
+      "formArabic": "قَدَّمَ",
+      "count": 27
+    },
+    {
+      "formArabic": "قَدَم",
+      "count": 8
+    },
+    {
+      "formArabic": "قَدِمْ",
+      "count": 2
+    },
+    {
+      "formArabic": "قَدِيم",
+      "count": 3
+    },
+    {
+      "formArabic": "مُسْتَقْدِمِين",
+      "count": 1
+    },
+    {
+      "formArabic": "يَسْتَقْدِمُ",
+      "count": 4
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَقْدَمُون",
+      "sura": 26,
+      "ayah": 76,
+      "formInAyah": "الْأَقْدَمُونَ",
+      "transliteration": "l-eḳdemūne",
+      "gloss": "eski",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "أَنْتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ",
+      "verseTransliteration": "Entum ve âbâukumul akdemûn(akdemûne).",
+      "verseMeaning": "\"Siz ve o eski atalarınız!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَقَدَّمَ",
+      "sura": 48,
+      "ayah": 2,
+      "formInAyah": "تَقَدَّمَ",
+      "transliteration": "teḳaddeme",
+      "gloss": "geçmiş",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا",
+      "verseTransliteration": "Li yagfire lekallâhu mâ tekaddeme min zenbike ve mâ teahhare ve yutimme ni’metehu aleyke ve yehdiyeke sırâtan mustekîmâ(mustekîmen).",
+      "verseMeaning": "Ki Allah senin günahından geçmiş olanı da gelecek olanı da bağışlasın, nimetini senin üzerinde tamamlasın ve seni dosdoğru bir yola kılavuzlasın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَقَدَّمَ",
+      "sura": 74,
+      "ayah": 37,
+      "formInAyah": "يَتَقَدَّمَ",
+      "transliteration": "yeteḳaddeme",
+      "gloss": "ileri gitmek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+      "verseTransliteration": "Li men şâe minkum en yetekaddeme ev yeteahhar(yeteahhare).",
+      "verseMeaning": "Sizden, öne geçmek yahut arkaya kalmak/erken davranmak yahut gecikmek isteyen için."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 2,
+      "ayah": 95,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "yapıp sunduğu işlerden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+      "verseTransliteration": "Ve len yetemennevhu ebeden bimâ kaddemet eydîhim vallâhu alîmun biz zâlimîn(zâlimîne).",
+      "verseMeaning": "Ellerinin önden gönderdiği şeyler yüzünden ölümü hiç bir zaman istemeyeceklerdir. Allah, zalimleri çok iyi bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 2,
+      "ayah": 110,
+      "formInAyah": "تُقَدِّمُوا",
+      "transliteration": "tuḳaddimū",
+      "gloss": "ne gönderirsiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ ۗ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "verseTransliteration": "Ve ekîmus salâte ve âtûz zekât(zekâte), ve mâ tukaddimû li enfusikum min hayrin tecidûhu indallâh(indallâhi) innallâhe bi mâ ta’melûne basîr(basîrun).",
+      "verseMeaning": "Namazı kılın, zekatı verin. Öz benlikleriniz için önden gönderdiğiniz her hayrı, Allah katında bulacaksınız. Hiç kuşkusuz, Allah, yapmakta olduklarınızı iyice görmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 2,
+      "ayah": 223,
+      "formInAyah": "وَقَدِّمُوا",
+      "transliteration": "ve ḳaddimū",
+      "gloss": "ve hazırlık yapın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "نِسَاؤُكُمْ حَرْثٌ لَكُمْ فَأْتُوا حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا لِأَنْفُسِكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ مُلَاقُوهُ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Nisâukum harsun lekum, fe’tû harsekum ennâ şi’tum ve kaddimû li enfusikum vettekûllâhe va’lemû ennekum mulâkûh(mulâkûhu), ve beşşiril mu’minîn(mu’minîne).",
+      "verseMeaning": "Kadınlarınız sizin tarlanızdır. O halde tarlanıza dilediğiniz şekilde varın. Öz benlikleriniz için önceden bir şeyler gönderin. Allah´tan korkun ve bilin ki, O´na mutlaka ulaşacaksınız. İman sahiplerine müjde ver."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 3,
+      "ayah": 182,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "yapıp öne sürdürdüğünün",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+      "verseTransliteration": "Zâlike bimâ kaddemet eydîkum ve ennallâhe leyse bi zallâmin lil abîd(abîdi).",
+      "verseMeaning": "Bu, kendi, ellerinizin üretip önden gönderdiği yüzündendir. Allah, kullara asla zulmedici değildir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 4,
+      "ayah": 62,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "yaptıkları (kötülükler)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَكَيْفَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَاءُوكَ يَحْلِفُونَ بِاللَّهِ إِنْ أَرَدْنَا إِلَّا إِحْسَانًا وَتَوْفِيقًا",
+      "verseTransliteration": "Ve keyfe izâ esâbethum musîbetun bimâ kaddemet eydîhim summe câûke yahlıfûne billâhi in eradnâ illâ ihsânen ve tevfîkâ(tevfîkan).",
+      "verseMeaning": "Peki, nasıl oluyor da ellerinin hazırladıkları yüzünden başlarına bir musibet çöktüğünde, sana gelip, \"Biz sadece iyilik yapmak, barıştırmak istedik!\" diye Allah´a yeminler ediyorlar!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 5,
+      "ayah": 80,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "(yapıp) gönderdiği",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "تَرَىٰ كَثِيرًا مِنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُوا ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنْفُسُهُمْ أَنْ سَخِطَ اللَّهُ عَلَيْهِمْ وَفِي الْعَذَابِ هُمْ خَالِدُونَ",
+      "verseTransliteration": "Terâ kesîran minhum yetevellevnellezîne keferû lebi’se mâ kaddemet lehum enfusuhum en sehıtallâhu aleyhim ve fîl azâbi hum hâlidûn(hâlidûne).",
+      "verseMeaning": "Onlardan birçoğunun, küfre sapanlarla dostluk kurduklarını görürsün. Öz benliklerinin onlar için hazırlayıp sunduğu şey gerçekten çok kötü! Allah, üzerlerine gazap indirmiştir. Azap içinde de onlar sürekli kalacaklardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 8,
+      "ayah": 51,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "yapıp öne sürdüğü işler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+      "verseTransliteration": "Zâlike bimâ kaddemet eydîkum ve ennallâhe leyse bi zallâmin lil abîd(abîdi).",
+      "verseMeaning": "\"İşte bu, ellerinizin önden gönderdiği şeyler yüzündendir. Allah, kullara asla zulmetmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 12,
+      "ayah": 48,
+      "formInAyah": "قَدَّمْتُمْ",
+      "transliteration": "ḳaddemtum",
+      "gloss": "önceden (biriktirdiklerinizi)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ",
+      "verseTransliteration": "Summe ye’tî min ba’di zâlike seb’un şidâdun ye’kulne mâ kaddemtum lehunne illâ kalîlen mimmâ tuhsinûn(tuhsinûne).",
+      "verseMeaning": "\"Bunun ardından yedi kurak yıl gelecek. Bu yıllar, saklayabileceğiniz bir miktar ekin hariç, önceden biriktirdiklerinizi yiyip tüketecek.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 18,
+      "ayah": 57,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "öne sürdüğü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ فَأَعْرَضَ عَنْهَا وَنَسِيَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۖ وَإِنْ تَدْعُهُمْ إِلَى الْهُدَىٰ فَلَنْ يَهْتَدُوا إِذًا أَبَدًا",
+      "verseTransliteration": "Ve men azlemu mimmen zukkire bi âyâti rabbihî fe a’rada anhâ ve nesiye mâ kaddemet yedâh(yedâhu), innâ cealnâ alâ kulûbihim ekinneten en yefkahûhu ve fî âzânihim vakrâ(vakren) ve in ted’uhum ilel hudâ fe len yehtedû izen ebedâ(ebeden).",
+      "verseMeaning": "Kendisine Rabbinin ayetleri hatırlatıldığı halde, onlardan yüz çeviren ve iki elinin hazırlayıp önden gönderdiği şeyleri unutandan daha zalim kim olabilir? Şu bir gerçek ki, biz onların kalpleri üzerine onu anlamamaları için kabuklar geçirdik, kulakları içine de ağırlıklar koyduk. Onları hidayete çağırsan da bu durumda hidayete asla ulaşamazlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 22,
+      "ayah": 10,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "önceden yaptıkları",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+      "verseTransliteration": "Zâlike bimâ kaddemet yedâke ve ennallâhe leyse bi zallâmin lil abîd(abîdi).",
+      "verseMeaning": "\"Al, işte bu, iki elinin önden gönderdiğidir. Şu bir gerçek ki, Allah, kullara asla zulmedici değildir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 28,
+      "ayah": 47,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "yaptıkları (günahları)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَوْلَا أَنْ تُصِيبَهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "verseTransliteration": "Ve lev lâ en tusîbehum musîbetun bimâ kaddemet eydîhim fe yekûlû rabbenâ lev lâ erselte ileynâ resûlen fe nettebia âyâtike ve nekûne minel mu’minîn(mu’minîne).",
+      "verseMeaning": "Kendi ellerinin önden hazırladıkları yüzünden başlarına bir musibet geldiğinde hemen şöyle diyorlar: \"Rabbimiz, bize bir resul gönderseydin de senin ayetlerine uyup müminlerden olsaydık ne olurdu!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 30,
+      "ayah": 36,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "öne sürdüklerinden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
+      "verseTransliteration": "Ve izâ ezaknen nâse rahmeten ferihû bihâ, ve in tusıbhum seyyietun bimâ kaddemet eydîhim izâ hum yaknetûn(yaknetûne).",
+      "verseMeaning": "İnsanlara bir rahmet tattırdığımızda, onunla ferahlar, şımarırlar. Kendi ellerinin hazırladıkları yüzünden kendilerine bir kötülük gelip çatsa, hemencecik ümitsizliğe düşerler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 36,
+      "ayah": 12,
+      "formInAyah": "قَدَّمُوا",
+      "transliteration": "ḳaddemū",
+      "gloss": "öne sürdükleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ",
+      "verseTransliteration": "İnnâ nahnu nuhyil mevtâ ve nektubu mâ kaddemû ve âsârehum ve kulle şey’in ahsaynâhu fî imâmin mubîn(mubînin).",
+      "verseMeaning": "Biz, yalnız biz, ölüleri diriltiriz ve onların önden gönderdiklerini de eserlerini de yazarız. Zaten biz her şeyi apaçık bir kütükte ayrıntılı olarak kaydetmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 38,
+      "ayah": 60,
+      "formInAyah": "قَدَّمْتُمُوهُ",
+      "transliteration": "ḳaddemtumūhu",
+      "gloss": "bunu önümüze getirdiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالُوا بَلْ أَنْتُمْ لَا مَرْحَبًا بِكُمْ ۖ أَنْتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ الْقَرَارُ",
+      "verseTransliteration": "Kâlû bel entum, lâ merhaben bikum, entum kaddemtumûhu lenâ, febi’sel karâr(karâru).",
+      "verseMeaning": "Dediler: \"Hayır, size merhaba yok. Onu siz önümüze çıkardınız. Ne kötü durak yeridir o!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 38,
+      "ayah": 61,
+      "formInAyah": "قَدَّمَ",
+      "transliteration": "ḳaddeme",
+      "gloss": "önümüze getirdiyse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالُوا رَبَّنَا مَنْ قَدَّمَ لَنَا هَٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ",
+      "verseTransliteration": "Kâlû rabbenâ men kaddeme lenâ hâzâ fe zidhu azâben dı’fen fîn nâr(nâri).",
+      "verseMeaning": "Şöyle yakardılar: \"Rabbimiz, bunu bizim önümüze çıkaranın ateşteki azabını bir kat daha artır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 42,
+      "ayah": 48,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "öne sürdüğü işlerden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا الْبَلَاغُ ۗ وَإِنَّا إِذَا أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ الْإِنْسَانَ كَفُورٌ",
+      "verseTransliteration": "Fe in a’redû fe mâ erselnâke aleyhim hafîzâ(hafîzan), in aleyke illel belâgu, ve innâ izâ ezaknal insâne minnâ rahmeten feriha bihâ, ve in tusibhum seyyietun bi mâ kaddemet eydîhim fe innel insâne kefûr(kefûrun).",
+      "verseMeaning": "Yüz çevirirlerse, biz seni onlar üzerine bekçi göndermemişiz. Sana düşen, tebliğden başkası değildir. Biz insana, bizden bir rahmet tattırdığımızda, onunla sevinip şımarır. Kendi ellerinin hazırladığından bir kötülük başlarına sarılınca, bakarsın insan, alabildiğine nankörleşmiştir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 49,
+      "ayah": 1,
+      "formInAyah": "تُقَدِّمُوا",
+      "transliteration": "tuḳaddimū",
+      "gloss": "geçmeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tukaddimû beyne yedeyillâhi ve resûlihî vettekûllâh(vettekûllâhe), innallâhe semîun alîm(alîmun).",
+      "verseMeaning": "Ey iman edenler! Allah´ın ve resulünün önüne geçmeyin! Allah´tan korkun! Allah gerçekten çok iyi duyan ve gereğince bilendir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 50,
+      "ayah": 28,
+      "formInAyah": "قَدَّمْتُ",
+      "transliteration": "ḳaddemtu",
+      "gloss": "önceden yaptım",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ",
+      "verseTransliteration": "Kâle lâ tahtesımû ledeyye ve kad kaddemtu ileykum bil vaîdi.",
+      "verseMeaning": "Allah buyurdu: \"Huzurumda çekişmeyin! Ben size uyarıyı çok önceden göndermiştim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 58,
+      "ayah": 12,
+      "formInAyah": "فَقَدِّمُوا",
+      "transliteration": "feḳaddimū",
+      "gloss": "verin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّسُولَ فَقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَةً ۚ ذَٰلِكَ خَيْرٌ لَكُمْ وَأَطْهَرُ ۚ فَإِنْ لَمْ تَجِدُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû izâ nâceytumur resûle fe kaddimû beyne yedey necvâkum sadakah(sadakaten), zâlike hayrun lekum ve athar(atharu), fe in lem tecidû fe innellâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Ey iman edenler! Resulle gizlice konuşacağınız zaman, bu gizli konuşmanızdan önce bir sadaka verin! Bu, sizin için daha hayırlı ve daha temizdir. Eğer bu imkânı bulamazsanız bilin ki, Allah Gafûr´dur, Rahîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 58,
+      "ayah": 13,
+      "formInAyah": "تُقَدِّمُوا",
+      "transliteration": "tuḳaddimū",
+      "gloss": "vermenizden",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "أَأَشْفَقْتُمْ أَنْ تُقَدِّمُوا بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَاتٍ ۚ فَإِذْ لَمْ تَفْعَلُوا وَتَابَ اللَّهُ عَلَيْكُمْ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "E eşfaktum en tukaddimû beyne yedey necvâkum sadekât(sadekâtin), fe iz lem tef’alû ve tâballâhu aleykum, fe ekîmûs salâte ve âtûz zekâte ve etîûllâhe ve resûleh(resûlehu), vallâhu habîrun bi mâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Gizli konuşmanızdan önce, sadakalar vermekten ürperdiniz mi? Çünkü yapmadınız. Allah size tövbe nasip etti. Artık namazı kılın, zekâtı verin, Allah´a ve resulüne itaat edin. Allah, yaptıklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 59,
+      "ayah": 18,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "gönderdiğine",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenûttekullâhe vel tenzur nefsun mâ kad demet ligad(ligadin), vettekûllah(vettekûllahe), innallâhe habîrun bi mâ ta’melûn(ta’melûne).",
+      "verseMeaning": "Ey iman edenler! Allah´tan korkun! Ve her benlik, yarın için önden ne gönderdiğine bir baksın. Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 62,
+      "ayah": 7,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "öne sürdükleri",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+      "verseTransliteration": "Ve lâ yetemennevnehû ebeden bi mâ kaddemet eydîhim, vallâhu alîmun biz zâlimîn(zâlimîne).",
+      "verseMeaning": "Ama onlar, ellerinin üretip önden gönderdikleri yüzünden ölümü asla temenni edemezler. Allah, zalimleri bilmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 73,
+      "ayah": 20,
+      "formInAyah": "تُقَدِّمُوا",
+      "transliteration": "tuḳaddimū",
+      "gloss": "verdiklerinizi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "verseTransliteration": "İnne rabbeke ya´lemu enneke tekûmu ednâ min suluseyil leyli ve nısfehu ve sulusehu ve tâifetun minellezîne meak(meake), vallâhu yukaddirul leyle ven nehâr(nehâre), alime en len tuhsûhu fe tâbe aleykum, fakreû mâ teyessere minel kur´ân(kur’ânî), alime en seyekûnu minkum merdâ ve âharûne yadribûne fîl’ardı yebtegûne min fadlillâhi ve âharûne yukâtilûne fî sebîlillâhi fakreû mâ teyessere minhu ve ekîmus salâte ve âtûz zekâte ve akridullâhe kardan hasenâ(hasenen), ve mâ tukaddimû li enfusikum min hayrin tecidûhu indallâhi huve hayren ve a´zame ecrâ(ecren), vestagfirûllâh(vestağfirûllâhe), innellâhe gafûrun rahîm(rahîmun).",
+      "verseMeaning": "Hiç kuşkun olmasın, Rabbin senin durumunu biliyor. Gecenin üçte ikisinden daha azını, yarısını, üçte birini ayakta geçiriyorsun. Seninle beraber olanlardan bir grup da öyle. Allah, geceyi de gündüzü de ölçüye bağlamıştır. Sizin onu kuşatamayacağınızı bildi de size tövbe nasip etti. O halde Kur´an´dan, kolay geleni okuyun. Sizden hastalar olacağını bildi. Bir kısmının yeryüzünde dolaşıp Allah´ın lütfundan bir şeyler isteyeceklerini, diğer bir kısmının da Allah yolunda çarpışacaklarını bildi. O halde Kur´an´dan, kolay geleni okuyun! Namazı kılın! Zekâtı verin. Güzel bir ödünçle Allah´a ödünç verin! Öz benlikleriniz için önden gönderdiğiniz iyiliğin, Allah katında hayrını daha çok, ödülünü daha büyük olarak bulacaksınız. Allah´tan af dileyin. Hiç kuşkusuz, Allah çok affedici, çok esirgeyicidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 75,
+      "ayah": 13,
+      "formInAyah": "قَدَّمَ",
+      "transliteration": "ḳaddeme",
+      "gloss": "yapıp öne sürdüğü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+      "verseTransliteration": "Yunebbeul insânu yevme izin bimâ kaddeme ve ahhar(ahhâre).",
+      "verseMeaning": "Haber verilir insana o gün önden gönderdiği de arkaya bıraktığı da."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 78,
+      "ayah": 40,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "öne sürdüğü",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
+      "verseTransliteration": "İnnâ enzernâkum azâben karîbâ(karîben), yevme yenzurul mer’u mâ kaddemet yedâhu ve yekûlul kâfiru yâ leytenî kuntu turâbâ(turâben).",
+      "verseMeaning": "Biz sizi yakın bir azap ile uyardık. Bir gündedir ki o, kişi kendi ellerinin önden gönderdiğine bakar ve küfre sapan şöyle der: \"Keşke toprak olsaydım!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 82,
+      "ayah": 5,
+      "formInAyah": "قَدَّمَتْ",
+      "transliteration": "ḳaddemet",
+      "gloss": "öne sürmüştür",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ",
+      "verseTransliteration": "Alimet nefsun mâ kaddemet ve ahharet.",
+      "verseMeaning": "Benlik, bilmiş olacaktır önden gönderdiğini de arkaya bıraktığını da."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَّمَ",
+      "sura": 89,
+      "ayah": 24,
+      "formInAyah": "قَدَّمْتُ",
+      "transliteration": "ḳaddemtu",
+      "gloss": "(iyi işler) gönderseydim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+      "verseTransliteration": "Yekûlu yâ leytenî kaddemtu li hayâtî.",
+      "verseMeaning": "Der ki: \"Keşke şu hayatım için önden bir şeyler gönderseydim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 2,
+      "ayah": 250,
+      "formInAyah": "أَقْدَامَنَا",
+      "transliteration": "eḳdāmenā",
+      "gloss": "ayaklarımızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Ve lemmâ berazû li câlûte ve cunûdihî kâlû rabbenâ efrig aleynâ sabren ve sebbit ekdâmenâ vensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Câlût ve ordusuyla karşılaştıklarında şöyle yakardılar: \"Ey Rabb´imiz, üzerimize sabır yağdır. Ayaklarımızı yere sağlam bastır. Ve küfre sapanlara karşı bize yardım et.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 3,
+      "ayah": 147,
+      "formInAyah": "أَقْدَامَنَا",
+      "transliteration": "eḳdāmenā",
+      "gloss": "ayaklarımızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا كَانَ قَوْلَهُمْ إِلَّا أَنْ قَالُوا رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "verseTransliteration": "Ve mâ kâne kavlehum illâ en kâlû rabbenagfir lenâ zunûbenâ ve isrâfenâ fî emrinâ ve sebbit akdâmenâ vensurnâ alel kavmil kâfirîn(kâfirîne).",
+      "verseMeaning": "Sözleri yalnız şu olmuştur: \"Ey Rabbimiz! Bağışla bizim günahlarımızı, affet işlerimizdeki taşkınlığımızı, sağlam bastır ayaklarımızı ve yardım et bize küfre sapan topluma karşı!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 8,
+      "ayah": 11,
+      "formInAyah": "الْأَقْدَامَ",
+      "transliteration": "l-eḳdāme",
+      "gloss": "ayakları(nızı)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِنْهُ وَيُنَزِّلُ عَلَيْكُمْ مِنَ السَّمَاءِ مَاءً لِيُطَهِّرَكُمْ بِهِ وَيُذْهِبَ عَنْكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+      "verseTransliteration": "İz yugaşşîkumun nuâse emeneten minhu ve yunezzilu aleykum mines semâi mâen li yutahhirekum bihî ve yuzhibe ankum riczeş şeytâni ve li yerbıta alâ kulûbikum ve yusebbite bihil akdâm(akdâme).",
+      "verseMeaning": "O zaman sizi, Allah´tan bir güven olmak üzere hafif bir uyku bürüyordu; sizi onunla temizlemek, şeytanın pisliğini sizden gidermek, kalplerinizi birbirine bağlamak, ayaklarınızı sağlam bastırmak için üzerinize gökten bir su indiriyordu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 10,
+      "ayah": 2,
+      "formInAyah": "قَدَمَ",
+      "transliteration": "ḳademe",
+      "gloss": "makamı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَىٰ رَجُلٍ مِنْهُمْ أَنْ أَنْذِرِ النَّاسَ وَبَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ رَبِّهِمْ ۗ قَالَ الْكَافِرُونَ إِنَّ هَٰذَا لَسَاحِرٌ مُبِينٌ",
+      "verseTransliteration": "E kâne linnâsi aceben en evhaynâ ilâ reculin minhum en enzirin nâse ve beşşirillezîne âmenû enne lehum kademe sıdkın inde rabbihim, kâlel kâfirûne inne hâzâ le sâhırun mubîn(mubînun).",
+      "verseMeaning": "\"İnsanları uyar, iman edenlere de kendileri için Allah katında yüksek bir doğruluk derecesi bulunduğunu müjdele\" diye içlerinden bir er kişiye vahiy göndermemiz, insanlara şaşırtıcı mı geldi? Küfre batanlar: \"Bu adam açık bir büyücüdür.\" dediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 16,
+      "ayah": 94,
+      "formInAyah": "قَدَمٌ",
+      "transliteration": "ḳademun",
+      "gloss": "ayak",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا السُّوءَ بِمَا صَدَدْتُمْ عَنْ سَبِيلِ اللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+      "verseTransliteration": "Ve lâ tettehızû eymânekum dehalen beynekum fe tezille kademun ba’de subûtihâ ve tezûkus sûe bimâ sadedtum an sebîlillâh(sebîlillâhi), ve lekum azâbun azîm(azîmun).",
+      "verseMeaning": "Yeminlerinizi aranızda hile ve aldatma aracı yapmayın; aksi halde, ayak sağlam bastıktan sonra kayar ve Allah yolundan alıkoyduğunuz için acıyı tadarsınız. Üstelik büyük bir azaba da uğrarsınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 41,
+      "ayah": 29,
+      "formInAyah": "أَقْدَامِنَا",
+      "transliteration": "eḳdāminā",
+      "gloss": "ayaklarımızın",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا رَبَّنَا أَرِنَا اللَّذَيْنِ أَضَلَّانَا مِنَ الْجِنِّ وَالْإِنْسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ الْأَسْفَلِينَ",
+      "verseTransliteration": "Ve kâlellezîne keferû rabbenâ erinellezeyni edallânâ minel cinni vel insi nec’al humâ tahte akdâminâ li yekûnâ minel esfelîn(esfelîne).",
+      "verseMeaning": "O küfre sapanlar şöyle diyecekler: \"Rabbimiz, cinlerden ve insanlardan bizi saptıranları bize göster ki, onları ayaklarımızın altına alalım da en aşağıda kalanlardan olsunlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 47,
+      "ayah": 7,
+      "formInAyah": "أَقْدَامَكُمْ",
+      "transliteration": "eḳdāmekum",
+      "gloss": "ayaklarınızı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû in tensurûllâhe yensurkum ve yusebbit akdâmekum.",
+      "verseMeaning": "Ey iman sahipleri! Eğer siz Allah´a yardım ederseniz, Allah da size yardım eder ve ayaklarınızı sağlam bastırır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدَم",
+      "sura": 55,
+      "ayah": 41,
+      "formInAyah": "وَالْأَقْدَامِ",
+      "transliteration": "vel’eḳdāmi",
+      "gloss": "ve ayaklar(ın)dan",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+      "verseTransliteration": "Yu’reful mucrımûne bi sîmâhum fe yu’hazu bin nevâsî vel akdâm(akdâmi).",
+      "verseMeaning": "Suçlular, yüzlerinden tanınır da yakalanırlar perçemlerinden ve ayaklarından."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدِمْ",
+      "sura": 11,
+      "ayah": 98,
+      "formInAyah": "يَقْدُمُ",
+      "transliteration": "yeḳdumu",
+      "gloss": "öncülük ederek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَأَوْرَدَهُمُ النَّارَ ۖ وَبِئْسَ الْوِرْدُ الْمَوْرُودُ",
+      "verseTransliteration": "Yakdumu kavmehu yevmel kıyâmeti fe evredehumun nâr(nâre), ve bi’sel virdul mevrûd(mevrûdu).",
+      "verseMeaning": "Kıyamet günü kavmine önderlik eder. İşte onları suya götürür gibi ateşe götürdü. Ne kötü varış yeridir o götürüldükleri yer!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدِمْ",
+      "sura": 25,
+      "ayah": 23,
+      "formInAyah": "وَقَدِمْنَا",
+      "transliteration": "ve ḳadimnā",
+      "gloss": "önüne geçiririz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا",
+      "verseTransliteration": "Ve kadimnâ ilâ mâ amilû min amelin fe cealnâhu hebâen mensûrâ(mensûran).",
+      "verseMeaning": "Yaptıkları her işin önüne geçmiş, onu un ufak hale getirip silmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدِيم",
+      "sura": 12,
+      "ayah": 95,
+      "formInAyah": "الْقَدِيمِ",
+      "transliteration": "l-ḳadīmi",
+      "gloss": "eski",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+      "verseTransliteration": "Kâlû tallâhi inneke le fî dalâlikel kadîm(kadîmi).",
+      "verseMeaning": "Dediler: \"Vallahi, sen hâlâ o eski sapıklığında diretiyorsun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدِيم",
+      "sura": 36,
+      "ayah": 39,
+      "formInAyah": "الْقَدِيمِ",
+      "transliteration": "l-ḳadīmi",
+      "gloss": "eski, kuru",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْجُونِ الْقَدِيمِ",
+      "verseTransliteration": "Vel kamere kaddernâhu menâzile hattâ âdekel urcûnil kadîm(kadîmi).",
+      "verseMeaning": "Ay´a gelince, biz onun için de bir takım durak noktaları/birtakım evreler belirledik. Nihayet o, eski hurma sapının eğrilmişi gibi geri döner."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَدِيم",
+      "sura": 46,
+      "ayah": 11,
+      "formInAyah": "قَدِيمٌ",
+      "transliteration": "ḳadīmun",
+      "gloss": "eski",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا لَوْ كَانَ خَيْرًا مَا سَبَقُونَا إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا بِهِ فَسَيَقُولُونَ هَٰذَا إِفْكٌ قَدِيمٌ",
+      "verseTransliteration": "Ve kâlellezîne keferû lillezîne âmenûlev kâne hayren mâ sebekûnâ ileyh(ileyhi), ve iz lem yehtedû bihî fe seyekûlûne hâzâ ifkun kadîm(kadîmun).",
+      "verseMeaning": "İnkâr edenler, inananlara şöyle derler: \"Eğer bu, hayırlı bir şey olsaydı, bunlar ona inanmakta bizi geçemezlerdi.\" Bununla umduklarını bulamayınca şöyle diyecekler: \"Bu, eski bir uydurmadır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُسْتَقْدِمِين",
+      "sura": 15,
+      "ayah": 24,
+      "formInAyah": "الْمُسْتَقْدِمِينَ",
+      "transliteration": "l-musteḳdimīne",
+      "gloss": "önce geçenleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İstif’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ",
+      "verseTransliteration": "Ve le kad alimnel mustakdimîne minkum ve le kad alimnel muste’hırîn(muste’hırîne).",
+      "verseMeaning": "Yemin olsun, sizin önden gidenlerinizi bilmişizdir; yemin olsun, geriye kalanları da bilmişizdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَقْدِمُ",
+      "sura": 7,
+      "ayah": 34,
+      "formInAyah": "يَسْتَقْدِمُونَ",
+      "transliteration": "yesteḳdimūne",
+      "gloss": "öne geçemezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلِكُلِّ أُمَّةٍ أَجَلٌ ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+      "verseTransliteration": "Ve li kulli ummetin ecel(ecelun), fe izâ câe eceluhum lâ yeste’hırûne sâaten ve lâ yestakdimûn(yestakdimûne).",
+      "verseMeaning": "Her ümmet için belirlenmiş bir süre vardır. Süreleri dolunca ne bir saat geri kalırlar ne de öne geçerler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَقْدِمُ",
+      "sura": 10,
+      "ayah": 49,
+      "formInAyah": "يَسْتَقْدِمُونَ",
+      "transliteration": "yesteḳdimūne",
+      "gloss": "geriye bırakılırlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لَا أَمْلِكُ لِنَفْسِي ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَاءَ اللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَاءَ أَجَلُهُمْ فَلَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+      "verseTransliteration": "Kul lâ emliku li nefsî darran ve lâ nef´an illâ mâ şâallâh(şâallâhu), li kulli ummetin ecel(ecelun), izâ câe eceluhum fe lâ yeste´hırûne sâaten ve lâ yestakdimûn(yestakdimûne).",
+      "verseMeaning": "De ki: \"Ben kendime bile Allah´ın istediği dışında bir zarar verme yahut yarar sağlama gücünde değilim. Her ümmetin bir eceli var. Ecelleri geldiğinde bir saat geri de kalamazlar, ileri de gidemezler.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَقْدِمُ",
+      "sura": 16,
+      "ayah": 61,
+      "formInAyah": "يَسْتَقْدِمُونَ",
+      "transliteration": "yesteḳdimūne",
+      "gloss": "ileri geçerler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِمْ مَا تَرَكَ عَلَيْهَا مِنْ دَابَّةٍ وَلَٰكِنْ يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+      "verseTransliteration": "Ve lev yuâhızullâhun nâse bi zulmihim mâ tereke aleyhâ min dâbbetin ve lâkin yuahhıruhum ilâ ecelin musemmâ(musemmen), fe izâ câe eceluhum lâ yeste’hırûne sâaten ve lâ yestakdimûn(yestakdimûne).",
+      "verseMeaning": "Eğer Allah, insanları zulümlerine karşı cezalandırsaydı, yeryüzünde debelenen bir şey bırakmazdı. Ama öyle yapmıyor, onları belirli bir süreye kadar erteliyor. Süreleri geldiğinde ise ne bir saat geri kalırlar ne de öne geçebilirler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَقْدِمُ",
+      "sura": 34,
+      "ayah": 30,
+      "formInAyah": "تَسْتَقْدِمُونَ",
+      "transliteration": "testeḳdimūne",
+      "gloss": "ileri geçemezsiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قُلْ لَكُمْ مِيعَادُ يَوْمٍ لَا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
+      "verseTransliteration": "Kul lekum mîâdu yevmin lâ teste’hirûne anhû sâaten ve lâ testakdimûn(testakdimûne).",
+      "verseMeaning": "De ki: \"Size bir gün vaat edilmiştir; ondan ne bir saat geri kalabirsiniz ne de ileri geçebilirsiniz.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qdm"
+}

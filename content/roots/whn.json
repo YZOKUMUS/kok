@@ -1,0 +1,224 @@
+{
+  "id": "whn",
+  "latinName": "Vav-he-Nun",
+  "lettersArabic": "و ه ن",
+  "meanings": [
+    "Güçsüzleşmek, zayıflamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 9,
+  "lemmas": [
+    {
+      "formArabic": "أَوْهَن",
+      "count": 1
+    },
+    {
+      "formArabic": "مُوهِن",
+      "count": 1
+    },
+    {
+      "formArabic": "وَهَنَ",
+      "count": 5
+    },
+    {
+      "formArabic": "وَهْن",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَوْهَن",
+      "sura": 29,
+      "ayah": 41,
+      "formInAyah": "أَوْهَنَ",
+      "transliteration": "evhene",
+      "gloss": "en gevşeği",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+      "verseTransliteration": "Meselullezînettehazû min dûnillâhi evliyâe ke meselil ankebût(ankebûti), ittehazet beytâ(beyten) ve inne evhenel buyûti le beytul ankebût(ankebûti), lev kânû ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Allah´ın berisinden veliler edinenlerin durumu, bir ev edinen dişi örümceğin durumuna benzer. Ve evlerin en güvensizi/en zayıfı elbette ki dişi örümceğin evidir. Keşke bilselerdi!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُوهِن",
+      "sura": 8,
+      "ayah": 18,
+      "formInAyah": "مُوهِنُ",
+      "transliteration": "mūhinu",
+      "gloss": "zayıflatır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكُمْ وَأَنَّ اللَّهَ مُوهِنُ كَيْدِ الْكَافِرِينَ",
+      "verseTransliteration": "Zâlikum ve ennallâhe mûhinu keydil kâfirîn(kâfirîne).",
+      "verseMeaning": "Gördünüz ya, Allah küfre sapanların tuzağını fersiz bırakır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهَنَ",
+      "sura": 3,
+      "ayah": 139,
+      "formInAyah": "تَهِنُوا",
+      "transliteration": "tehinū",
+      "gloss": "gevşemeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنْتُمُ الْأَعْلَوْنَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Ve lâ tehinû ve lâ tahzenû ve entumul a’levne in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Gevşemeyin, tasalanmayın. Eğer inanıyorsanız üstün olan sizsiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهَنَ",
+      "sura": 3,
+      "ayah": 146,
+      "formInAyah": "وَهَنُوا",
+      "transliteration": "vehenū",
+      "gloss": "yılmadılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا ۗ وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+      "verseTransliteration": "Ve keeyyin min nebiyyin kâtele, meahu rıbbiyyûne kesîr(kesîrun), fe mâ vehenû li mâ asâbehum fî sebîlillâhi ve mâ daufû ve mestekânû vallâhu yuhibbus sâbirîn(sâbirîne).",
+      "verseMeaning": "Nice peygamber, beraberinde kendisini Rabb´e adayan birçok kişi bulunduğu halde savaşmıştır. Onlar, Allah yolunda kendilerine gelip çatan zorluklar yüzünden gevşememiş, zayıflık göstermemiş, susup pusmamışlardır. Allah sabredenleri sever."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهَنَ",
+      "sura": 4,
+      "ayah": 104,
+      "formInAyah": "تَهِنُوا",
+      "transliteration": "tehinū",
+      "gloss": "gevşeklik göstermeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَا تَهِنُوا فِي ابْتِغَاءِ الْقَوْمِ ۖ إِنْ تَكُونُوا تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ اللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+      "verseTransliteration": "Ve lâ tehinû fîbtigâil kavm(kavmi) in tekûnû te’lemûne fe innehum ye’lemûne kemâ te’lemûn(te’lemûne) ve tercûne minallâhi mâ lâ yercûn(yercûne) ve kânallâhu alîmen hakîmâ(hakîmen).",
+      "verseMeaning": "Düşman topluluğu izlemekte gevşeklik göstermeyin. Siz sıkıntıya düşüyorsanız, hiç kuşkusuz tıpkı sizin gibi onlar da sıkıntıya düşüyorlar; ama siz, Allah´tan onların umamayacağı şeyleri umuyorsunuz. Allah Alîm´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهَنَ",
+      "sura": 19,
+      "ayah": 4,
+      "formInAyah": "وَهَنَ",
+      "transliteration": "vehene",
+      "gloss": "gevşedi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا",
+      "verseTransliteration": "Kâle rabbî innî ve henel azmu minnî veştealer re’su şeyben ve lem ekun bi duâike rabbî şakıyyâ(şakıyyen).",
+      "verseMeaning": "Şöyle demişti: \"Rabbim, işte karşındayım. Kemik gevşedi bende. İhtiyarlıktan başım beyaz alevle tutuştu. Sana yakarma konusunda ise Rabbim, hiç bedbaht olmadım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهَنَ",
+      "sura": 47,
+      "ayah": 35,
+      "formInAyah": "تَهِنُوا",
+      "transliteration": "tehinū",
+      "gloss": "gevşemeyin",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَا تَهِنُوا وَتَدْعُوا إِلَى السَّلْمِ وَأَنْتُمُ الْأَعْلَوْنَ وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ",
+      "verseTransliteration": "Fe lâ tehinû ve ted’û iles selmi ve entumul a’levne vallâhu meakum ve len yetirekum a’mâlekum.",
+      "verseMeaning": "Gevşemeyin, üstün durumda olduğunuz halde antlaşmaya davet etmeyin! Allah sizinledir; amellerinizi asla yitirmeyecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهْن",
+      "sura": 31,
+      "ayah": 14,
+      "formInAyah": "وَهْنًا",
+      "transliteration": "vehnen",
+      "gloss": "zayıflık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyh(vâlideyhi), hamelethu ummuhu vehnen alâ vehnin ve fisâluhu fî âmeyni enişkurlî ve li vâlideyk(vâlideyke), ileyyel masîr(masîru).",
+      "verseMeaning": "Biz, insana anne babasını önerdik. Annesi onu güçsüzlükle taşımıştır. Sütten kesilmesi de iki yılda olmuştur. O halde bana ve ana babana şükret. Dönüş banadır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَهْن",
+      "sura": 31,
+      "ayah": 14,
+      "formInAyah": "وَهْنٍ",
+      "transliteration": "vehnin",
+      "gloss": "zayıflıkla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ",
+      "verseTransliteration": "Ve vassaynel insâne bi vâlideyh(vâlideyhi), hamelethu ummuhu vehnen alâ vehnin ve fisâluhu fî âmeyni enişkurlî ve li vâlideyk(vâlideyke), ileyyel masîr(masîru).",
+      "verseMeaning": "Biz, insana anne babasını önerdik. Annesi onu güçsüzlükle taşımıştır. Sütten kesilmesi de iki yılda olmuştur. O halde bana ve ana babana şükret. Dönüş banadır."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=whn"
+}

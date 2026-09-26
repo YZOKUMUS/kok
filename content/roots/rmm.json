@@ -1,0 +1,63 @@
+{
+  "id": "rmm",
+  "latinName": "Ra-Mim-Mim",
+  "lettersArabic": "ر م م",
+  "meanings": [
+    "to be decayed, become rotten and worn out (bone), like ashes."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "رَمِيم",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَمِيم",
+      "sura": 36,
+      "ayah": 78,
+      "formInAyah": "رَمِيمٌ",
+      "transliteration": "ramīmun",
+      "gloss": "çürümüş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ",
+      "verseTransliteration": "Ve darebe lenâ meselen ve nesiye halkah(halkahu), kâle men yuhyil izâme ve hiye remîm(remîmun).",
+      "verseMeaning": "Kendi yaratılışını unutmuş da bize örnek veriyor. Ve bir de şöyle diyor: \"Şu çürümüş kemiklere kim hayat verecek?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَمِيم",
+      "sura": 51,
+      "ayah": 42,
+      "formInAyah": "كَالرَّمِيمِ",
+      "transliteration": "kārramīmi",
+      "gloss": "kül gibi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ",
+      "verseTransliteration": "Mâ tezeru min şey’in etet aleyhi illâ cealethu ker remîm (remîmi ).",
+      "verseMeaning": "Üzerinden geçtiği her şeyi kül haline getirmeden bırakmıyordu."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rmm"
+}

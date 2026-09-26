@@ -1,0 +1,10 @@
+{
+  "name": "kuran-haritasi",
+  "private": true,
+  "version": "0.2.0",
+  "description": "Kur’an kök sözlüğü — Hasene’den bağımsız veri + web görüntüleyici",
+  "scripts": {
+    "serve": "python -m http.server 5177",
+    "import": "python scripts/import_root_dump.py"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "kfA",
+  "latinName": "Kef-Fe-Elif",
+  "lettersArabic": "ك ف ا",
+  "meanings": [
+    "Eşit/tam karşılığı/dengi olmak, eşdeğer olma, eşitleme."
+  ],
+  "derivativeNotes": [
+    "Küf’ü - eş, benzer, denk",
+    "Mükafah - bir fiildeki karşılıklı denklik ve tam karşılık verme.",
+    "İkfa - bir şeyin devrilmesi ve dengesinin, eşitliğinin bozulması."
+  ],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "كُفُو",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كُفُو",
+      "sura": 112,
+      "ayah": 4,
+      "formInAyah": "كُفُوًا",
+      "transliteration": "kufuven",
+      "gloss": "dengi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "verseTransliteration": "Ve lem yekun lehu kufuven ehad(ehadun).",
+      "verseMeaning": "Hiç kimse onun dengi ve benzeri olmamıştır, olamaz!"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=kfA"
+}

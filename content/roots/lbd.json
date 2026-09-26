@@ -1,0 +1,70 @@
+{
+  "id": "lbd",
+  "latinName": "Lam-Be-Dal",
+  "lettersArabic": "ل ب د",
+  "meanings": [
+    "stuck/clave/adhered (to the ground/thing), remain fixed/steady and looked or considered, remain/continue/dwelt/stay in a place, become intermingled/compacted/coherent, make together, become felted, aquat, swarm, stifling crowd, that which is packed densely, abundant/much."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "لِبَد",
+      "count": 1
+    },
+    {
+      "formArabic": "لُّبَد",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لِبَد",
+      "sura": 72,
+      "ayah": 19,
+      "formInAyah": "لِبَدًا",
+      "transliteration": "libeden",
+      "gloss": "keçe gibi birbirlerine geçecek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا",
+      "verseTransliteration": "Ve ennehu lemmâ kâme abdullâhi yedûhu kâdû yekûnûne aleyhi libedâ(libeden).",
+      "verseMeaning": "Allah´ın kulu kalkmış O´na yakarırken, onlar onun üzerine keçeleşir gibi üşüşüyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لُّبَد",
+      "sura": 90,
+      "ayah": 6,
+      "formInAyah": "لُبَدًا",
+      "transliteration": "lubeden",
+      "gloss": "birçok",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+      "verseTransliteration": "Yekûlu ehlektu mâlen lubedâ(lubeden).",
+      "verseMeaning": "\"Yığınlarla mal telef ettim!\" diyor."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=lbd"
+}

@@ -1,0 +1,248 @@
+{
+  "id": "Etw",
+  "latinName": "Ayn-Te-Vav",
+  "lettersArabic": "ع ت و",
+  "meanings": [
+    "İsyan etmek, azmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 10,
+  "lemmas": [
+    {
+      "formArabic": "عَاتِيَة",
+      "count": 1
+    },
+    {
+      "formArabic": "عَتَ",
+      "count": 5
+    },
+    {
+      "formArabic": "عُتُوّ",
+      "count": 2
+    },
+    {
+      "formArabic": "عِتِيّ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَاتِيَة",
+      "sura": 69,
+      "ayah": 6,
+      "formInAyah": "عَاتِيَةٍ",
+      "transliteration": "ǎātiyetin",
+      "gloss": "azgın",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Etken",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+      "verseTransliteration": "Ve emmâ âdun fe uhlikû bi rîhın sarsarin âtiyeh(âtîyetin).",
+      "verseMeaning": "Âd ise gürleyen sesle gelen rüzgârlı bir fırtınayla mahvedildi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَتَ",
+      "sura": 7,
+      "ayah": 77,
+      "formInAyah": "وَعَتَوْا",
+      "transliteration": "ve ǎtev",
+      "gloss": "ve dışına çıktılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا يَا صَالِحُ ائْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الْمُرْسَلِينَ",
+      "verseTransliteration": "Fe akarûn nâkate ve atev an emri rabbihim ve kâlû yâ sâlihu´tinâ bimâ teidunâ in kunte minel murselîn(murselîne).",
+      "verseMeaning": "Bu arada dişi deveyi boğazladılar. Ve Rablerinin emrinden dışarı çıkıp şöyle dediler: \"Ey Salih! Eğer Allah tarafından gönderilenlerdensen, bizi tehdit ettiğin şeyi önümüze getiriver.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَتَ",
+      "sura": 7,
+      "ayah": 166,
+      "formInAyah": "عَتَوْا",
+      "transliteration": "ǎtev",
+      "gloss": "vazgeçmediler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَلَمَّا عَتَوْا عَنْ مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ",
+      "verseTransliteration": "Fe lemmâ atev an mâ nuhû anhu kulnâ lehum kûnû kıredeten hâsiîn(hâsiîne).",
+      "verseMeaning": "Ne zaman ki, yasaklandıkları şeylerden ötürü öfkelenip başka aşırılıklar yapmaya başladılar, onlara şöyle dedik: \"Aşağılık, maskara maymunlar olun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَتَ",
+      "sura": 25,
+      "ayah": 21,
+      "formInAyah": "وَعَتَوْا",
+      "transliteration": "ve ǎtev",
+      "gloss": "ve haddi aştılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا لَوْلَا أُنْزِلَ عَلَيْنَا الْمَلَائِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُوا فِي أَنْفُسِهِمْ وَعَتَوْا عُتُوًّا كَبِيرًا",
+      "verseTransliteration": "Ve kâlellezîne lâ yercûne likâenâ lev lâ unzile aleynel melâiketu ev nerâ rabbenâ, lekad istekberû fî enfusihim ve atev utuvven kebîrâ(kebîren).",
+      "verseMeaning": "Bize kavuşmayı ummayanlar dediler ki: \"Üstümüze melekler inse, yahut Rabbimizi görsek olmaz mı?\" Yemin olsun ki, kendi benliklerinde büyüklük kuruntusuna düştüler ve korkunç bir biçimde azdılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَتَ",
+      "sura": 51,
+      "ayah": 44,
+      "formInAyah": "فَعَتَوْا",
+      "transliteration": "feǎtev",
+      "gloss": "başkaldırdılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ",
+      "verseTransliteration": "Fe atev an emri rabbihim fe ehazethumus sâikatu ve hum yanzurûn(yanzurûne).",
+      "verseMeaning": "Daha sonra onlar, Rablerinin emrine kafa tuttular da gözleri baka baka yıldırım kendilerini yakaladı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عَتَ",
+      "sura": 65,
+      "ayah": 8,
+      "formInAyah": "عَتَتْ",
+      "transliteration": "ǎtet",
+      "gloss": "baş kaldırdı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَكَأَيِّنْ مِنْ قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِ فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُكْرًا",
+      "verseTransliteration": "Ve keeyyin min karyetin atet an emri rabbihâ ve rusulihî fe hâsebnâhâ hisâben şedîden ve azzebnâhâ azâben nukrâ(nukren).",
+      "verseMeaning": "Nice kentler vardı ki, azgınlık edip Rabbinin ve onun resullerinin emrinden çıktılar da biz onları çok zorlu bir hesaba çektik ve onlara, görülmemiş bir azapla azap ettik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُتُوّ",
+      "sura": 25,
+      "ayah": 21,
+      "formInAyah": "عُتُوًّا",
+      "transliteration": "ǔtuvven",
+      "gloss": "bir azgınlıkla",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا لَوْلَا أُنْزِلَ عَلَيْنَا الْمَلَائِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُوا فِي أَنْفُسِهِمْ وَعَتَوْا عُتُوًّا كَبِيرًا",
+      "verseTransliteration": "Ve kâlellezîne lâ yercûne likâenâ lev lâ unzile aleynel melâiketu ev nerâ rabbenâ, lekad istekberû fî enfusihim ve atev utuvven kebîrâ(kebîren).",
+      "verseMeaning": "Bize kavuşmayı ummayanlar dediler ki: \"Üstümüze melekler inse, yahut Rabbimizi görsek olmaz mı?\" Yemin olsun ki, kendi benliklerinde büyüklük kuruntusuna düştüler ve korkunç bir biçimde azdılar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عُتُوّ",
+      "sura": 67,
+      "ayah": 21,
+      "formInAyah": "عُتُوٍّ",
+      "transliteration": "ǔtuvvin",
+      "gloss": "azgınlık",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ",
+      "verseTransliteration": "Emmen hâzellezî yerzukukum in emseke rızkah(rızkahu), bel leccû fî utuvvin ve nufûr(nufûrın).",
+      "verseMeaning": "Peki, O, rızkını tutarsa kim var sizi rızıklandıracak? Hayır, bir azgınlık ve nefret içinde inat etmekteler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عِتِيّ",
+      "sura": 19,
+      "ayah": 8,
+      "formInAyah": "عِتِيًّا",
+      "transliteration": "ǐtiyyen",
+      "gloss": "son sınırına",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَكَانَتِ امْرَأَتِي عَاقِرًا وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيًّا",
+      "verseTransliteration": "Kâle rabbî ennâ yekûnu lî gulâmun ve kânetimreetî âkıran ve kad belagtu minel kiberi ıtiyyâ(ıtiyyen).",
+      "verseMeaning": "Dedi: \"Rabbim, benim için oğul nasıl söz konusu olur? Karım, doğurganlığını yitirmiştir, bense yaşlılığın gerçekten en ileri basamağına ulaştım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">عِتِيّ",
+      "sura": 19,
+      "ayah": 69,
+      "formInAyah": "عِتِيًّا",
+      "transliteration": "ǐtiyyen",
+      "gloss": "isyan edeni",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَٰنِ عِتِيًّا",
+      "verseTransliteration": "Summe le nenzianne min kulli şîatin eyyuhum eşeddu aler rahmâni ıtiyyâ(ıtiyyen).",
+      "verseMeaning": "Sonra her gruptan, Rahman´a karşı kafa tutmada daha şiddetli davrananlar kimlerse, onları ayıracağız."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Etw"
+}

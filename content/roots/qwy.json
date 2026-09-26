@@ -1,0 +1,936 @@
+{
+  "id": "qwy",
+  "latinName": "Kaf-Vav-Ye",
+  "lettersArabic": "ق و ي",
+  "meanings": [
+    "to be, become strong, prevail, be able to do, be powerful, be vigorous, be forceful. quwwatun (pl. quwan) - power, strength, vigour, resolution, firmness, determination. qawun - desert. aqwa - to stay in desert. muqwin - dwellers of desert/wilderness (it is derived from the verb qawiya which means: it became desolate or deserted)."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 42,
+  "lemmas": [
+    {
+      "formArabic": "قُوَّة",
+      "count": 30
+    },
+    {
+      "formArabic": "قَوِىّ",
+      "count": 11
+    },
+    {
+      "formArabic": "مُقْوِين",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 2,
+      "ayah": 63,
+      "formInAyah": "بِقُوَّةٍ",
+      "transliteration": "biḳuvvetin",
+      "gloss": "kuvvetle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "verseTransliteration": "Ve iz ehaznâ mîsâkakum ve refa’nâ fevkakumut tûr(tûra) huzû mâ ateynâkum bi kuvvetin vezkurû mâ fîhi leallekum tettekûn(tettekûne).",
+      "verseMeaning": "Hani, sizden şu şekilde kesin söz almış da Tûr´u üzerinize kaldırmıştık: \"Size verdiğimizi kuvvetle tutun ve içinde olanı hatırlayıp zikredin ki, sakınabilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 2,
+      "ayah": 93,
+      "formInAyah": "بِقُوَّةٍ",
+      "transliteration": "biḳuvvetin",
+      "gloss": "kuvvetle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "verseTransliteration": "Ve iz ehaznâ mîsâkakum ve refa’nâ fevkakumut tûr(tûra), huzû mâ âteynâkum bi kuvvetin vesmeû kâlû semi’nâ ve aseynâ ve uşribû fî kulûbihimul icle bi kufrihim kul bi’se mâ ye’murukum bihî îmânukum in kuntum mu’minîn(mu’minîne).",
+      "verseMeaning": "Hani kesin söz almıştık sizden de Tûr´u üzerinize kaldırmıştık. \"Size verdiğimizi kuvvetlice tutun ve dinleyin.\" demiştik. Şöyle demişlerdi: \"Dinledik ve isyan ettik.\" İnkârları yüzünden gönüllerine buzağı içirildi. De ki: \"Eğer inanan kişilerseniz, ne kötü şeydir size imanınızın emretmekte olduğu...\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 2,
+      "ayah": 165,
+      "formInAyah": "الْقُوَّةَ",
+      "transliteration": "l-ḳuvvete",
+      "gloss": "kuvvetin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ ۖ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ ۗ وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ",
+      "verseTransliteration": "Ve minen nâsi men yettehızu min dûnillâhi endâden yuhıbbûnehum ke hubbillâh(hubbillâhi), vellezîne âmenû eşeddu hubben lillâh(lillâhi), ve lev yerâllezîne zalemû iz yeravnel azâbe, ennel kuvvete lillâhi cemîan, ve ennellâhe şedîdul azâb(azâbi).",
+      "verseMeaning": "İnsanlar içinde öyleleri vardır ki, Allah dışında bazılarını Allah´a eş tutarlar da onları Allah´ı sevmiş gibi severler. İman sahipleri ise Allah´a sevgide çok kararlı ve taşkındırlar. Zulme saplananlar, azabı gördüklerinde tüm kuvvetin Allah´ta bulunduğunu, Allah´ın azabının çok şiddetli olduğunu fark edeceklerini anlayabilseler!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 7,
+      "ayah": 145,
+      "formInAyah": "بِقُوَّةٍ",
+      "transliteration": "biḳuvvetin",
+      "gloss": "kuvvetle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكَتَبْنَا لَهُ فِي الْأَلْوَاحِ مِنْ كُلِّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلًا لِكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا بِأَحْسَنِهَا ۚ سَأُرِيكُمْ دَارَ الْفَاسِقِينَ",
+      "verseTransliteration": "Ve ketebnâ lehu fîl elvâhı min kulli şey’in mev’ızaten ve tafsîlen li kulli şey’in fe huzhâ bi kuvvetin ve’mur kavmeke ye’huzû bi ahsenihâ seurîkum dârel fâsikîn(fâsikîne).",
+      "verseMeaning": "Biz Musa için levhalarla herşeyi yazdık: Öğüt olarak, herşeyin ayrıntısı olarak. \"Kuvvetle tut bunları ve emret toplumuna da onları en güzel şekliyle tutsunlar. Fasıklar yurdunu göstereceğim size.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 7,
+      "ayah": 171,
+      "formInAyah": "بِقُوَّةٍ",
+      "transliteration": "biḳuvvetin",
+      "gloss": "kuvvetle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَإِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّوا أَنَّهُ وَاقِعٌ بِهِمْ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "verseTransliteration": "Ve iz netaknel cebele fevkahum ke ennehu zulletun ve zannû ennehu vâkıun bihim, huzû mâ âteynâkum bi kuvvetin vezkurû mâ fîhi leallekum tettekûn(tettekûne).",
+      "verseMeaning": "Bir zaman, dağı tepelerine bir gölgelik gibi çekmiştik de onu üstlerine düşüyor sanmışlardı. \"Size verdiğimizi kuvvetle tutun ve içindekini hatırınızdan çıkarmayın ki korunabilesiniz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 8,
+      "ayah": 60,
+      "formInAyah": "قُوَّةٍ",
+      "transliteration": "ḳuvvetin",
+      "gloss": "kuvvet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ وَمِنْ رِبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِنْ دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ ۚ وَمَا تُنْفِقُوا مِنْ شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لَا تُظْلَمُونَ",
+      "verseTransliteration": "Ve eıddû lehum mesteta´tum min kuvvetin ve min rıbâtil hayli turhibûne bihî aduvvallâhi ve aduvvekum ve âharîne min dûnihim, lâ ta´lemûnehum, allâhu ya´lemuhum, ve mâ tunfikû min şey´in fî sebîlillâhi yuveffe ileykum ve entum lâ tuzlemûn(tuzlemûne).",
+      "verseMeaning": "Onlara karşı, gücünüz yettiğince kuvvet hazırlayın. Ordugâhlarda atlar besleyin. Böylece hem Allah´ın düşmanını hem kendi düşmanınızı hem de bunlardan başkalarını korkutabilirsiniz. Siz onları bilmezsiniz ama Allah hepsini bilir. Allah yolunda harcadığınız herşey size tam olarak ödenir; hiçbir haksızlığa uğratılmazsınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 9,
+      "ayah": 69,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvetçe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كَالَّذِينَ مِنْ قَبْلِكُمْ كَانُوا أَشَدَّ مِنْكُمْ قُوَّةً وَأَكْثَرَ أَمْوَالًا وَأَوْلَادًا فَاسْتَمْتَعُوا بِخَلَاقِهِمْ فَاسْتَمْتَعْتُمْ بِخَلَاقِكُمْ كَمَا اسْتَمْتَعَ الَّذِينَ مِنْ قَبْلِكُمْ بِخَلَاقِهِمْ وَخُضْتُمْ كَالَّذِي خَاضُوا ۚ أُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Kellezîne min kablikum kânû eşedde minkum kuvveten ve eksere emvâlen ve evlâdâ(evlâden), festemteû bi halâkihim, festemta’tum bi halâkikum kemastemteallezîne min kablikum bi halâkihim ve hudtum kellezî hâdû, ulâike habitat a’mâluhum fid dunyâ vel âhıreh(âhıreti), ve ulâike humul hâsirûn (hâsirûne).",
+      "verseMeaning": "Tıpkı sizden öncekiler gibi. Onlar kuvvetçe sizden daha zorlu, mallar ve çocuklar bakımından daha zengindiler. Kendi nasipleriyle zevk sürdüler. Siz de kendi payınıza düşenle zevk sürdünüz. Tıpkı sizden öncekilerin kendi nasipleriyle zevklendikleri gibi. Tıpkı onların dalıp gittiği gibi siz de dalıp gittiniz. İşte böylelerinin amelleri dünyada da âhirette de boşa çıkmıştır. İşte böyleleri hüsrana batmıştır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 11,
+      "ayah": 52,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "güç",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَيَا قَوْمِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا مُجْرِمِينَ",
+      "verseTransliteration": "Ve yâ kavmistagfirû rabbekum summe tûbû ileyhi yursilis semâe aleykum midrâran ve yezidkum kuvveten ilâ kuvvetikum ve lâ tetevellev mucrimîn(mucrimîne).",
+      "verseMeaning": "\"Ey toplumum! Rabbinizden af dileyin, sonra O´na yönelin ki üzerinize göğü bol bol göndersin, kuvvetinize kuvvet katsın. Günahkârlar olup da Allah´tan yüz çevirmeyin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 11,
+      "ayah": 52,
+      "formInAyah": "قُوَّتِكُمْ",
+      "transliteration": "ḳuvvetikum",
+      "gloss": "gücünüze",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَيَا قَوْمِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا مُجْرِمِينَ",
+      "verseTransliteration": "Ve yâ kavmistagfirû rabbekum summe tûbû ileyhi yursilis semâe aleykum midrâran ve yezidkum kuvveten ilâ kuvvetikum ve lâ tetevellev mucrimîn(mucrimîne).",
+      "verseMeaning": "\"Ey toplumum! Rabbinizden af dileyin, sonra O´na yönelin ki üzerinize göğü bol bol göndersin, kuvvetinize kuvvet katsın. Günahkârlar olup da Allah´tan yüz çevirmeyin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 11,
+      "ayah": 80,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "bir gücüm",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ",
+      "verseTransliteration": "Kâle lev enne lî bikum kuvveten ev âvî ilâ ruknin şedîd(şedîdin).",
+      "verseMeaning": "Dedi: \"Ah, size karşı koyacak bir gücüm olsaydı yahut sağlam bir kaleye sığınabilseydim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 16,
+      "ayah": 92,
+      "formInAyah": "قُوَّةٍ",
+      "transliteration": "ḳuvvetin",
+      "gloss": "kuvvetli",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَلَا تَكُونُوا كَالَّتِي نَقَضَتْ غَزْلَهَا مِنْ بَعْدِ قُوَّةٍ أَنْكَاثًا تَتَّخِذُونَ أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ أَنْ تَكُونَ أُمَّةٌ هِيَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ اللَّهُ بِهِ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيَامَةِ مَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+      "verseTransliteration": "Ve lâ tekûnû kelletî nekadat gazlehâ min ba’di kuvvetin enkâsâ(enkâsen), tettehızûne eymânekum dehalen beynekum en tekûne ummetun hiye erbâ min ummeh(ummetin), innemâ yeblûkumullâhu bih(bihî), ve le yubeyyinenne lekum yevmel kıyâmeti mâ kuntum fîhi tahtelifûn(tahtelifûne).",
+      "verseMeaning": "Yeminleri bozmada, ipliğini kuvvetle büktükten sonra bozup parçalayan karı gibi olmayın. Bir topluluk ötekinden daha zengin ve kalabalık çıktığı için yeminlerinizi aranızda bir hile aracı yapıyorsunuz. Allah sizi bununla imtihan ediyor; ihtilafa düştüğünüz şeyleri kıyamet günü size açık bir biçimde elbette gösterecektir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 18,
+      "ayah": 39,
+      "formInAyah": "قُوَّةَ",
+      "transliteration": "ḳuvvete",
+      "gloss": "kuvvet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ ۚ إِنْ تَرَنِ أَنَا أَقَلَّ مِنْكَ مَالًا وَوَلَدًا",
+      "verseTransliteration": "Ve lev lâ iz dehalte cenneteke kulte mâ şâallâhu lâ kuvvete illâ billâh(billâhi), in tereni ene ekalle minke mâlen ve veledâ(veleden).",
+      "verseMeaning": "\"Bağına girdiğinde, ´Mâşallah, kuvvet yalhız Allah´tandır!´ desen olmaz mıydı? Gerçi sen beni, malca ve evlatça senden basit görüyorsun ama,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 18,
+      "ayah": 95,
+      "formInAyah": "بِقُوَّةٍ",
+      "transliteration": "biḳuvvetin",
+      "gloss": "güçle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+      "verseTransliteration": "Kâle mâ mekkennî fîhi rabbî hayrun fe eînûnî bi kuvvetin ec’al beynekum ve beynehum redmâ(redmen).",
+      "verseMeaning": "Dedi: \"Rabbimin beni içinde tuttuğu imkân ve güç daha üstündür. Siz bana bedensel gücünüzle destek verin de onlarla sizin aranıza çok muhkem bir engel çekeyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 19,
+      "ayah": 12,
+      "formInAyah": "بِقُوَّةٍ",
+      "transliteration": "biḳuvvetin",
+      "gloss": "kuvvetle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا",
+      "verseTransliteration": "Yâ yahyâ huzil kitâbe bi kuvveh(kuvvetin), ve âteynâhul hukme sabiyyâ(sabiyyen).",
+      "verseMeaning": "\"Ey Yahya! Kitap´ı kuvvetle tut.\" Biz ona daha sabi iken hikmet verdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 27,
+      "ayah": 33,
+      "formInAyah": "قُوَّةٍ",
+      "transliteration": "ḳuvvetin",
+      "gloss": "güç",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "قَالُوا نَحْنُ أُولُو قُوَّةٍ وَأُولُو بَأْسٍ شَدِيدٍ وَالْأَمْرُ إِلَيْكِ فَانْظُرِي مَاذَا تَأْمُرِينَ",
+      "verseTransliteration": "Kâlû nahnu ûlû kuvvetin ve ûlû be’sin şedîdin vel emru ileyki fenzurî mâzâ te’murîn(te’murîne).",
+      "verseMeaning": "Dediler ki: \"Biz çok güçlüyüz, çok yaman savaşırız. Buyruk senin. Ne karar vereceğini sen bilirsin.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 28,
+      "ayah": 76,
+      "formInAyah": "الْقُوَّةِ",
+      "transliteration": "l-ḳuvveti",
+      "gloss": "kuvvet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ قَارُونَ كَانَ مِنْ قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ بِالْعُصْبَةِ أُولِي الْقُوَّةِ إِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْفَرِحِينَ",
+      "verseTransliteration": "İnne kârûne kâne min kavmi mûsâ, fe begâ aleyhim, ve âteynâhu minel kunûzi mâ inne mefâtihahu le tenûu bil usbeti ulil kuvveh(kuvveti), iz kâle lehu kavmuhu lâ tefrah innallâhe lâ yuhıbbul ferihîn(ferihîne).",
+      "verseMeaning": "Şu da bir gerçek ki Karun, Mûsa kavmindendi. Onlara karşı şımarıklık/azgınlık yaptı. Ona öyle hazineler vermiştik ki, anahtarlarını taşımak, kuvvetli bir grubu bile zorluyordu. Kavmi ona şöyle demişti: \"Şımarma, çünkü Allah, şımaranları sevmez.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 28,
+      "ayah": 78,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي ۚ أَوَلَمْ يَعْلَمْ أَنَّ اللَّهَ قَدْ أَهْلَكَ مِنْ قَبْلِهِ مِنَ الْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْأَلُ عَنْ ذُنُوبِهِمُ الْمُجْرِمُونَ",
+      "verseTransliteration": "Kâle innemâ ûtîtuhu alâ ilmin indî, e ve lem ya’lem ennellâhe kad ehleke min kablihî minel kurûni men huve eşeddu minhu kuvveten ve ekseru cem’â(cem’an), ve lâ yus’elu an zunûbihimul mucrimûn(mucrimûne).",
+      "verseMeaning": "O dedi: \"Bu servet bana, bendeki bir ilim sayesinde verildi.\" Peki o bilmedi mi ki Allah, önceki nesiller içinden ondan kuvvetçe daha zorlu, sayıca daha çok olanları bile helâk etmiştir. Günahlarının ne olduğu, günahkârlardan sorulmaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 30,
+      "ayah": 9,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۚ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ ۖ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+      "verseTransliteration": "E ve lem yesîrû fîl ardı fe yenzurû keyfe kâne âkıbetullezîne min kablihim, kânû eşedde minhum kuvveten, ve esârûl arda ve amerûhâ eksera mimmâ amerûhâ ve câethum rusuluhum bil beyyinât(beyyinâti), fe mâ kânallâhu li yazlimehum ve lâkin kânû enfusehum yazlimûn(yazlimûne).",
+      "verseMeaning": "Yeryüzünde dolaşıp bir bakmıyorlar mı ki, nasıl oldu kendilerinden öncekilerin sonu? Onlar kuvvet yönünden bunlardan daha ağır ve baskındılar. Toprağı eşip deşip didik didik etmişlerdi. Ve yeryüzünü, bunların imar ettiklerinden çok daha fazla imar etmişlerdi. Ve resulleri onlara açık seçik deliller getirmişti. O halde, Allah onlara zulmediyor değildi. Doğrusu, onlardı öz benliklerine zulmedip duranlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 30,
+      "ayah": 54,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "bir kuvvet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَاءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
+      "verseTransliteration": "Allâhullezî halakakum min da’fin summe ceale min ba’di da’fin kuvveten summe ceale min ba’di kuvvetin da’fen ve şeybeh(şeybeten), yahluku mâ yeşâu, ve huvel alîmul kadîr(kadîru).",
+      "verseMeaning": "Allah O´dur ki, sizi bir güçsüzlükten yarattı. Sonra o güçsüzlüğün arkasından bir kuvvet oluşturdu. Sonra o kuvvetin arkasından bir güçsüzlük ve ihtiyarlığa vücut verdi. Dilediğini yaratır. Alîm´dir O, Kadîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 30,
+      "ayah": 54,
+      "formInAyah": "قُوَّةٍ",
+      "transliteration": "ḳuvvetin",
+      "gloss": "kuvvet-",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَاءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
+      "verseTransliteration": "Allâhullezî halakakum min da’fin summe ceale min ba’di da’fin kuvveten summe ceale min ba’di kuvvetin da’fen ve şeybeh(şeybeten), yahluku mâ yeşâu, ve huvel alîmul kadîr(kadîru).",
+      "verseMeaning": "Allah O´dur ki, sizi bir güçsüzlükten yarattı. Sonra o güçsüzlüğün arkasından bir kuvvet oluşturdu. Sonra o kuvvetin arkasından bir güçsüzlük ve ihtiyarlığa vücut verdi. Dilediğini yaratır. Alîm´dir O, Kadîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 35,
+      "ayah": 44,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ وَكَانُوا أَشَدَّ مِنْهُمْ قُوَّةً ۚ وَمَا كَانَ اللَّهُ لِيُعْجِزَهُ مِنْ شَيْءٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ ۚ إِنَّهُ كَانَ عَلِيمًا قَدِيرًا",
+      "verseTransliteration": "E ve lem yesîrû fîl ardı fe yenzurû keyfe kâne âkıbetullezîne min kablihim ve kânû eşedde minhum kuvveh(kuvveten), ve mâ kânallâhu lî yu’cizehu min şey’in fîs semâvâti ve lâ fîl ard(ardı), innehu kâne alîmen kadîrâ(kadîren).",
+      "verseMeaning": "Yeryüzünde dolaşıp da kendilerinden öncekilerin sonlarının nasıl olduğunu görmediler mi? Onlar, kuvvet bakımından bunlardan daha zorluydular. Göklerde de yerde de Allah´ı âciz bırakacak hiçbir şey yoktur. Alîm´dir O, Kadîr´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 40,
+      "ayah": 21,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ كَانُوا مِنْ قَبْلِهِمْ ۚ كَانُوا هُمْ أَشَدَّ مِنْهُمْ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ وَمَا كَانَ لَهُمْ مِنَ اللَّهِ مِنْ وَاقٍ",
+      "verseTransliteration": "E ve lem yesîrû fîl ardı fe yenzurû keyfe kâne âkibetullezîne kânû min kablihim, kânû hum eşedde min hum kuvveten ve âsâran fîl ardı fe ehazehumullâhu bi zunûbihim ve mâ kâne lehum minallâhi min vâk(vâkın).",
+      "verseMeaning": "Yeryüzünde gezip dolaşmadılar mı ki kendilerinden öncekilerin sonları nice olmuş görsünler? Onlar, hem kuvvetçe hem de yeryüzündeki eserler bakımından bunlardan daha zorlu idiler. Ama Allah onları günahları yüzünden yakaladı. Ve Allah´a karşı bir koruyanları da olmadı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 40,
+      "ayah": 82,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۚ كَانُوا أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً وَآثَارًا فِي الْأَرْضِ فَمَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يَكْسِبُونَ",
+      "verseTransliteration": "E fe lem yesîrû fîl ardı fe yenzurû keyfe kâne âkıbetullezîne min kablihim, kânû eksere minhum ve eşedde kuvveten ve âsâren fîl ardı femâ agnâ anhum mâ kânû yeksibûn(yeksibûne).",
+      "verseMeaning": "Yeryüzünde dolaşıp da kendilerinden öncekilerin sonu nice olmuş diye bakmıyorlar mı? Öncekiler bunlardan sayıca daha çok, kuvvetçe daha zorlu ve yeryüzündeki eserler bakımından daha üstün idiler. Ama kazanmış oldukları şeyler, kendilerine hiçbir yarar sağlamadı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 41,
+      "ayah": 15,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvveti",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا بِآيَاتِنَا يَجْحَدُونَ",
+      "verseTransliteration": "Fe emmâ âdun festekberû fîl ardı bi gayril hakkı ve kâlû men eşeddu minnâ kuvveh(kuvveten), e ve lem yerev ennellâhellezî halakahum huve eşeddu minhum kuvveh(kuvveten) ve kânû bi âyâtinâ yechadûn(yechadûne).",
+      "verseMeaning": "Âd toplumu yeryüzünde haksız bir biçimde büyüklük tasladı da şöyle dediler: \"Bizden daha güçlü kim var?\" Onlar, kendilerini yaratan Allah´ın, evet O´nun, onlardan daha kuvvetli olduğunu görmediler mi? Bunlar, bizim ayetlerimize de karşı çıkıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 41,
+      "ayah": 15,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvetçe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا بِآيَاتِنَا يَجْحَدُونَ",
+      "verseTransliteration": "Fe emmâ âdun festekberû fîl ardı bi gayril hakkı ve kâlû men eşeddu minnâ kuvveh(kuvveten), e ve lem yerev ennellâhellezî halakahum huve eşeddu minhum kuvveh(kuvveten) ve kânû bi âyâtinâ yechadûn(yechadûne).",
+      "verseMeaning": "Âd toplumu yeryüzünde haksız bir biçimde büyüklük tasladı da şöyle dediler: \"Bizden daha güçlü kim var?\" Onlar, kendilerini yaratan Allah´ın, evet O´nun, onlardan daha kuvvetli olduğunu görmediler mi? Bunlar, bizim ayetlerimize de karşı çıkıyorlardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 47,
+      "ayah": 13,
+      "formInAyah": "قُوَّةً",
+      "transliteration": "ḳuvveten",
+      "gloss": "kuvvet bakımından",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَكَأَيِّنْ مِنْ قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ أَهْلَكْنَاهُمْ فَلَا نَاصِرَ لَهُمْ",
+      "verseTransliteration": "Ve keeyyin min karyetin hiye eşeddu kuvveten min karyetikelletî ahrecetke, ehleknâhum fe lâ nâsıra lehum.",
+      "verseMeaning": "Seni yerinden çıkaran o kentinden çok daha kuvvetlice nice kentler vardı ki, biz hepsini helâk ettik; hiçbir yardımcıları olmadı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 51,
+      "ayah": 58,
+      "formInAyah": "الْقُوَّةِ",
+      "transliteration": "l-ḳuvveti",
+      "gloss": "kuvvet",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+      "verseTransliteration": "İnnallâhe huver rezzâku zul kuvvetil metîn(metînu).",
+      "verseMeaning": "Hiç kuşkusuz, Allah Rezzâk´tır, bol bol rızık verir. Kuvvet sahibidir, Metîn´dir, güçlü ve dayanıklıdır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 53,
+      "ayah": 5,
+      "formInAyah": "الْقُوَىٰ",
+      "transliteration": "l-ḳuvā",
+      "gloss": "kuvvetleri",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "عَلَّمَهُ شَدِيدُ الْقُوَىٰ",
+      "verseTransliteration": "Allemehu şedîdul kuvâ.",
+      "verseMeaning": "Kuvvetleri çok müthiş olan belletip öğretti onu ona."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 81,
+      "ayah": 20,
+      "formInAyah": "قُوَّةٍ",
+      "transliteration": "ḳuvvetin",
+      "gloss": "güç",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+      "verseTransliteration": "Zî kuvvetin ınde zil arşi mekîn(mekînin).",
+      "verseMeaning": "Çok güçlüdür o elçi, Arş sahibinin katında saygındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قُوَّة",
+      "sura": 86,
+      "ayah": 10,
+      "formInAyah": "قُوَّةٍ",
+      "transliteration": "ḳuvvetin",
+      "gloss": "gücü",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+      "verseTransliteration": "Femâ lehu min kuvvetin ve lâ nâsır(nâsırın).",
+      "verseMeaning": "Artık onun için ne bir kuvvet vardır ne de bir yardımcı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 57,
+      "ayah": 25,
+      "formInAyah": "قَوِيٌّ",
+      "transliteration": "ḳaviyyun",
+      "gloss": "kuvvetlidir",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+      "verseTransliteration": "Lekad erselnâ rusulenâ bil beyyinâti ve enzelnâ meahumul kitâbe vel mîzâne li yekûmen nâsu bil kıst(kıstı), ve enzelnel hadîde fîhi be’sun şedîdun ve menâfiu lin nâsi ve li ya’lemallâhu men yensuruhu ve rusulehu bil gayb(gaybi), innellâhe kavîyyun azîz(azîzun).",
+      "verseMeaning": "Yemin olsun, biz, resullerimizi açık seçik delillerle gönderdik ve onlarla birlikte Kitap´ı ve ölçüyü de indirdik ki, insanlar adaleti ayakta tutsunlar/adaletle doğrulsunlar. Ve demiri de indirdik. Onda zorlu bir kuvvet ve insanlar için birçok yarar vardır. Allah bu sayede, kendisine ve resullerine, gayba inanarak kimin yardım edeceğini bilecektir. Allah Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 58,
+      "ayah": 21,
+      "formInAyah": "قَوِيٌّ",
+      "transliteration": "ḳaviyyun",
+      "gloss": "güçlüdür",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+      "verseTransliteration": "Keteballâhu le aglibenne ene ve rusulî, innallâhe kaviyyun azîz(azîzun).",
+      "verseMeaning": "Allah, \"Ben ve resullerim mutlaka galip geleceğiz!\" diye yazmıştır. Allah çok güçlüdür, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 8,
+      "ayah": 52,
+      "formInAyah": "قَوِيٌّ",
+      "transliteration": "ḳaviyyun",
+      "gloss": "güçlüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِنْ قَبْلِهِمْ ۚ كَفَرُوا بِآيَاتِ اللَّهِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ اللَّهَ قَوِيٌّ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Ke de´bi âli fir´avne vellezîne min kablihim, keferû bi âyâtillâhi fe ehazehumullâhu bi zunûbihim, innallâhe kaviyyun şedîdul ıkâb(ıkâbi).",
+      "verseMeaning": "Tıpkı Firavun hanedanı ve onlardan öncekilerin gidişi gibi. Allah´ın ayetlerini inkâr ettiler de Allah onları günahları yüzünden yakalayıverdi. Allah Kavîdir, çok güçlüdür; azabı çok şiddetli yapandır O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 11,
+      "ayah": 66,
+      "formInAyah": "الْقَوِيُّ",
+      "transliteration": "l-ḳaviyyu",
+      "gloss": "güçlüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ ۗ إِنَّ رَبَّكَ هُوَ الْقَوِيُّ الْعَزِيزُ",
+      "verseTransliteration": "Fe lemmâ câe emrunâ necceynâ sâlihan vellezîne âmenû meahu bi rahmetin minnâ ve min hizyi yevmi iz(izin), inne rabbeke huvel kaviyyul azîz(azîzu).",
+      "verseMeaning": "Emrimiz gelince Sâlih´i ve onunla birlikte iman edenleri bizden bir rahmetle kurtardık. O günün rezilliğinden kurtardık. Senin Rabbin, evet O, Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 22,
+      "ayah": 40,
+      "formInAyah": "لَقَوِيٌّ",
+      "transliteration": "leḳaviyyun",
+      "gloss": "kuvvetlidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ إِلَّا أَنْ يَقُولُوا رَبُّنَا اللَّهُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا ۗ وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+      "verseTransliteration": "Ellezîne uhricû min diyârihim bi gayri hakkın illâ en yekûlû rabbunallâh(rabbunallâhu), ve lev lâ def’ullâhin nâse ba’dahum bi ba’dın lehuddimet savâmıu ve biyaun ve salavâtun ve mesâcidu yuzkeru fîhesmullâhi kesîrâ(kesîran), ve le yansurennallâhu men yansuruh(yansuruhu), innallâhe le kaviyyun azîz(azîzun).",
+      "verseMeaning": "Onlar sırf, \"Rabbimiz Allah´tır\" dedikleri için yurtlarından çıkarıldılar. Eğer Allah´ın, insanların bir kısmını bir kısmıyla defetmesi olmasaydı, içlerinde Allah´ın adı çokça anılan manastırlar, kiliseler, havralar ve mescitler her halde yerle bir edilirdi. Allah, kendisine yardım edene elbette yardım eder. Allah elbette Kavî, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 22,
+      "ayah": 74,
+      "formInAyah": "لَقَوِيٌّ",
+      "transliteration": "leḳaviyyun",
+      "gloss": "kuvvetlidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+      "verseTransliteration": "Mâ kaderûllâhe hakka kadrih(kadrihî), innallâhe le kaviyyun azîz(azîzun).",
+      "verseMeaning": "Allah´ı, şanına yaraşır biçimde takdir edemediler. Allah elbette Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 27,
+      "ayah": 39,
+      "formInAyah": "لَقَوِيٌّ",
+      "transliteration": "leḳaviyyun",
+      "gloss": "gücüm yeter",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَ عِفْرِيتٌ مِنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَنْ تَقُومَ مِنْ مَقَامِكَ ۖ وَإِنِّي عَلَيْهِ لَقَوِيٌّ أَمِينٌ",
+      "verseTransliteration": "Kâle ıfrîtun minel cinni ene âtîke bihî kable en tekûme min makâmik(makâmike) ve innî aleyhi le kaviyyun emîn(emînun).",
+      "verseMeaning": "Cinlerden bir ifrit şöyle dedi: \"Sen daha makamından kalkmadan, onu sana getirebilirim. Ben bunu yapacak güçteyim ve gerçekten güvenilir biriyim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 28,
+      "ayah": 26,
+      "formInAyah": "الْقَوِيُّ",
+      "transliteration": "l-ḳaviyyu",
+      "gloss": "en güçlüsüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ",
+      "verseTransliteration": "Kâlet ıhdâhumâ yâ ebetiste’cirhu inne hayra meniste’certel kaviyyul emîn(emînu).",
+      "verseMeaning": "Kadınlardan biri şöyle dedi: \"Babacağım, ücretle tut onu. Her halde ücretle çalıştırdıklarının en hayırlısı olacak; güçlü, güvenilir biri.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 33,
+      "ayah": 25,
+      "formInAyah": "قَوِيًّا",
+      "transliteration": "ḳaviyyen",
+      "gloss": "güçlüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا",
+      "verseTransliteration": "Ve reddallâhullezîne keferû bi gayzıhim lem yenâlû hayrâ(hayran), ve kefallâhul mu’minînel kıtâl, ve kânallâhu kaviyyen azîzâ(azîzen).",
+      "verseMeaning": "Allah, küfre sapanları öfkeleriyle yüz geri etti; hiçbir hayra ulaşamadılar. Allah, çarpışma sırasında müminler için yeterli oldu. Allah Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 40,
+      "ayah": 22,
+      "formInAyah": "قَوِيٌّ",
+      "transliteration": "ḳaviyyun",
+      "gloss": "güçlüdür",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ بِأَنَّهُمْ كَانَتْ تَأْتِيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَكَفَرُوا فَأَخَذَهُمُ اللَّهُ ۚ إِنَّهُ قَوِيٌّ شَدِيدُ الْعِقَابِ",
+      "verseTransliteration": "Zâlike bi ennehum kânet te’tîhim rusuluhum bil beyyinâti fe keferû fe ehazehumullâh(ehazehumullâhu), innehu kaviyyun şedîdul ikâb(ikâbi).",
+      "verseMeaning": "Sebep şuydu: Resulleri onlara açık seçik mesajlar getirirdi de onlar inkâr ederlerdi. Sonunda Allah hepsini yakaladı. O çok güçlüdür, azabı da şiddetlidir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">قَوِىّ",
+      "sura": 42,
+      "ayah": 19,
+      "formInAyah": "الْقَوِيُّ",
+      "transliteration": "l-ḳaviyyu",
+      "gloss": "kuvvetlidir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ ۖ وَهُوَ الْقَوِيُّ الْعَزِيزُ",
+      "verseTransliteration": "Allâhu latîfun bi ibâdihî yerzuku men yeşâu, ve huvel kavîyyul azîz(azîzu).",
+      "verseMeaning": "Allah, kullarına çok lütufkârdır; dilediğini rızıklandırır. O´dur en güçlü, O´dur en yüce..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُقْوِين",
+      "sura": 56,
+      "ayah": 73,
+      "formInAyah": "لِلْمُقْوِينَ",
+      "transliteration": "lilmuḳvīne",
+      "gloss": "çölden gelip geçenlere",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْوِينَ",
+      "verseTransliteration": "Nahnu cealnâhâ tezkireten ve metâan lil mukvîn(mukvîne).",
+      "verseMeaning": "Biz onu hem bir ibret hem de çöl yolcularına bir nimet kıldık."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=qwy"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "trq",
+  "latinName": "Te-Ra-Kaf",
+  "lettersArabic": "ت ر ق",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "تَّرَاقِى",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَّرَاقِى",
+      "sura": 75,
+      "ayah": 26,
+      "formInAyah": "التَّرَاقِيَ",
+      "transliteration": "t-terāḳiye",
+      "gloss": "köprücük kemiklerine",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tefâ’ul Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+      "verseTransliteration": "Kellâ izâ belegatit terâkıy(terâkıye).",
+      "verseMeaning": "İş, onların sandığı gibi değil! Can, köprücüklere dayandığında,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=trq"
+}

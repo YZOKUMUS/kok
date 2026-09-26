@@ -1,0 +1,45 @@
+{
+  "id": "vrb",
+  "latinName": "Se-Ra-Be",
+  "lettersArabic": "ث ر ب",
+  "meanings": [
+    "reproach, blame, find fault with."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "تَثْرِيب",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَثْرِيب",
+      "sura": 12,
+      "ayah": 92,
+      "formInAyah": "تَثْرِيبَ",
+      "transliteration": "teṧrībe",
+      "gloss": "kınama",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+      "verseTransliteration": "Kâle lâ tesrîbe aleykumul yevm(yevme), yagfirullâhu lekum ve huve erhamur râhimîn(râhimîne).",
+      "verseMeaning": "Yûsuf dedi: \"Bugün azarlanmayacaksınız. Allah sizi affeder. O, rahmet edenlerin en merhametlisidir.\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=vrb"
+}

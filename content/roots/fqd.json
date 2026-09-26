@@ -1,0 +1,88 @@
+{
+  "id": "fqd",
+  "latinName": "Fe-Kaf-Dal",
+  "lettersArabic": "ف ق د",
+  "meanings": [
+    "Kaybetmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "تَفْقِدُ",
+      "count": 2
+    },
+    {
+      "formArabic": "تَفَقَّدَ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفْقِدُ",
+      "sura": 12,
+      "ayah": 71,
+      "formInAyah": "تَفْقِدُونَ",
+      "transliteration": "tefḳidūne",
+      "gloss": "kaybettiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا وَأَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ",
+      "verseTransliteration": "Kâlû ve akbelû aleyhim mâzâ tefkidûn(tefkidûne).",
+      "verseMeaning": "Onlara dönüp şöyle dediler: \"Ne kaybettiniz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفْقِدُ",
+      "sura": 12,
+      "ayah": 72,
+      "formInAyah": "نَفْقِدُ",
+      "transliteration": "nefḳidu",
+      "gloss": "kaybettik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ",
+      "verseTransliteration": "Kâlû nefkıdu suvâalmeliki ve li men câe bihî hımlu beîrin ve ene bihî za’îm(za’îmun).",
+      "verseMeaning": "Dediler: \"Kralın su tasını kaybettik. Onu getirene bir deve yükü ödül var. Kefili benim.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَفَقَّدَ",
+      "sura": 27,
+      "ayah": 20,
+      "formInAyah": "وَتَفَقَّدَ",
+      "transliteration": "ve tefeḳḳade",
+      "gloss": "ve teftiş etti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tefa’ul Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "pattern": "Tefa’ul Kalıbı"
+      },
+      "verseArabic": "وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ",
+      "verseTransliteration": "Ve tefekkadat tayra fe kâle mâliye lâ eral hudhude em kâne minel gâibîn(gâibîne).",
+      "verseMeaning": "Kuşları teftiş etti de dedi ki: \"Hüdhüd´ü neden göremiyorum, yoksa kayıplara mı karıştı?\""
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fqd"
+}

@@ -1,0 +1,708 @@
+{
+  "id": "$ms",
+  "latinName": "Şin-Mim-Sin",
+  "lettersArabic": "ش م س",
+  "meanings": [
+    "to be bright with sunshine, be glorious, be sunny. shams - sun."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 33,
+  "lemmas": [
+    {
+      "formArabic": "شَمْس",
+      "count": 33
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 2,
+      "ayah": 258,
+      "formInAyah": "بِالشَّمْسِ",
+      "transliteration": "biş-şemsi",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "verseTransliteration": "E lem tera ilellezî hâcce ibrâhîme fî rabbihî en âtâhullâhul mulk(mulke), iz kâle ibrâhîmu rabbiyellezî yuhyî ve yumîtu, kâle ene uhyî ve umît(umîtu), kâle ibrâhîmu fe innallâhe ye’tî biş şemsi minel maşrıkı fe’ti bihâ minel magribi fe buhitellezî kefer(kefere), vallâhu lâ yehdil kavmez zâlimîn(zâlimîne).",
+      "verseMeaning": "Allah kendisine mülk ve saltanat verdiği için, Rabb´i hakkında İbrahim´le çekişeni görmedin mi? İbrahim şöyle demişti: \"Benim Rabb´im odur ki, hayat verir ve öldürür.\" O da şöyle demişti: \"Ben de hayat veririm, hem de öldürürüm.\" İbrahim, \"Allah, güneşi doğudan getiriyor, hadi sen onu batıdan getir\" deyince, küfre sapan o adam apışıp kalmıştı. Allah, zalimler toplumunu doğruya ve güzele kılavuzlamaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 6,
+      "ayah": 78,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَلَمَّا رَأَى الشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّي هَٰذَا أَكْبَرُ ۖ فَلَمَّا أَفَلَتْ قَالَ يَا قَوْمِ إِنِّي بَرِيءٌ مِمَّا تُشْرِكُونَ",
+      "verseTransliteration": "Fe lemmâ reeş şemse bâzigaten kâle hâzâ rabbî,hâzâ ekber(ekberu), fe lemmâ efelet kâle yâ kavmî innî berîun mimmâ tuşrikûn(tuşrikûne).",
+      "verseMeaning": "Nihayet Güneş´in doğmakta olduğunu gördüğünde, \"Benim Rabbim bu, bu daha büyük!\" dedi. O da batıp gidince şöyle seslendi: \"Ortak koştuğunuz şeylerden uzağım ben.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 6,
+      "ayah": 96,
+      "formInAyah": "وَالشَّمْسَ",
+      "transliteration": "ve şşemse",
+      "gloss": "ve güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+      "verseTransliteration": "Fâlikul ısbâh(ısbâhı), ve cealel leyle sekenen veş şemse vel kamere husbânâ(husbânen), zâlike takdîrul azîzil alîm(alîmi).",
+      "verseMeaning": "Şafağı yarıp sabahı ortaya çıkaran/Fâlık O´dur! Geceyi dinlenme zamanı yaptı; Güneş´i ve Ay´ı hesap aracı. İşte budur ölçülendirmesi o Azîz´in, o Alîm´in!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 7,
+      "ayah": 54,
+      "formInAyah": "وَالشَّمْسَ",
+      "transliteration": "ve şşemse",
+      "gloss": "ve güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ",
+      "verseTransliteration": "İnne rabbekumullâhullezî halakas semâvâti vel arda fî sitteti eyyâmin summestevâ alel arşı, yugşîl leylen nehâre yatlubuhu hasîsen veş şemse vel kamere ven nucûme musahharâtin bi emrih(emrihi), e lâ lehul halku vel emr(emru), tebârekallâhu rabbulâlemîn(âlemîne).",
+      "verseMeaning": "Rabbiniz o Allah´tır ki, gökleri ve yeri altı günde yaratmış, sonra da arş üzerinde egemenlik kurmuştur. Geceyi gündüze bürüyüp örter. O bunu, bu da onu aralıksız ve titiz bir biçimde kovalar durur. Güneş, Ay, yıldızlar O´nun emrine boyun eğmiş. Gözünüzü açın; yaratış da O´nundur, emir veriş de/yaratış da O´nun içindir, emir veriş de. Alemlerin Rabbi olan Allah çok yücedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 10,
+      "ayah": 5,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ لِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ مَا خَلَقَ اللَّهُ ذَٰلِكَ إِلَّا بِالْحَقِّ ۚ يُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+      "verseTransliteration": "Huvellezî cealeş şemse dıyâen vel kamere nûren ve kadderehu menâzile li ta´lemû adedes sinîne vel hisâb(hisâbe), mâ halakallâhu zâlike illâ bil hakk(hakkı), yufassılul âyâti li kavmin ya´lemûn(ya´lemûne).",
+      "verseMeaning": "Güneş´i ısı ve ışık kaynağı; Ay´ı, hesabı ve yılların sayısını bilesiniz diye bir nur yapıp ona evreler takdir eden O´dur. Allah bütün bunları rastgele değil, şaşmaz ölçülere bağlı olarak yaratmıştır. Bilgiyle donanmış bir topluluk için ayetleri ayrıntılı kılıyor."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 12,
+      "ayah": 4,
+      "formInAyah": "وَالشَّمْسَ",
+      "transliteration": "ve şşemse",
+      "gloss": "ve güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ",
+      "verseTransliteration": "İz kâle yûsufu li ebîhi yâ ebeti innî re eytu ehade aşere kevkeben veş şemse vel kamere re eytuhum lî sâcidîn(sâcidîne).",
+      "verseMeaning": "Bir vakit Yûsuf babasına şöyle demişti: \"Babacığım, ben rüyada on bir yıldızla, Güneş´i ve Ay´ı gördüm; onları bana secde ediyorlar gördüm.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 13,
+      "ayah": 2,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۚ يُدَبِّرُ الْأَمْرَ يُفَصِّلُ الْآيَاتِ لَعَلَّكُمْ بِلِقَاءِ رَبِّكُمْ تُوقِنُونَ",
+      "verseTransliteration": "Allâhullezî refeas semavâti bi gayri amedin terevnehâ summestevâ alel arşı ve sehhareş şemse vel kamer(kamere), kullun yecrî li ecelin musemmâ(musemmen), yudebbirul emre yufassılul âyâti leallekum bi likâi rabbikum tûkınûn(tûkınûne).\"",
+      "verseMeaning": "Allah odur ki, gökleri direksiz yükseltmiştir; görüyorsunuz onları... Sonra arş üzerine egemen olmuştur. Güneş´i ve Ay´ı da boyun eğdirmiştir. Bunların tümü belirlenmiş bir vakte kadar akar dururlar. Oluşu yönlendirir, çekip çevirir O... Ayetleri birer birer gözler önüne serer ki, Rabbinize kavuşacağınıza açık seçik inanasınız."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 14,
+      "ayah": 33,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَائِبَيْنِ ۖ وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ",
+      "verseTransliteration": "Ve sehhare lekumuş şemse vel kamere dâibeyn(dâibeyni), ve sehhare lekumul leyle ven nehâr(nehâra).",
+      "verseMeaning": "Görevlerini şaşmadan yapmak üzere Güneş´i ve Ay´ı da size boyun eğdirdi. Geceyi ve gündüzü de hizmetinize verdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 16,
+      "ayah": 12,
+      "formInAyah": "وَالشَّمْسَ",
+      "transliteration": "ve şşemse",
+      "gloss": "ve güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ وَالنُّجُومُ مُسَخَّرَاتٌ بِأَمْرِهِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "verseTransliteration": "Ve sehhara lekumul leyle ven nehâre veş şemse vel kamer(kamere), ven nucûmu musahharâtun bi emrih(emrihî), inne fî zâlike le âyâtin li kavmin ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Geceyi, gündüzü, Güneş´i ve Ay´ı sizin emrinize vermiştir. Yıldızlar da O´nun emriyle bir hizmete boyun eğmiştir. Bütün bunlarda, aklını çalıştıran bir topluluk için elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 17,
+      "ayah": 78,
+      "formInAyah": "الشَّمْسِ",
+      "transliteration": "ş-şemsi",
+      "gloss": "güneşin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+      "verseTransliteration": "Ekımis salâte li dulûkiş şemsi ilâ gasakıl leyli ve kur’ânel fecr(fecri), inne kur’ânel fecri kâne meşhûdâ(meşhûden).",
+      "verseMeaning": "Güneşin kaymasından/aşağı sarkmasından, gecenin kararmasına kadar namazı kıl. Sabah Kur´an´ını da gözet. Çünkü sabah Kur´an´ı tanıklarca izlenmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 18,
+      "ayah": 17,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَتَرَى الشَّمْسَ إِذَا طَلَعَتْ تَزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ الْيَمِينِ وَإِذَا غَرَبَتْ تَقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِي فَجْوَةٍ مِنْهُ ۚ ذَٰلِكَ مِنْ آيَاتِ اللَّهِ ۗ مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُ وَلِيًّا مُرْشِدًا",
+      "verseTransliteration": "Ve tereş şemse izâ taleat tezâveru an kehfihim zâtel yemîni ve izâ garabet takrıduhum zâteş şimâli ve hum fî fecvetin minh(minhu), zâlike min âyâtillâh(âyâtillâhi), men yehdillâhu fe huvel muhted(muhtedi), ve men yudlil fe len tecide lehu veliyyen murşidâ(murşiden).",
+      "verseMeaning": "Güneş´i görüyorsun: Doğduğu vakit mağaralarından sağ tarafa kayar, battığı vakit ise onları sol tarafa doğru makaslayıp geçer. Böylece onlar mağaranın geniş boşluğu içindedirler. Bu, Allah´ın mucizelerindendir. Allah´ın kılavuzluk ettiği, doğruyu bulmuştur. Şaşırttığına gelince, sen ona yol gösteren bir velî asla bulamazsın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 18,
+      "ayah": 86,
+      "formInAyah": "الشَّمْسِ",
+      "transliteration": "ş-şemsi",
+      "gloss": "güneşin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ وَوَجَدَ عِنْدَهَا قَوْمًا ۗ قُلْنَا يَا ذَا الْقَرْنَيْنِ إِمَّا أَنْ تُعَذِّبَ وَإِمَّا أَنْ تَتَّخِذَ فِيهِمْ حُسْنًا",
+      "verseTransliteration": "Hattâ izâ belega magribeş şemsi vecedehâ tagrubu fî aynin hamietin ve vecede indehâ kavmâ(kavmen), kulnâ yâ zel karneyni immâ en tuazzibe ve immâ en tettehıze fîhim husnâ(husnen).",
+      "verseMeaning": "Nihayet, Güneş´in battığı yere varınca onu kara balçıklı bir gözede batar buldu. Onun yanında bir de kavim buldu. Dedik ki: \"Ey Zülkarneyn, ya bunlara azap edersin ya da haklarında güzel bir tavrı esas alırsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 18,
+      "ayah": 90,
+      "formInAyah": "الشَّمْسِ",
+      "transliteration": "ş-şemsi",
+      "gloss": "güneşin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "حَتَّىٰ إِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍ لَمْ نَجْعَلْ لَهُمْ مِنْ دُونِهَا سِتْرًا",
+      "verseTransliteration": "Hattâ izâ belega matlıaş şemsi vecedehâ tatluu alâ kavmin lem nec’al lehum min dûnihâ sitrâ(sitren).",
+      "verseMeaning": "Bir süre sonra, Güneş´in doğduğu yere varınca onu, ona karşı kendilerine bir siper yapmadığımız bir topluluğun üzerine doğar buldu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 20,
+      "ayah": 130,
+      "formInAyah": "الشَّمْسِ",
+      "transliteration": "ş-şemsi",
+      "gloss": "güneşin",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kable gurûbihâ, ve min ânâil leyli fe sebbih ve etrâfen nehâri lealleke terdâ.",
+      "verseMeaning": "Artık, onların söylediklerine sabret; Güneş´in doğuşundan önce de batışından önce de Rabbini överek tespih et! Gecenin bazı saatleriyle gündüzün iki ucunda da tespih et ki, hoşnutluğa erebilesin."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 21,
+      "ayah": 33,
+      "formInAyah": "وَالشَّمْسَ",
+      "transliteration": "ve şşemse",
+      "gloss": "ve güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+      "verseTransliteration": "Ve huvellezî halakal leyle ven nehâre veş şemse vel kamer(kamere), kullun fî felekin yesbehûn(yesbehûne).",
+      "verseMeaning": "O odur ki, geceyi, gündüzü, Güneş´i ve Ay´ı yarattı. Her biri bir yörüngede yüzmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 22,
+      "ayah": 18,
+      "formInAyah": "وَالشَّمْسُ",
+      "transliteration": "ve şşemsu",
+      "gloss": "ve güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِنَ النَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ ۗ وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ ۚ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ ۩",
+      "verseTransliteration": "E lem tera ennallâhe yescudu lehu men fis semâvâti ve men fîl ardı veş şemsu vel kameru ven nucûmu vel cibâlu veş şeceru ved devabbu ve kesîrun minen nâs(nâsi), ve kesîrun hakka aleyhil azâb(azâbu), ve men yuhinillâhu fe mâ lehu min mukrim(mukrimin), innallâhe yef’alu mâ yeşâ’(yeşâu).(SECDE ÂYETİ)",
+      "verseMeaning": "Görmedin mi göklerdeki kimseler, yerdeki kimseler, Güneş, Ay, yıldızlar, dağlar, ağaçlar, hayvanlar ve insanlardan birçoğu hep Allah´a secde ediyor. Birçoğunun da üzerine azap hak olmuştur. Allah´ın hakir kıldığına ikramda bulunan olmaz. Allah, dilediğini yapar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 25,
+      "ayah": 45,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاءَ لَجَعَلَهُ سَاكِنًا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا",
+      "verseTransliteration": "E lem tere ilâ rabbike keyfe meddez zıll(zılle), ve lev şâe le cealehu sâkinâ(sâkinen), summe cealneş şemse aleyhi delîlâ(delîlen).",
+      "verseMeaning": "Görmedin mi Rabbini, nasıl uzatmıştır gölgeyi? Eğer dileseydi, onu elbette hareketsiz kılardı. Sonra nasıl Güneş´i ona delil yapmışız!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 27,
+      "ayah": 24,
+      "formInAyah": "لِلشَّمْسِ",
+      "transliteration": "lişşemsi",
+      "gloss": "güneşe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَجَدْتُهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِنْ دُونِ اللَّهِ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ فَهُمْ لَا يَهْتَدُونَ",
+      "verseTransliteration": "Vecedtuhâ ve kavmehâ yescudûne liş şemsi min dûnillâhi ve zeyyene lehümuş şeytânu a’mâlehum fe saddehum anis sebîli fe hum lâ yehtedûn(yehtedûne).",
+      "verseMeaning": "\"Onu ve toplumunu, Allah´ı bırakıp güneş´e secde eder buldum. Şeytan onlara, yapıp ettiklerini süslü gösterip onları yoldan saptırmış. Artık doğruyu bulamazlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 29,
+      "ayah": 61,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ",
+      "verseTransliteration": "Ve le in seeltehum men halakas semâvâti vel arda ve sehhareş şemse vel kamere le yekûlunnallâh(yekûlunnallâhu), fe ennâ yu’fekûn(yu’fekûne).",
+      "verseMeaning": "Onlara \"Gökleri ve yeri kim yarattı, Güneş´i ve Ay´ı kim boyun eğdirdi?\" diye sorarsan, mutlaka şöyle diyecekler: \"Allah!\" Peki nasıl döndürülüyorlar?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 31,
+      "ayah": 29,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُسَمًّى وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "verseTransliteration": "E lem tere ennallâhe yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli, ve sehhareş şemse vel kamere kullun yecrî ilâ ecelin musemmen ve ennallâhe bi mâ ta’melûne habîr(habîrun).",
+      "verseMeaning": "Görmedin mi, Allah geceyi gündüzün içine sokuyor, gündüzü de gecenin içine sokuyor. Güneş´i ve Ay´ı bir emre boyun eğdirmiş. Hepsi belirlenmiş bir süreye doğru akıp gidiyor. Kuşkusuz, Allah, yapmakta olduklarınızdan haberdardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 35,
+      "ayah": 13,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ مَا يَمْلِكُونَ مِنْ قِطْمِيرٍ",
+      "verseTransliteration": "Yûlicul leyle fîn nehâri ve yûlicun nehâre fîl leyli ve sehhareş şemse vel kamere kullun yecrî li ecelin musemmâ(musemmen), zâlikumullâhu rabbukum lehul mulk(mulku), vellezîne ted’ûne min dûnihî mâ yemlikûne min kıtmîr(kıtmîrin).",
+      "verseMeaning": "Allah, geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar. Güneş´i ve Ay´ı buyruk altına almıştır. Herbiri belirlenen bir süreye kadar akıp gidiyor. İşte Rabbiniz Allah bu; mülk ve yönetim O´nundur. Onun berisinden yakardıklarınız ise bir çekirdek zarına bile hükmedemezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 36,
+      "ayah": 38,
+      "formInAyah": "وَالشَّمْسُ",
+      "transliteration": "ve şşemsu",
+      "gloss": "ve güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+      "verseTransliteration": "Veş şemsu tecrî li mustekarrin lehâ, zâlike takdîrul azîzil alîm(alîmi).",
+      "verseMeaning": "Güneş, kendine özgü bir durak noktasına/bir durma zamanına doğru akıp gidiyor. Azîz, Alîm olanın takdiridir bu."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 36,
+      "ayah": 40,
+      "formInAyah": "الشَّمْسُ",
+      "transliteration": "ş-şemsu",
+      "gloss": "güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+      "verseTransliteration": "Leş şemsu yenbegî lehâ en tudrikel kamere ve lel leylu sâbikun nehâr(nehâri), ve kullun fî felekin yesbehûn(yesbehûne).",
+      "verseMeaning": "Güneş´in Ay´a ulaşıp çatması gerekmiyor. Gecenin de gündüzü geçmesi gerekmez. Her biri bir yörüngede yüzmektedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 39,
+      "ayah": 5,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۖ يُكَوِّرُ اللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ۗ أَلَا هُوَ الْعَزِيزُ الْغَفَّارُ",
+      "verseTransliteration": "Halakas semâvâti vel arda bil hakk(hakkı), yukevvirul leyle alen nehâri ve yukevvirun nehâre alel leyli ve sehhareş şemse vel kamer(kamere), kullun yecrî li ecelin musemmâ(musemmen), e lâ huvel azîzul gaffâr(gaffâru).",
+      "verseMeaning": "Gökleri ve yeri hak olarak yaratmıştır. Geceyi gündüzün üstüne çekip örtüyor; gündüzü de gecenin üstüne sarıp dürüyor. Güneş´i ve Ay´ı bir buyruğa boyun eğdirmiştir. Hepsi, belirlenmiş bir süreye kadar akıp gider. Gözünüzü açın; Aziz´dir O, Gaffar´dır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 41,
+      "ayah": 37,
+      "formInAyah": "وَالشَّمْسُ",
+      "transliteration": "ve şşemsu",
+      "gloss": "ve güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "verseTransliteration": "Ve min âyâtihil leylu ven nehâru veş şemsu vel kamer(kameru), lâ tescudû liş şemsi ve lâ lil kameri vescudû lillâhillezî halakahunne in kuntum iyyâhu ta’budûn(ta’budûne). (SECDE ÂYETİ)",
+      "verseMeaning": "Gece ve gündüz, Güneş ve Ay onun ayetlerindendir. Eğer sadece Allah´a kulluk/ibadet ediyorsanız, Güneş´e, Ay´a secde etmeyin; onları yaratan Allah´a secde edin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 41,
+      "ayah": 37,
+      "formInAyah": "لِلشَّمْسِ",
+      "transliteration": "lişşemsi",
+      "gloss": "güneşe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "verseTransliteration": "Ve min âyâtihil leylu ven nehâru veş şemsu vel kamer(kameru), lâ tescudû liş şemsi ve lâ lil kameri vescudû lillâhillezî halakahunne in kuntum iyyâhu ta’budûn(ta’budûne). (SECDE ÂYETİ)",
+      "verseMeaning": "Gece ve gündüz, Güneş ve Ay onun ayetlerindendir. Eğer sadece Allah´a kulluk/ibadet ediyorsanız, Güneş´e, Ay´a secde etmeyin; onları yaratan Allah´a secde edin!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 50,
+      "ayah": 39,
+      "formInAyah": "الشَّمْسِ",
+      "transliteration": "ş-şemsi",
+      "gloss": "güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ",
+      "verseTransliteration": "Fasbir alâ mâ yekûlûne ve sebbih bi hamdi rabbike kable tulûış şemsi ve kablel gurûb(gurûbi).",
+      "verseMeaning": "Artık onların söylediklerine sabret ve Güneş´in doğuşundan önce de batışından önce de Rabbinin hamdiyle tespih et!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 55,
+      "ayah": 5,
+      "formInAyah": "الشَّمْسُ",
+      "transliteration": "Eş-şemsu",
+      "gloss": "güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+      "verseTransliteration": "Eş şemsu vel kameru bi husbân(husbânin).",
+      "verseMeaning": "Güneş ve Ay. Hesaba bağlıdır herbirinin her şeyi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 71,
+      "ayah": 16,
+      "formInAyah": "الشَّمْسَ",
+      "transliteration": "ş-şemse",
+      "gloss": "güneşi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+      "verseTransliteration": "Ve cealel kamere fîhinne nûren ve cealeş şemse sirâcâ(sirâcen).",
+      "verseMeaning": "\"Ve Ay´ı, bunlar içinde bir nur yaptı ve Güneş´i bir kandil haline getirdi.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 75,
+      "ayah": 9,
+      "formInAyah": "الشَّمْسُ",
+      "transliteration": "ş-şemsu",
+      "gloss": "güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+      "verseTransliteration": "Ve cumiaş şemsu vel kamer(kameru).",
+      "verseMeaning": "Ve Güneş´le Ay biraraya getirildiğinde,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 76,
+      "ayah": 13,
+      "formInAyah": "شَمْسًا",
+      "transliteration": "şemsen",
+      "gloss": "(yakıcı) güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+      "verseTransliteration": "Muttekiîne fîhâ alel erâik(erâiki), lâ yeravne fîhâ şemsen ve lâ zemherîrâ(zemherîren).",
+      "verseMeaning": "Koltuklar üzerine yaslanarak otururlar orada. Ne bir güneş görürler orada ne de kavurucu bir soğuk..."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 81,
+      "ayah": 1,
+      "formInAyah": "الشَّمْسُ",
+      "transliteration": "ş-şemsu",
+      "gloss": "güneş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ",
+      "verseTransliteration": "İzeş şemsu kuvviret.",
+      "verseMeaning": "Güneş büzülüp dürüldüğünde,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">شَمْس",
+      "sura": 91,
+      "ayah": 1,
+      "formInAyah": "وَالشَّمْسِ",
+      "transliteration": "veşşemsi",
+      "gloss": "güneşe andolsun",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالشَّمْسِ وَضُحَاهَا",
+      "verseTransliteration": "Veş şemsi ve duhâhâ.",
+      "verseMeaning": "Yemin olsun Güneş´e ve ışığının parladığı kuşluk vaktine,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=%24ms"
+}

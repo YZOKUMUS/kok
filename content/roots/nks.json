@@ -1,0 +1,95 @@
+{
+  "id": "nks",
+  "latinName": "Nun-Kef-Sin",
+  "lettersArabic": "ن ك س",
+  "meanings": [
+    "Dönmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "نَاكِسُوا",
+      "count": 1
+    },
+    {
+      "formArabic": "نُكِسُ",
+      "count": 1
+    },
+    {
+      "formArabic": "نُنَكِّسْ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَاكِسُوا",
+      "sura": 32,
+      "ayah": 12,
+      "formInAyah": "نَاكِسُو",
+      "transliteration": "nākisū",
+      "gloss": "öne eğmiş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ نَاكِسُو رُءُوسِهِمْ عِنْدَ رَبِّهِمْ رَبَّنَا أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَالِحًا إِنَّا مُوقِنُونَ",
+      "verseTransliteration": "Ve lev terâ izil mucrimûne nâkısû ruûsihim inde rabbihim, rabbenâ ebsarnâ ve semi’nâ ferci’nâ na’mel sâlihan innâ mûkinûn(mûkinûne).",
+      "verseMeaning": "Günahkârları, Rablerinin huzurunda başlarını eğmiş olarak şöyle derken bir görsen: \"Rabbimiz; gördük, duyduk, geri gönder bizi ki hakka ve barışa yönelik iyi iş yapalım. Artık kesin olarak inanıyoruz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُكِسُ",
+      "sura": 21,
+      "ayah": 65,
+      "formInAyah": "نُكِسُوا",
+      "transliteration": "nukisū",
+      "gloss": "döndürüldüler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ نُكِسُوا عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰؤُلَاءِ يَنْطِقُونَ",
+      "verseTransliteration": "Summe nukisû alâ ruûsihim, lekad alimte mâ hâulâi yentıkûn(yentıkûne).",
+      "verseMeaning": "Sonra, yine kendi kafalarına döndürüldüler: \"Vallahi, sen de bilirsin ki, bunlar konuşamazlar.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نُنَكِّسْ",
+      "sura": 36,
+      "ayah": 68,
+      "formInAyah": "نُنَكِّسْهُ",
+      "transliteration": "nunekkishu",
+      "gloss": "onu baş aşağı çeviririz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Tef’il Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul",
+        "pattern": "Tef’il Kalıbı"
+      },
+      "verseArabic": "وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+      "verseTransliteration": "Ve men nuammirhu nunekkishu fîl halk(halkı), e fe lâ ya’kılûn(ya’kılûne).",
+      "verseMeaning": "Kimi uzun ömürlü kılarsak, onu yaratılışta gerisin geri çeviririz. Hâlâ akıllarını işletmiyorlar mı?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nks"
+}

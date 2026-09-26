@@ -1,0 +1,66 @@
+{
+  "id": "Hnv",
+  "latinName": "Ha-Nun-Se",
+  "lettersArabic": "ح ن ث",
+  "meanings": [
+    "Yeminini bozmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "تَحْنَثْ",
+      "count": 1
+    },
+    {
+      "formArabic": "حِنث",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَحْنَثْ",
+      "sura": 38,
+      "ayah": 44,
+      "formInAyah": "تَحْنَثْ",
+      "transliteration": "teHneṧ",
+      "gloss": "yeminini bozma",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِهِ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ",
+      "verseTransliteration": "Ve huz bi yedike dıgsen fadrıb bihî ve lâ tahnes, innâ vecednâhu sâbira(sâbiren), ni’mel abd(abdu), innehû evvâb(evvâbun).",
+      "verseMeaning": "\"Eline bir demet sap al da onunla vur ve yeminine ters düşmüş olma!\" dedik. Biz onu sabırlı bulduk. Ne güzel kuldu o! Bize yönelen, yakaran biriydi o."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">حِنث",
+      "sura": 56,
+      "ayah": 46,
+      "formInAyah": "الْحِنْثِ",
+      "transliteration": "l-Hinṧi",
+      "gloss": "günah (işlemek)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظِيمِ",
+      "verseTransliteration": "Ve kânû yusirrûne alel hınsil azîm(azîmi).",
+      "verseMeaning": "O büyük günah üzerinde ısrar edip dururlardı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Hnv"
+}

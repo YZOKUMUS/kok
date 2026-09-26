@@ -1,0 +1,270 @@
+{
+  "id": "rEy",
+  "latinName": "Ra-Ayn-Ye",
+  "lettersArabic": "ر ع ي",
+  "meanings": [
+    "gütmek, çobanlık etmek, otlatmak, beslemek, dikkatle gözlemlemek, bakmak, gözetmek, emir tutmak, kurala uymak, yönelmek, yönetmek, dikkat etmek. Sürüleri besleyen, çoban."
+  ],
+  "derivativeNotes": [
+    "riayetun - riayet, uyma, yerine getirme, gözetim",
+    "mera - mera, otlak",
+    "rea - gözlemlemek, saygı duymak, bakmak, dinlemek, kulak vermek."
+  ],
+  "turkishDerivatives": [
+    "riayet",
+    "mera",
+    "meri",
+    "raiyet (reaya)"
+  ],
+  "cognates": [
+    {
+      "language": "Aramice",
+      "form": "rāˁyā çoban",
+      "script": "רעיא"
+    }
+  ],
+  "totalOccurrencesInQuran": 10,
+  "lemmas": [
+    {
+      "formArabic": "رِّعَاء",
+      "count": 1
+    },
+    {
+      "formArabic": "رَعَ",
+      "count": 2
+    },
+    {
+      "formArabic": "رِعَايَت",
+      "count": 1
+    },
+    {
+      "formArabic": "رَٰعِ",
+      "count": 2
+    },
+    {
+      "formArabic": "رَٰعُون",
+      "count": 2
+    },
+    {
+      "formArabic": "مَرْعَىٰ",
+      "count": 2
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِّعَاء",
+      "sura": 28,
+      "ayah": 23,
+      "formInAyah": "الرِّعَاءُ",
+      "transliteration": "r-riǎā'u",
+      "gloss": "çobanlar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Mufa’ale Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "verseTransliteration": "Ve lemmâ verede mâe medyene vecede aleyhi ummeten minen nâsi yeskûn(yeskûne), ve vecede min dûnihimumreeteyni tezûdân(tezûdâni), kâle mâ hatbukumâ, kâletâ lâ neskî hattâ yusdirar riâu ve ebûnâ şeyhun kebîr(kebîrun).",
+      "verseMeaning": "Medyen suyuna ulaştığında, su başında halktan bir grup gördü. Hayvanlarını suluyorlardı. Biraz ötelerinde çekingen bir halde duran iki kadın fark etti. \"Derdiniz nedir?\" dedi. \"Şu çobanlar çekilip gidinceye kadar biz hayvanlarımızı sulamayız. Üstelik babamız da ileri yaşta bir ihtiyardır.\" dediler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَعَ",
+      "sura": 20,
+      "ayah": 54,
+      "formInAyah": "وَارْعَوْا",
+      "transliteration": "ver’ǎv",
+      "gloss": "ve otlatın",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِأُولِي النُّهَىٰ",
+      "verseTransliteration": "Kulû ver’av en’âmekum, inne fî zâlike le âyâtin li ulîn nuhâ.",
+      "verseMeaning": "Yiyin, hayvanlarınızı yayıp otlatın. Kuşkusuz bunda, aklı başında insanlar için ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَعَ",
+      "sura": 57,
+      "ayah": 27,
+      "formInAyah": "رَعَوْهَا",
+      "transliteration": "raǎvhā",
+      "gloss": "ona uymadılar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِهِمْ بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ابْنِ مَرْيَمَ وَآتَيْنَاهُ الْإِنْجِيلَ وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا ابْتِغَاءَ رِضْوَانِ اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَآتَيْنَا الَّذِينَ آمَنُوا مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ",
+      "verseTransliteration": "Summe kaffeynâ alâ âsârihim bi rusulinâ ve kaffeynâ bi’îsebni meryeme ve âteynâhul incîle ve cealnâ fî kulûbillezînet tebeûhu re’feten ve rahmeh(rahmeten), ve rahbâniyyetenibtedeûhâ mâ ketebnâhâ aleyhim illebtigâe rıdvânillâhi fe mâ reavhâ hakka riâyetihâ, fe âteynellezîne âmenû minhum ecrehum, ve kesîrun minhum fâsikûn(fâsikûne).",
+      "verseMeaning": "Sonra onların eserleri üzere, resullerimizi art arda gönderdik. Meryem´in oğlu İsa´yı da onların ardınca gönderdik. Ona İncil´i verdik; ona uyanların gönüllerine şefkat ve merhamet koyduk. Bir bid´at olarak ortaya çıkardıkları ruhbaniyeti, onlar üzerine biz yazmamıştık. Allah´ın rızasını kazanmak için ortaya çıkardılar. Ama ona gerektiği şekilde saygılı olmadılar. Onların, iman edenlerine ödüllerini verdik. Onlardan çoğu yoldan çıkmış olanlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رِعَايَت",
+      "sura": 57,
+      "ayah": 27,
+      "formInAyah": "رِعَايَتِهَا",
+      "transliteration": "riǎāyetihā",
+      "gloss": "riayet ederek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İsim Fiil",
+          "Dişil",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِهِمْ بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ابْنِ مَرْيَمَ وَآتَيْنَاهُ الْإِنْجِيلَ وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا ابْتِغَاءَ رِضْوَانِ اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَآتَيْنَا الَّذِينَ آمَنُوا مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ",
+      "verseTransliteration": "Summe kaffeynâ alâ âsârihim bi rusulinâ ve kaffeynâ bi’îsebni meryeme ve âteynâhul incîle ve cealnâ fî kulûbillezînet tebeûhu re’feten ve rahmeh(rahmeten), ve rahbâniyyetenibtedeûhâ mâ ketebnâhâ aleyhim illebtigâe rıdvânillâhi fe mâ reavhâ hakka riâyetihâ, fe âteynellezîne âmenû minhum ecrehum, ve kesîrun minhum fâsikûn(fâsikûne).",
+      "verseMeaning": "Sonra onların eserleri üzere, resullerimizi art arda gönderdik. Meryem´in oğlu İsa´yı da onların ardınca gönderdik. Ona İncil´i verdik; ona uyanların gönüllerine şefkat ve merhamet koyduk. Bir bid´at olarak ortaya çıkardıkları ruhbaniyeti, onlar üzerine biz yazmamıştık. Allah´ın rızasını kazanmak için ortaya çıkardılar. Ama ona gerektiği şekilde saygılı olmadılar. Onların, iman edenlerine ödüllerini verdik. Onlardan çoğu yoldan çıkmış olanlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَٰعِ",
+      "sura": 2,
+      "ayah": 104,
+      "formInAyah": "رَاعِنَا",
+      "transliteration": "rāǐnā",
+      "gloss": "Ra’ina (bizi gözet yahut: kaba söz)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenû lâ tekûlû râinâ ve kûlûnzurnâ vesmeû ve lil kâfirîne azâbun elîm(elîmun).",
+      "verseMeaning": "Ey iman edenler! \"Râina\" demeyin, \"unzurna\" deyin/\"bizi davar gibi güt\" diye konuşmayın, \"bize bak\" diye konuşun ve dinleyin. Kâfîrler için korkunç bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَٰعِ",
+      "sura": 4,
+      "ayah": 46,
+      "formInAyah": "وَرَاعِنَا",
+      "transliteration": "ve rāǐnā",
+      "gloss": "ve \"ra’ina\"",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Mufa’ale Kalıbı",
+          "2. şahıs, Eril, Tekil",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَأَقْوَمَ وَلَٰكِنْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "verseTransliteration": "Minellezîne hâdû yuharrifûnel kelime an mevâdııhî ve yekûlûne semi’nâ ve asaynâ vesme’ gayra musmeın ve râınâ leyyen bi elsinetihim ve ta’nan fîd dîn(dîni) ve lev ennehum kâlû semi’nâ ve ata’nârnâ le kâne hayran lehum ve akvem(kveme) ve lâkin leanehumullâhu bi kufrihim fe lâ yu’minûne illâ kalîlâ(kalîlen).",
+      "verseMeaning": "Yahudilerden öyleleri var ki, kelimeleri yerlerinden kaydırırlar; din içinde sövgüler üreterek, dillerini eğip bükerek: \"Dinledik, isyan ettik; dinle, dinlenmez olası, davar güder gibi güt bizi\" derler. Eğer onlar, \"Dinledik, boyun eğdik, dinle, bak bize!\" demiş olsalardı, kendileri için daha hayırlı ve daha yerinde olurdu. Fakat Allah, küfürleri yüzünden onlara lanet etmiştir. Çok az bir kısmı hariç, iman etmezler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَٰعُون",
+      "sura": 23,
+      "ayah": 8,
+      "formInAyah": "رَاعُونَ",
+      "transliteration": "rāǔne",
+      "gloss": "özen gösterirler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+      "verseTransliteration": "Vellezîne hum li emânâtihim ve ahdihim râûn(râûne).",
+      "verseMeaning": "O müminler, emanetlerine, ahitlerine saygı duyup sahip çıkanlardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">رَٰعُون",
+      "sura": 70,
+      "ayah": 32,
+      "formInAyah": "رَاعُونَ",
+      "transliteration": "rāǔne",
+      "gloss": "gözetirler",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+      "verseTransliteration": "Vellezîne hum li emânâtihim ve ahdihim râûn(râûne).",
+      "verseMeaning": "Bunlar, kendilerindeki emanetlere ve ahitlerine sadık kalırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَرْعَىٰ",
+      "sura": 79,
+      "ayah": 31,
+      "formInAyah": "وَمَرْعَاهَا",
+      "transliteration": "ve mer’ǎāhā",
+      "gloss": "ve otlağını",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا",
+      "verseTransliteration": "Ahrece minhâ mâehâ ve mer’âhâ.",
+      "verseMeaning": "Ondan suyunu, otlağını çıkardı."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مَرْعَىٰ",
+      "sura": 87,
+      "ayah": 4,
+      "formInAyah": "الْمَرْعَىٰ",
+      "transliteration": "l-mer’ǎā",
+      "gloss": "otlağı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+      "verseTransliteration": "Vellezî ahrecel mer’â.",
+      "verseMeaning": "O ki otlağı çıkardı,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=rEy"
+}

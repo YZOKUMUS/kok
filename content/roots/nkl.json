@@ -1,0 +1,140 @@
+{
+  "id": "nkl",
+  "latinName": "Nun-Kef-Lam",
+  "lettersArabic": "ن ك ل",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "أَنكَال",
+      "count": 1
+    },
+    {
+      "formArabic": "تَنكِيل",
+      "count": 1
+    },
+    {
+      "formArabic": "نَكَٰل",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَنكَال",
+      "sura": 73,
+      "ayah": 12,
+      "formInAyah": "أَنْكَالًا",
+      "transliteration": "enkālen",
+      "gloss": "bukağılar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+      "verseTransliteration": "İnne ledeynâ enkâlen ve cahîmâ(cahîmen).",
+      "verseMeaning": "Bizim yanımızda bukağılar var, cehennem var!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تَنكِيل",
+      "sura": 4,
+      "ayah": 84,
+      "formInAyah": "تَنْكِيلًا",
+      "transliteration": "tenkīlen",
+      "gloss": "cezası",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Tef’il Kalıbı",
+          "İsim Fiil",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "pattern": "Tef’il Kalıbı",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَنْ يَكُفَّ بَأْسَ الَّذِينَ كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنْكِيلًا",
+      "verseTransliteration": "Fe kâtil fî sebîlillâh(sebîlillâhi), lâ tukellefu illâ nefseke ve harrıdıl mu’minîn(mu’minîne), asallâhu en yekuffe be’sellezîne keferû valâhu eşeddu be’sen ve eşeddu tenkîlâ(tenkîlen).",
+      "verseMeaning": "Allah yolunda savaş. Kendinden başkasından sorumlu değilsin. İnananları da teşvik et. Umulur ki Allah, küfre sapanların gücünü kırar. Allah, kuvvetçe daha üstün, cezalandırmada daha güçlüdür."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَكَٰل",
+      "sura": 2,
+      "ayah": 66,
+      "formInAyah": "نَكَالًا",
+      "transliteration": "nekālen",
+      "gloss": "ibretlik bir ceza",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَجَعَلْنَاهَا نَكَالًا لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِلْمُتَّقِينَ",
+      "verseTransliteration": "Fe cealnâhâ nekâlen li mâ beyne yedeyhâ ve mâ halfehâ ve mev’ızaten lil muttakîn(muttakîne).",
+      "verseMeaning": "Bu durumu, o zamankilere ve onların ardından geleceklere ibret dolu bir ceza, takva sahiplerine de bir öğüt yaptık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَكَٰل",
+      "sura": 5,
+      "ayah": 38,
+      "formInAyah": "نَكَالًا",
+      "transliteration": "nekālen",
+      "gloss": "ibret verici",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+      "verseTransliteration": "Ves sâriku ves sârikatu faktaû eydiyehumâ cezâen bimâ kesebâ nekâlen minallâh(minallâhi) vallâhu azîzun hakîm(hakîmun).",
+      "verseMeaning": "Hırsızlık yapan erkek ve kadının, yaptıklarına karşılık Allah´tan bir ceza olarak ellerini kesin. Allah Azîz´dir, Hakîm´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">نَكَٰل",
+      "sura": 79,
+      "ayah": 25,
+      "formInAyah": "نَكَالَ",
+      "transliteration": "nekāle",
+      "gloss": "azabıyle",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ",
+      "verseTransliteration": "Fe ehazehullâhu nekâlel âhıreti vel ûlâ.",
+      "verseMeaning": "Bunun üzerine Allah, onu sonraya ve önceye ibret olmak üzere bir ceza ile çarptı."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=nkl"
+}

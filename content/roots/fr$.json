@@ -1,0 +1,164 @@
+{
+  "id": "fr$",
+  "latinName": "Fe-Ra-Şin",
+  "lettersArabic": "ف ر ش",
+  "meanings": [
+    "Yaymak, döşemek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 6,
+  "lemmas": [
+    {
+      "formArabic": "فَرَاش",
+      "count": 1
+    },
+    {
+      "formArabic": "فَرَشْ",
+      "count": 1
+    },
+    {
+      "formArabic": "فَرْش",
+      "count": 1
+    },
+    {
+      "formArabic": "فِرَٰش",
+      "count": 3
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَاش",
+      "sura": 101,
+      "ayah": 4,
+      "formInAyah": "كَالْفَرَاشِ",
+      "transliteration": "kālferāşi",
+      "gloss": "pervaneler gibi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "verseTransliteration": "Yevme yekûnun nâsu kel ferâşil mebsûs(mebsûsi).",
+      "verseMeaning": "O gün insanlar, çırpınarak yayılmış pervaneler gibi olurlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرَشْ",
+      "sura": 51,
+      "ayah": 48,
+      "formInAyah": "فَرَشْنَاهَا",
+      "transliteration": "feraşnāhā",
+      "gloss": "biz döşedik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ",
+      "verseTransliteration": "Vel arda fereşnâhâ fe ni’mel mâhidûn(mâhidûne).",
+      "verseMeaning": "Yeri de biz döşedik. Ne güzel döşeyicileriz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فَرْش",
+      "sura": 6,
+      "ayah": 142,
+      "formInAyah": "وَفَرْشًا",
+      "transliteration": "ve ferşen",
+      "gloss": "(kiminin) tüyünden sergi yapılır",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا ۚ كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+      "verseTransliteration": "Ve minel en’âmi hamûleten ve ferşâ(ferşan), kulû mimmâ rezekakumullâhu ve lâ tettebiû hutuvâtiş şeytân(şeytâni),innehu lekum aduvvun mubîn(mubînun).",
+      "verseMeaning": "Hayvanlardan yük taşıyanı da yaygı/döşek yapılanı da yaratan yine O´dur. Allah´ın size verdiği rızıklardan yiyin, şeytanın adımlarını izlemeyin! Çünkü o sizin için açık bir düşmandır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَٰش",
+      "sura": 2,
+      "ayah": 22,
+      "formInAyah": "فِرَاشًا",
+      "transliteration": "firāşen",
+      "gloss": "döşek",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ۖ فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ",
+      "verseTransliteration": "Ellezî ceale lekumul arda firâşen ves semâe binââ(binâen), ve enzele mines semâi mâen fe ahrece bihî mines semarâti rızkan lekum, fe lâ tec’alû lillâhi endâden ve entum ta’lemûn(tâ’lemune).",
+      "verseMeaning": "O Rab ki, yeri sizin için bir döşek, göğü de bir bina yaptı. Ve gökten bir su indirdi de onunla sizin için meyvelerden / ürünlerden bir rızk çıkardı. Artık bilip durduğunuz halde Allah´a ortaklar koşmayın."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَٰش",
+      "sura": 55,
+      "ayah": 54,
+      "formInAyah": "فُرُشٍ",
+      "transliteration": "furuşin",
+      "gloss": "yataklar",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+      "verseTransliteration": "Muttekiîne alâ furuşin betâinuhâ min istebrak(istebrakin), ve cenel cenneteyni dân(dânin).",
+      "verseMeaning": "Astarları atlastan döşeklere yaslanırlar. İki cennetin meyveleri elle alınacak kadar yakındır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">فِرَٰش",
+      "sura": 56,
+      "ayah": 34,
+      "formInAyah": "وَفُرُشٍ",
+      "transliteration": "ve furuşin",
+      "gloss": "ve döşekler (üstündedirler)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Çoğul",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَفُرُشٍ مَرْفُوعَةٍ",
+      "verseTransliteration": "Ve furuşin merfûah(merfûatin).",
+      "verseMeaning": "Yükseğe yerleştirilmiş döşekler içinde."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=fr%24"
+}

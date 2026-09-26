@@ -1,0 +1,68 @@
+{
+  "id": "bss",
+  "latinName": "Be-Sin-Sin",
+  "lettersArabic": "ب س س",
+  "meanings": [
+    "Parçalamak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "بَسّ",
+      "count": 1
+    },
+    {
+      "formArabic": "بُسَّتِ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بَسّ",
+      "sura": 56,
+      "ayah": 5,
+      "formInAyah": "بَسًّا",
+      "transliteration": "bessen",
+      "gloss": "serpildikçe",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+      "verseTransliteration": "Ve bussetil cibâlu bessâ(bessen).",
+      "verseMeaning": "Dağlar bir serpilişle serpildiğinde,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">بُسَّتِ",
+      "sura": 56,
+      "ayah": 5,
+      "formInAyah": "وَبُسَّتِ",
+      "transliteration": "ve busseti",
+      "gloss": "ve serpildiği (zaman)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+      "verseTransliteration": "Ve bussetil cibâlu bessâ(bessen).",
+      "verseMeaning": "Dağlar bir serpilişle serpildiğinde,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=bss"
+}

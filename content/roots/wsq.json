@@ -1,0 +1,66 @@
+{
+  "id": "wsq",
+  "latinName": "Vav-Sin-Kaf",
+  "lettersArabic": "و س ق",
+  "meanings": [
+    "Toplamak, örtmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 2,
+  "lemmas": [
+    {
+      "formArabic": "وَسَقَ",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱتَّسَقَ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">وَسَقَ",
+      "sura": 84,
+      "ayah": 17,
+      "formInAyah": "وَسَقَ",
+      "transliteration": "veseḳa",
+      "gloss": "topladığı",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاللَّيْلِ وَمَا وَسَقَ",
+      "verseTransliteration": "Vel leyli ve mâ vesak(vesaka).",
+      "verseMeaning": "Geceye ve derlediğine,"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱتَّسَقَ",
+      "sura": 84,
+      "ayah": 18,
+      "formInAyah": "اتَّسَقَ",
+      "transliteration": "tteseḳa",
+      "gloss": "dolunay olduğu",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+      "verseTransliteration": "Vel kameri izet tesak(tesaka).",
+      "verseMeaning": "Toparlandığı zaman Ay´a,"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=wsq"
+}

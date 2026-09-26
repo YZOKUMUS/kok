@@ -1,0 +1,43 @@
+{
+  "id": "msw",
+  "latinName": "Mim-Sin-Vav",
+  "lettersArabic": "م س و",
+  "meanings": [
+    "To arrive/come/enter in the evening, Afternoon [counted from noon to sunset] (or noon to midnight), evening, after sunset, I came to him in the evening, He came to him in the evening with such a thing."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "تُمْسُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">تُمْسُ",
+      "sura": 30,
+      "ayah": 17,
+      "formInAyah": "تُمْسُونَ",
+      "transliteration": "tumsūne",
+      "gloss": "akşama girdiğiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "verseTransliteration": "Fe subhânallâhi hîne tumsûne ve hîne tusbıhûn(tusbıhûne).",
+      "verseMeaning": "O halde tespih Allah için. Akşama erdiğinizde de sabaha erdiğinizde de..."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=msw"
+}

@@ -1,0 +1,964 @@
+{
+  "id": "jwb",
+  "latinName": "Cim-Vav-Be",
+  "lettersArabic": "ج و ب",
+  "meanings": [
+    "Yontmak"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 43,
+  "lemmas": [
+    {
+      "formArabic": "أُجِيبَت",
+      "count": 8
+    },
+    {
+      "formArabic": "جَابُ",
+      "count": 1
+    },
+    {
+      "formArabic": "جَوَاب",
+      "count": 4
+    },
+    {
+      "formArabic": "مُّجِيب",
+      "count": 2
+    },
+    {
+      "formArabic": "ٱسْتَجَابَ",
+      "count": 28
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 2,
+      "ayah": 186,
+      "formInAyah": "أُجِيبُ",
+      "transliteration": "ucību",
+      "gloss": "karşılık veririm",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ",
+      "verseTransliteration": "Ve izâ seeleke ıbâdî annî fe innî karîb(karîbun) ucîbu da’veted dâi izâ deâni, fel yestecîbû lî vel yu’minû bî leallehum yerşudûn(yerşudûne).",
+      "verseMeaning": "Kullarım sana benden sorarlarsa ben Karîb´im, gerçekten çok yakınım. Dua edenin çağrısına, bana çağırıp yakardığı anda cevap veririm. Hadi onlar da bana karşılık versinler, bana inansınlar ki doğruyu ve iyiyi bulabilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 5,
+      "ayah": 109,
+      "formInAyah": "أُجِبْتُمْ",
+      "transliteration": "ucibtum",
+      "gloss": "size cevap verildi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "Edilgen",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+      "verseTransliteration": "Yevme yecmeullâhur rusule fe yekûlu mâzâ ucibtum kâlû lâ ilme lenâ inneke ente allâmul guyûb(guyûbi).",
+      "verseMeaning": "Allah, resulleri bir araya getireceği gün şöyle der: \"Size ne cevap verildi?\" Şöyle derler: \"Hiçbir bilgimiz yok. Gaybları en iyi biçimde bilen sensin, sen!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 10,
+      "ayah": 89,
+      "formInAyah": "أُجِيبَتْ",
+      "transliteration": "ucībet",
+      "gloss": "kabul edildi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "قَالَ قَدْ أُجِيبَتْ دَعْوَتُكُمَا فَاسْتَقِيمَا وَلَا تَتَّبِعَانِّ سَبِيلَ الَّذِينَ لَا يَعْلَمُونَ",
+      "verseTransliteration": "Kâle kad ucîbet da’vetukumâ festekîmâ ve lâ tettebi ânni sebîlellezîne lâ ya’lemûn(ya’lemûne).",
+      "verseMeaning": "Allah cevap verdi: \"İkinizin duası kabul edildi. Doğruluktan şaşmayın! İlimden nasipsizlerin yolunu izlemeyin!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 14,
+      "ayah": 44,
+      "formInAyah": "نُجِبْ",
+      "transliteration": "nucib",
+      "gloss": "gelelim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَأَنْذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ فَيَقُولُ الَّذِينَ ظَلَمُوا رَبَّنَا أَخِّرْنَا إِلَىٰ أَجَلٍ قَرِيبٍ نُجِبْ دَعْوَتَكَ وَنَتَّبِعِ الرُّسُلَ ۗ أَوَلَمْ تَكُونُوا أَقْسَمْتُمْ مِنْ قَبْلُ مَا لَكُمْ مِنْ زَوَالٍ",
+      "verseTransliteration": "Ve enzirin nâse yevme ye’tîhimul azâbu fe yekûlullezîne zalemû rabbenâ ahhırnâ ilâ ecelin karîbin nucib da’veteke ve nettebiır rusul(rusule), e ve lem tekûnû aksemtum min kablu mâ lekum min zevâl(zevâlin).",
+      "verseMeaning": "İnsanları, azabın kendilerine ulaşacağı gün konusunda uyar. O gün, zalimler şöyle derler: \"Ey Rabbimiz! Bizi yakın bir süreye kadar geri bırak da çağrına cevap verip resullere uyalım.\" Daha önce siz, kendiniz için çöküş ve bitiş yoktur diye yemin etmediniz mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 27,
+      "ayah": 62,
+      "formInAyah": "يُجِيبُ",
+      "transliteration": "yucību",
+      "gloss": "yetişen",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ قَلِيلًا مَا تَذَكَّرُونَ",
+      "verseTransliteration": "Emmen yucîbul mudtarra izâ deâhu ve yekşifus sûe ve yec’alukum hulefâel ard(ardı), e ilâhun meallâh(meallâhi), kalîlen mâ tezekkerûn(tezekkerûne).",
+      "verseMeaning": "Yoksa zorda kalan yalvardığında, onun imdadına yetişip sıkıntı ve kaderi kaldıran, sizi yeryüzünün hükmedenleri kılan mı hayırlı? Allah´ın yanında bir ilah daha var mı? Ne kadar da az ibret alıyorsunuz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 28,
+      "ayah": 65,
+      "formInAyah": "أَجَبْتُمُ",
+      "transliteration": "ecebtumu",
+      "gloss": "cevap verdiniz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ",
+      "verseTransliteration": "Ve yevme yunâdîhim fe yekûlu mâzâ ecebtumul murselîn(murselîne).",
+      "verseMeaning": "Allah o gün onlara seslenir de şöyle der: \"Hak elçilerine ne cevap verdiniz?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 46,
+      "ayah": 31,
+      "formInAyah": "أَجِيبُوا",
+      "transliteration": "ecībū",
+      "gloss": "uyun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُجِرْكُمْ مِنْ عَذَابٍ أَلِيمٍ",
+      "verseTransliteration": "Yâ kavmenâ ecîbû dâiyallâhi ve âminû bihî yagfir lekum min zunûbikum ve yucirkum min azâbin elîm(elîmin).",
+      "verseMeaning": "\"Ey toplumumuz! Allah´ın davetçisine uyun, ona iman edin ki Allah, günahlarınızdan bir kısmını bağışlasın ve sizi acıklı bir azaptan korusun!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أُجِيبَت",
+      "sura": 46,
+      "ayah": 32,
+      "formInAyah": "يُجِبْ",
+      "transliteration": "yucib",
+      "gloss": "uymazsa",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İf’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ لَا يُجِبْ دَاعِيَ اللَّهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأَرْضِ وَلَيْسَ لَهُ مِنْ دُونِهِ أَوْلِيَاءُ ۚ أُولَٰئِكَ فِي ضَلَالٍ مُبِينٍ",
+      "verseTransliteration": "Ve men lâ yucib dâiyallâhi fe leyse bi mu’cizin fîl ardı ve leyse lehu min dûnihî evliyâu, ulâike fî dalâlin mubîn(mubînin).",
+      "verseMeaning": "Allah´ın davetçisine uymayan, yeryüzünde hiç kimseyle yarışamaz/hiç kimseyi âciz bırakamaz. Böylesinin, Allah dışında/Allah´ın davetçisi dışında evliyası da olmaz. Böyleleri apaçık bir sapıklık içindedir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَابُ",
+      "sura": 89,
+      "ayah": 9,
+      "formInAyah": "جَابُوا",
+      "transliteration": "cābū",
+      "gloss": "oyan",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+      "verseTransliteration": "Ve semûdelleziyne câbûssahre bil vâd(vâdi).",
+      "verseMeaning": "Ve ne yaptı vadide kayaları oyan Semûd kavmine?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَوَاب",
+      "sura": 7,
+      "ayah": 82,
+      "formInAyah": "جَوَابَ",
+      "transliteration": "cevābe",
+      "gloss": "cevabı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا أَخْرِجُوهُمْ مِنْ قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "verseTransliteration": "Ve mâ kâne cevâbe kavmihî illâ en kâlû ahricûhum min karyetikum, innehum unâsun yetetahherûn(yetetahherûne).",
+      "verseMeaning": "Toplumunun cevabı sadece şunu söylemeleri oldu: \"Çıkarın şunları kentimizden. Çünkü onlar, temizlik tutkunu insanlardır.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَوَاب",
+      "sura": 27,
+      "ayah": 56,
+      "formInAyah": "جَوَابَ",
+      "transliteration": "cevābe",
+      "gloss": "cevabı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا أَخْرِجُوا آلَ لُوطٍ مِنْ قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "verseTransliteration": "Fe mâ kâne cevâbe kavmihî illâ en kâlû ahricû âle lûtın min karyetikum innehum unâsun yetetahherûn(yetetahherûne).",
+      "verseMeaning": "Toplumunun cevabı sadece şunu söylemek oldu: \"Çıkarın şu Lût ailesini kentinizden; bunlar temizlik tutkunu olmuş kişilerdir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَوَاب",
+      "sura": 29,
+      "ayah": 24,
+      "formInAyah": "جَوَابَ",
+      "transliteration": "cevābe",
+      "gloss": "cevabı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا اقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنْجَاهُ اللَّهُ مِنَ النَّارِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "Fe mâ kâne cevâbe kavmihî illâ en kâlûktulûhu ev harrýkûhu fe encâhullâhu minen nâr(nâri), inne fî zâlike le âyâtin li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Toplumunun İbrahim´e cevabı sadece şunu söylemeleri oldu: \"Bunu öldürün, yahut yakın!\" Ama Allah onu ateşten kurtardı. İnanan bir toplum için bunda elbette ibretler vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">جَوَاب",
+      "sura": 29,
+      "ayah": 29,
+      "formInAyah": "جَوَابَ",
+      "transliteration": "cevābe",
+      "gloss": "cevabı",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ وَتَقْطَعُونَ السَّبِيلَ وَتَأْتُونَ فِي نَادِيكُمُ الْمُنْكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا ائْتِنَا بِعَذَابِ اللَّهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+      "verseTransliteration": "E innekum le te’tûner ricâle ve taktaûnes sebîle ve te’tûne fî nâdîkumulmunker(munkere), fe mâ kâne cevâbe kavmihî illâ en kâlû’tinâ bi azâbillâhi in kunte mines sâdikîn(sâdikîne).",
+      "verseMeaning": "\"Erkeklere gidiyorsunuz, yol kesiyorsunuz, toplantılarınızda çirkinlikler sergiliyorsunuz, öyle mi?\" Toplumunun cevabı sadece şunu söylemek oldu: \"Eğer doğru sözlülerdensen, hadi getir bize Allah´ın azabını!\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّجِيب",
+      "sura": 11,
+      "ayah": 61,
+      "formInAyah": "مُجِيبٌ",
+      "transliteration": "mucībun",
+      "gloss": "kabul edendir",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Merfû` İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَالِحًا ۚ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ هُوَ أَنْشَأَكُمْ مِنَ الْأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا فَاسْتَغْفِرُوهُ ثُمَّ تُوبُوا إِلَيْهِ ۚ إِنَّ رَبِّي قَرِيبٌ مُجِيبٌ",
+      "verseTransliteration": "Ve ilâ semûde ehâhum sâlihâ(sâlihan), kâle yâ kavmi´budûllâhe mâ lekum min ilâhin gayruh(gayruhu), huve enşeekum minel ardı vesta´merekum fîhâ festâgfirûhu summe tûbû ileyh(ileyhi), inne rabbî karîbun mucîb(mucîbun).",
+      "verseMeaning": "Semûd´a da kardeşleri Sâlih´i gönderdik. Dedi ki: \"Ey toplumum! Allah´a kulluk edin. Sizin O´ndan başka ilahınız yok. Sizi topraktan oluşturan ve size orada ömür geçirten O´dur. Artık O´ndan af dileyin, O´na dönün. Rabbim Karîb´dir, bize çok yakındır; Mucîb´dir, bize cevap verir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُّجِيب",
+      "sura": 37,
+      "ayah": 75,
+      "formInAyah": "الْمُجِيبُونَ",
+      "transliteration": "l-mucībūne",
+      "gloss": "kabul buyurmuştuk",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Merfû` İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُجِيبُونَ",
+      "verseTransliteration": "Ve lekad nâdânâ nûhun fe le ni’mel mucîbûn(mucîbûne).",
+      "verseMeaning": "Yemin olsun, Nûh bize yakarmıştı da ne güzel karşılık vermiştik biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 2,
+      "ayah": 186,
+      "formInAyah": "فَلْيَسْتَجِيبُوا",
+      "transliteration": "felyestecībū",
+      "gloss": "O halde onlar da karşılık versinler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ",
+      "verseTransliteration": "Ve izâ seeleke ıbâdî annî fe innî karîb(karîbun) ucîbu da’veted dâi izâ deâni, fel yestecîbû lî vel yu’minû bî leallehum yerşudûn(yerşudûne).",
+      "verseMeaning": "Kullarım sana benden sorarlarsa ben Karîb´im, gerçekten çok yakınım. Dua edenin çağrısına, bana çağırıp yakardığı anda cevap veririm. Hadi onlar da bana karşılık versinler, bana inansınlar ki doğruyu ve iyiyi bulabilsinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 3,
+      "ayah": 172,
+      "formInAyah": "اسْتَجَابُوا",
+      "transliteration": "stecābū",
+      "gloss": "çağrısına uydular",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "الَّذِينَ اسْتَجَابُوا لِلَّهِ وَالرَّسُولِ مِنْ بَعْدِ مَا أَصَابَهُمُ الْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا مِنْهُمْ وَاتَّقَوْا أَجْرٌ عَظِيمٌ",
+      "verseTransliteration": "Ellezinestecâbû lillâhi ver resûli min ba’di mâ asâbehumul karh(karhu), lillezîne ahsenû minhum vettekav ecrun azîm(azîmun).",
+      "verseMeaning": "O müminler ki, kendilerine yara isabet ettikten sonra bile Allah´ın ve resulün çağrısına cevap verdiler. Onlar içinden, güzel işler yapıp takvaya sarılanlara büyük bir ödül vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 3,
+      "ayah": 195,
+      "formInAyah": "فَاسْتَجَابَ",
+      "transliteration": "festecābe",
+      "gloss": "ve karşılık verdi",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ ۖ بَعْضُكُمْ مِنْ بَعْضٍ ۖ فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِنْ دِيَارِهِمْ وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِنْ عِنْدِ اللَّهِ ۗ وَاللَّهُ عِنْدَهُ حُسْنُ الثَّوَابِ",
+      "verseTransliteration": "Festecâbe lehum rabbuhum ennî lâ udîu amele âmilin minkum min zekerin ev unsâ, ba’dukum min ba’d(ba’dın), fellezîne hâcerû ve uhricû min diyârihim ve uzû fî sebîlî ve kâtelû ve kutilû le ukeffirenne anhum seyyiâtihim ve le udhılennehum cennâtin tecrî min tahtihâl enhâr(enhâru), sevâben min indillâh(indillâhi) vallâhu indehû husnus sevâb(sevâbi).",
+      "verseMeaning": "Rableri onlara cevap verdi: \"Ben sizden, erkek-kadın hiçbir çalışanın ürettiğini boşa çıkarmayacağım. Hep birbirinizdensiniz. Göç edenler, yurtlarından çıkarılanlar, yolumda işkenceye uğratılanlar, çarpışıp da öldürülenler var ya, onların kötülüklerini yemin olsun örteceğim. Ve yemin olsun ki onları, Allah katından bir karşılık olarak, altlarından ırmaklar akan cennetlere koyacağım.\" Allah katındandır karşılıkların en güzeli."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 6,
+      "ayah": 36,
+      "formInAyah": "يَسْتَجِيبُ",
+      "transliteration": "yestecību",
+      "gloss": "icabet eder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ۘ وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+      "verseTransliteration": "İnnemâ yestecîbullezîne yesmeûn(yesmeûne), vel mevtâ yeb’asuhumullâhu summe ileyhi yurceûn(yurceûne).",
+      "verseMeaning": "Ancak gereğince dinleyenler çağrıya cevap verir. Ölülere gelince, Allah onları diriltecektir, sonra O´na döndürülecekler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 7,
+      "ayah": 194,
+      "formInAyah": "فَلْيَسْتَجِيبُوا",
+      "transliteration": "fe lyestecībū",
+      "gloss": "cevap versinler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ عِبَادٌ أَمْثَالُكُمْ ۖ فَادْعُوهُمْ فَلْيَسْتَجِيبُوا لَكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+      "verseTransliteration": "İnnellezîne ted’ûne min dûnillâhi ıbâdun emsâlukum fed’ûhum felyestecibû lekum in kuntum sâdıkîn(sâdıkîne).",
+      "verseMeaning": "Allah dışında yakardıklarınız sizin gibi kullardır. Eğer iddianızda haklıysanız, hadi çağırın onları da size cevap versinler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 8,
+      "ayah": 9,
+      "formInAyah": "فَاسْتَجَابَ",
+      "transliteration": "festecābe",
+      "gloss": "karşılık vermişti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+      "verseTransliteration": "İz testegîsûne rabbekum festecâbe lekum ennî mumiddukum bi elfin minel melâiketi murdifîn(murdifîne).",
+      "verseMeaning": "Hani siz, Rabbinizden yardım ve destek diliyordunuz; O, sizin dileğinize şöyle cevap vermişti: \"Hiç kuşkunuz olmasın, ben size, meleklerden birbiri ardınca bin tanesiyle yardım ulaştıracağım.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 8,
+      "ayah": 24,
+      "formInAyah": "اسْتَجِيبُوا",
+      "transliteration": "stecībū",
+      "gloss": "çağrısına koşun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَاعْلَمُوا أَنَّ اللَّهَ يَحُولُ بَيْنَ الْمَرْءِ وَقَلْبِهِ وَأَنَّهُ إِلَيْهِ تُحْشَرُونَ",
+      "verseTransliteration": "Yâ eyyuhellezîne âmenûstecîbû lillâhi ve lir resûli izâ deâkum limâ yuhyîkûm, va´lemû ennallâhe yehûlu beynel mer´i ve kalbihî ve ennehû ileyhi tuhşerûn(tuhşerûne).",
+      "verseMeaning": "Ey iman sahipleri! Sizi, size hayat verecek şeye çağırdığında, Allah´a da resule de \"Buyur deyin!\" Şunu da bilin ki, Allah kişi ile kalbinin arasına sokulur ve bilin ki en son O´nun huzurunda haşredileceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 11,
+      "ayah": 14,
+      "formInAyah": "يَسْتَجِيبُوا",
+      "transliteration": "yestecībū",
+      "gloss": "cevap veremezlerse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِلَّمْ يَسْتَجِيبُوا لَكُمْ فَاعْلَمُوا أَنَّمَا أُنْزِلَ بِعِلْمِ اللَّهِ وَأَنْ لَا إِلَٰهَ إِلَّا هُوَ ۖ فَهَلْ أَنْتُمْ مُسْلِمُونَ",
+      "verseTransliteration": "Fe illem yestecîbû lekum fa´lemû ennemâ unzile bi ilmillâhi ve en lâ ilâhe illâ hû(huve), fe hel entum muslimûn(muslimûne).",
+      "verseMeaning": "Eğer size cevap veremedilerse artık bilin ki o, ancak Allah´ın ilmiyle indirilmiştir. Ve O´ndan başka da ilah yoktur. Artık müslüman oluyor/Allah´a teslim oluyor musunuz?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 12,
+      "ayah": 34,
+      "formInAyah": "فَاسْتَجَابَ",
+      "transliteration": "festecābe",
+      "gloss": "du’asını kabul etti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseTransliteration": "Festecâbe lehu rabbuhu fe sarefe anhu keydehunn(keydehunne), innehu huves semîul alîm(alîmu).",
+      "verseMeaning": "Rabbi onun duasını kabul etti de kadınların tuzaklarını ondan uzaklaştırdı. Herşeyi duyar O, herşeyi bilir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 13,
+      "ayah": 14,
+      "formInAyah": "يَسْتَجِيبُونَ",
+      "transliteration": "yestecībūne",
+      "gloss": "isteklerini karşılayamazlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لَهُ دَعْوَةُ الْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِنْ دُونِهِ لَا يَسْتَجِيبُونَ لَهُمْ بِشَيْءٍ إِلَّا كَبَاسِطِ كَفَّيْهِ إِلَى الْمَاءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَالِغِهِ ۚ وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلَالٍ",
+      "verseTransliteration": "Lehu da’vetul hakk(hakkı), vellezîne yed’ûne min dûnihî lâ yestecîbûne lehum bi şey’in illâ kebâsitı keffeyhi ilel mâi li yebluga fâhu ve mâ huve bi bâligıh(bâligıhî), ve mâ duâul kâfirîne illâ fî dalâl(dalâlin).",
+      "verseMeaning": "Gerçek dua yalnız O´na/hak davet yalnız O´nun için yapılır. O´nun dışında yalvarıp davet ettikleri ise onlara hiçbir şekilde cevap veremezler. Onlar, ağzına ulaşsın diye iki avucunu suya doğru açan ama suya ulaşamayan birinden başkasına benzemiyorlar. Küfre sapanların dua ve davetleri, şaşkınlığa dalmaktan başka bir işe yaramaz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 13,
+      "ayah": 18,
+      "formInAyah": "اسْتَجَابُوا",
+      "transliteration": "stecābū",
+      "gloss": "buyruğuna uyanlar",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لِلَّذِينَ اسْتَجَابُوا لِرَبِّهِمُ الْحُسْنَىٰ ۚ وَالَّذِينَ لَمْ يَسْتَجِيبُوا لَهُ لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهِ ۚ أُولَٰئِكَ لَهُمْ سُوءُ الْحِسَابِ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Lillezînestecâbû li rabbihimul husnâ, vellezîne lem yestecibû lehu lev enne lehum mâ fîl ardı cemîan ve mislehu meahu leftedev bih(bihî), ulâike lehum sûul hısâbi ve me’vâhum cehennem(cehennemu), ve bi’sel mihâd(mihâdu).",
+      "verseMeaning": "Rablerinin çağrısına olumlu cevap verenler için güzellik vardır. O´na olumlu cevap vermeyenlere gelince, yeryüzündekilerin tamamı onların olsa, bir o kadar da ilave edilse, kurtulmak için bunların tümünü fidye verirlerdi. Böylelerinin hesabı kötü olacaktır; varacakları yer de cehennemdir. Ne kötü yataktır o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 13,
+      "ayah": 18,
+      "formInAyah": "يَسْتَجِيبُوا",
+      "transliteration": "yestecībū",
+      "gloss": "uymayan(lar)",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "لِلَّذِينَ اسْتَجَابُوا لِرَبِّهِمُ الْحُسْنَىٰ ۚ وَالَّذِينَ لَمْ يَسْتَجِيبُوا لَهُ لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهِ ۚ أُولَٰئِكَ لَهُمْ سُوءُ الْحِسَابِ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمِهَادُ",
+      "verseTransliteration": "Lillezînestecâbû li rabbihimul husnâ, vellezîne lem yestecibû lehu lev enne lehum mâ fîl ardı cemîan ve mislehu meahu leftedev bih(bihî), ulâike lehum sûul hısâbi ve me’vâhum cehennem(cehennemu), ve bi’sel mihâd(mihâdu).",
+      "verseMeaning": "Rablerinin çağrısına olumlu cevap verenler için güzellik vardır. O´na olumlu cevap vermeyenlere gelince, yeryüzündekilerin tamamı onların olsa, bir o kadar da ilave edilse, kurtulmak için bunların tümünü fidye verirlerdi. Böylelerinin hesabı kötü olacaktır; varacakları yer de cehennemdir. Ne kötü yataktır o!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 14,
+      "ayah": 22,
+      "formInAyah": "فَاسْتَجَبْتُمْ",
+      "transliteration": "festecebtum",
+      "gloss": "siz de da’vetime koştunuz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي ۖ فَلَا تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ ۖ مَا أَنَا بِمُصْرِخِكُمْ وَمَا أَنْتُمْ بِمُصْرِخِيَّ ۖ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِنْ قَبْلُ ۗ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Ve kâleş şeytânu lemmâ kudıyel emru innallâhe veadekum va’del hakkı ve veadtukum fe ahleftukum, ve mâ kâne liye aleykum min sultânin illâ en deavtukum festecebtum lî, fe lâ telûmûnî ve lûmû enfusekum, mâ ene bi musrihikum ve mâ entum bi musrıhıyy(musrıhıyye), innî kefertu bi mâ eşrektumûni min kabl(kablu), innaz zâlimîne lehum azâbun elîm(elîmun).",
+      "verseMeaning": "İş bitirilince şeytan onlara şöyle dedi: \"Allah size hak bir vaatle vaatte bulundu, ben ise vaat ettim ama vaadimden caydım. Benim sizin üzerinizde bir sultam yoktu. Sizi davet ettim, siz de bana uydunuz. Hepsi bu. Şimdi beni kınamayı bırakın da öz benliklerinizi kınayın. Ne ben sizi kurtarabilirim ne de siz beni kurtarabilirsiniz. Aslında ben sizin, daha önceden beni şirk aracı yapmanıza karşı çıkmıştım. Zalimler için acıklı bir azap öngörülmüştür.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 17,
+      "ayah": 52,
+      "formInAyah": "فَتَسْتَجِيبُونَ",
+      "transliteration": "fe testecībūne",
+      "gloss": "çağrısına uyarsınız",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا",
+      "verseTransliteration": "Yevme yed’ûkum fe testecîbûne bi hamdihî ve tezunnûne in lebistum illâ kalîlâ(kalîlen).",
+      "verseMeaning": "Sizi çağıracağı gün onu hamd ederek çağrısına derhal uyacaksınız. Ve sadece az bir süre kaldığınızı düşüneceksiniz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 18,
+      "ayah": 52,
+      "formInAyah": "يَسْتَجِيبُوا",
+      "transliteration": "yestecībū",
+      "gloss": "cevap vermediler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا",
+      "verseTransliteration": "Ve yevme yekûlu nâdû şurekâiyellezîne zeamtum fe deavhum fe lem yestecibû lehum ve cealnâ beynehum mevbikâ(mevbikan).",
+      "verseMeaning": "Bir gün Allah şöyle diyecektir: \"O bir şey zannettiğiniz ortaklarımı çağırın!\" Hemen çağırdılar ama onlar kendilerine cevap vermedi. Biz onların aralarına tehlikeli bir uçurum/yıkıcı bir düşmanlık koyduk."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 21,
+      "ayah": 76,
+      "formInAyah": "فَاسْتَجَبْنَا",
+      "transliteration": "festecebnā",
+      "gloss": "biz de kabul etmiştik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَنُوحًا إِذْ نَادَىٰ مِنْ قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+      "verseTransliteration": "Ve nûhan iz nâdâ min kablu festecebnâ lehu fe necceynâhu ve ehlehu minel kerbil azîm(azîmi).",
+      "verseMeaning": "Nûh´a gelince, o da daha önce bize yakarmıştı. Yakarışına cevap verdik de onu ve ailesini, o büyük sıkıntıdan kurtardık."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 21,
+      "ayah": 84,
+      "formInAyah": "فَاسْتَجَبْنَا",
+      "transliteration": "festecebnā",
+      "gloss": "biz de kabul ettik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاسْتَجَبْنَا لَهُ فَكَشَفْنَا مَا بِهِ مِنْ ضُرٍّ ۖ وَآتَيْنَاهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنْ عِنْدِنَا وَذِكْرَىٰ لِلْعَابِدِينَ",
+      "verseTransliteration": "Festecebnâ lehu fe keşefnâ mâ bihî min durrin ve âteynâhu ehlehu ve mislehum meahum rahmeten min ındinâ ve zikrâ lil âbidîn(âbidîne).",
+      "verseMeaning": "Hemen cevap verdik ona, kendisindeki derdi kaldırdık. Tarafımızdan bir rahmet ve ibadet edenler için bir hatırlatma olarak, ona ailesini ve beraberinde benzerlerini de verdik."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 21,
+      "ayah": 88,
+      "formInAyah": "فَاسْتَجَبْنَا",
+      "transliteration": "festecebnā",
+      "gloss": "biz de kabul ettik",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنْجِي الْمُؤْمِنِينَ",
+      "verseTransliteration": "Festecebnâ lehu ve necceynâhu minel gamm(gammi), ve kezâlike nuncil mu’minîn(mu’minîne).",
+      "verseMeaning": "Hemen imdadına yetiştik. Gamdan kurtardık onu. İnananları işte böyle kurtarırız biz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 21,
+      "ayah": 90,
+      "formInAyah": "فَاسْتَجَبْنَا",
+      "transliteration": "festecebnā",
+      "gloss": "kabul buyurduk",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَاسْتَجَبْنَا لَهُ وَوَهَبْنَا لَهُ يَحْيَىٰ وَأَصْلَحْنَا لَهُ زَوْجَهُ ۚ إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا لَنَا خَاشِعِينَ",
+      "verseTransliteration": "Festecebnâ leh(lehu), ve vehebnâ lehu yahyâ ve aslahnâ lehu zevceh(zevcehu), innehum kânû yusâriûne fil hayrâti ve yed’ûnenâ regaben ve rehebâ(reheben), ve kânû lenâ hâşiîn(hâşiîne).",
+      "verseMeaning": "Kendisine hemen cevap vermiş. Yahya´yı ona hediye etmiş, karısını kendisi için doğurmaya elverişli hale getirmiştik. Onlar, hayırlarda yarışırlar, umarak ve korkarak bize yalvarırlardı. Onlar, bize ürpererek saygı gösterirlerdi."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 28,
+      "ayah": 50,
+      "formInAyah": "يَسْتَجِيبُوا",
+      "transliteration": "yestecībū",
+      "gloss": "cevap veremezlerse",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "verseTransliteration": "Fe in lem yestecîbû leke fa’lem ennemâ yettebiûne ehvâehum, ve men edallu mimmenittebea hevâhu bi gayri huden minallâh(minallâhi), innallâhe lâ yehdil kavmez zâlimîn(zâlimîne).",
+      "verseMeaning": "Bunun üzerine sana cevap veremezlerse bil ki, onlar sadece iğreti arzularına uyuyorlar. Allah´tan bir kılavuzluk olmaksızın, kendi arzularına uyandan daha sapık kim vardır! Allah, zalimler topluluğunu hidayete erdirmez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 28,
+      "ayah": 64,
+      "formInAyah": "يَسْتَجِيبُوا",
+      "transliteration": "yestecībū",
+      "gloss": "çağrısına cevap vermezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَقِيلَ ادْعُوا شُرَكَاءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَرَأَوُا الْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ",
+      "verseTransliteration": "Ve kîled’û şurekâekum fe deavhum fe lem yestecîbû lehum ve reavul azâb(azâbe), lev ennehum kânû yehtedûn(yehtedûne).",
+      "verseMeaning": "Şöyle denilir: \"Çağırın ortak koştuklarınızı!\" Onlar da çağırırlar. Fakat ötekiler bunlara cevap veremezler; azabı görmüşlerdir. Önceden yola gelselerdi ne olurdu!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 35,
+      "ayah": 14,
+      "formInAyah": "اسْتَجَابُوا",
+      "transliteration": "stecābū",
+      "gloss": "cevap veremezler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنْ تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ ۖ وَيَوْمَ الْقِيَامَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ",
+      "verseTransliteration": "İn ted’ûhum lâ yesmeû duâekum, ve lev semiû mestecâbû lekum, ve yevmel kıyâmeti yekfurûne bi şirkikum, ve lâ yunebbiuke mislu habîr(habîrin).",
+      "verseMeaning": "Onlara çağırsanız, çağrınızı duymazlar. Duysalar da size cevap veremezler. Kıyamet günü de sizin onları ortak koştuğunuzu inkâr ederler. Hiç kimse sana, Habîr olan Allah´ın verdiği gibi haber veremez."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 40,
+      "ayah": 60,
+      "formInAyah": "أَسْتَجِبْ",
+      "transliteration": "estecib",
+      "gloss": "kabul edeyim",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "1. şahıs, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil"
+      },
+      "verseArabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+      "verseTransliteration": "Ve kâle rabbukumud’ûnî estecib lekum, innellezîne yestekbirûne an ibâdetî se yedhulûne cehenneme dâhırîn(dâhırîne).",
+      "verseMeaning": "Rabbiniz buyurmuştur ki: Dua edin bana, cevap vereyim size! Kibre saparak bana ibadetten uzaklaşanlar, aşağılanmış bir halde cehenneme gireceklerdir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 42,
+      "ayah": 16,
+      "formInAyah": "اسْتُجِيبَ",
+      "transliteration": "stucībe",
+      "gloss": "kabul ettikten",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "Edilgen",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَالَّذِينَ يُحَاجُّونَ فِي اللَّهِ مِنْ بَعْدِ مَا اسْتُجِيبَ لَهُ حُجَّتُهُمْ دَاحِضَةٌ عِنْدَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ",
+      "verseTransliteration": "Vellezîne yuhâccûne fîllâhi min ba’di mestucîbe lehu huccetuhum dâhıdatun inde rabbihim ve aleyhim gadabun ve lehum azâbun şedîd(şedîdun).",
+      "verseMeaning": "Kabul edilişinin ardından Allah hakkında tartışmaya girenlerin delilleri Rableri katında geçersizdir. Bunların üzerlerine öfke, kendilerine şiddetli bir azap vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 42,
+      "ayah": 26,
+      "formInAyah": "وَيَسْتَجِيبُ",
+      "transliteration": "ve yestecību",
+      "gloss": "ve dileklerini kabul eder",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ مِنْ فَضْلِهِ ۚ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+      "verseTransliteration": "Ve yestecîbullezîne âmenû ve amilûs sâlihâti ve yezîduhum min fadlih(fadlihî), vel kâfirûne lehum azâbun şedîd(şedîdun).",
+      "verseMeaning": "İman edip hayra ve barışa yönelik işler yapanların dualarını O cevaplıyor, lütfundan onlara fazlasını O veriyor. İnkârcılara da şiddetli bir azap var."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 42,
+      "ayah": 38,
+      "formInAyah": "اسْتَجَابُوا",
+      "transliteration": "stecābū",
+      "gloss": "çağrısına gelirler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَالَّذِينَ اسْتَجَابُوا لِرَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "verseTransliteration": "Vellezînestacâbû li rabbihim ve ekâmus salâte ve emruhum şûrâ beynehum ve mimmâ rezaknâhum yunfikûn(yunfikûne).",
+      "verseMeaning": "Rablerinin çağrısına cevap verirler, namazı kılarlar. İşleri/yönetimleri, aralarında bir şûra´dır. Kendilerine verdiğimiz rızıklardan infak ederler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 42,
+      "ayah": 47,
+      "formInAyah": "اسْتَجِيبُوا",
+      "transliteration": "İstecībū",
+      "gloss": "uyun",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "2. şahıs, Eril, Çoğul",
+          "Emir Kipi"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "اسْتَجِيبُوا لِرَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۚ مَا لَكُمْ مِنْ مَلْجَإٍ يَوْمَئِذٍ وَمَا لَكُمْ مِنْ نَكِيرٍ",
+      "verseTransliteration": "İstecîbû li rabbikum min kabli en ye’tiye yevmun lâ meredde lehu minallâh(minallâhi), mâ lekum min melcein yevme izin ve mâ lekum min nekîr(nekîrin).",
+      "verseMeaning": "Ertelenmesine Allah´tan izin çıkmayacak gün gelmeden önce, Rabbinizin çağrısına uyun. O gün, sığınacak yeriniz olmayacak; yaptıklarınızı inkârınız da mümkün olmayacak."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱسْتَجَابَ",
+      "sura": 46,
+      "ayah": 5,
+      "formInAyah": "يَسْتَجِيبُ",
+      "transliteration": "yestecību",
+      "gloss": "cevap veremeyecek",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَمَنْ أَضَلُّ مِمَّنْ يَدْعُو مِنْ دُونِ اللَّهِ مَنْ لَا يَسْتَجِيبُ لَهُ إِلَىٰ يَوْمِ الْقِيَامَةِ وَهُمْ عَنْ دُعَائِهِمْ غَافِلُونَ",
+      "verseTransliteration": "Ve men edallu mimmen yed’û min dûnillâhi men lâ yestecîbu lehu ilâ yevmil kıyâmeti ve hum an duâihim gâfilûn(gâfilûne).",
+      "verseMeaning": "Kıyamet gününe kadar kendisine cevap vermeyecek birilerine, Allah´ın berisinden yalvarıp durandan daha sapık kim vardır? Ve o yalvardıkları, onların yakarışından habersizdirler."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=jwb"
+}

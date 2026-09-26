@@ -1,0 +1,144 @@
+{
+  "id": "Srx",
+  "latinName": "Sad-Ra-Kh",
+  "lettersArabic": "ص ر خ",
+  "meanings": [
+    "to cry out loudly, cry/implore for help/assistance, shout for succour."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 5,
+  "lemmas": [
+    {
+      "formArabic": "صَرِيخ",
+      "count": 1
+    },
+    {
+      "formArabic": "مُصْرِخ",
+      "count": 2
+    },
+    {
+      "formArabic": "يَسْتَصْرِخُ",
+      "count": 1
+    },
+    {
+      "formArabic": "يَصْطَرِخُ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">صَرِيخ",
+      "sura": 36,
+      "ayah": 43,
+      "formInAyah": "صَرِيخَ",
+      "transliteration": "Sarīḣa",
+      "gloss": "imdad (eden)",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ",
+      "verseTransliteration": "Ve in neşe’ nugrıkhum fe lâ sarîha lehum ve lâ hum yunkazûn(yunkazûne).",
+      "verseMeaning": "Eğer dilersek onları boğarız. Bu durumda ne kendileri için feryat eden olur ne de kurtarılırlar."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُصْرِخ",
+      "sura": 14,
+      "ayah": 22,
+      "formInAyah": "بِمُصْرِخِكُمْ",
+      "transliteration": "bimuSriḣikum",
+      "gloss": "sizi kurtarabilirim",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي ۖ فَلَا تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ ۖ مَا أَنَا بِمُصْرِخِكُمْ وَمَا أَنْتُمْ بِمُصْرِخِيَّ ۖ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِنْ قَبْلُ ۗ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Ve kâleş şeytânu lemmâ kudıyel emru innallâhe veadekum va’del hakkı ve veadtukum fe ahleftukum, ve mâ kâne liye aleykum min sultânin illâ en deavtukum festecebtum lî, fe lâ telûmûnî ve lûmû enfusekum, mâ ene bi musrihikum ve mâ entum bi musrıhıyy(musrıhıyye), innî kefertu bi mâ eşrektumûni min kabl(kablu), innaz zâlimîne lehum azâbun elîm(elîmun).",
+      "verseMeaning": "İş bitirilince şeytan onlara şöyle dedi: \"Allah size hak bir vaatle vaatte bulundu, ben ise vaat ettim ama vaadimden caydım. Benim sizin üzerinizde bir sultam yoktu. Sizi davet ettim, siz de bana uydunuz. Hepsi bu. Şimdi beni kınamayı bırakın da öz benliklerinizi kınayın. Ne ben sizi kurtarabilirim ne de siz beni kurtarabilirsiniz. Aslında ben sizin, daha önceden beni şirk aracı yapmanıza karşı çıkmıştım. Zalimler için acıklı bir azap öngörülmüştür.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">مُصْرِخ",
+      "sura": 14,
+      "ayah": 22,
+      "formInAyah": "بِمُصْرِخِيَّ",
+      "transliteration": "bimuSriḣiyye",
+      "gloss": "beni kurtarabilirsiniz",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "İf’al Kalıbı",
+          "Etken",
+          "Eril, Çoğul",
+          "Mecrûr İsim"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "number": "Çoğul",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدْتُكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِيَ عَلَيْكُمْ مِنْ سُلْطَانٍ إِلَّا أَنْ دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي ۖ فَلَا تَلُومُونِي وَلُومُوا أَنْفُسَكُمْ ۖ مَا أَنَا بِمُصْرِخِكُمْ وَمَا أَنْتُمْ بِمُصْرِخِيَّ ۖ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِنْ قَبْلُ ۗ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "verseTransliteration": "Ve kâleş şeytânu lemmâ kudıyel emru innallâhe veadekum va’del hakkı ve veadtukum fe ahleftukum, ve mâ kâne liye aleykum min sultânin illâ en deavtukum festecebtum lî, fe lâ telûmûnî ve lûmû enfusekum, mâ ene bi musrihikum ve mâ entum bi musrıhıyy(musrıhıyye), innî kefertu bi mâ eşrektumûni min kabl(kablu), innaz zâlimîne lehum azâbun elîm(elîmun).",
+      "verseMeaning": "İş bitirilince şeytan onlara şöyle dedi: \"Allah size hak bir vaatle vaatte bulundu, ben ise vaat ettim ama vaadimden caydım. Benim sizin üzerinizde bir sultam yoktu. Sizi davet ettim, siz de bana uydunuz. Hepsi bu. Şimdi beni kınamayı bırakın da öz benliklerinizi kınayın. Ne ben sizi kurtarabilirim ne de siz beni kurtarabilirsiniz. Aslında ben sizin, daha önceden beni şirk aracı yapmanıza karşı çıkmıştım. Zalimler için acıklı bir azap öngörülmüştür.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَسْتَصْرِخُ",
+      "sura": 28,
+      "ayah": 18,
+      "formInAyah": "يَسْتَصْرِخُهُ",
+      "transliteration": "yesteSriḣuhu",
+      "gloss": "yine feryadediyor",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İstif’al Kalıbı",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ ۚ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُبِينٌ",
+      "verseTransliteration": "Fe asbaha fîl medîneti hâifen yeterakkabu fe izellezîstensarahu bil emsi yestasrihuh(yestasrihuhu), kâle lehu mûsâ inneke le gaviyyun mubîn(mubînun).",
+      "verseMeaning": "Kentte, korku içinde sabahladı, göz kulak kesiliyordu. Bir de baktı ki, dün ondan yardım isteyen adam yine onu yardıma çağırıyor. Mûsa ona dedi ki: \"Anlaşıldı, sen, tam azmış bir adamsın.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">يَصْطَرِخُ",
+      "sura": 35,
+      "ayah": 37,
+      "formInAyah": "يَصْطَرِخُونَ",
+      "transliteration": "yeSTariḣūne",
+      "gloss": "feryadederler",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Eril, Çoğul",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril",
+        "number": "Çoğul"
+      },
+      "verseArabic": "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَا أَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فِيهِ مَنْ تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ ۖ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+      "verseTransliteration": "Ve hum yastarihûne fîhâ, rabbenâ ahricnâ na’mel sâlihan gayrellezî kunnâ na’mel(na’melu), e ve lem nuammirkum mâ yetezekkeru fîhi men tezekkere ve câekumun nezîr(nezîru), fe zûkû fe mâ liz zâlimîne min nasîr(nasîrin).",
+      "verseMeaning": "Feryat edip dururlar orada: \"Rabbimiz, çıkar bizi de önceden yaptığımızdan başka şey yapalım. Barışa ve hayra yönelik iyi bir iş yapalım.\" Sizi biz, öğüt alanın öğüt alacağı bir süre ömürlendirmedik mi? Uyarıcı da geldi size. Hadi, tadın bakalım azabı! Zalimler için hiçbir yardımcı yok artık."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=Srx"
+}

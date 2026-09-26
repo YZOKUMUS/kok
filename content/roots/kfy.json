@@ -1,0 +1,688 @@
+{
+  "id": "kfy",
+  "latinName": "Kef-Fe-Ye",
+  "lettersArabic": "ك ف ي",
+  "meanings": [
+    "Yetmek"
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 33,
+  "lemmas": [
+    {
+      "formArabic": "كَاف",
+      "count": 1
+    },
+    {
+      "formArabic": "كَفَىٰ",
+      "count": 32
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَاف",
+      "sura": 39,
+      "ayah": 36,
+      "formInAyah": "بِكَافٍ",
+      "transliteration": "bikāfin",
+      "gloss": "kâfi",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Etken",
+          "Eril",
+          "Mecrûr İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mecrûr İsim"
+      },
+      "verseArabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ۖ وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ دُونِهِ ۚ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+      "verseTransliteration": "E leysallâhu bi kâfin abdeh(abdehu), ve yuhavvifûneke billezîne min dûnih(dûnihî), ve men yudlilillâhu fe mâ lehu min hâd(hâdin).",
+      "verseMeaning": "Allah, kuluna Kafi değil mi, yetmiyor mu? Seni O´ndan başkalarıyla korkutuyorlar. Allah kimi saptırırsa artık ona kılavuzluk edecek yoktur."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 2,
+      "ayah": 137,
+      "formInAyah": "فَسَيَكْفِيكَهُمُ",
+      "transliteration": "feseyekfīkehumu",
+      "gloss": "onlara karşı sana yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا ۖ وَإِنْ تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ اللَّهُ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "verseTransliteration": "Fe in âmenû bi misli mâ âmentum bihî fe kadihtedev ve in tevellev fe innemâ hum fî şikâk(şikâkın) fe se yekfîke humullâh(humullâhu), ve huves semîul alîm(alîmu).",
+      "verseMeaning": "Eğer onlar da sizin inandığınız gibi inanırlarsa, hiç kuşkusuz iyiyi ve güzeli bulmuş olurlar; eğer sırt dönerlerse artık onlar şıkak içindedirler/parçalanmış olurlar. Onlara karşı sana Allah yeter. En iyi işiten, en güzel bilendir O."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 3,
+      "ayah": 124,
+      "formInAyah": "يَكْفِيَكُمْ",
+      "transliteration": "yekfiyekum",
+      "gloss": "size yetmez mi?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَنْ يَكْفِيَكُمْ أَنْ يُمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ آلَافٍ مِنَ الْمَلَائِكَةِ مُنْزَلِينَ",
+      "verseTransliteration": "İz tekûlu lil mu’minîne e len yekfiyekum en yumiddekum rabbukum bi selâseti âlâfin minel melâiketi munzelîn(munzelîne).",
+      "verseMeaning": "O sırada sen, müminlere şöyle diyordun: \"Rabbinizin, indirilmiş üçbin melekle destek vermesi, size yetmiyor mu?\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 6,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَنْ يَكْبَرُوا ۚ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+      "verseTransliteration": "Vebtelûl yetâmâ hattâ izâ belegun nikâh(nikâha), fe in ânestum minhum ruşden fedfeû ileyhim emvâlehum ve lâ te’kulûhâ isrâfen ve bidâren en yekberû ve men kâne ganiyyen felyesta’fif, ve men kâne fakîran felye’kul bil ma’rûf(ma’rûfi), fe izâ defa’tum ileyhim emvâlehum fe eşhidû aleyhim, ve kefâ billâhi hasîbâ(hasîben).",
+      "verseMeaning": "Yetimleri, nikâh çağına gelmelerine kadar gözetleyip deneyin. O zaman onlarda içinize sinecek bir olgunluk ve erginlik görürseniz, mallarını onlara geri verin. Büyüyecekler diye bu malları tez elden saçıp savurarak yemeyin. Zengin olan, iffetli davransın. Fakir olan ise örfün gerekli kıldığı oranda yesin. Mallarını kendilerine teslim ettiğiniz zaman yanlarında tanıklar bulundurun. Hesap sorucu olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 45,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ ۚ وَكَفَىٰ بِاللَّهِ وَلِيًّا وَكَفَىٰ بِاللَّهِ نَصِيرًا",
+      "verseTransliteration": "Vallâhu a’lemu bi a’dâikum ve kefâ billâhi veliyyen, ve kefâ billâhi nasîrâ(nasîran).",
+      "verseMeaning": "Allah sizin düşmanlarınızı daha iyi bilir. Dost olarak, Allah yeter. Yardımcı olarak da Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 45,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ ۚ وَكَفَىٰ بِاللَّهِ وَلِيًّا وَكَفَىٰ بِاللَّهِ نَصِيرًا",
+      "verseTransliteration": "Vallâhu a’lemu bi a’dâikum ve kefâ billâhi veliyyen, ve kefâ billâhi nasîrâ(nasîran).",
+      "verseMeaning": "Allah sizin düşmanlarınızı daha iyi bilir. Dost olarak, Allah yeter. Yardımcı olarak da Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 50,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "انْظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُبِينًا",
+      "verseTransliteration": "Unzur keyfe yefterûne alâllâhil kezib(kezibe) ve kefâ bihî ismen mubînâ(mubînen).",
+      "verseMeaning": "Bir bak, nasıl yalan düzüp iftira ediyorlar Allah´a! Açık günah olarak bu yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 55,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "öylesine de yetti",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+      "verseTransliteration": "Fe minhum men âmene bihî ve minhum men sadde anh(anhu) ve kefâ bi cehenneme saîrâ(saîran).",
+      "verseMeaning": "Onlardan bir kısmı ona inanmıştır; bir kısmı da ondan alıkoymaktadır. Böylesine, çılgın alevli cehennem yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 70,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "ذَٰلِكَ الْفَضْلُ مِنَ اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ عَلِيمًا",
+      "verseTransliteration": "Zâlikel fadlu minallâh(minallâhi) ve kefâ billâhi alîmâ(alîmen).",
+      "verseMeaning": "Böylesi bir beraberlik Allah´ın lütfudur. Herşeyi bilici olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 79,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ ۖ وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَ ۚ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "verseTransliteration": "Mâ esâbeke min hasenetin fe minallâh(minallâhi), ve mâ esâbeke min seyyietin fe min nefsik(nefsike), ve erselnâke lin nâsi resûlâ(resûlen), ve kefâ billâhi şehîdâ(şehîden).",
+      "verseMeaning": "İyilik ve güzellikten sana her ne ererse Allah´tandır. Kötülük ve çirkinlikten sana ulaşan şeyse kendi nefsindendir. Biz seni insanlara bir resul olarak gönderdik. Tanık olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 81,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا مِنْ عِنْدِكَ بَيَّتَ طَائِفَةٌ مِنْهُمْ غَيْرَ الَّذِي تَقُولُ ۖ وَاللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Ve yekûlûne tâatun fe izâ berezû min indike beyyete tâifetun minhum gayrellezî tekûl(tekûlu) vallâhu yektubu mâ yubeyyitûn(yubeyyitûne), fe a’rıd anhum ve tevekkel alâllâh(alallâhi) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "\"Baş üstüne\" diyorlar ama senin yanından ayrıldıklarında, içlerinden bir grup senin söylediğinin tam tersini planlıyor. Allah, onların sabahlara kadar kurup durduklarını yazıyor. Onlardan yüz çevir, Allah´ı vekil et. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 132,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Ve lillâhi mâ fîs semâvâti ve mâ fil ard(ardı) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "Hem göklerdekiler hem yerdekiler Allah içindir. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 166,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "kafidir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "لَٰكِنِ اللَّهُ يَشْهَدُ بِمَا أَنْزَلَ إِلَيْكَ ۖ أَنْزَلَهُ بِعِلْمِهِ ۖ وَالْمَلَائِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "verseTransliteration": "Lâkinillâhu yeşhedu bi mâ enzele ileyke enzelehu bi ılmih(ılmihî), vel melâiketu yeşhedûn(yeşhedûne) ve kefâ billâhi şehîdâ(şehîden).",
+      "verseMeaning": "Şu da var ki, Allah sana indirdiğini, kendi ilmiyle indirdiğine tanıklık eder. Melekler de tanıklık ediyorlar. Zaten tanık olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 4,
+      "ayah": 171,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Yâ ehlel kitâbi lâ taglû fî dînikum ve lâ tekûlû alâllâhi illel hakk(hakka) innemel mesîhu îsebnu meryeme resûlullâhi ve kelimetuh(kelimetuhu), elkâhâ ilâ meryeme ve rûhun minh(minhu), fe âminû billâhi ve rusulih(rusulihî), ve lâ tekûlû selâseh(selâsetun) intehû hayran lekum innemâllâhu ilâhun vâhid(vâhidun), subhânehû en yekûne lehu veled(veledun), lehu mâ fîs semâvâti ve mâ fîl ard(ardı) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "Ey Ehlikitap! Dininizde aşırılığa gidip doymazlık etmeyin! Allah hakkında gerçek dışı bir şey söylemeyin! Meryem oğlu İsa Mesih, Allah´ın resulü ve kelimesidir. Onu, kendisinden bir ruhla beraber Meryem´e atmıştır. Artık Allah´a ve resullerine inanın. \"Üçtür!\" demeyin. Son verin, sizin için daha iyi olur. Allah Vâhid´dir, tek ve biricik ilahtır. Kendisi için bir çocuk olmasından arınmıştır O. Yalnız O´nundur göklerdekiler ve yerdekiler. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 10,
+      "ayah": 29,
+      "formInAyah": "فَكَفَىٰ",
+      "transliteration": "fekefā",
+      "gloss": "şimdi yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "فَكَفَىٰ بِاللَّهِ شَهِيدًا بَيْنَنَا وَبَيْنَكُمْ إِنْ كُنَّا عَنْ عِبَادَتِكُمْ لَغَافِلِينَ",
+      "verseTransliteration": "Fe kefâ billâhi şehîden beynenâ ve beynekum in kunnâ an ibâdetikum le gâfilîn(gâfilîne).",
+      "verseMeaning": "\"Sizinle bizim aramızda tanık olarak Allah yeter. Doğrusu, biz sizin ibadetinizden tamamen habersizdik.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 13,
+      "ayah": 43,
+      "formInAyah": "كَفَىٰ",
+      "transliteration": "kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَيَقُولُ الَّذِينَ كَفَرُوا لَسْتَ مُرْسَلًا ۚ قُلْ كَفَىٰ بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ",
+      "verseTransliteration": "Ve yekûlullezîne keferû leste murselâ(murselen), kul kefâ billâhi şehîden beynî ve beynekum ve men indehu ilmul kitâb(kitâbi).",
+      "verseMeaning": "Küfre sapanlar: \"Sen gönderilmiş bir elçi değilsin.\" diyorlar. De ki: \"Benimle sizin aranızda tanık olarak Allah, bir de yanında kitap bilgisi bulunanlar yeter.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 15,
+      "ayah": 95,
+      "formInAyah": "كَفَيْنَاكَ",
+      "transliteration": "kefeynāke",
+      "gloss": "sana yeteriz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "1. şahıs, Çoğul",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "number": "Çoğul"
+      },
+      "verseArabic": "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ",
+      "verseTransliteration": "İnnâ kefeynâkel mustehziîn(mustehziîne).",
+      "verseMeaning": "Alay edip eğlenenlere karşı biz sana yeteriz."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 17,
+      "ayah": 14,
+      "formInAyah": "كَفَىٰ",
+      "transliteration": "kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "اقْرَأْ كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا",
+      "verseTransliteration": "Ikra’ kitâbek(kitâbeke), kefâ bi nefsikel yevme aleyke hasîbâ(hasîben).",
+      "verseMeaning": "\"Oku kitabını! Bugün sana hesap sorucu olarak öz benliğin yeter.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 17,
+      "ayah": 17,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَمْ أَهْلَكْنَا مِنَ الْقُرُونِ مِنْ بَعْدِ نُوحٍ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِ خَبِيرًا بَصِيرًا",
+      "verseTransliteration": "Ve kem ehleknâ minel kurûni min ba’di nûh(nûhin) ve kefâ bi rabbike bi zunûbi ıbâdihî habîren basîrâ(basîren).",
+      "verseMeaning": "Nûh´tan sonra da nice kuşakları helak ettik. Kullarının günahlarını haber alıcı ve görücü olarak Rabbin yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 17,
+      "ayah": 65,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+      "verseTransliteration": "İnne ibâdî leyse leke aleyhim sultân(sultânûn), ve kefâ bi rabbike vekîlâ(vekîlen).",
+      "verseMeaning": "\"Kuşkusuz, benim kullarım üzerinde senin hiçbir sultan olmayacaktır.\" Vekil olarak Rabbin yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 17,
+      "ayah": 96,
+      "formInAyah": "كَفَىٰ",
+      "transliteration": "kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ كَفَىٰ بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ ۚ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا",
+      "verseTransliteration": "Kul kefâ billâhi şehîden beynî ve beynekum, innehu kâne bi ıbâdihî habîren basîrâ(basîren).",
+      "verseMeaning": "De ki: \"Benimle sizin aranızda tanık olarak Allah yeter. O, kullarından haberdardır, onları görmektedir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 21,
+      "ayah": 47,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve biz yeteriz",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
+      "verseTransliteration": "Ve nedaul mevâzînel kısta li yevmil kıyâmeti fe lâ tuzlemu nefsun şey’â(şey’en) ve in kâne miskâle habbetin min hardelin eteynâ bihâ, ve kefâ binâ hâsibîn(hâsibîne).",
+      "verseMeaning": "Kıyamet günü için adalet terazilerini kuracağız/adaleti terazilere koyacağız. Hiç kimseye zerre kadar zulüm edilmeyecek. Hardal tanesi kadar birşey olsa onu ortaya getiririz. Hesapçılar olarak biz yeteriz!"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 25,
+      "ayah": 31,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "vekefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا مِنَ الْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا",
+      "verseTransliteration": "Ve kezâlike cealnâ li kulli nebiyyin aduvven minel mucrimîn(mucrimîne), ve kefâ bi rabbike hâdiyen ve nasîrâ(nasîran).",
+      "verseMeaning": "Biz böylece her peygambere, suçlulardan bir düşman musallat ettik. Kılavuz ve yardımcı olarak Rabbin yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 25,
+      "ayah": 58,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve kafidir",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِ ۚ وَكَفَىٰ بِهِ بِذُنُوبِ عِبَادِهِ خَبِيرًا",
+      "verseTransliteration": "Ve tevekkel alel hayyillezî lâ yemûtu ve sebbih bi hamdih(hamdihî), ve kefâ bihî bi zunûbi ibâdihî habîrâ(habîren).",
+      "verseMeaning": "O hiç ölmeyecek diriye, o Hayy olana dayanıp güven, O´nu överek tespih et. Kullarının günahlarından O´nun haberdar olması yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 29,
+      "ayah": 51,
+      "formInAyah": "يَكْفِهِمْ",
+      "transliteration": "yekfihim",
+      "gloss": "onlara yetmedi mi?",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَوَلَمْ يَكْفِهِمْ أَنَّا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
+      "verseTransliteration": "E ve lem yekfihim ennâ enzelnâ aleykel kitâbe yutlâ aleyhim, inne fî zâlike le rahmeten ve zikrâ li kavmin yu’minûn(yu’minûne).",
+      "verseMeaning": "Karşılarında okunup duran bir kitabı sana indirmiş olmamız onlara yetmiyor mu? Bunda, inanan bir toplum için elbette ki bir rahmet ve bir öğüt vardır."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 29,
+      "ayah": 52,
+      "formInAyah": "كَفَىٰ",
+      "transliteration": "kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "قُلْ كَفَىٰ بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "verseTransliteration": "Kul kefâ billâhi beynî ve beynekum şehîdâ(şehîden), ya’lemu mâ fîs semâvâti vel ard(ardı), vellezîne âmenû bil bâtılı ve keferû billâhi ulâike humul hâsirûn(hâsirûne).",
+      "verseMeaning": "De ki: \"Sizinle benim aramda tanık olarak Allah yeter. Göklerde ne var, yerde ne var biliyor O. Bâtıla iman edip Allah´ı inkâr edenlere gelince, işte onlar hüsrana uğramışların ta kendileridir.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 33,
+      "ayah": 3,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Ve tevekkel alâllâh(alâllâhi) ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "Allah´a dayanıp güven! Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 33,
+      "ayah": 25,
+      "formInAyah": "وَكَفَى",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَرَدَّ اللَّهُ الَّذِينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًا ۚ وَكَفَى اللَّهُ الْمُؤْمِنِينَ الْقِتَالَ ۚ وَكَانَ اللَّهُ قَوِيًّا عَزِيزًا",
+      "verseTransliteration": "Ve reddallâhullezîne keferû bi gayzıhim lem yenâlû hayrâ(hayran), ve kefallâhul mu’minînel kıtâl, ve kânallâhu kaviyyen azîzâ(azîzen).",
+      "verseMeaning": "Allah, küfre sapanları öfkeleriyle yüz geri etti; hiçbir hayra ulaşamadılar. Allah, çarpışma sırasında müminler için yeterli oldu. Allah Kavî´dir, Azîz´dir."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 33,
+      "ayah": 39,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ وَيَخْشَوْنَهُ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا اللَّهَ ۗ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+      "verseTransliteration": "Ellezîne yubelligûne risâlâtillâhi ve yahşevnehu ve lâ yahşevne ehaden illallâh(illallâhe), ve kefâ billâhi hasîbâ(hasîban).",
+      "verseMeaning": "Onlar ki Allah´ın mesajlarını tebliğ edip O´ndan korkarlar, Allah´tan gayrı hiç kimseden korkmazlar. Hesap sorucu olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 33,
+      "ayah": 48,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ وَدَعْ أَذَاهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "verseTransliteration": "Ve lâ tutııl kâfirîne vel munâfikîne veda’ezâhum ve tevekkel alâllâh(alâllâhi), ve kefâ billâhi vekîlâ(vekîlen).",
+      "verseMeaning": "İnkârcılara, ikiyüzlülere itaat etme, onların ezalarına aldırma; Allah´a tevekkül et. Vekil olarak Allah yeter."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 41,
+      "ayah": 53,
+      "formInAyah": "يَكْفِ",
+      "transliteration": "yekfi",
+      "gloss": "yetmez",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Şimdiki/Geniş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "verseTransliteration": "Se nurîhim âyâtinâ fîl âfâkı ve fî enfusihim hattâ yetebeyyene lehum ennehul hakk(hakku), e ve lem yekfi bi rabbike ennehu alâ kulli şey’in şehîd(şehîdun).",
+      "verseMeaning": "Onlara ayetlerimizi ufuklarda ve öz benliklerinin içinde göstereceğiz. Ta ki, onun hak olduğu kendilerine ayan beyan belli olsun. Kendisinin her şey üzerinde bir tanık oluşu, senin Rabbine yetmez mi?"
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 46,
+      "ayah": 8,
+      "formInAyah": "كَفَىٰ",
+      "transliteration": "kefā",
+      "gloss": "yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ إِنِ افْتَرَيْتُهُ فَلَا تَمْلِكُونَ لِي مِنَ اللَّهِ شَيْئًا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ ۖ وَهُوَ الْغَفُورُ الرَّحِيمُ",
+      "verseTransliteration": "Em yekûlûnefterâh(yekûlûnefterâhu), kul iniftereytuhu fe lâ temlikûne lî minallahi şey’â(şey’en), huve a’lemu bi mâ tufîdûne fîh(fîhi), kefâ bihî şehîden beynî ve beynekum ve huvel gafûrur rahîm(rahîmu).",
+      "verseMeaning": "Yahut da şöyle diyorlar: \"Uyduruyor onu!\" De ki: \"Eğer uydursaydım onu, hiçbir şeye sahip olamazdınız Allah´tan kurtarmak için beni. İçine gömüldüğünüz yaygarayı en iyi bilen O´dur. Benimle sizin aranızda tanık olarak O yeter. Çok affedici, çok merhametlidir O.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">كَفَىٰ",
+      "sura": 48,
+      "ayah": 28,
+      "formInAyah": "وَكَفَىٰ",
+      "transliteration": "ve kefā",
+      "gloss": "ve yeter",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "3. şahıs, Eril, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Eril"
+      },
+      "verseArabic": "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+      "verseTransliteration": "Huvellezî ersele resûlehu bil hudâ ve dînil hakkı li yuzhirehu aled dîni kullih(kullihî), ve kefâ billâhi şehîdâ(şehîden).",
+      "verseMeaning": "O, resulünü hidayet ve hak dinle gönderdi ki, o dini tüm dinlere üstün kılsın. Tanık olarak Allah yeter."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=kfy"
+}

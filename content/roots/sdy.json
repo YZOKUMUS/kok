@@ -1,0 +1,41 @@
+{
+  "id": "sdy",
+  "latinName": "Sin-Dal-Ye",
+  "lettersArabic": "س د ي",
+  "meanings": [],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 1,
+  "lemmas": [
+    {
+      "formArabic": "سُدًى",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">سُدًى",
+      "sura": 75,
+      "ayah": 36,
+      "formInAyah": "سُدًى",
+      "transliteration": "suden",
+      "gloss": "başı boş",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى",
+      "verseTransliteration": "E yahsebul’insânu en yutreke sudâ(sudân).",
+      "verseMeaning": "İnsan, başıboş bırakılacağını mı sanıyor?"
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=sdy"
+}

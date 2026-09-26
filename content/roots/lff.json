@@ -1,0 +1,95 @@
+{
+  "id": "lff",
+  "latinName": "Lam-Fe-Fe",
+  "lettersArabic": "ل ف ف",
+  "meanings": [
+    "To roll up, fold, wrap, involve, conjoin, be entangled (trees), be heaped, joined thick/dense and luxuriant/abundant."
+  ],
+  "derivativeNotes": [],
+  "turkishDerivatives": [],
+  "cognates": [],
+  "totalOccurrencesInQuran": 3,
+  "lemmas": [
+    {
+      "formArabic": "أَلْفَاف",
+      "count": 1
+    },
+    {
+      "formArabic": "لَفِيف",
+      "count": 1
+    },
+    {
+      "formArabic": "ٱلْتَفَّتِ",
+      "count": 1
+    }
+  ],
+  "occurrences": [
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">أَلْفَاف",
+      "sura": 78,
+      "ayah": 16,
+      "formInAyah": "أَلْفَافًا",
+      "transliteration": "elfāfen",
+      "gloss": "birbirine sarmaş dolaş",
+      "grammar": {
+        "raw": [
+          "Sıfat",
+          "Dişil, Çoğul",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Dişil",
+        "number": "Çoğul",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَجَنَّاتٍ أَلْفَافًا",
+      "verseTransliteration": "Ve cennâtin elfâfâ(elfâfen).",
+      "verseMeaning": "Ve içiçe girmiş bağlar/bahçeler."
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">لَفِيف",
+      "sura": 17,
+      "ayah": 104,
+      "formInAyah": "لَفِيفًا",
+      "transliteration": "lefīfen",
+      "gloss": "bir araya",
+      "grammar": {
+        "raw": [
+          "İsim",
+          "Eril, Tekil",
+          "Mansûb İsim",
+          "Belirsiz"
+        ],
+        "partOfSpeech": "İsim",
+        "gender": "Eril",
+        "case": "Mansûb İsim"
+      },
+      "verseArabic": "وَقُلْنَا مِنْ بَعْدِهِ لِبَنِي إِسْرَائِيلَ اسْكُنُوا الْأَرْضَ فَإِذَا جَاءَ وَعْدُ الْآخِرَةِ جِئْنَا بِكُمْ لَفِيفًا",
+      "verseTransliteration": "Ve kulnâ min ba’dihî li benî isrâîleskunûl arda fe izâ câe va’dul âhıreti ci’nâ bikum lefîfâ(lefîfen).",
+      "verseMeaning": "Bunun ardından, İsrailoğullarına şöyle dedik: \"Şu toprakta oturun. Âhiret vaadi/ikinci vaat gelince, sizi toplayıp bir araya getireceğiz.\""
+    },
+    {
+      "lemmaFormArabic": "style=\"font-weight: 700; color: #006600; font-size: xx-large; background-color: #FFFFCC;\">ٱلْتَفَّتِ",
+      "sura": 75,
+      "ayah": 29,
+      "formInAyah": "وَالْتَفَّتِ",
+      "transliteration": "ve teffeti",
+      "gloss": "ve dolaşır",
+      "grammar": {
+        "raw": [
+          "Fiil",
+          "İfti’al Kalıbı",
+          "3. şahıs, Dişil, Tekil",
+          "Geçmiş Zaman"
+        ],
+        "partOfSpeech": "Fiil",
+        "gender": "Dişil"
+      },
+      "verseArabic": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+      "verseTransliteration": "Velteffetis sâku bis sâk(sâkı).",
+      "verseMeaning": "Dolaşmıştır el ayak/kol bacak."
+    }
+  ],
+  "sourceUrl": "https://kuranharitasi.com/kokler.aspx?kok=lff"
+}
