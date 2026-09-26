@@ -1,4 +1,4 @@
-import { playWord } from './audio.js'
+import { playVerse, playWord } from './audio.js'
 import {
   dueWordList,
   gradeWord,
@@ -211,8 +211,11 @@ try {
                  ${
                    example?.verseArabic
                      ? `<div class="ayah">
-                          <p class="ref">${example.sura}:${example.ayah}</p>
-                          <p class="ar-lg" lang="ar">${escapeHtml(example.verseArabic)}</p>
+                          <button type="button" class="play-verse" id="play-verse" data-sura="${example.sura}" data-ayah="${example.ayah}">
+                            <span class="ref">${example.sura}:${example.ayah}</span>
+                            <span class="ar-lg" lang="ar">${escapeHtml(example.verseArabic)}</span>
+                            <span class="listen">Ayeti dinle</span>
+                          </button>
                           <p class="meaning">${escapeHtml(example.verseMeaning || '')}</p>
                         </div>`
                      : ''
@@ -231,6 +234,16 @@ try {
         </div>
       </div>`
 
+    document.getElementById('play-verse')?.addEventListener('click', async () => {
+      const status = document.querySelector('#play-verse .listen')
+      if (status) status.textContent = 'Çalıyor'
+      try {
+        await playVerse(example?.sura, example?.ayah)
+        if (status) status.textContent = 'Ayeti dinle'
+      } catch {
+        if (status) status.textContent = 'Ses yok'
+      }
+    })
     document.getElementById('hear')?.addEventListener('click', async () => {
       const status = document.getElementById('listen')
       if (status) status.textContent = 'Çalıyor'
