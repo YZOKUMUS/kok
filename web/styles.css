@@ -470,13 +470,31 @@ main { padding: 4px 16px 12px; }
   border-top: 1px solid var(--line);
 }
 
+.play-verse {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: start;
+  color: inherit;
+}
+
 .ar-lg {
+  display: block;
   margin: 0;
   font-family: var(--ar);
   direction: rtl;
   font-size: 1.45rem;
   line-height: 2;
+  text-align: right;
 }
+
+.play-verse .translit,
+.play-verse .listen { display: block; }
+
+.play-verse .listen { margin-top: 4px; }
 
 .translit { color: var(--muted); font-size: 0.92rem; }
 .meaning { margin: 8px 0 0; }

@@ -1,4 +1,4 @@
-import { playWord } from './audio.js'
+import { playVerse, playWord } from './audio.js'
 import { isStudied, remember, toggleStudied } from './study.js'
 
 const CONTENT = '../content'
@@ -105,8 +105,11 @@ if (!rootId) {
           .join('')
         const verse = item.verseArabic
           ? `<div class="ayah">
-              <p class="ar-lg" lang="ar">${escapeHtml(item.verseArabic)}</p>
-              ${item.verseTransliteration ? `<p class="translit">${escapeHtml(item.verseTransliteration)}</p>` : ''}
+              <button type="button" class="play-verse" data-sura="${item.sura}" data-ayah="${item.ayah}">
+                <span class="ar-lg" lang="ar">${escapeHtml(item.verseArabic)}</span>
+                ${item.verseTransliteration ? `<span class="translit">${escapeHtml(item.verseTransliteration)}</span>` : ''}
+                <span class="listen">Ayeti dinle</span>
+              </button>
               ${item.verseMeaning ? `<p class="meaning">${escapeHtml(item.verseMeaning)}</p>` : ''}
             </div>`
           : `<p class="stub">Ayet metni yok.</p>`
@@ -164,7 +167,7 @@ if (!rootId) {
               <button type="button" data-pos="fiil">Fiiller</button>
             </div>
           </div>
-          <p class="sub">Kelimeye dokununca okunuşu çalar.</p>
+          <p class="sub">Kelimeye dokununca kelime, okunuş satırına dokununca ayet çalar.</p>
           ${cards || '<p class="stub">Ayet kaydı yok.</p>'}
           <p id="no-verbs" class="stub hidden">Bu kökte yalnızca fiil olan kelime yok.</p>
         </section>
@@ -172,6 +175,18 @@ if (!rootId) {
       </div>`
 
     mount.addEventListener('click', async (event) => {
+      const verseButton = event.target.closest('.play-verse')
+      if (verseButton) {
+        const status = verseButton.querySelector('.listen')
+        if (status) status.textContent = 'Çalıyor'
+        try {
+          await playVerse(verseButton.dataset.sura, verseButton.dataset.ayah)
+          if (status) status.textContent = 'Ayeti dinle'
+        } catch {
+          if (status) status.textContent = 'Ses yok'
+        }
+        return
+      }
       const button = event.target.closest('.play-word')
       if (!button) return
       const previous = button.textContent

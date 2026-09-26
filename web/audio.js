@@ -71,12 +71,21 @@ function clipUrl(sura, ayah, position) {
   return `${AUDIO_BASE}wbw/${part(sura)}_${part(ayah)}_${part(position)}.mp3`
 }
 
+function start(url) {
+  if (!player) player = new Audio()
+  player.pause()
+  player.src = url
+  return player.play()
+}
+
+export function playVerse(sura, ayah) {
+  const part = (value) => String(value).padStart(3, '0')
+  return start(`${AUDIO_BASE}Alafasy/mp3/${part(sura)}${part(ayah)}.mp3`)
+}
+
 export async function playWord(sura, ayah, form) {
   const words = await loadVerse(sura, ayah)
   const hit = chooseWord(words, form)
   if (!hit?.position) throw new Error('Bu kelimenin sesi yok')
-  if (!player) player = new Audio()
-  player.pause()
-  player.src = clipUrl(sura, ayah, hit.position)
-  await player.play()
+  await start(clipUrl(sura, ayah, hit.position))
 }
