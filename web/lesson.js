@@ -1,3 +1,4 @@
+import { playWord } from './audio.js'
 import {
   dueWordList,
   gradeWord,
@@ -200,7 +201,8 @@ try {
         <p class="lesson-root" lang="ar">${escapeHtml(card.letters || '')}</p>
         <div class="lesson-stage">
           <p class="prompt">${session.review ? 'Tekrar' : 'Bu kelime ne?'}</p>
-          <p class="learn-word" lang="ar">${escapeHtml(word)}</p>
+          <button type="button" class="learn-word" id="hear" lang="ar">${escapeHtml(word)}</button>
+          <p class="listen" id="listen">Dinle</p>
           ${hint || revealed ? `<p class="translit">${escapeHtml(example?.transliteration || '')}</p>` : ''}
           ${
             revealed
@@ -229,6 +231,16 @@ try {
         </div>
       </div>`
 
+    document.getElementById('hear')?.addEventListener('click', async () => {
+      const status = document.getElementById('listen')
+      if (status) status.textContent = 'Çalıyor'
+      try {
+        await playWord(example?.sura, example?.ayah, word)
+        if (status) status.textContent = 'Dinle'
+      } catch {
+        if (status) status.textContent = 'Ses bulunamadı'
+      }
+    })
     document.getElementById('hint')?.addEventListener('click', () => {
       hint = true
       paint()

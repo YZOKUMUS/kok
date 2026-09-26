@@ -437,7 +437,13 @@ main { padding: 4px 16px 12px; }
 }
 
 .word {
+  display: block;
+  width: 100%;
   margin: 8px 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: right;
   font-family: var(--ar);
   direction: rtl;
   font-size: 1.85rem;
@@ -541,11 +547,24 @@ main { padding: 4px 16px 12px; }
 }
 
 .learn-word {
+  display: block;
+  width: 100%;
   margin: 10px 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
   font-family: var(--ar);
   font-size: 3rem;
   line-height: 1.35;
   direction: rtl;
+  text-align: center;
+}
+
+.listen {
+  margin: 2px 0 0;
+  color: var(--accent-2);
+  font-size: 0.85rem;
+  font-weight: 700;
 }
 
 .learn-gloss {

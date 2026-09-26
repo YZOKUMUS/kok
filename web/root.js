@@ -1,3 +1,4 @@
+import { playWord } from './audio.js'
 import { isStudied, remember, toggleStudied } from './study.js'
 
 const CONTENT = '../content'
@@ -116,7 +117,7 @@ if (!rootId) {
               <span class="ref">${item.sura}:${item.ayah}</span>
               <span class="translit" lang="ar">${escapeHtml(plain(item.lemmaFormArabic))}</span>
             </div>
-            <p class="word" lang="ar">${escapeHtml(plain(item.formInAyah))}</p>
+            <button type="button" class="word play-word" lang="ar" data-sura="${item.sura}" data-ayah="${item.ayah}" data-form="${escapeHtml(plain(item.formInAyah))}">${escapeHtml(plain(item.formInAyah))}</button>
             <p class="gloss-line"><span class="translit">${escapeHtml(item.transliteration || '')}</span>${escapeHtml(item.gloss || '')}</p>
             ${tags ? `<div class="tags">${tags}</div>` : ''}
             ${verse}
@@ -163,11 +164,26 @@ if (!rootId) {
               <button type="button" data-pos="fiil">Fiiller</button>
             </div>
           </div>
+          <p class="sub">Kelimeye dokununca okunuşu çalar.</p>
           ${cards || '<p class="stub">Ayet kaydı yok.</p>'}
           <p id="no-verbs" class="stub hidden">Bu kökte yalnızca fiil olan kelime yok.</p>
         </section>
         <footer><a href="${escapeHtml(root.sourceUrl || '')}">kuranharitasi.com</a></footer>
       </div>`
+
+    mount.addEventListener('click', async (event) => {
+      const button = event.target.closest('.play-word')
+      if (!button) return
+      const previous = button.textContent
+      try {
+        await playWord(button.dataset.sura, button.dataset.ayah, button.dataset.form)
+      } catch {
+        button.textContent = 'Ses yok'
+        setTimeout(() => {
+          button.textContent = previous
+        }, 1200)
+      }
+    })
 
     document.getElementById('verse-tabs')?.addEventListener('click', (event) => {
       const button = event.target.closest('[data-pos]')
