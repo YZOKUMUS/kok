@@ -80,7 +80,7 @@ function start(url) {
 
 export function playVerse(sura, ayah) {
   const part = (value) => String(value).padStart(3, '0')
-  return start(`${AUDIO_BASE}Alafasy/mp3/${part(sura)}${part(ayah)}.mp3`)
+  return start(`${AUDIO_BASE}Sudais/mp3/${part(sura)}${part(ayah)}.mp3`)
 }
 
 export async function playWord(sura, ayah, form) {
