@@ -34,13 +34,19 @@ function loadVerse(sura, ayah) {
   return verseCache.get(key)
 }
 
+function clipUrl(sura, ayah, position) {
+  const part = (value) => String(value).padStart(3, '0')
+  return `${AUDIO_BASE}wbw/${part(sura)}_${part(ayah)}_${part(position)}.mp3`
+}
+
 export async function playWord(sura, ayah, form) {
   const words = await loadVerse(sura, ayah)
   const target = normArabic(form)
   const hit = words.find((word) => normArabic(word.text_uthmani) === target)
-  if (!hit?.audio_url) throw new Error('Bu kelimenin sesi yok')
+  if (!hit?.position) throw new Error('Bu kelimenin sesi yok')
   if (!player) player = new Audio()
   player.pause()
-  player.src = `${AUDIO_BASE}${hit.audio_url}`
+  // The API audio_url skips a slot after each pause mark and then points at the next word.
+  player.src = clipUrl(sura, ayah, hit.position)
   await player.play()
 }
