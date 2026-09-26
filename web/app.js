@@ -58,9 +58,9 @@ function rootCard(root) {
         <div class="badge" lang="ar" dir="rtl">${escapeHtml(root.lettersArabic || '—')}</div>
         <div>
           <strong>${escapeHtml(root.latinName || root.id)}</strong>
-          <div class="sub">${escapeHtml(root.meaningsPreview || '')}</div>
-          <div class="stat">${root.totalOccurrencesInQuran.toLocaleString('tr-TR')} geçiş${studied[root.id] ? ' · çalışıldı' : ''}</div>
+          <p class="sub">${escapeHtml(root.meaningsPreview || '')}</p>
         </div>
+        <div class="count">${root.totalOccurrencesInQuran.toLocaleString('tr-TR')}${studied[root.id] ? '<span class="done-mark">ok</span>' : ''}</div>
       </a>
     </li>`
 }
@@ -89,17 +89,23 @@ function paint(query) {
 
   empty.classList.add('hidden')
   const continueCard = last
-    ? `<a class="continue" href="./root.html?id=${encodeURIComponent(last.id)}">
-         <p class="eyebrow">Kaldığın yer</p>
-         <strong>${escapeHtml(last.latinName)}</strong>
-         <div class="ar" lang="ar" dir="rtl">${escapeHtml(last.lettersArabic)}</div>
+    ? `<a class="hero-card" href="./root.html?id=${encodeURIComponent(last.id)}">
+         <div>
+           <p class="eyebrow">Kaldığın yer</p>
+           <strong>${escapeHtml(last.latinName)}</strong>
+           <p class="sub">Kaldığın kökü aç</p>
+         </div>
+         <div class="hero-ar" lang="ar">${escapeHtml(last.lettersArabic)}</div>
        </a>`
     : ''
   const practiceCard = practice
-    ? `<a class="practice" href="./root.html?id=${encodeURIComponent(practice.id)}">
-         <p class="eyebrow">Bugün aç</p>
-         <strong>${escapeHtml(practice.latinName || practice.id)}</strong>
-         <div class="sub">${escapeHtml(practice.meaningsPreview || '')}</div>
+    ? `<a class="quiet-card" href="./root.html?id=${encodeURIComponent(practice.id)}">
+         <div>
+           <p class="eyebrow">Bugün</p>
+           <strong>${escapeHtml(practice.latinName || practice.id)}</strong>
+           <p class="sub">${escapeHtml(practice.meaningsPreview || '')}</p>
+         </div>
+         <div class="ar" lang="ar">${escapeHtml(practice.lettersArabic || '')}</div>
        </a>`
     : ''
 
