@@ -1,4 +1,4 @@
-import { readState, studiedCount } from './study.js'
+import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'
 const LETTER_ORDER = 'ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي'.split(' ')
@@ -47,8 +47,6 @@ let letter = ''
 const state = readState()
 const studied = state.studied
 const last = allRoots.find((root) => root.id === state.lastId) || null
-const pool = allRoots.filter((root) => !studied[root.id])
-const practice = (pool.length ? pool : allRoots)[Math.floor(Math.random() * Math.max(allRoots.length, 1))] || null
 
 function rootCard(root) {
   const done = studied[root.id] ? ' done' : ''
@@ -70,8 +68,9 @@ function paint(query) {
   const empty = document.getElementById('empty')
   const done = studiedCount()
   const ratio = allRoots.length ? Math.round((done / allRoots.length) * 100) : 0
+  const words = knownWordCount()
   document.getElementById('count').textContent =
-    `${done.toLocaleString('tr-TR')} / ${allRoots.length.toLocaleString('tr-TR')} kök çalışıldı`
+    `${words.toLocaleString('tr-TR')} kelime öğrenildi · ${done.toLocaleString('tr-TR')} kök`
 
   const q = query.trim().toLocaleLowerCase('tr-TR')
   if (q) {
@@ -88,31 +87,30 @@ function paint(query) {
   }
 
   empty.classList.add('hidden')
+  const due = dueWordCount()
+  const lessonCard = `
+    <a class="hero-card" href="./lesson.html">
+      <div>
+        <p class="eyebrow">Ders</p>
+        <strong>${due ? 'Tekrar zamanı' : 'Kelime çalış'}</strong>
+        <p class="sub">${due ? `${due.toLocaleString('tr-TR')} kelime seni bekliyor` : 'Önce kelime, sonra anlam. Günde bir avuç.'}</p>
+      </div>
+    </a>`
   const continueCard = last
-    ? `<a class="hero-card" href="./root.html?id=${encodeURIComponent(last.id)}">
+    ? `<a class="quiet-card" href="./root.html?id=${encodeURIComponent(last.id)}">
          <div>
-           <p class="eyebrow">Kaldığın yer</p>
+           <p class="eyebrow">Sözlük</p>
            <strong>${escapeHtml(last.latinName)}</strong>
-           <p class="sub">Kaldığın kökü aç</p>
+           <p class="sub">Kökün anlamı ve ayetleri</p>
          </div>
-         <div class="hero-ar" lang="ar">${escapeHtml(last.lettersArabic)}</div>
-       </a>`
-    : ''
-  const practiceCard = practice
-    ? `<a class="quiet-card" href="./root.html?id=${encodeURIComponent(practice.id)}">
-         <div>
-           <p class="eyebrow">Bugün</p>
-           <strong>${escapeHtml(practice.latinName || practice.id)}</strong>
-           <p class="sub">${escapeHtml(practice.meaningsPreview || '')}</p>
-         </div>
-         <div class="ar" lang="ar">${escapeHtml(practice.lettersArabic || '')}</div>
+         <div class="ar" lang="ar">${escapeHtml(last.lettersArabic)}</div>
        </a>`
     : ''
 
   if (!letter) {
     panel.innerHTML = `
+      ${lessonCard}
       ${continueCard}
-      ${practiceCard}
       <div class="progress">
         <span>İlerleme</span>
         <span>${ratio}%</span>

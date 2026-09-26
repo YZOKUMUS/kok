@@ -135,6 +135,7 @@ if (!rootId) {
           <p class="latin">${escapeHtml(root.latinName || root.id)}</p>
           <p class="letters" lang="ar">${escapeHtml(root.lettersArabic || '')}</p>
         </div>
+        <a class="btn btn-main wide" href="./lesson.html?root=${encodeURIComponent(root.id)}" style="margin-top:14px">Bu kökün kelimelerini çalış</a>
         <div class="metrics">
           <div><strong>${root.totalOccurrencesInQuran.toLocaleString('tr-TR')}</strong><span>Geçiş</span></div>
           <div><strong>${lemmas.length.toLocaleString('tr-TR')}</strong><span>Gövde</span></div>
