@@ -44,6 +44,8 @@ const letters = [...byLetter.keys()].sort((a, b) => {
 })
 
 let letter = ''
+let tab = 'sozluk'
+let verbs = null
 const state = readState()
 const studied = state.studied
 const last = allRoots.find((root) => root.id === state.lastId) || null
@@ -63,6 +65,28 @@ function rootCard(root) {
     </li>`
 }
 
+async function ensureVerbs() {
+  if (verbs) return verbs
+  const res = await fetch(`${CONTENT}/verbs.json`)
+  if (!res.ok) throw new Error('Fiil listesi yüklenemedi')
+  verbs = (await res.json()).verbs
+  return verbs
+}
+
+function verbCard(item) {
+  return `
+    <li>
+      <a class="root-link" href="./root.html?id=${encodeURIComponent(item.rootId)}">
+        <div class="badge" lang="ar" dir="rtl">${escapeHtml(item.formInAyah || item.lemma)}</div>
+        <div>
+          <strong>${escapeHtml(item.gloss || item.lemma)}</strong>
+          <p class="sub">${escapeHtml(item.latinName || '')}</p>
+        </div>
+        <div class="count">${item.count.toLocaleString('tr-TR')}</div>
+      </a>
+    </li>`
+}
+
 function paint(query) {
   const panel = document.getElementById('panel')
   const empty = document.getElementById('empty')
@@ -73,6 +97,32 @@ function paint(query) {
     `${words.toLocaleString('tr-TR')} kelime öğrenildi · ${done.toLocaleString('tr-TR')} kök`
 
   const q = query.trim().toLocaleLowerCase('tr-TR')
+  if (tab === 'fiiller') {
+    const rows = (verbs || []).filter((item) => {
+      if (!q) return true
+      return (
+        (item.gloss || '').toLocaleLowerCase('tr-TR').includes(q) ||
+        (item.latinName || '').toLocaleLowerCase('tr-TR').includes(q) ||
+        (item.lemma || '').includes(query.trim()) ||
+        (item.formInAyah || '').includes(query.trim()) ||
+        (item.transliteration || '').toLocaleLowerCase('tr-TR').includes(q)
+      )
+    })
+    empty.textContent = 'Bu aramada fiil yok.'
+    empty.classList.toggle('hidden', rows.length > 0)
+    panel.innerHTML = `
+      <a class="hero-card" href="./lesson.html?fiil=1">
+        <div>
+          <p class="eyebrow">Fiil dersi</p>
+          <strong>Yalnızca fiilleri çalış</strong>
+          <p class="sub">${rows.length.toLocaleString('tr-TR')} fiil. İsimler bu listede yok.</p>
+        </div>
+      </a>
+      <ul class="list">${rows.map(verbCard).join('')}</ul>`
+    return
+  }
+
+  empty.textContent = 'Bu aramada kök yok.'
   if (q) {
     const filtered = allRoots.filter(
       (root) =>
@@ -152,6 +202,25 @@ paint('')
 document.getElementById('q').addEventListener('input', (event) => {
   letter = ''
   paint(event.target.value)
+})
+
+document.getElementById('tabs').addEventListener('click', async (event) => {
+  const button = event.target.closest('[data-tab]')
+  if (!button) return
+  tab = button.getAttribute('data-tab') || 'sozluk'
+  document.querySelectorAll('#tabs button').forEach((item) => {
+    item.classList.toggle('on', item === button)
+  })
+  if (tab === 'fiiller') {
+    try {
+      await ensureVerbs()
+    } catch (err) {
+      document.getElementById('error').classList.remove('hidden')
+      document.getElementById('error').textContent = err.message
+      return
+    }
+  }
+  paint(document.getElementById('q').value)
 })
 
 window.addEventListener('pageshow', () => {

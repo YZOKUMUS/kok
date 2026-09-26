@@ -80,7 +80,51 @@ function cardsFromRoot(root, mode) {
   return [...due, ...fresh.slice(0, NEW_LIMIT)]
 }
 
+function cardFromVerb(item) {
+  return {
+    rootId: item.rootId,
+    latin: item.latinName,
+    letters: item.lettersArabic,
+    meaning: item.meaning || '',
+    lemma: item.lemma,
+    count: item.count,
+    example: {
+      formInAyah: item.formInAyah,
+      transliteration: item.transliteration,
+      gloss: item.gloss,
+      sura: item.sura,
+      ayah: item.ayah,
+      verseArabic: item.verseArabic,
+      verseMeaning: item.verseMeaning,
+      lemmaFormArabic: item.lemma,
+    },
+  }
+}
+
+async function buildVerbSession() {
+  const res = await fetch(`${CONTENT}/verbs.json`)
+  if (!res.ok) throw new Error('Fiil listesi yüklenemedi')
+  const data = await res.json()
+  const forced = qs('root')
+  const rows = forced ? data.verbs.filter((item) => item.rootId === forced) : data.verbs
+  const dueKeys = new Set(dueWordList().map((word) => `${word.rootId}\t${word.lemma}`))
+  const due = []
+  const fresh = []
+  for (const item of rows) {
+    const card = cardFromVerb(item)
+    if (dueKeys.has(`${item.rootId}\t${item.lemma}`)) due.push(card)
+    else if (!hasWord(item.rootId, item.lemma)) fresh.push(card)
+  }
+  const review = !forced && due.length > 0
+  return {
+    root: null,
+    cards: review ? due.slice(0, REVIEW_LIMIT) : [...due, ...fresh].slice(0, NEW_LIMIT),
+    review,
+  }
+}
+
 async function buildSession(index) {
+  if (qs('fiil')) return buildVerbSession()
   const forced = qs('root')
   if (forced) {
     const root = await loadRoot(forced)
@@ -137,7 +181,7 @@ try {
           <h1>${known} kelimeyi bildin</h1>
           <p class="sub">${again ? `${again} kelime yarına kaldı.` : 'Bu turda hepsini bildin.'}</p>
           <div class="actions">
-            <a class="btn btn-main wide" href="./lesson.html">Sonraki ders</a>
+            <a class="btn btn-main wide" href="./lesson.html${qs('fiil') ? '?fiil=1' : ''}">Sonraki ders</a>
             <a class="btn wide" href="./index.html">Sözlüğe dön</a>
           </div>
         </div>`

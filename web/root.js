@@ -109,8 +109,9 @@ if (!rootId) {
               ${item.verseMeaning ? `<p class="meaning">${escapeHtml(item.verseMeaning)}</p>` : ''}
             </div>`
           : `<p class="stub">Ayet metni yok.</p>`
+        const pos = item.grammar?.partOfSpeech === 'Fiil' ? 'fiil' : 'diger'
         return `
-          <article class="verse">
+          <article class="verse" data-pos="${pos}">
             <div class="verse-top">
               <span class="ref">${item.sura}:${item.ayah}</span>
               <span class="translit" lang="ar">${escapeHtml(plain(item.lemmaFormArabic))}</span>
@@ -155,11 +156,34 @@ if (!rootId) {
           <div class="panel">${lemmaBlocks || '<p>Gövde kaydı yok.</p>'}</div>
         </section>
         <section>
-          <h2>Ayetler</h2>
+          <div class="section-head">
+            <h2>Ayetler</h2>
+            <div class="seg" id="verse-tabs">
+              <button type="button" data-pos="all" class="on">Tümü</button>
+              <button type="button" data-pos="fiil">Fiiller</button>
+            </div>
+          </div>
           ${cards || '<p class="stub">Ayet kaydı yok.</p>'}
+          <p id="no-verbs" class="stub hidden">Bu kökte yalnızca fiil olan kelime yok.</p>
         </section>
         <footer><a href="${escapeHtml(root.sourceUrl || '')}">kuranharitasi.com</a></footer>
       </div>`
+
+    document.getElementById('verse-tabs')?.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-pos]')
+      if (!button) return
+      const mode = button.getAttribute('data-pos')
+      document.querySelectorAll('#verse-tabs button').forEach((item) => {
+        item.classList.toggle('on', item === button)
+      })
+      let shown = 0
+      mount.querySelectorAll('.verse').forEach((article) => {
+        const keep = mode === 'all' || article.getAttribute('data-pos') === 'fiil'
+        article.classList.toggle('hidden', !keep)
+        if (keep) shown += 1
+      })
+      document.getElementById('no-verbs')?.classList.toggle('hidden', mode !== 'fiil' || shown > 0)
+    })
 
     document.getElementById('studied')?.addEventListener('click', () => {
       const on = toggleStudied(rootId)
