@@ -1,5 +1,6 @@
 import { playVerse, playWord } from './audio.js'
-import { highlightVerse } from './mark.js'
+import { highlightVerse } from './mark.js?v=4'
+import { loadUthmani, verseText } from './verses.js'
 import {
   dueWordList,
   gradeWord,
@@ -166,7 +167,7 @@ const mount = document.getElementById('lesson')
 const errorEl = document.getElementById('error')
 
 try {
-  const index = await loadIndex()
+  const [index, uthmani] = await Promise.all([loadIndex(), loadUthmani()])
   const session = await buildSession(index)
   let queue = session.cards
   let cursor = 0
@@ -221,7 +222,7 @@ try {
                      ? `<div class="ayah">
                           <button type="button" class="play-verse" id="play-verse" data-sura="${example.sura}" data-ayah="${example.ayah}">
                             <span class="ref">${example.sura}:${example.ayah}</span>
-                            <span class="ar-lg" lang="ar">${highlightVerse(example.verseArabic, word)}</span>
+                            <span class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, example.sura, example.ayah, example.verseArabic), word)}</span>
                             <span class="listen">Ayeti dinle</span>
                           </button>
                           <p class="meaning">${escapeHtml(example.verseMeaning || '')}</p>

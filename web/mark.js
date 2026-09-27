@@ -8,10 +8,17 @@ function escapeHtml(value) {
 
 function fold(value) {
   return String(value ?? '')
-    .replace(/[\u0640\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+    .replace(/ى\u0670/g, 'ا')
+    .replace(/و\u0670/g, 'ا')
+    .replace(/\u0670/g, 'ا')
+    .replace(/[\u0640\u064B-\u065F\u06D6-\u06ED]/g, '')
     .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ؤ/g, '')
+    .replace(/ئ/g, '')
+    .replace(/ء/g, '')
     .replace(/ى/g, 'ي')
     .replace(/ة/g, 'ه')
+    .replace(/ا{2,}/g, 'ا')
 }
 
 function targetForm(value) {

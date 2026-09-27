@@ -1,6 +1,7 @@
 import { playVerse, playWord } from './audio.js'
-import { highlightVerse } from './mark.js'
+import { highlightVerse } from './mark.js?v=4'
 import { isStudied, remember, toggleStudied } from './study.js'
+import { loadUthmani, verseText } from './verses.js'
 
 const CONTENT = '../content'
 
@@ -41,7 +42,7 @@ if (!rootId) {
   errorEl.textContent = 'Kök seçilmedi.'
 } else {
   try {
-    const root = await loadRoot(rootId)
+    const [root, uthmani] = await Promise.all([loadRoot(rootId), loadUthmani()])
     remember(rootId)
     document.title = `${root.latinName} · ${root.lettersArabic}`
 
@@ -91,7 +92,7 @@ if (!rootId) {
         const verse = item.verseArabic
           ? `<div class="ayah">
               <button type="button" class="play-verse" data-sura="${item.sura}" data-ayah="${item.ayah}">
-                <span class="ar-lg" lang="ar">${highlightVerse(item.verseArabic, item.formInAyah)}</span>
+                <span class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, item.sura, item.ayah, item.verseArabic), item.formInAyah)}</span>
                 ${item.verseTransliteration ? `<span class="translit">${escapeHtml(item.verseTransliteration)}</span>` : ''}
                 <span class="listen">Ayeti dinle</span>
               </button>
