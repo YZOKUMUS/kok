@@ -113,7 +113,8 @@ if (!rootId) {
               ${item.verseMeaning ? `<p class="meaning">${escapeHtml(item.verseMeaning)}</p>` : ''}
             </div>`
           : `<p class="stub">Ayet metni yok.</p>`
-        const pos = item.grammar?.partOfSpeech === 'Fiil' ? 'fiil' : 'diger'
+        const speech = item.grammar?.partOfSpeech
+        const pos = speech === 'Fiil' ? 'fiil' : speech === 'İsim' ? 'isim' : 'diger'
         return `
           <article class="verse" data-pos="${pos}">
             <div class="verse-top">
@@ -165,11 +166,12 @@ if (!rootId) {
             <div class="seg" id="verse-tabs">
               <button type="button" data-pos="all" class="on">Tümü</button>
               <button type="button" data-pos="fiil">Fiiller</button>
+              <button type="button" data-pos="isim">İsimler</button>
             </div>
           </div>
           <p class="sub">Kelimeye dokununca kelime, okunuş satırına dokununca ayet çalar.</p>
           ${cards || '<p class="stub">Ayet kaydı yok.</p>'}
-          <p id="no-verbs" class="stub hidden">Bu kökte yalnızca fiil olan kelime yok.</p>
+          <p id="no-match" class="stub hidden"></p>
         </section>
         <footer><a href="${escapeHtml(root.sourceUrl || '')}">kuranharitasi.com</a></footer>
       </div>`
@@ -209,11 +211,16 @@ if (!rootId) {
       })
       let shown = 0
       mount.querySelectorAll('.verse').forEach((article) => {
-        const keep = mode === 'all' || article.getAttribute('data-pos') === 'fiil'
+        const keep = mode === 'all' || article.getAttribute('data-pos') === mode
         article.classList.toggle('hidden', !keep)
         if (keep) shown += 1
       })
-      document.getElementById('no-verbs')?.classList.toggle('hidden', mode !== 'fiil' || shown > 0)
+      const empty = document.getElementById('no-match')
+      if (empty) {
+        empty.textContent =
+          mode === 'fiil' ? 'Bu kökte fiil yok.' : mode === 'isim' ? 'Bu kökte isim yok.' : ''
+        empty.classList.toggle('hidden', mode === 'all' || shown > 0)
+      }
     })
 
     document.getElementById('studied')?.addEventListener('click', () => {

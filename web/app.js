@@ -45,7 +45,33 @@ const letters = [...byLetter.keys()].sort((a, b) => {
 
 let letter = ''
 let tab = 'sozluk'
-let verbs = null
+const lists = {
+  fiiller: null,
+  isimler: null,
+}
+
+const listTabs = {
+  fiiller: {
+    file: 'verbs.json',
+    key: 'verbs',
+    error: 'Fiil listesi yüklenemedi',
+    empty: 'Bu aramada fiil yok.',
+    href: './lesson.html?fiil=1',
+    eyebrow: 'Fiil dersi',
+    title: 'Yalnızca fiilleri çalış',
+    blurb: 'fiil. İsimler bu listede yok.',
+  },
+  isimler: {
+    file: 'nouns.json',
+    key: 'nouns',
+    error: 'İsim listesi yüklenemedi',
+    empty: 'Bu aramada isim yok.',
+    href: './lesson.html?isim=1',
+    eyebrow: 'İsim dersi',
+    title: 'Yalnızca isimleri çalış',
+    blurb: 'isim. Yalnızca isim olan kelimeler.',
+  },
+}
 const state = readState()
 const studied = state.studied
 const last = allRoots.find((root) => root.id === state.lastId) || null
@@ -65,12 +91,13 @@ function rootCard(root) {
     </li>`
 }
 
-async function ensureVerbs() {
-  if (verbs) return verbs
-  const res = await fetch(`${CONTENT}/verbs.json`)
-  if (!res.ok) throw new Error('Fiil listesi yüklenemedi')
-  verbs = (await res.json()).verbs
-  return verbs
+async function ensureList(name) {
+  if (lists[name]) return lists[name]
+  const spec = listTabs[name]
+  const res = await fetch(`${CONTENT}/${spec.file}`)
+  if (!res.ok) throw new Error(spec.error)
+  lists[name] = (await res.json())[spec.key]
+  return lists[name]
 }
 
 function verbCard(item) {
@@ -97,8 +124,9 @@ function paint(query) {
     `${words.toLocaleString('tr-TR')} kelime öğrenildi · ${done.toLocaleString('tr-TR')} kök`
 
   const q = query.trim().toLocaleLowerCase('tr-TR')
-  if (tab === 'fiiller') {
-    const rows = (verbs || []).filter((item) => {
+  const spec = listTabs[tab]
+  if (spec) {
+    const rows = (lists[tab] || []).filter((item) => {
       if (!q) return true
       return (
         (item.gloss || '').toLocaleLowerCase('tr-TR').includes(q) ||
@@ -108,14 +136,14 @@ function paint(query) {
         (item.transliteration || '').toLocaleLowerCase('tr-TR').includes(q)
       )
     })
-    empty.textContent = 'Bu aramada fiil yok.'
+    empty.textContent = spec.empty
     empty.classList.toggle('hidden', rows.length > 0)
     panel.innerHTML = `
-      <a class="hero-card" href="./lesson.html?fiil=1">
+      <a class="hero-card" href="${spec.href}">
         <div>
-          <p class="eyebrow">Fiil dersi</p>
-          <strong>Yalnızca fiilleri çalış</strong>
-          <p class="sub">${rows.length.toLocaleString('tr-TR')} fiil. İsimler bu listede yok.</p>
+          <p class="eyebrow">${spec.eyebrow}</p>
+          <strong>${spec.title}</strong>
+          <p class="sub">${rows.length.toLocaleString('tr-TR')} ${spec.blurb}</p>
         </div>
       </a>
       <ul class="list">${rows.map(verbCard).join('')}</ul>`
@@ -211,9 +239,9 @@ document.getElementById('tabs').addEventListener('click', async (event) => {
   document.querySelectorAll('#tabs button').forEach((item) => {
     item.classList.toggle('on', item === button)
   })
-  if (tab === 'fiiller') {
+  if (listTabs[tab]) {
     try {
-      await ensureVerbs()
+      await ensureList(tab)
     } catch (err) {
       document.getElementById('error').classList.remove('hidden')
       document.getElementById('error').textContent = err.message

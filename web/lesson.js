@@ -102,12 +102,12 @@ function cardFromVerb(item) {
   }
 }
 
-async function buildVerbSession() {
-  const res = await fetch(`${CONTENT}/verbs.json`)
-  if (!res.ok) throw new Error('Fiil listesi yüklenemedi')
+async function buildListSession(file, key, failMessage) {
+  const res = await fetch(`${CONTENT}/${file}`)
+  if (!res.ok) throw new Error(failMessage)
   const data = await res.json()
   const forced = qs('root')
-  const rows = forced ? data.verbs.filter((item) => item.rootId === forced) : data.verbs
+  const rows = forced ? data[key].filter((item) => item.rootId === forced) : data[key]
   const dueKeys = new Set(dueWordList().map((word) => `${word.rootId}\t${word.lemma}`))
   const due = []
   const fresh = []
@@ -124,8 +124,15 @@ async function buildVerbSession() {
   }
 }
 
+function againHref() {
+  if (qs('fiil')) return './lesson.html?fiil=1'
+  if (qs('isim')) return './lesson.html?isim=1'
+  return './lesson.html'
+}
+
 async function buildSession(index) {
-  if (qs('fiil')) return buildVerbSession()
+  if (qs('fiil')) return buildListSession('verbs.json', 'verbs', 'Fiil listesi yüklenemedi')
+  if (qs('isim')) return buildListSession('nouns.json', 'nouns', 'İsim listesi yüklenemedi')
   const forced = qs('root')
   if (forced) {
     const root = await loadRoot(forced)
@@ -182,7 +189,7 @@ try {
           <h1>${known} kelimeyi bildin</h1>
           <p class="sub">${again ? `${again} kelime yarına kaldı.` : 'Bu turda hepsini bildin.'}</p>
           <div class="actions">
-            <a class="btn btn-main wide" href="./lesson.html${qs('fiil') ? '?fiil=1' : ''}">Sonraki ders</a>
+            <a class="btn btn-main wide" href="${againHref()}">Sonraki ders</a>
             <a class="btn wide" href="./index.html">Sözlüğe dön</a>
           </div>
         </div>`
