@@ -1,11 +1,7 @@
 const AUDIO_BASE = 'https://audio.qurancdn.com/'
-const VERSE_RECITER = 7
 const verseCache = new Map()
-const chapterCache = new Map()
 const VOWELS = 'ًٌٍَُِ'
 let player = null
-let stopTimer = 0
-let onUpdate = null
 
 function fold(value, mode) {
   let text = String(value ?? '')
@@ -74,113 +70,20 @@ function pad3(value) {
   return String(value).padStart(3, '0')
 }
 
-function clearStop() {
-  if (stopTimer) {
-    clearTimeout(stopTimer)
-    stopTimer = 0
-  }
-  if (player && onUpdate) {
-    player.removeEventListener('timeupdate', onUpdate)
-    onUpdate = null
-  }
-}
-
 function audioElement() {
   if (!player) player = new Audio()
   return player
 }
 
 function start(url) {
-  clearStop()
   const audio = audioElement()
   audio.pause()
   audio.src = url
   return audio.play()
 }
 
-function loadChapter(sura) {
-  if (!chapterCache.has(sura)) {
-    chapterCache.set(
-      sura,
-      fetch(`https://api.quran.com/api/v4/chapter_recitations/${VERSE_RECITER}/${sura}?segments=true`)
-        .then(async (res) => {
-          if (!res.ok) throw new Error('Ayet sesi alınamadı')
-          const data = await res.json()
-          const file = data.audio_file
-          const byVerse = new Map()
-          for (const item of file?.timestamps || []) byVerse.set(item.verse_key, item)
-          return { url: file.audio_url, byVerse }
-        })
-        .catch((err) => {
-          chapterCache.delete(sura)
-          throw err
-        }),
-    )
-  }
-  return chapterCache.get(sura)
-}
-
-function verseBounds(timing) {
-  const markedFrom = timing.timestamp_from
-  const markedTo = timing.timestamp_to
-  let from = markedFrom
-  let to = markedTo
-  for (const seg of timing.segments || []) {
-    if (!seg || seg.length < 3) continue
-    const lead = markedFrom - seg[1]
-    if (lead > 0 && lead <= 120 && seg[1] < from) from = seg[1]
-    const tail = seg[2] - markedTo
-    if (tail > 0 && tail <= 800 && seg[2] > to) to = seg[2]
-  }
-  return [from, to]
-}
-
-function playRange(url, startMs, endMs) {
-  clearStop()
-  const audio = audioElement()
-  audio.pause()
-  const start = Math.max(0, startMs) / 1000
-  const end = Math.max(start + 0.25, endMs / 1000)
-  const watch = () => {
-    onUpdate = () => {
-      if (audio.currentTime < end - 0.04) return
-      audio.pause()
-      clearStop()
-    }
-    audio.addEventListener('timeupdate', onUpdate)
-    return audio.play()
-  }
-  const afterSeek = (attempt) => {
-    if (Math.abs(audio.currentTime - start) <= 0.25) return watch()
-    if (attempt >= 2) return Promise.reject(new Error('Ayet sesi açılamadı'))
-    return new Promise((resolve, reject) => {
-      audio.addEventListener(
-        'seeked',
-        () => {
-          afterSeek(attempt + 1).then(resolve, reject)
-        },
-        { once: true },
-      )
-      audio.currentTime = start
-    })
-  }
-  if (audio.src !== url) {
-    audio.src = url
-    if (audio.readyState >= 1) return afterSeek(0)
-    return new Promise((resolve, reject) => {
-      audio.addEventListener('loadedmetadata', () => afterSeek(0).then(resolve, reject), { once: true })
-      audio.addEventListener('error', () => reject(new Error('Ayet sesi açılamadı')), { once: true })
-    })
-  }
-  return afterSeek(0)
-}
-
 export async function playVerse(sura, ayah) {
-  const chapter = await loadChapter(sura)
-  const timing = chapter.byVerse.get(`${sura}:${ayah}`)
-  if (!timing || !chapter.url) throw new Error('Ayet sesi yok')
-  const [from, to] = verseBounds(timing)
-  await playRange(chapter.url, from, to)
+  await start(`${AUDIO_BASE}Alafasy/mp3/${pad3(sura)}${pad3(ayah)}.mp3`)
 }
 
 export async function playWord(sura, ayah, form) {
