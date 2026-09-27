@@ -479,7 +479,11 @@ main { padding: 4px 16px 12px; }
 }
 
 .ar-lg .hit {
-  color: #c1121f;
+  color: #c1121f !important;
+  -webkit-text-fill-color: #c1121f;
+  background: #ffd0d0;
+  border-radius: 0.2em;
+  box-decoration-break: clone;
   font-weight: 700;
 }
 
