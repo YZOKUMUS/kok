@@ -61,9 +61,6 @@ if (!rootId) {
     const cognates = root.cognates || []
     const lemmas = root.lemmas || []
     const occurrences = root.occurrences || []
-    const hottest = lemmas.reduce((best, item) => (item.count > (best?.count || 0) ? item : best), null)
-
-    const maxCount = hottest?.count || 1
     const noteBlocks = notes
       .map((item) => {
         const split = item.match(/^(.+?)\s+[—–-]\s+(.+)$/)
@@ -84,19 +81,6 @@ if (!rootId) {
           ${item.meaning ? `<div class="gloss">${escapeHtml(item.meaning)}</div>` : ''}
         </div>`,
       )
-      .join('')
-
-    const lemmaBlocks = lemmas
-      .map((item) => {
-        const hot = hottest && item.formArabic === hottest.formArabic && item.count === hottest.count ? ' hot' : ''
-        const width = Math.max(4, Math.round((item.count / maxCount) * 100))
-        return `
-          <div class="lemma${hot}">
-            <span class="ar" lang="ar">${escapeHtml(plain(item.formArabic))}</span>
-            <b>${item.count.toLocaleString('tr-TR')}</b>
-            <div class="track" aria-hidden="true"><i style="width:${width}%"></i></div>
-          </div>`
-      })
       .join('')
 
     const cards = occurrences
@@ -157,10 +141,6 @@ if (!rootId) {
           </div>
         </section>
         ${kin ? `<section><h2>Akraba diller</h2><div class="panel">${kin}</div></section>` : ''}
-        <section>
-          <h2>Gövdeler</h2>
-          <div class="panel">${lemmaBlocks || '<p>Gövde kaydı yok.</p>'}</div>
-        </section>
         <section>
           <div class="section-head">
             <h2>Ayetler</h2>
