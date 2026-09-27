@@ -1,4 +1,4 @@
-import { playVerse, playWord } from './audio.js'
+import { playVerse, playWord } from './audio.js?v=5'
 import { highlightVerse } from './mark.js?v=4'
 import { loadUthmani, verseText } from './verses.js'
 import {

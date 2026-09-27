@@ -5,6 +5,7 @@ const chapterCache = new Map()
 const VOWELS = 'ًٌٍَُِ'
 let player = null
 let stopTimer = 0
+let onUpdate = null
 
 function fold(value, mode) {
   let text = String(value ?? '')
@@ -78,6 +79,10 @@ function clearStop() {
     clearTimeout(stopTimer)
     stopTimer = 0
   }
+  if (player && onUpdate) {
+    player.removeEventListener('timeupdate', onUpdate)
+    onUpdate = null
+  }
 }
 
 function audioElement() {
@@ -115,45 +120,62 @@ function loadChapter(sura) {
   return chapterCache.get(sura)
 }
 
+function verseBounds(timing) {
+  let from = timing.timestamp_from
+  let to = timing.timestamp_to
+  for (const seg of timing.segments || []) {
+    if (seg[1] < from) from = seg[1]
+    if (seg[2] > to) to = seg[2]
+  }
+  return [from, to]
+}
+
 function playRange(url, startMs, endMs) {
   clearStop()
   const audio = audioElement()
   audio.pause()
   const start = Math.max(0, startMs) / 1000
-  const end = Math.max(start + 0.2, endMs / 1000)
-  const fromHere = () =>
-    new Promise((resolve, reject) => {
-      const begin = () => {
-        audio.play().then(() => {
-          stopTimer = setTimeout(() => {
-            audio.pause()
-            resolve()
-          }, Math.max(200, (end - audio.currentTime) * 1000))
-        }, reject)
-      }
-      if (Math.abs(audio.currentTime - start) < 0.05) {
-        begin()
-        return
-      }
-      audio.addEventListener('seeked', begin, { once: true })
+  const end = Math.max(start + 0.25, endMs / 1000)
+  const watch = () => {
+    onUpdate = () => {
+      if (audio.currentTime < end - 0.04) return
+      audio.pause()
+      clearStop()
+    }
+    audio.addEventListener('timeupdate', onUpdate)
+    return audio.play()
+  }
+  const afterSeek = (attempt) => {
+    if (Math.abs(audio.currentTime - start) <= 0.25) return watch()
+    if (attempt >= 2) return Promise.reject(new Error('Ayet sesi açılamadı'))
+    return new Promise((resolve, reject) => {
+      audio.addEventListener(
+        'seeked',
+        () => {
+          afterSeek(attempt + 1).then(resolve, reject)
+        },
+        { once: true },
+      )
       audio.currentTime = start
     })
+  }
   if (audio.src !== url) {
     audio.src = url
-    if (audio.readyState >= 1) return fromHere()
+    if (audio.readyState >= 1) return afterSeek(0)
     return new Promise((resolve, reject) => {
-      audio.addEventListener('loadedmetadata', () => fromHere().then(resolve, reject), { once: true })
+      audio.addEventListener('loadedmetadata', () => afterSeek(0).then(resolve, reject), { once: true })
       audio.addEventListener('error', () => reject(new Error('Ayet sesi açılamadı')), { once: true })
     })
   }
-  return fromHere()
+  return afterSeek(0)
 }
 
 export async function playVerse(sura, ayah) {
   const chapter = await loadChapter(sura)
   const timing = chapter.byVerse.get(`${sura}:${ayah}`)
   if (!timing || !chapter.url) throw new Error('Ayet sesi yok')
-  await playRange(chapter.url, timing.timestamp_from, timing.timestamp_to)
+  const [from, to] = verseBounds(timing)
+  await playRange(chapter.url, from, to)
 }
 
 export async function playWord(sura, ayah, form) {
