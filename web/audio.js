@@ -121,11 +121,16 @@ function loadChapter(sura) {
 }
 
 function verseBounds(timing) {
-  let from = timing.timestamp_from
-  let to = timing.timestamp_to
+  const markedFrom = timing.timestamp_from
+  const markedTo = timing.timestamp_to
+  let from = markedFrom
+  let to = markedTo
   for (const seg of timing.segments || []) {
-    if (seg[1] < from) from = seg[1]
-    if (seg[2] > to) to = seg[2]
+    if (!seg || seg.length < 3) continue
+    const lead = markedFrom - seg[1]
+    if (lead > 0 && lead <= 120 && seg[1] < from) from = seg[1]
+    const tail = seg[2] - markedTo
+    if (tail > 0 && tail <= 800 && seg[2] > to) to = seg[2]
   }
   return [from, to]
 }
