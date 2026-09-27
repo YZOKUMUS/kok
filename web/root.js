@@ -1,4 +1,5 @@
 import { playVerse, playWord } from './audio.js'
+import { highlightVerse } from './mark.js'
 import { isStudied, remember, toggleStudied } from './study.js'
 
 const CONTENT = '../content'
@@ -106,7 +107,7 @@ if (!rootId) {
         const verse = item.verseArabic
           ? `<div class="ayah">
               <button type="button" class="play-verse" data-sura="${item.sura}" data-ayah="${item.ayah}">
-                <span class="ar-lg" lang="ar">${escapeHtml(item.verseArabic)}</span>
+                <span class="ar-lg" lang="ar">${highlightVerse(item.verseArabic, item.formInAyah)}</span>
                 ${item.verseTransliteration ? `<span class="translit">${escapeHtml(item.verseTransliteration)}</span>` : ''}
                 <span class="listen">Ayeti dinle</span>
               </button>

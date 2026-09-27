@@ -1,4 +1,5 @@
 import { playVerse, playWord } from './audio.js'
+import { highlightVerse } from './mark.js'
 import {
   dueWordList,
   gradeWord,
@@ -220,7 +221,7 @@ try {
                      ? `<div class="ayah">
                           <button type="button" class="play-verse" id="play-verse" data-sura="${example.sura}" data-ayah="${example.ayah}">
                             <span class="ref">${example.sura}:${example.ayah}</span>
-                            <span class="ar-lg" lang="ar">${escapeHtml(example.verseArabic)}</span>
+                            <span class="ar-lg" lang="ar">${highlightVerse(example.verseArabic, word)}</span>
                             <span class="listen">Ayeti dinle</span>
                           </button>
                           <p class="meaning">${escapeHtml(example.verseMeaning || '')}</p>

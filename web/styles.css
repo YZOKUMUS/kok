@@ -494,6 +494,11 @@ main { padding: 4px 16px 12px; }
   text-align: right;
 }
 
+.ar-lg .hit {
+  color: #c1121f;
+  font-weight: 700;
+}
+
 .play-verse .translit,
 .play-verse .listen { display: block; }
 
