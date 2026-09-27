@@ -8,8 +8,14 @@
   --accent-2: #2f6a52;
   --soft: #e8f2ec;
   --gold: #8d6a32;
-  --ar: "Noto Naskh Arabic", "Noto Sans Arabic", "Traditional Arabic", serif;
+  --ar: "UthmanicHafs", "Noto Naskh Arabic", "Noto Sans Arabic", "Traditional Arabic", serif;
   color-scheme: light;
+}
+
+@font-face {
+  font-family: "UthmanicHafs";
+  src: url("https://static.qurancdn.com/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2") format("woff2");
+  font-display: swap;
 }
 
 * { box-sizing: border-box; }
