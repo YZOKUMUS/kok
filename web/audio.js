@@ -1,5 +1,5 @@
 const AUDIO_BASE = 'https://audio.qurancdn.com/'
-const VERSE_RECITER = 3
+const VERSE_RECITER = 7
 const verseCache = new Map()
 const chapterCache = new Map()
 const VOWELS = 'ًٌٍَُِ'
