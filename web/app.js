@@ -130,7 +130,9 @@ function paint(query) {
       if (!q) return true
       return (
         (item.gloss || '').toLocaleLowerCase('tr-TR').includes(q) ||
+        (item.meaning || '').toLocaleLowerCase('tr-TR').includes(q) ||
         (item.latinName || '').toLocaleLowerCase('tr-TR').includes(q) ||
+        (item.lettersArabic || '').includes(query.trim()) ||
         (item.lemma || '').includes(query.trim()) ||
         (item.formInAyah || '').includes(query.trim()) ||
         (item.transliteration || '').toLocaleLowerCase('tr-TR').includes(q)
