@@ -493,6 +493,38 @@ main { padding: 4px 16px 12px; }
 
 .lesson .share { display: block; margin: 18px auto 0; }
 
+#share-preview {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: rgba(26, 25, 22, 0.45);
+}
+
+.share-sheet {
+  width: min(420px, 100%);
+  max-height: 90dvh;
+  overflow: auto;
+  padding: 12px;
+  border-radius: 16px;
+  background: var(--surface);
+}
+
+.share-sheet img { display: block; width: 100%; height: auto; }
+.share-sheet p { margin: 12px 0; color: var(--muted); text-align: center; }
+.share-close {
+  display: block;
+  width: 100%;
+  min-height: 44px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fffaf2;
+  font-weight: 800;
+}
+
 .ref {
   font-weight: 800;
   color: var(--accent);

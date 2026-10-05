@@ -1,8 +1,8 @@
 import { playVerse, playWord } from './audio.js?v=7'
 import { loadGloss, shortMeaning } from './gloss.js?v=4'
-import { applyLang, bindLangSwitch, lang, langSwitch, t, tagLabel } from './i18n.js?v=5'
+import { applyLang, bindLangSwitch, lang, langSwitch, t, tagLabel } from './i18n.js?v=7'
 import { highlightVerse } from './mark.js?v=5'
-import { shareCard } from './share.js?v=2'
+import { shareCard } from './share.js?v=5'
 import { loadUthmani, verseText } from './verses.js'
 import {
   dueWordList,
@@ -259,7 +259,7 @@ try {
       const previous = shareButton.textContent
       shareButton.textContent = t('shareWait')
       try {
-        await shareCard({
+        const mode = await shareCard({
           ref: example ? `${example.sura}:${example.ayah}` : '',
           word,
           reading: example?.transliteration || '',
@@ -271,7 +271,12 @@ try {
           meal: lang() === 'tr' ? example?.verseMeaning || '' : '',
           pos: document.body.dataset.kind === 'root' ? '' : document.body.dataset.kind,
         })
-        shareButton.textContent = previous
+        shareButton.textContent = mode === 'copied' ? t('shareCopied') : previous
+        if (mode === 'copied') {
+          setTimeout(() => {
+            shareButton.textContent = previous
+          }, 1600)
+        }
       } catch (err) {
         if (err?.name === 'AbortError') {
           shareButton.textContent = previous

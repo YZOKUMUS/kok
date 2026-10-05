@@ -1,3 +1,4 @@
+import { t } from './i18n.js?v=7'
 import { verseParts } from './mark.js?v=5'
 
 const WIDTH = 1080
@@ -207,29 +208,59 @@ export async function renderCard(card) {
   return blob
 }
 
-function download(blob, name) {
+function showPreview(blob) {
   const url = URL.createObjectURL(blob)
-  const link = document.createElement('a')
-  link.href = url
-  link.download = name
-  document.body.appendChild(link)
-  link.click()
-  link.remove()
-  setTimeout(() => URL.revokeObjectURL(url), 1500)
+  document.getElementById('share-preview')?.remove()
+  const wrap = document.createElement('div')
+  wrap.id = 'share-preview'
+  wrap.innerHTML = `<div class="share-sheet"><img alt="" src="${url}"><p>${t('shareHint')}</p><button type="button" class="share-close">${t('close')}</button></div>`
+  const close = () => {
+    wrap.remove()
+    URL.revokeObjectURL(url)
+  }
+  wrap.addEventListener('click', (event) => {
+    if (event.target === wrap || event.target.closest('.share-close')) close()
+  })
+  document.body.appendChild(wrap)
 }
 
-export async function shareCard(card) {
-  const blob = await renderCard(card)
-  const name = `${String(card.ref || 'ayet').replace(':', '-')}.png`
-  const file = new File([blob], name, { type: 'image/png' })
-  const payload = { files: [file], title: card.ref || '' }
-  if (navigator.canShare?.(payload)) {
-    try {
-      await navigator.share(payload)
-      return
-    } catch (err) {
-      if (err?.name === 'AbortError') throw err
-    }
+function canShareFiles(name) {
+  if (!navigator.canShare) return false
+  const probe = new File([new Blob()], name, { type: 'image/png' })
+  try {
+    return navigator.canShare({ files: [probe] })
+  } catch {
+    return false
   }
-  download(blob, name)
+}
+
+export function shareCard(card) {
+  const blobPromise = renderCard(card)
+  const name = `${String(card.ref || 'ayet').replace(':', '-')}.png`
+  if (canShareFiles(name)) {
+    return blobPromise.then(async (blob) => {
+      const file = new File([blob], name, { type: 'image/png' })
+      try {
+        await navigator.share({ files: [file], title: card.ref || '' })
+        return 'shared'
+      } catch (err) {
+        if (err?.name === 'AbortError') throw err
+        showPreview(blob)
+        return 'preview'
+      }
+    })
+  }
+  if (navigator.clipboard?.write && typeof ClipboardItem !== 'undefined') {
+    return navigator.clipboard
+      .write([new ClipboardItem({ 'image/png': blobPromise })])
+      .then(() => 'copied')
+      .catch(async () => {
+        showPreview(await blobPromise)
+        return 'preview'
+      })
+  }
+  return blobPromise.then((blob) => {
+    showPreview(blob)
+    return 'preview'
+  })
 }
