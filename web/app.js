@@ -1,6 +1,7 @@
 import { shortMeaning } from './gloss.js?v=6'
 import { applyLang, lang, locale, t } from './i18n.js?v=10'
-import { paintQuran, stopReading } from './read.js?v=3'
+import { paintQuran, stopReading } from './read.js?v=4'
+import { wordHits } from './words.js?v=1'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'
@@ -142,6 +143,14 @@ function listBlurb(spec, count) {
   return `${formatted} ${t(spec.blurb)}`
 }
 
+function readingHits(text, query) {
+  if (query.length < 3) return false
+  return String(text || '')
+    .toLocaleLowerCase('tr-TR')
+    .split(/[^\p{L}\p{M}]+/u)
+    .some((token) => token === query || token.startsWith(query))
+}
+
 function paint(query) {
   const panel = document.getElementById('panel')
   const empty = document.getElementById('empty')
@@ -163,14 +172,15 @@ function paint(query) {
   if (spec) {
     const rows = (lists[tab] || []).filter((item) => {
       if (!q) return true
+      const raw = query.trim()
       return (
-        (item.gloss || '').toLocaleLowerCase('tr-TR').includes(q) ||
-        (item.meaning || '').toLocaleLowerCase('tr-TR').includes(q) ||
-        (item.latinName || '').toLocaleLowerCase('tr-TR').includes(q) ||
-        (item.lettersArabic || '').includes(query.trim()) ||
-        (item.lemma || '').includes(query.trim()) ||
-        (item.formInAyah || '').includes(query.trim()) ||
-        (item.transliteration || '').toLocaleLowerCase('tr-TR').includes(q)
+        wordHits(item.gloss, q) ||
+        wordHits(item.meaning, q) ||
+        wordHits(item.latinName, q) ||
+        (item.lettersArabic || '').includes(raw) ||
+        (item.lemma || '').includes(raw) ||
+        (item.formInAyah || '').includes(raw) ||
+        readingHits(item.transliteration, q)
       )
     })
     empty.textContent = t(spec.empty)
@@ -189,12 +199,13 @@ function paint(query) {
 
   empty.textContent = t('emptyRoots')
   if (q) {
+    const raw = query.trim()
     const filtered = allRoots.filter(
       (root) =>
-        (root.latinName || '').toLocaleLowerCase('tr-TR').includes(q) ||
-        (root.lettersArabic || '').includes(query.trim()) ||
-        (root.id || '').toLowerCase().includes(q) ||
-        (root.meaningsPreview || '').toLocaleLowerCase('tr-TR').includes(q),
+        wordHits(root.latinName, q) ||
+        wordHits(root.meaningsPreview, q) ||
+        (root.lettersArabic || '').includes(raw) ||
+        (root.id || '').toLowerCase().includes(q),
     )
     empty.classList.toggle('hidden', filtered.length > 0)
     panel.innerHTML = `<ul class="list">${filtered.map(rootCard).join('')}</ul>`

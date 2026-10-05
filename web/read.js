@@ -2,11 +2,10 @@ import { playVerse, stopPlayback, whenEnded } from './audio.js?v=8'
 import { lang, t } from './i18n.js?v=10'
 import { SURAHS } from './surahs.js?v=1'
 import { loadUthmani } from './verses.js'
+import { tokenHits, wordHits } from './words.js?v=1'
 
 const PLACE = 'kh-read'
 const VERSE_CAP = 40
-const SUFFIX =
-  /^(lerindeki|larındaki|lerinde|larında|lerinden|larından|lerdendi|lardandı|lerden|lardan|lerle|larla|lerin|ların|leri|ları|lere|lara|lidir|lıdır|lik|lık|liği|lığı|ler|lar|den|dan|de|da|nin|nın|nun|nün|dir|dır|in|ın|un|ün|le|la|li|lı|i|ı|u|ü|e|a)/
 let verses = null
 let meals = null
 let mealPromise = null
@@ -75,24 +74,11 @@ function loadMeals() {
   return mealPromise
 }
 
-function tokenHits(token, query) {
-  if (token === query) return true
-  if (query.length < 3 || token.length <= query.length || !token.startsWith(query)) return false
-  return SUFFIX.test(token.slice(query.length))
-}
-
-function mealHits(text, query) {
-  return text
-    .toLocaleLowerCase('tr-TR')
-    .split(/[^a-zçğıöşüâîû]+/)
-    .some((token) => tokenHits(token, query))
-}
-
 function verseHits(book, query) {
   const hits = []
   for (const key of Object.keys(book)) {
     const meal = book[key]
-    if (!mealHits(meal, query)) continue
+    if (!wordHits(meal, query)) continue
     const [suraNo, ayahNo] = key.split(':').map(Number)
     hits.push({ sura: suraNo, ayah: ayahNo, meal })
   }
