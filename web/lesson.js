@@ -1,8 +1,8 @@
 import { playVerse, playWord } from './audio.js?v=7'
-import { loadGloss, shortMeaning } from './gloss.js?v=4'
-import { applyLang, bindLangSwitch, lang, langSwitch, t, tagLabel } from './i18n.js?v=7'
+import { shortMeaning } from './gloss.js?v=6'
+import { applyLang, lang, t, tagLabel } from './i18n.js?v=10'
 import { highlightVerse } from './mark.js?v=5'
-import { shareCard } from './share.js?v=5'
+import { shareCard } from './share.js?v=6'
 import { loadUthmani, verseText } from './verses.js'
 import {
   dueWordList,
@@ -170,7 +170,7 @@ const mount = document.getElementById('lesson')
 const errorEl = document.getElementById('error')
 
 try {
-  const [index, uthmani] = await Promise.all([loadIndex(), loadUthmani(), loadGloss()])
+  const [index, uthmani] = await Promise.all([loadIndex(), loadUthmani()])
   document.body.dataset.kind = qs('fiil') ? 'fiil' : qs('isim') ? 'isim' : 'root'
   document.title = t('lessonTitle')
   const session = await buildSession(index)
@@ -211,7 +211,6 @@ try {
         <header class="lesson-top">
           <a href="./index.html">${t('close')}</a>
           <span>${cursor + 1} / ${queue.length}</span>
-          ${langSwitch()}
           <a href="./root.html?id=${encodeURIComponent(card.rootId)}">${t('root')}</a>
         </header>
         <p class="lesson-root" lang="ar">${escapeHtml(card.letters || '')}</p>
@@ -241,7 +240,6 @@ try {
       </div>`
 
     applyLang()
-    bindLangSwitch()
     const playTheVerse = async () => {
       const status = document.getElementById('play-verse')
       if (status) status.textContent = t('playing')

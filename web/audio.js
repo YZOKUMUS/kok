@@ -77,9 +77,20 @@ function audioElement() {
 
 function start(url) {
   const audio = audioElement()
+  audio.onended = null
   audio.pause()
   audio.src = url
   return audio.play()
+}
+
+export function stopPlayback() {
+  const audio = audioElement()
+  audio.onended = null
+  audio.pause()
+}
+
+export function whenEnded(handler) {
+  audioElement().onended = handler
 }
 
 export async function playVerse(sura, ayah) {

@@ -1,8 +1,8 @@
 import { playVerse, playWord } from './audio.js?v=7'
-import { loadGloss, shortMeaning } from './gloss.js?v=4'
-import { applyLang, bindLangSwitch, lang, langSwitch, locale, t, tagLabel } from './i18n.js?v=7'
+import { shortMeaning } from './gloss.js?v=6'
+import { applyLang, lang, locale, t, tagLabel } from './i18n.js?v=10'
 import { highlightVerse } from './mark.js?v=5'
-import { shareCard } from './share.js?v=5'
+import { shareCard } from './share.js?v=6'
 import { isStudied, remember, toggleStudied } from './study.js'
 import { loadUthmani, verseText } from './verses.js'
 
@@ -45,7 +45,7 @@ if (!rootId) {
   errorEl.textContent = t('rootMissing')
 } else {
   try {
-    const [root, uthmani] = await Promise.all([loadRoot(rootId), loadUthmani(), loadGloss()])
+    const [root, uthmani] = await Promise.all([loadRoot(rootId), loadUthmani()])
     remember(rootId)
     document.title = `${root.latinName} · ${root.lettersArabic}`
 
@@ -143,7 +143,6 @@ if (!rootId) {
       <header class="study-bar">
         <a class="back" href="./index.html">${t('roots')}</a>
         <div class="name">${escapeHtml(root.latinName || root.id)}</div>
-        ${langSwitch()}
         <button type="button" class="check${studied ? ' on' : ''}" id="studied">${studied ? t('studied') : t('mark')}</button>
       </header>
       <div class="sheet">
@@ -182,7 +181,6 @@ if (!rootId) {
       </div>`
 
     applyLang()
-    bindLangSwitch()
     mount.addEventListener('click', async (event) => {
       const shareButton = event.target.closest('[data-share]')
       if (shareButton) {

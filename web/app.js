@@ -1,5 +1,6 @@
-import { glossEn, loadGloss, shortMeaning } from './gloss.js?v=4'
-import { applyLang, bindLangSwitch, lang, locale, t } from './i18n.js?v=5'
+import { shortMeaning } from './gloss.js?v=6'
+import { applyLang, lang, locale, t } from './i18n.js?v=10'
+import { paintQuran, stopReading } from './read.js?v=3'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'
@@ -151,14 +152,19 @@ function paint(query) {
   document.body.dataset.tab = tab
 
   const q = query.trim().toLocaleLowerCase('tr-TR')
+  const input = document.getElementById('q')
+  if (tab === 'kuran') {
+    if (input) input.placeholder = t('quranSearch')
+    paintQuran(panel, query)
+    return
+  }
+  if (input) input.placeholder = t('searchPlaceholder')
   const spec = listTabs[tab]
   if (spec) {
     const rows = (lists[tab] || []).filter((item) => {
       if (!q) return true
-      const english = glossEn(item.sura, item.ayah, item.formInAyah).toLocaleLowerCase('en')
       return (
         (item.gloss || '').toLocaleLowerCase('tr-TR').includes(q) ||
-        english.includes(q) ||
         (item.meaning || '').toLocaleLowerCase('tr-TR').includes(q) ||
         (item.latinName || '').toLocaleLowerCase('tr-TR').includes(q) ||
         (item.lettersArabic || '').includes(query.trim()) ||
@@ -265,7 +271,7 @@ function applyChrome() {
   if (label) label.textContent = t('searchLabel')
   const input = document.getElementById('q')
   if (input) input.placeholder = t('searchPlaceholder')
-  const names = { sozluk: 'dict', fiiller: 'verbs', isimler: 'nouns' }
+  const names = { sozluk: 'dict', fiiller: 'verbs', isimler: 'nouns', kuran: 'quran' }
   for (const [id, key] of Object.entries(names)) {
     const button = document.getElementById(`tab-${id}`)
     if (button) button.textContent = t(key)
@@ -273,8 +279,6 @@ function applyChrome() {
 }
 
 applyChrome()
-bindLangSwitch()
-loadGloss().then(() => paint(document.getElementById('q').value))
 paint('')
 
 document.getElementById('q').addEventListener('input', (event) => {
@@ -285,7 +289,10 @@ document.getElementById('q').addEventListener('input', (event) => {
 document.getElementById('tabs').addEventListener('click', async (event) => {
   const button = event.target.closest('[data-tab]')
   if (!button) return
-  tab = button.getAttribute('data-tab') || 'sozluk'
+  const next = button.getAttribute('data-tab') || 'sozluk'
+  if (tab === 'kuran' && next !== 'kuran') stopReading()
+  if (next === 'kuran') document.getElementById('q').value = ''
+  tab = next
   document.querySelectorAll('#tabs button').forEach((item) => {
     item.classList.toggle('on', item === button)
   })

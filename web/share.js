@@ -1,4 +1,4 @@
-import { t } from './i18n.js?v=7'
+import { t } from './i18n.js?v=10'
 import { verseParts } from './mark.js?v=5'
 
 const WIDTH = 1080
