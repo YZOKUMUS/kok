@@ -221,6 +221,7 @@ function paint(query) {
         <strong>${due ? t('lessonDue') : t('lessonStudy')}</strong>
         <p class="sub">${due ? t('lessonDueBlurb', { n: due.toLocaleString(locale()) }) : t('lessonStudyBlurb')}</p>
       </div>
+      <span class="go" aria-hidden="true"></span>
     </a>`
   const continueCard = last
     ? `<a class="quiet-card" href="./root.html?id=${encodeURIComponent(last.id)}">
@@ -230,6 +231,7 @@ function paint(query) {
            <p class="sub">${t('continueBlurb')}</p>
          </div>
          <div class="ar" lang="ar">${escapeHtml(last.lettersArabic)}</div>
+         <span class="go" aria-hidden="true"></span>
        </a>`
     : ''
 

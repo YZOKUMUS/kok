@@ -39,11 +39,12 @@ body {
   line-height: 1.5;
   min-height: 100dvh;
   padding-bottom: calc(20px + env(safe-area-inset-bottom));
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(27, 67, 52, 0.14);
   touch-action: manipulation;
 }
 
 button, input, a { font: inherit; color: inherit; }
+button, a { cursor: pointer; }
 
 .sticky-head {
   position: sticky;
@@ -97,7 +98,9 @@ button, input, a { font: inherit; color: inherit; }
 .seg button.on {
   background: var(--surface);
   color: var(--accent);
+  box-shadow: 0 1px 2px rgba(26, 25, 22, 0.08);
 }
+.seg button:active { background: rgba(255, 255, 255, 0.45); }
 
 body[data-tab="fiiller"] .seg button.on,
 #verse-tabs button.on[data-pos="fiil"] { color: var(--verb); }
@@ -175,6 +178,28 @@ main { padding: 4px 16px 12px; }
 }
 
 .hero-card strong, .quiet-card strong { display: block; font-size: 1rem; }
+.go {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(255, 255, 255, 0.18);
+}
+.go::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  margin-left: -3px;
+  border-right: 2.5px solid currentColor;
+  border-bottom: 2.5px solid currentColor;
+  transform: rotate(-45deg);
+}
+.quiet-card .go { background: var(--soft); color: var(--accent); }
+.hero-card:active, .quiet-card:active { transform: scale(0.98); }
+.hero-card:active { filter: brightness(0.94); }
+.quiet-card:active { background: var(--soft); }
 .hero-ar, .quiet-card .ar {
   font-family: var(--ar);
   font-size: 1.35rem;
@@ -249,6 +274,7 @@ main { padding: 4px 16px 12px; }
   line-height: 1;
 }
 
+.letters button:active { background: var(--soft); transform: translateY(1px); }
 .letters button small {
   display: block;
   margin-top: 4px;
@@ -322,13 +348,33 @@ button.read-start { width: 100%; margin: 4px 0; }
   grid-template-columns: 64px 1fr auto;
   gap: 12px;
   align-items: center;
+  position: relative;
   min-height: 76px;
-  padding: 12px;
+  padding: 12px 28px 12px 12px;
   text-decoration: none;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 16px;
 }
+.root-link::after,
+.surah-row::after,
+.meal-row::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--muted);
+  border-bottom: 2px solid var(--muted);
+  transform: rotate(-45deg);
+  opacity: 0.7;
+}
+.root-link::after {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  margin-top: -5px;
+}
+.surah-row::after, .meal-row::after { flex: none; align-self: center; }
+.root-link:active, .surah-row:active, .meal-row:active { background: var(--soft); }
 
 .root-link.done { background: #f4faf6; }
 
