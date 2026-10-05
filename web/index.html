@@ -10,12 +10,16 @@
   <title>Kök çalış</title>
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" href="./icon.svg" />
-  <link rel="stylesheet" href="./styles.css?v=4" />
+  <link rel="stylesheet" href="./styles.css?v=5" />
 </head>
 <body>
   <div class="sticky-head">
     <header class="topbar">
-      <p class="mark">Kök</p>
+      <p class="mark" id="brand">Kök</p>
+      <div class="lang-switch" id="lang-switch">
+        <button type="button" data-set-lang="tr">TR</button>
+        <button type="button" data-set-lang="en">EN</button>
+      </div>
       <p id="count" class="meta">Yükleniyor…</p>
     </header>
     <label class="search">
@@ -23,14 +27,14 @@
       <input id="q" type="search" enterkeyhint="search" placeholder="Anlam, harf veya ad" autocomplete="off" />
     </label>
     <nav class="seg" id="tabs">
-      <button type="button" data-tab="sozluk" class="on">Sözlük</button>
-      <button type="button" data-tab="fiiller">Fiiller</button>
-      <button type="button" data-tab="isimler">İsimler</button>
+      <button type="button" data-tab="sozluk" class="on" id="tab-sozluk">Sözlük</button>
+      <button type="button" data-tab="fiiller" id="tab-fiiller">Fiiller</button>
+      <button type="button" data-tab="isimler" id="tab-isimler">İsimler</button>
     </nav>
   </div>
   <main id="panel"></main>
   <p id="empty" class="empty hidden">Bu aramada kök yok.</p>
   <p id="error" class="error hidden"></p>
-  <script type="module" src="./app.js?v=2"></script>
+  <script type="module" src="./app.js?v=4"></script>
 </body>
 </html>

@@ -1,4 +1,6 @@
 import { playVerse, playWord } from './audio.js?v=7'
+import { loadGloss, shortMeaning } from './gloss.js?v=2'
+import { applyLang, bindLangSwitch, lang, langSwitch, locale, t, tagLabel } from './i18n.js?v=2'
 import { highlightVerse } from './mark.js?v=4'
 import { isStudied, remember, toggleStudied } from './study.js'
 import { loadUthmani, verseText } from './verses.js'
@@ -29,7 +31,7 @@ function rootFile(id) {
 
 async function loadRoot(id) {
   const res = await fetch(`${CONTENT}/roots/${encodeURIComponent(rootFile(id))}.json`)
-  if (!res.ok) throw new Error(`Kök yüklenemedi (${res.status})`)
+  if (!res.ok) throw new Error(t('rootError'))
   return res.json()
 }
 
@@ -39,10 +41,10 @@ const errorEl = document.getElementById('error')
 
 if (!rootId) {
   errorEl.classList.remove('hidden')
-  errorEl.textContent = 'Kök seçilmedi.'
+  errorEl.textContent = t('rootMissing')
 } else {
   try {
-    const [root, uthmani] = await Promise.all([loadRoot(rootId), loadUthmani()])
+    const [root, uthmani] = await Promise.all([loadRoot(rootId), loadUthmani(), loadGloss()])
     remember(rootId)
     document.title = `${root.latinName} · ${root.lettersArabic}`
 
@@ -86,29 +88,34 @@ if (!rootId) {
 
     const cards = occurrences
       .map((item) => {
+        const form = plain(item.formInAyah)
         const tags = (item.grammar?.raw || [])
-          .map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`)
+          .map((tag) => `<span class="tag">${escapeHtml(tagLabel(tag))}</span>`)
           .join('')
+        const meal =
+          lang() === 'tr' && item.verseMeaning
+            ? `<p class="meaning">${escapeHtml(item.verseMeaning)}</p>`
+            : ''
         const verse = item.verseArabic
           ? `<div class="ayah">
-              <button type="button" class="play-verse" data-sura="${item.sura}" data-ayah="${item.ayah}">
-                <span class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, item.sura, item.ayah, item.verseArabic), item.formInAyah)}</span>
-                ${item.verseTransliteration ? `<span class="translit">${escapeHtml(item.verseTransliteration)}</span>` : ''}
-                <span class="listen">Ayeti dinle</span>
-              </button>
-              ${item.verseMeaning ? `<p class="meaning">${escapeHtml(item.verseMeaning)}</p>` : ''}
+              <div class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, item.sura, item.ayah, item.verseArabic), item.formInAyah)}</div>
+              ${item.verseTransliteration ? `<p class="translit">${escapeHtml(item.verseTransliteration)}</p>` : ''}
+              <button type="button" class="btn-listen play-verse" data-sura="${item.sura}" data-ayah="${item.ayah}">${t('listenVerse')}</button>
+              ${meal}
             </div>`
-          : `<p class="stub">Ayet metni yok.</p>`
+          : `<p class="stub">${t('noVerseText')}</p>`
         const speech = item.grammar?.partOfSpeech
         const pos = speech === 'Fiil' ? 'fiil' : speech === 'İsim' ? 'isim' : 'diger'
+        const meaning = shortMeaning(item.sura, item.ayah, form, item.gloss || '')
         return `
           <article class="verse" data-pos="${pos}">
             <div class="verse-top">
               <span class="ref">${item.sura}:${item.ayah}</span>
-              <span class="translit" lang="ar">${escapeHtml(plain(item.lemmaFormArabic))}</span>
             </div>
-            <button type="button" class="word play-word" lang="ar" data-sura="${item.sura}" data-ayah="${item.ayah}" data-form="${escapeHtml(plain(item.formInAyah))}">${escapeHtml(plain(item.formInAyah))}</button>
-            <p class="gloss-line"><span class="translit">${escapeHtml(item.transliteration || '')}</span>${escapeHtml(item.gloss || '')}</p>
+            <button type="button" class="word play-word" lang="ar" data-sura="${item.sura}" data-ayah="${item.ayah}" data-form="${escapeHtml(form)}">${escapeHtml(form)}</button>
+            <p class="reading-line">${escapeHtml(item.transliteration || '')}</p>
+            <p class="one-mean">${escapeHtml(meaning)}</p>
+            <button type="button" class="btn-listen play-word" data-sura="${item.sura}" data-ayah="${item.ayah}" data-form="${escapeHtml(form)}">${t('listen')}</button>
             ${tags ? `<div class="tags">${tags}</div>` : ''}
             ${verse}
           </article>`
@@ -118,69 +125,77 @@ if (!rootId) {
     const studied = isStudied(rootId)
     mount.innerHTML = `
       <header class="study-bar">
-        <a class="back" href="./index.html">Kökler</a>
+        <a class="back" href="./index.html">${t('roots')}</a>
         <div class="name">${escapeHtml(root.latinName || root.id)}</div>
-        <button type="button" class="check${studied ? ' on' : ''}" id="studied">${studied ? 'Çalışıldı' : 'İşaretle'}</button>
+        ${langSwitch()}
+        <button type="button" class="check${studied ? ' on' : ''}" id="studied">${studied ? t('studied') : t('mark')}</button>
       </header>
       <div class="sheet">
         <div class="identity">
           <p class="latin">${escapeHtml(root.latinName || root.id)}</p>
           <p class="letters" lang="ar">${escapeHtml(root.lettersArabic || '')}</p>
         </div>
-        <a class="btn btn-main wide" href="./lesson.html?root=${encodeURIComponent(root.id)}" style="margin-top:14px">Bu kökün kelimelerini çalış</a>
+        <a class="btn btn-main wide" href="./lesson.html?root=${encodeURIComponent(root.id)}" style="margin-top:14px">${t('studyRoot')}</a>
         <div class="metrics">
-          <div><strong>${root.totalOccurrencesInQuran.toLocaleString('tr-TR')}</strong><span>Geçiş</span></div>
-          <div><strong>${lemmas.length.toLocaleString('tr-TR')}</strong><span>Gövde</span></div>
-          <div><strong>${occurrences.length.toLocaleString('tr-TR')}</strong><span>Ayet</span></div>
+          <div><strong>${root.totalOccurrencesInQuran.toLocaleString(locale())}</strong><span>${t('occurrences')}</span></div>
+          <div><strong>${lemmas.length.toLocaleString(locale())}</strong><span>${t('stems')}</span></div>
+          <div><strong>${occurrences.length.toLocaleString(locale())}</strong><span>${t('verses')}</span></div>
         </div>
         <section>
-          <h2>Anlam</h2>
+          <h2>${t('meaning')}</h2>
           <div class="reading">
-            ${meanings.map((item) => `<p>${escapeHtml(item)}</p>`).join('') || '<p>Anlam kaydı yok.</p>'}
+            ${meanings.map((item) => `<p>${escapeHtml(item)}</p>`).join('') || `<p>${t('noMeaning')}</p>`}
             ${noteBlocks}
             ${turkish.length ? `<div class="chips" style="margin-top:14px">${turkish.map((item) => `<span class="chip">${escapeHtml(item)}</span>`).join('')}</div>` : ''}
           </div>
         </section>
-        ${kin ? `<section><h2>Akraba diller</h2><div class="panel">${kin}</div></section>` : ''}
+        ${kin ? `<section><h2>${t('kin')}</h2><div class="panel">${kin}</div></section>` : ''}
         <section>
           <div class="section-head">
-            <h2>Ayetler</h2>
+            <h2>${t('verses')}</h2>
             <div class="seg" id="verse-tabs">
-              <button type="button" data-pos="all" class="on">Tümü</button>
-              <button type="button" data-pos="fiil">Fiiller</button>
-              <button type="button" data-pos="isim">İsimler</button>
+              <button type="button" data-pos="all" class="on">${t('all')}</button>
+              <button type="button" data-pos="fiil">${t('verbs')}</button>
+              <button type="button" data-pos="isim">${t('nouns')}</button>
             </div>
           </div>
-          <p class="sub">Kelimeye dokununca kelime, okunuş satırına dokununca ayet çalar.</p>
-          ${cards || '<p class="stub">Ayet kaydı yok.</p>'}
+          <p class="sub">${t('verseHelp')}</p>
+          ${cards || `<p class="stub">${t('noVerses')}</p>`}
           <p id="no-match" class="stub hidden"></p>
         </section>
         <footer><a href="${escapeHtml(root.sourceUrl || '')}">kuranharitasi.com</a></footer>
       </div>`
 
+    applyLang()
+    bindLangSwitch()
     mount.addEventListener('click', async (event) => {
       const verseButton = event.target.closest('.play-verse')
       if (verseButton) {
         const status = verseButton.querySelector('.listen')
-        if (status) status.textContent = 'Çalıyor'
+        if (status) status.textContent = t('playing')
         try {
           await playVerse(verseButton.dataset.sura, verseButton.dataset.ayah)
-          if (status) status.textContent = 'Ayeti dinle'
+          if (status) status.textContent = t('listenVerse')
         } catch {
-          if (status) status.textContent = 'Ses yok'
+          if (status) status.textContent = t('noAudio')
         }
         return
       }
       const button = event.target.closest('.play-word')
       if (!button) return
-      const previous = button.textContent
+      const status = button.classList.contains('btn-listen') ? button : null
+      const previous = status ? status.textContent : ''
+      if (status) status.textContent = t('playing')
       try {
         await playWord(button.dataset.sura, button.dataset.ayah, button.dataset.form)
+        if (status) status.textContent = t('listen')
       } catch {
-        button.textContent = 'Ses yok'
-        setTimeout(() => {
-          button.textContent = previous
-        }, 1200)
+        if (status) {
+          status.textContent = t('noWordAudio')
+          setTimeout(() => {
+            status.textContent = previous
+          }, 1200)
+        }
       }
     })
 
@@ -200,7 +215,7 @@ if (!rootId) {
       const empty = document.getElementById('no-match')
       if (empty) {
         empty.textContent =
-          mode === 'fiil' ? 'Bu kökte fiil yok.' : mode === 'isim' ? 'Bu kökte isim yok.' : ''
+          mode === 'fiil' ? t('noVerbsHere') : mode === 'isim' ? t('noNounsHere') : ''
         empty.classList.toggle('hidden', mode === 'all' || shown > 0)
       }
     })
@@ -209,7 +224,7 @@ if (!rootId) {
       const on = toggleStudied(rootId)
       const button = document.getElementById('studied')
       if (!button) return
-      button.textContent = on ? 'Çalışıldı' : 'İşaretle'
+      button.textContent = on ? t('studied') : t('mark')
       button.classList.toggle('on', on)
     })
   } catch (err) {

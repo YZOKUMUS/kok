@@ -1,4 +1,6 @@
 import { playVerse, playWord } from './audio.js?v=7'
+import { loadGloss, shortMeaning } from './gloss.js?v=2'
+import { applyLang, bindLangSwitch, lang, langSwitch, t } from './i18n.js?v=2'
 import { highlightVerse } from './mark.js?v=4'
 import { loadUthmani, verseText } from './verses.js'
 import {
@@ -38,13 +40,13 @@ function rootFile(id) {
 
 async function loadIndex() {
   const res = await fetch(`${CONTENT}/index.json`)
-  if (!res.ok) throw new Error('İndeks yüklenemedi')
+  if (!res.ok) throw new Error(t('indexError'))
   return res.json()
 }
 
 async function loadRoot(id) {
   const res = await fetch(`${CONTENT}/roots/${encodeURIComponent(rootFile(id))}.json`)
-  if (!res.ok) throw new Error('Kök yüklenemedi')
+  if (!res.ok) throw new Error(t('rootError'))
   return res.json()
 }
 
@@ -133,8 +135,8 @@ function againHref() {
 }
 
 async function buildSession(index) {
-  if (qs('fiil')) return buildListSession('verbs.json', 'verbs', 'Fiil listesi yüklenemedi')
-  if (qs('isim')) return buildListSession('nouns.json', 'nouns', 'İsim listesi yüklenemedi')
+  if (qs('fiil')) return buildListSession('verbs.json', 'verbs', t('verbError'))
+  if (qs('isim')) return buildListSession('nouns.json', 'nouns', t('nounError'))
   const forced = qs('root')
   if (forced) {
     const root = await loadRoot(forced)
@@ -167,12 +169,12 @@ const mount = document.getElementById('lesson')
 const errorEl = document.getElementById('error')
 
 try {
-  const [index, uthmani] = await Promise.all([loadIndex(), loadUthmani()])
+  const [index, uthmani] = await Promise.all([loadIndex(), loadUthmani(), loadGloss()])
+  document.body.dataset.kind = qs('fiil') ? 'fiil' : qs('isim') ? 'isim' : 'root'
+  document.title = t('lessonTitle')
   const session = await buildSession(index)
   let queue = session.cards
   let cursor = 0
-  let revealed = false
-  let hint = false
   let known = 0
   let again = 0
 
@@ -187,12 +189,12 @@ try {
       if (doneRoot && cardsFromRoot(session.root, 'new').length === 0) markRootFinished(session.root.id)
       mount.innerHTML = `
         <div class="lesson">
-          <p class="eyebrow">Ders bitti</p>
-          <h1>${known} kelimeyi bildin</h1>
-          <p class="sub">${again ? `${again} kelime yarına kaldı.` : 'Bu turda hepsini bildin.'}</p>
+          <p class="eyebrow">${t('done')}</p>
+          <h1>${t('knownCount', { n: known })}</h1>
+          <p class="sub">${again ? t('againLeft', { n: again }) : t('allKnown')}</p>
           <div class="actions">
-            <a class="btn btn-main wide" href="${againHref()}">Sonraki ders</a>
-            <a class="btn wide" href="./index.html">Sözlüğe dön</a>
+            <a class="btn btn-main wide" href="${againHref()}">${t('nextLesson')}</a>
+            <a class="btn wide" href="./index.html">${t('backHome')}</a>
           </div>
         </div>`
       return
@@ -200,92 +202,76 @@ try {
 
     const example = card.example
     const word = plain(example?.formInAyah || card.lemma)
+    const meaning = shortMeaning(example?.sura, example?.ayah, word, example?.gloss || '')
+    const rootMean = lang() === 'tr' && card.meaning ? `<p class="learn-root-mean">${escapeHtml(card.meaning)}</p>` : ''
+    const meal = lang() === 'tr' && example?.verseMeaning ? `<p class="meaning">${escapeHtml(example.verseMeaning)}</p>` : ''
     mount.innerHTML = `
       <div class="lesson">
         <header class="lesson-top">
-          <a href="./index.html">Kapat</a>
+          <a href="./index.html">${t('close')}</a>
           <span>${cursor + 1} / ${queue.length}</span>
-          <a href="./root.html?id=${encodeURIComponent(card.rootId)}">Kök</a>
+          ${langSwitch()}
+          <a href="./root.html?id=${encodeURIComponent(card.rootId)}">${t('root')}</a>
         </header>
         <p class="lesson-root" lang="ar">${escapeHtml(card.letters || '')}</p>
         <div class="lesson-stage">
-          <p class="prompt">${session.review ? 'Tekrar' : 'Bu kelime ne?'}</p>
+          <p class="prompt">${session.review ? t('promptReview') : t('prompt')}</p>
           <button type="button" class="learn-word" id="hear" lang="ar">${escapeHtml(word)}</button>
-          <p class="listen" id="listen">Dinle</p>
-          ${hint || revealed ? `<p class="translit">${escapeHtml(example?.transliteration || '')}</p>` : ''}
+          <p class="reading-line">${escapeHtml(example?.transliteration || '')}</p>
+          <p class="one-mean">${escapeHtml(meaning || '—')}</p>
+          <button type="button" class="btn-listen" id="listen">${t('listen')}</button>
+          ${rootMean}
           ${
-            revealed
-              ? `<p class="learn-gloss">${escapeHtml(example?.gloss || '—')}</p>
-                 <p class="learn-root-mean">${escapeHtml(card.meaning)}</p>
-                 ${
-                   example?.verseArabic
-                     ? `<div class="ayah">
-                          <button type="button" class="play-verse" id="play-verse" data-sura="${example.sura}" data-ayah="${example.ayah}">
-                            <span class="ref">${example.sura}:${example.ayah}</span>
-                            <span class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, example.sura, example.ayah, example.verseArabic), word)}</span>
-                            <span class="listen">Ayeti dinle</span>
-                          </button>
-                          <p class="meaning">${escapeHtml(example.verseMeaning || '')}</p>
-                        </div>`
-                     : ''
-                 }`
+            example?.verseArabic
+              ? `<div class="ayah">
+                   <span class="ref">${example.sura}:${example.ayah}</span>
+                   <div class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, example.sura, example.ayah, example.verseArabic), word)}</div>
+                   <button type="button" class="btn-listen" id="play-verse">${t('listenVerse')}</button>
+                   ${meal}
+                 </div>`
               : ''
           }
         </div>
         <div class="actions">
-          ${
-            revealed
-              ? `<button type="button" class="btn" id="again">Tekrar</button>
-                 <button type="button" class="btn btn-main" id="know">Biliyorum</button>`
-              : `<button type="button" class="btn" id="hint">Okunuş</button>
-                 <button type="button" class="btn btn-main" id="reveal">Anlamı göster</button>`
-          }
+          <button type="button" class="btn" id="again">${t('again')}</button>
+          <button type="button" class="btn btn-main" id="know">${t('know')}</button>
         </div>
       </div>`
 
+    applyLang()
+    bindLangSwitch()
     document.getElementById('play-verse')?.addEventListener('click', async () => {
-      const status = document.querySelector('#play-verse .listen')
-      if (status) status.textContent = 'Çalıyor'
+      const status = document.getElementById('play-verse')
+      if (status) status.textContent = t('playing')
       try {
         await playVerse(example?.sura, example?.ayah)
-        if (status) status.textContent = 'Ayeti dinle'
+        if (status) status.textContent = t('listenVerse')
       } catch {
-        if (status) status.textContent = 'Ses yok'
+        if (status) status.textContent = t('noAudio')
       }
     })
-    document.getElementById('hear')?.addEventListener('click', async () => {
-      const status = document.getElementById('listen')
-      if (status) status.textContent = 'Çalıyor'
+    const hear = async (status) => {
+      if (status) status.textContent = t('playing')
       try {
         await playWord(example?.sura, example?.ayah, word)
-        if (status) status.textContent = 'Dinle'
+        if (status) status.textContent = t('listen')
       } catch {
-        if (status) status.textContent = 'Ses bulunamadı'
+        if (status) status.textContent = t('noWordAudio')
       }
-    })
-    document.getElementById('hint')?.addEventListener('click', () => {
-      hint = true
-      paint()
-    })
-    document.getElementById('reveal')?.addEventListener('click', () => {
-      revealed = true
-      paint()
-    })
+    }
+    document.getElementById('hear')?.addEventListener('click', () => hear(document.getElementById('listen')))
+    document.getElementById('listen')?.addEventListener('click', () => hear(document.getElementById('listen')))
     document.getElementById('again')?.addEventListener('click', () => {
       gradeWord(card.rootId, card.lemma, false)
       again += 1
       queue.push(card)
       cursor += 1
-      revealed = false
-      hint = false
       paint()
     })
     document.getElementById('know')?.addEventListener('click', () => {
       gradeWord(card.rootId, card.lemma, true)
       known += 1
       cursor += 1
-      revealed = false
-      hint = false
       paint()
     })
   }

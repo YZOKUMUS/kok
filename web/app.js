@@ -1,3 +1,5 @@
+import { glossEn, loadGloss, shortMeaning } from './gloss.js?v=2'
+import { applyLang, bindLangSwitch, lang, locale, t } from './i18n.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'
@@ -17,7 +19,7 @@ function firstLetter(root) {
 
 async function loadIndex() {
   const res = await fetch(`${CONTENT}/index.json`)
-  if (!res.ok) throw new Error(`İndeks yüklenemedi (${res.status})`)
+  if (!res.ok) throw new Error(t('indexError'))
   return res.json()
 }
 
@@ -54,22 +56,24 @@ const listTabs = {
   fiiller: {
     file: 'verbs.json',
     key: 'verbs',
-    error: 'Fiil listesi yüklenemedi',
-    empty: 'Bu aramada fiil yok.',
+    error: 'verbError',
+    empty: 'emptyVerbs',
     href: './lesson.html?fiil=1',
-    eyebrow: 'Fiil dersi',
-    title: 'Yalnızca fiilleri çalış',
-    blurb: 'fiil. İsimler bu listede yok.',
+    eyebrow: 'verbEyebrow',
+    title: 'verbTitle',
+    blurb: 'verbBlurb',
+    kind: 'verb',
   },
   isimler: {
     file: 'nouns.json',
     key: 'nouns',
-    error: 'İsim listesi yüklenemedi',
-    empty: 'Bu aramada isim yok.',
+    error: 'nounError',
+    empty: 'emptyNouns',
     href: './lesson.html?isim=1',
-    eyebrow: 'İsim dersi',
-    title: 'Yalnızca isimleri çalış',
-    blurb: 'isim. Yalnızca isim olan kelimeler.',
+    eyebrow: 'nounEyebrow',
+    title: 'nounTitle',
+    blurb: 'nounBlurb',
+    kind: 'noun',
   },
 }
 const state = readState()
@@ -86,7 +90,7 @@ function rootCard(root) {
           <strong>${escapeHtml(root.latinName || root.id)}</strong>
           <p class="sub">${escapeHtml(root.meaningsPreview || '')}</p>
         </div>
-        <div class="count">${root.totalOccurrencesInQuran.toLocaleString('tr-TR')}${studied[root.id] ? '<span class="done-mark">ok</span>' : ''}</div>
+        <div class="count">${root.totalOccurrencesInQuran.toLocaleString(locale())}${studied[root.id] ? `<span class="done-mark">${t('ok')}</span>` : ''}</div>
       </a>
     </li>`
 }
@@ -95,23 +99,46 @@ async function ensureList(name) {
   if (lists[name]) return lists[name]
   const spec = listTabs[name]
   const res = await fetch(`${CONTENT}/${spec.file}`)
-  if (!res.ok) throw new Error(spec.error)
+  if (!res.ok) throw new Error(t(spec.error))
   lists[name] = (await res.json())[spec.key]
   return lists[name]
 }
 
 function verbCard(item) {
+  const meaning = shortMeaning(item.sura, item.ayah, item.formInAyah, item.gloss || item.lemma)
   return `
     <li>
       <a class="root-link" href="./root.html?id=${encodeURIComponent(item.rootId)}">
         <div class="badge" lang="ar" dir="rtl">${escapeHtml(item.formInAyah || item.lemma)}</div>
         <div>
-          <strong>${escapeHtml(item.gloss || item.lemma)}</strong>
+          <strong>${escapeHtml(meaning)}</strong>
           <p class="sub">${escapeHtml(item.latinName || '')}</p>
         </div>
-        <div class="count">${item.count.toLocaleString('tr-TR')}</div>
+        <div class="count">${item.count.toLocaleString(locale())}</div>
       </a>
     </li>`
+}
+
+function progressLine(words, roots) {
+  if (lang() === 'en') {
+    const word = words === 1 ? 'word' : 'words'
+    const root = roots === 1 ? 'root' : 'roots'
+    return `${words.toLocaleString('en-US')} ${word} learned · ${roots.toLocaleString('en-US')} ${root}`
+  }
+  return t('count', {
+    words: words.toLocaleString('tr-TR'),
+    roots: roots.toLocaleString('tr-TR'),
+  })
+}
+
+function listBlurb(spec, count) {
+  const formatted = count.toLocaleString(locale())
+  if (lang() === 'en' && count === 1) {
+    return spec.kind === 'verb'
+      ? '1 verb. Nouns are not in this list.'
+      : '1 noun. Only words that are nouns.'
+  }
+  return `${formatted} ${t(spec.blurb)}`
 }
 
 function paint(query) {
@@ -120,16 +147,18 @@ function paint(query) {
   const done = studiedCount()
   const ratio = allRoots.length ? Math.round((done / allRoots.length) * 100) : 0
   const words = knownWordCount()
-  document.getElementById('count').textContent =
-    `${words.toLocaleString('tr-TR')} kelime öğrenildi · ${done.toLocaleString('tr-TR')} kök`
+  document.getElementById('count').textContent = progressLine(words, done)
+  document.body.dataset.tab = tab
 
   const q = query.trim().toLocaleLowerCase('tr-TR')
   const spec = listTabs[tab]
   if (spec) {
     const rows = (lists[tab] || []).filter((item) => {
       if (!q) return true
+      const english = glossEn(item.sura, item.ayah, item.formInAyah).toLocaleLowerCase('en')
       return (
         (item.gloss || '').toLocaleLowerCase('tr-TR').includes(q) ||
+        english.includes(q) ||
         (item.meaning || '').toLocaleLowerCase('tr-TR').includes(q) ||
         (item.latinName || '').toLocaleLowerCase('tr-TR').includes(q) ||
         (item.lettersArabic || '').includes(query.trim()) ||
@@ -138,21 +167,21 @@ function paint(query) {
         (item.transliteration || '').toLocaleLowerCase('tr-TR').includes(q)
       )
     })
-    empty.textContent = spec.empty
+    empty.textContent = t(spec.empty)
     empty.classList.toggle('hidden', rows.length > 0)
     panel.innerHTML = `
       <a class="hero-card" href="${spec.href}">
         <div>
-          <p class="eyebrow">${spec.eyebrow}</p>
-          <strong>${spec.title}</strong>
-          <p class="sub">${rows.length.toLocaleString('tr-TR')} ${spec.blurb}</p>
+          <p class="eyebrow">${t(spec.eyebrow)}</p>
+          <strong>${t(spec.title)}</strong>
+          <p class="sub">${listBlurb(spec, rows.length)}</p>
         </div>
       </a>
       <ul class="list">${rows.map(verbCard).join('')}</ul>`
     return
   }
 
-  empty.textContent = 'Bu aramada kök yok.'
+  empty.textContent = t('emptyRoots')
   if (q) {
     const filtered = allRoots.filter(
       (root) =>
@@ -171,17 +200,17 @@ function paint(query) {
   const lessonCard = `
     <a class="hero-card" href="./lesson.html">
       <div>
-        <p class="eyebrow">Ders</p>
-        <strong>${due ? 'Tekrar zamanı' : 'Kelime çalış'}</strong>
-        <p class="sub">${due ? `${due.toLocaleString('tr-TR')} kelime seni bekliyor` : 'Önce kelime, sonra anlam. Günde bir avuç.'}</p>
+        <p class="eyebrow">${t('lessonEyebrow')}</p>
+        <strong>${due ? t('lessonDue') : t('lessonStudy')}</strong>
+        <p class="sub">${due ? t('lessonDueBlurb', { n: due.toLocaleString(locale()) }) : t('lessonStudyBlurb')}</p>
       </div>
     </a>`
   const continueCard = last
     ? `<a class="quiet-card" href="./root.html?id=${encodeURIComponent(last.id)}">
          <div>
-           <p class="eyebrow">Sözlük</p>
+           <p class="eyebrow">${t('continueEyebrow')}</p>
            <strong>${escapeHtml(last.latinName)}</strong>
-           <p class="sub">Kökün anlamı ve ayetleri</p>
+           <p class="sub">${t('continueBlurb')}</p>
          </div>
          <div class="ar" lang="ar">${escapeHtml(last.lettersArabic)}</div>
        </a>`
@@ -192,11 +221,11 @@ function paint(query) {
       ${lessonCard}
       ${continueCard}
       <div class="progress">
-        <span>İlerleme</span>
+        <span>${t('progress')}</span>
         <span>${ratio}%</span>
       </div>
       <div class="bar" aria-hidden="true"><span style="width:${ratio}%"></span></div>
-      <div class="section-head"><h2>Harften başla</h2></div>
+      <div class="section-head"><h2>${t('letters')}</h2></div>
       <div class="letters">
         ${letters
           .map(
@@ -217,8 +246,8 @@ function paint(query) {
   const rows = byLetter.get(letter) || []
   panel.innerHTML = `
     <div class="section-head">
-      <h2><span lang="ar" dir="rtl">${escapeHtml(letter)}</span> · ${rows.length} kök</h2>
-      <button type="button" class="text-btn" id="back-letters">Harfler</button>
+      <h2><span lang="ar" dir="rtl">${escapeHtml(letter)}</span> · ${t('letterCount', { n: rows.length })}</h2>
+      <button type="button" class="text-btn" id="back-letters">${t('backLetters')}</button>
     </div>
     <ul class="list">${rows.map(rootCard).join('')}</ul>`
   document.getElementById('back-letters').addEventListener('click', () => {
@@ -227,6 +256,25 @@ function paint(query) {
   })
 }
 
+function applyChrome() {
+  applyLang()
+  document.title = t('homeTitle')
+  const brand = document.getElementById('brand')
+  if (brand) brand.textContent = t('brand')
+  const label = document.querySelector('.search .sr-only')
+  if (label) label.textContent = t('searchLabel')
+  const input = document.getElementById('q')
+  if (input) input.placeholder = t('searchPlaceholder')
+  const names = { sozluk: 'dict', fiiller: 'verbs', isimler: 'nouns' }
+  for (const [id, key] of Object.entries(names)) {
+    const button = document.getElementById(`tab-${id}`)
+    if (button) button.textContent = t(key)
+  }
+}
+
+applyChrome()
+bindLangSwitch()
+loadGloss().then(() => paint(document.getElementById('q').value))
 paint('')
 
 document.getElementById('q').addEventListener('input', (event) => {
