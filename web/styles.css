@@ -68,19 +68,28 @@ button, input, a { font: inherit; color: inherit; }
 }
 
 .lang-switch button {
+  display: grid;
+  place-items: center;
   border: 0;
   background: transparent;
-  min-height: 28px;
-  min-width: 36px;
+  min-height: 32px;
+  min-width: 40px;
+  padding: 4px 7px;
   border-radius: 999px;
-  font-size: 0.72rem;
-  font-weight: 800;
-  color: var(--muted);
+  opacity: 0.45;
+}
+
+.lang-switch button svg {
+  display: block;
+  width: 22px;
+  height: 15px;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
 }
 
 .lang-switch button.on {
   background: var(--surface);
-  color: var(--accent);
+  opacity: 1;
 }
 
 .mark {
@@ -469,9 +478,20 @@ main { padding: 4px 16px 12px; }
 .verse-top {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
   gap: 8px;
 }
+
+.share {
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  font-weight: 800;
+  min-height: 44px;
+  padding: 0 2px;
+}
+
+.lesson .share { display: block; margin: 18px auto 0; }
 
 .ref {
   font-weight: 800;
@@ -544,15 +564,13 @@ main { padding: 4px 16px 12px; }
   border-top: 1px solid var(--line);
 }
 
-.play-verse {
-  display: block;
+button.ar-lg {
   width: 100%;
-  margin: 0;
   padding: 0;
   border: 0;
   background: transparent;
-  text-align: start;
   color: inherit;
+  cursor: pointer;
 }
 
 .ar-lg {
@@ -577,14 +595,6 @@ main { padding: 4px 16px 12px; }
 .translit { color: var(--muted); font-size: 0.92rem; }
 .meaning { margin: 8px 0 0; }
 .stub { color: var(--gold); font-style: italic; }
-
-.sheet footer {
-  margin-top: 28px;
-  font-size: 0.82rem;
-  color: var(--muted);
-}
-
-.sheet footer a { color: var(--accent-2); }
 
 .hidden { display: none !important; }
 .empty, .error { margin: 20px 16px; color: var(--muted); }

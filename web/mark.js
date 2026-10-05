@@ -26,13 +26,13 @@ function targetForm(value) {
   return text ? text[0].trim() : ''
 }
 
-export function highlightVerse(verse, form) {
+export function verseParts(verse, form) {
   const raw = String(verse ?? '')
   const target = targetForm(form)
   const needle = fold(target).replace(/\s+/g, '')
-  if (!needle) return escapeHtml(raw)
-
   const parts = raw.split(/(\s+)/)
+  if (!needle) return parts.map((text) => ({ text, hit: false }))
+
   const words = []
   parts.forEach((part, index) => {
     if (part && !/^\s+$/.test(part) && fold(part)) words.push({ index, part })
@@ -68,10 +68,14 @@ export function highlightVerse(verse, form) {
     cursor = end + 1
   }
 
-  return parts
-    .map((part, index) => {
-      const html = escapeHtml(part)
-      return marked.has(index) ? `<span class="hit">${html}</span>` : html
+  return parts.map((text, index) => ({ text, hit: marked.has(index) }))
+}
+
+export function highlightVerse(verse, form) {
+  return verseParts(verse, form)
+    .map((part) => {
+      const html = escapeHtml(part.text)
+      return part.hit ? `<span class="hit">${html}</span>` : html
     })
     .join('')
 }

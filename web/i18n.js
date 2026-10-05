@@ -42,11 +42,14 @@ const PACK = {
     meaning: 'Anlam',
     noMeaning: 'Anlam kaydı yok.',
     kin: 'Akraba diller',
-    verseHelp: 'Kelimeye dokununca kelime çalar. Altın düğme ayeti çalar.',
+    verseHelp: 'Kelimeye dokununca kelime çalar. Ayete dokununca ayet çalar.',
     noVerses: 'Ayet kaydı yok.',
     noVerseText: 'Ayet metni yok.',
     noVerbsHere: 'Bu kökte fiil yok.',
     noNounsHere: 'Bu kökte isim yok.',
+    share: 'Paylaş',
+    shareWait: 'Hazırlanıyor',
+    shareFail: 'Paylaşılamadı',
     listen: 'Dinle',
     listenVerse: 'Ayeti dinle',
     playing: 'Çalıyor',
@@ -112,11 +115,14 @@ const PACK = {
     meaning: 'Meaning',
     noMeaning: 'No meaning on file.',
     kin: 'Related languages',
-    verseHelp: 'Tap the word to hear it. The gold button plays the verse.',
+    verseHelp: 'Tap the word to hear it. Tap the verse to hear the verse.',
     noVerses: 'No verse on file.',
     noVerseText: 'No verse text.',
     noVerbsHere: 'This root has no verb.',
     noNounsHere: 'This root has no noun.',
+    share: 'Share',
+    shareWait: 'Preparing',
+    shareFail: 'Could not share',
     listen: 'Listen',
     listenVerse: 'Listen to the verse',
     playing: 'Playing',
@@ -203,9 +209,14 @@ export function bindLangSwitch() {
   })
 }
 
+const FLAG_TR = `<svg viewBox="0 0 30 20" aria-hidden="true"><rect width="30" height="20" fill="#e30a17"/><circle cx="12" cy="10" r="5" fill="#fff"/><circle cx="13.4" cy="10" r="4" fill="#e30a17"/><path fill="#fff" d="M19.2 10 17.9 10.9l.5-1.5-1.3-.9h1.6L19.2 7l.5 1.5h1.6l-1.3.9z"/></svg>`
+const FLAG_EN = `<svg viewBox="0 0 60 30" aria-hidden="true"><defs><clipPath id="en-flag"><rect width="60" height="30"/></clipPath></defs><g clip-path="url(#en-flag)"><rect width="60" height="30" fill="#012169"/><path d="M0 0 60 30M60 0 0 30" stroke="#fff" stroke-width="8"/><path d="M0 0 60 30M60 0 0 30" stroke="#C8102E" stroke-width="4"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="12"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="7"/></g></svg>`
+
 export function langSwitch() {
+  const trOn = lang() === 'tr' ? ' on' : ''
+  const enOn = lang() === 'en' ? ' on' : ''
   return `<div class="lang-switch" id="lang-switch">
-    <button type="button" data-set-lang="tr" class="${lang() === 'tr' ? 'on' : ''}">TR</button>
-    <button type="button" data-set-lang="en" class="${lang() === 'en' ? 'on' : ''}">EN</button>
+    <button type="button" data-set-lang="tr" class="${trOn.trim()}" aria-label="Türkçe">${FLAG_TR}</button>
+    <button type="button" data-set-lang="en" class="${enOn.trim()}" aria-label="English">${FLAG_EN}</button>
   </div>`
 }

@@ -1,5 +1,5 @@
-import { glossEn, loadGloss, shortMeaning } from './gloss.js?v=2'
-import { applyLang, bindLangSwitch, lang, locale, t } from './i18n.js?v=2'
+import { glossEn, loadGloss, shortMeaning } from './gloss.js?v=4'
+import { applyLang, bindLangSwitch, lang, locale, t } from './i18n.js?v=5'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'

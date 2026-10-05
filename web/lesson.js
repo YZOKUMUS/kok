@@ -1,7 +1,8 @@
 import { playVerse, playWord } from './audio.js?v=7'
-import { loadGloss, shortMeaning } from './gloss.js?v=2'
-import { applyLang, bindLangSwitch, lang, langSwitch, t } from './i18n.js?v=2'
-import { highlightVerse } from './mark.js?v=4'
+import { loadGloss, shortMeaning } from './gloss.js?v=4'
+import { applyLang, bindLangSwitch, lang, langSwitch, t, tagLabel } from './i18n.js?v=5'
+import { highlightVerse } from './mark.js?v=5'
+import { shareCard } from './share.js?v=2'
 import { loadUthmani, verseText } from './verses.js'
 import {
   dueWordList,
@@ -225,9 +226,10 @@ try {
             example?.verseArabic
               ? `<div class="ayah">
                    <span class="ref">${example.sura}:${example.ayah}</span>
-                   <div class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, example.sura, example.ayah, example.verseArabic), word)}</div>
+                   <button type="button" class="ar-lg" id="verse-text" lang="ar">${highlightVerse(verseText(uthmani, example.sura, example.ayah, example.verseArabic), word)}</button>
                    <button type="button" class="btn-listen" id="play-verse">${t('listenVerse')}</button>
                    ${meal}
+                   <button type="button" class="share" id="share">${t('share')}</button>
                  </div>`
               : ''
           }
@@ -240,7 +242,7 @@ try {
 
     applyLang()
     bindLangSwitch()
-    document.getElementById('play-verse')?.addEventListener('click', async () => {
+    const playTheVerse = async () => {
       const status = document.getElementById('play-verse')
       if (status) status.textContent = t('playing')
       try {
@@ -248,6 +250,37 @@ try {
         if (status) status.textContent = t('listenVerse')
       } catch {
         if (status) status.textContent = t('noAudio')
+      }
+    }
+    document.getElementById('verse-text')?.addEventListener('click', playTheVerse)
+    document.getElementById('play-verse')?.addEventListener('click', playTheVerse)
+    document.getElementById('share')?.addEventListener('click', async () => {
+      const shareButton = document.getElementById('share')
+      const previous = shareButton.textContent
+      shareButton.textContent = t('shareWait')
+      try {
+        await shareCard({
+          ref: example ? `${example.sura}:${example.ayah}` : '',
+          word,
+          reading: example?.transliteration || '',
+          meaning,
+          tags: (example?.grammar?.raw || []).map((tag) => tagLabel(tag)),
+          verse: verseText(uthmani, example?.sura, example?.ayah, example?.verseArabic),
+          form: word,
+          verseReading: example?.verseTransliteration || '',
+          meal: lang() === 'tr' ? example?.verseMeaning || '' : '',
+          pos: document.body.dataset.kind === 'root' ? '' : document.body.dataset.kind,
+        })
+        shareButton.textContent = previous
+      } catch (err) {
+        if (err?.name === 'AbortError') {
+          shareButton.textContent = previous
+          return
+        }
+        shareButton.textContent = t('shareFail')
+        setTimeout(() => {
+          shareButton.textContent = previous
+        }, 1400)
       }
     })
     const hear = async (status) => {

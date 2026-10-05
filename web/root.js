@@ -1,7 +1,8 @@
 import { playVerse, playWord } from './audio.js?v=7'
-import { loadGloss, shortMeaning } from './gloss.js?v=2'
-import { applyLang, bindLangSwitch, lang, langSwitch, locale, t, tagLabel } from './i18n.js?v=2'
-import { highlightVerse } from './mark.js?v=4'
+import { loadGloss, shortMeaning } from './gloss.js?v=4'
+import { applyLang, bindLangSwitch, lang, langSwitch, locale, t, tagLabel } from './i18n.js?v=5'
+import { highlightVerse } from './mark.js?v=5'
+import { shareCard } from './share.js?v=2'
 import { isStudied, remember, toggleStudied } from './study.js'
 import { loadUthmani, verseText } from './verses.js'
 
@@ -86,6 +87,7 @@ if (!rootId) {
       )
       .join('')
 
+    const shareItems = []
     const cards = occurrences
       .map((item) => {
         const form = plain(item.formInAyah)
@@ -98,7 +100,7 @@ if (!rootId) {
             : ''
         const verse = item.verseArabic
           ? `<div class="ayah">
-              <div class="ar-lg" lang="ar">${highlightVerse(verseText(uthmani, item.sura, item.ayah, item.verseArabic), item.formInAyah)}</div>
+              <button type="button" class="ar-lg play-verse" lang="ar" data-sura="${item.sura}" data-ayah="${item.ayah}">${highlightVerse(verseText(uthmani, item.sura, item.ayah, item.verseArabic), item.formInAyah)}</button>
               ${item.verseTransliteration ? `<p class="translit">${escapeHtml(item.verseTransliteration)}</p>` : ''}
               <button type="button" class="btn-listen play-verse" data-sura="${item.sura}" data-ayah="${item.ayah}">${t('listenVerse')}</button>
               ${meal}
@@ -107,10 +109,24 @@ if (!rootId) {
         const speech = item.grammar?.partOfSpeech
         const pos = speech === 'Fiil' ? 'fiil' : speech === 'İsim' ? 'isim' : 'diger'
         const meaning = shortMeaning(item.sura, item.ayah, form, item.gloss || '')
+        const shareIndex = shareItems.length
+        shareItems.push({
+          ref: `${item.sura}:${item.ayah}`,
+          word: form,
+          reading: item.transliteration || '',
+          meaning,
+          tags: (item.grammar?.raw || []).map((tag) => tagLabel(tag)),
+          verse: verseText(uthmani, item.sura, item.ayah, item.verseArabic),
+          form: item.formInAyah,
+          verseReading: item.verseTransliteration || '',
+          meal: lang() === 'tr' ? item.verseMeaning || '' : '',
+          pos,
+        })
         return `
           <article class="verse" data-pos="${pos}">
             <div class="verse-top">
               <span class="ref">${item.sura}:${item.ayah}</span>
+              <button type="button" class="share" data-share="${shareIndex}">${t('share')}</button>
             </div>
             <button type="button" class="word play-word" lang="ar" data-sura="${item.sura}" data-ayah="${item.ayah}" data-form="${escapeHtml(form)}">${escapeHtml(form)}</button>
             <p class="reading-line">${escapeHtml(item.transliteration || '')}</p>
@@ -163,15 +179,33 @@ if (!rootId) {
           ${cards || `<p class="stub">${t('noVerses')}</p>`}
           <p id="no-match" class="stub hidden"></p>
         </section>
-        <footer><a href="${escapeHtml(root.sourceUrl || '')}">kuranharitasi.com</a></footer>
       </div>`
 
     applyLang()
     bindLangSwitch()
     mount.addEventListener('click', async (event) => {
+      const shareButton = event.target.closest('[data-share]')
+      if (shareButton) {
+        const previous = shareButton.textContent
+        shareButton.textContent = t('shareWait')
+        try {
+          await shareCard(shareItems[Number(shareButton.dataset.share)])
+          shareButton.textContent = previous
+        } catch (err) {
+          if (err?.name === 'AbortError') {
+            shareButton.textContent = previous
+            return
+          }
+          shareButton.textContent = t('shareFail')
+          setTimeout(() => {
+            shareButton.textContent = previous
+          }, 1400)
+        }
+        return
+      }
       const verseButton = event.target.closest('.play-verse')
       if (verseButton) {
-        const status = verseButton.querySelector('.listen')
+        const status = verseButton.closest('.ayah')?.querySelector('.btn-listen.play-verse')
         if (status) status.textContent = t('playing')
         try {
           await playVerse(verseButton.dataset.sura, verseButton.dataset.ayah)

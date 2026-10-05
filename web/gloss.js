@@ -1,4 +1,4 @@
-import { lang } from './i18n.js?v=2'
+import { lang } from './i18n.js?v=5'
 
 let book = {}
 
