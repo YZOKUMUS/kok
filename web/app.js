@@ -1,7 +1,7 @@
 import { shortMeaning } from './gloss.js?v=6'
 import { applyLang, lang, locale, t } from './i18n.js?v=10'
 import { paintQuran, stopReading } from './read.js?v=4'
-import { wordHits } from './words.js?v=1'
+import { queryStem, wordHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'
@@ -82,15 +82,141 @@ const state = readState()
 const studied = state.studied
 const last = allRoots.find((root) => root.id === state.lastId) || null
 
-function rootCard(root) {
+function foldTr(value) {
+  return String(value || '')
+    .toLocaleLowerCase('tr-TR')
+    .replaceAll('â', 'a')
+    .replaceAll('î', 'i')
+    .replaceAll('û', 'u')
+}
+
+function trTokens(value) {
+  return foldTr(value)
+    .split(/[^a-zçğıöşü]+/)
+    .filter(Boolean)
+}
+
+function arKey(value) {
+  return String(value || '')
+    .replace(/[\u064B-\u0652\u0670\u0640]/g, '')
+    .replace(/[^\u0600-\u06FF]/g, '')
+}
+
+const WORD = /[A-Za-zÇĞİÖŞÜÂÎÛçğıöşüâîû]+/g
+const AUX = new Set(['etmek', 'olmak', 'kılmak', 'eylemek', 'vermek', 'yapmak', 'gelmek', 'kalmak', 'bulmak', 'demek', 'görmek', 'bulunmak'])
+const glossById = new Map()
+
+function indexWords(text, into) {
+  for (const match of String(text || '').matchAll(WORD)) {
+    const key = foldTr(match[0])
+    if (key && !into.has(key)) into.set(key, match[0])
+  }
+}
+
+function rememberGloss(id, meanings, derivatives) {
+  const tokens = new Map()
+  const heads = new Map()
+  indexWords(meanings, tokens)
+  indexWords(derivatives, heads)
+  for (const part of String(meanings || '').split(/[.,;:]+/)) {
+    const match = part.match(WORD)
+    if (!match) continue
+    const key = foldTr(match[0])
+    if (key && !heads.has(key)) heads.set(key, match[0])
+  }
+  const blob = trTokens(`${meanings || ''} ${derivatives || ''}`).join(' ')
+  glossById.set(id, { tokens, heads, blob })
+}
+
+for (const root of allRoots) rememberGloss(root.id, root.meaningsPreview, '')
+
+fetch(`${CONTENT}/dict.json?v=1`)
+  .then((res) => (res.ok ? res.json() : null))
+  .then((data) => {
+    if (!data) return
+    for (const [id, row] of Object.entries(data)) rememberGloss(id, row[0], row[1])
+    const input = document.getElementById('q')
+    if (tab === 'sozluk' && input && input.value.trim()) paint(input.value)
+  })
+  .catch(() => {})
+
+function rankDictionary(query) {
+  const needle = trTokens(query).join(' ')
+  const qTokens = needle ? needle.split(' ') : []
+  const qAr = arKey(query)
+  if (!needle && !qAr) return []
+  const hits = []
+  for (const root of allRoots) {
+    const entry = glossById.get(root.id) || { tokens: new Map(), heads: new Map(), blob: '' }
+    const name = trTokens(root.latinName)
+    const arabic = arKey(root.lettersArabic)
+    let score = 0
+    let key = name.join(' ')
+    let label = ''
+    const take = (next, sortKey, surface) => {
+      if (next <= score) return
+      score = next
+      key = sortKey
+      label = surface || ''
+    }
+    if (qTokens.length === 1 && qTokens[0].length >= 2) {
+      const q = qTokens[0]
+      if (entry.heads.has(q)) take(100, q, entry.heads.get(q))
+      else if (entry.tokens.has(q) && !AUX.has(q)) take(90, q, entry.tokens.get(q))
+      for (const [token, surface] of entry.heads) {
+        if (token === q || !token.startsWith(q) || score > 60) continue
+        if (score < 60 || token.length < key.length || (token.length === key.length && token.localeCompare(key, 'tr') < 0)) {
+          score = 60
+          key = token
+          label = surface
+        }
+      }
+      if (name.length === 1 && name[0] === q) take(100, name.join(' '), '')
+      else if (name.length > 1 && name[0] === q) take(58, name.join(' '), '')
+    } else if (needle.length >= 2) {
+      if (` ${entry.blob} `.includes(` ${needle} `)) take(entry.blob.startsWith(needle) ? 100 : 96, needle, '')
+      const same = name.length === qTokens.length && qTokens.every((part, index) => name[index] === part)
+      const prefix =
+        qTokens.length >= 2 &&
+        qTokens.length <= name.length &&
+        qTokens.every((part, index) => (index < qTokens.length - 1 ? name[index] === part : name[index].startsWith(part)))
+      if (same) take(100, name.join(' '), '')
+      else if (prefix) take(72, name.join(' '), '')
+    }
+    if (qAr && arabic) {
+      if (arabic === qAr) take(100, arabic, '')
+      else if (arabic.startsWith(qAr)) take(74, arabic, '')
+    }
+    if (score) hits.push({ root, score, key, label })
+  }
+  hits.sort(
+    (a, b) => b.score - a.score || a.key.localeCompare(b.key, 'tr') || a.root.latinName.localeCompare(b.root.latinName, 'tr'),
+  )
+  const head = hits.filter((hit) => hit.score >= 72)
+  const tail = hits.filter((hit) => hit.score < 72).slice(0, 40)
+  return head.concat(tail)
+}
+
+function searchDictionary(query) {
+  const hits = rankDictionary(query)
+  if (hits.length) return hits
+  const stem = queryStem(query)
+  if (!stem) return hits
+  return rankDictionary(stem)
+}
+
+function rootCard(root, found) {
   const done = studied[root.id] ? ' done' : ''
+  const preview = root.meaningsPreview || ''
+  const visible = found && trTokens(preview).includes(foldTr(found))
+  const sub = found && !visible ? `<b class="found">${escapeHtml(found)}</b> — ${escapeHtml(preview)}` : escapeHtml(preview)
   return `
     <li>
       <a class="root-link${done}" href="./root.html?id=${encodeURIComponent(root.id)}">
         <div class="badge" lang="ar" dir="rtl">${escapeHtml(root.lettersArabic || '—')}</div>
         <div>
           <strong>${escapeHtml(root.latinName || root.id)}</strong>
-          <p class="sub">${escapeHtml(root.meaningsPreview || '')}</p>
+          <p class="sub">${sub}</p>
         </div>
         <div class="count">${root.totalOccurrencesInQuran.toLocaleString(locale())}${studied[root.id] ? `<span class="done-mark">${t('ok')}</span>` : ''}</div>
       </a>
@@ -199,16 +325,9 @@ function paint(query) {
 
   empty.textContent = t('emptyRoots')
   if (q) {
-    const raw = query.trim()
-    const filtered = allRoots.filter(
-      (root) =>
-        wordHits(root.latinName, q) ||
-        wordHits(root.meaningsPreview, q) ||
-        (root.lettersArabic || '').includes(raw) ||
-        (root.id || '').toLowerCase().includes(q),
-    )
-    empty.classList.toggle('hidden', filtered.length > 0)
-    panel.innerHTML = `<ul class="list">${filtered.map(rootCard).join('')}</ul>`
+    const found = searchDictionary(query)
+    empty.classList.toggle('hidden', found.length > 0)
+    panel.innerHTML = `<ul class="list">${found.map((hit) => rootCard(hit.root, hit.label)).join('')}</ul>`
     return
   }
 

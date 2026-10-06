@@ -13,6 +13,38 @@ export function tokenHits(token, query) {
   return true
 }
 
+const SUFFIXES = SUFFIX.source.replace(/^\^\(/, '').replace(/\)$/, '').split('|')
+
+function peelEnding(word, minLength) {
+  for (const suffix of SUFFIXES) {
+    if (suffix.length < minLength) continue
+    if (word.endsWith(suffix) && word.length - suffix.length >= 2) return word.slice(0, -suffix.length)
+  }
+  return ''
+}
+
+export function queryStem(word) {
+  let cur = String(word || '')
+    .trim()
+    .toLocaleLowerCase('tr-TR')
+    .replaceAll('â', 'a')
+    .replaceAll('î', 'i')
+    .replaceAll('û', 'u')
+  const original = cur
+  for (let step = 0; step < 5 && cur.length >= 4; step++) {
+    const next = peelEnding(cur, 1)
+    if (!next) break
+    if (cur.length - next.length === 1) {
+      const follow = peelEnding(next, 2)
+      if (!follow) break
+      cur = follow
+      continue
+    }
+    cur = next
+  }
+  return cur !== original ? cur : ''
+}
+
 export function wordHits(text, query) {
   const needle = String(query || '').trim().toLocaleLowerCase('tr-TR')
   if (!needle) return false
