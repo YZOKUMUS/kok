@@ -10,13 +10,16 @@
   <title>Kök çalış</title>
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" href="./icon.svg?v=3" />
-  <link rel="stylesheet" href="./styles.css?v=14" />
+  <link rel="stylesheet" href="./styles.css?v=16" />
 </head>
 <body>
   <div class="sticky-head">
     <header class="topbar">
-      <p class="mark" id="brand">Kök</p>
-      <p id="count" class="meta">Yükleniyor…</p>
+      <div class="brand-block">
+        <p class="mark" id="brand">Kök</p>
+        <p id="count" class="meta">Yükleniyor…</p>
+      </div>
+      <button type="button" class="share-app" id="share-app">Paylaş</button>
     </header>
     <label class="search">
       <span class="sr-only">Kök ara</span>
@@ -32,6 +35,6 @@
   <main id="panel"></main>
   <p id="empty" class="empty hidden">Bu aramada kök yok.</p>
   <p id="error" class="error hidden"></p>
-  <script type="module" src="./app.js?v=16"></script>
+  <script type="module" src="./app.js?v=18"></script>
 </body>
 </html>

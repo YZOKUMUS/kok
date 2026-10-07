@@ -1,10 +1,11 @@
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t } from './i18n.js?v=10'
+import { applyLang, lang, locale, t } from './i18n.js?v=11'
 import { paintQuran, stopReading } from './read.js?v=4'
 import { queryStem, wordHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 
 const CONTENT = '../content'
+const APP_URL = 'https://yzokumus.github.io/kok/'
 const LETTER_ORDER = 'ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي'.split(' ')
 
 function escapeHtml(value) {
@@ -403,6 +404,8 @@ function applyChrome() {
   if (label) label.textContent = t('searchLabel')
   const input = document.getElementById('q')
   if (input) input.placeholder = t('searchPlaceholder')
+  const shareAppButton = document.getElementById('share-app')
+  if (shareAppButton && shareAppButton.dataset.busy !== '1') shareAppButton.textContent = t('share')
   const names = { sozluk: 'dict', fiiller: 'verbs', isimler: 'nouns', kuran: 'quran' }
   for (const [id, key] of Object.entries(names)) {
     const button = document.getElementById(`tab-${id}`)
@@ -412,6 +415,70 @@ function applyChrome() {
 
 applyChrome()
 paint('')
+
+function copyAppLink() {
+  const area = document.createElement('textarea')
+  area.value = APP_URL
+  area.setAttribute('readonly', '')
+  area.style.position = 'fixed'
+  area.style.opacity = '0'
+  document.body.appendChild(area)
+  area.focus()
+  area.select()
+  let copied = false
+  try {
+    copied = document.execCommand('copy')
+  } catch {
+    copied = false
+  }
+  area.remove()
+  return copied
+}
+
+function showAppLink() {
+  document.getElementById('share-preview')?.remove()
+  const wrap = document.createElement('div')
+  wrap.id = 'share-preview'
+  wrap.innerHTML = `<div class="share-sheet"><p class="app-link">${APP_URL}</p><button type="button" class="share-close">${t('close')}</button></div>`
+  wrap.addEventListener('click', (event) => {
+    if (event.target === wrap || event.target.closest('.share-close')) wrap.remove()
+  })
+  document.body.appendChild(wrap)
+}
+
+function flashShare(button, label) {
+  button.dataset.busy = '1'
+  button.textContent = label
+  setTimeout(() => {
+    button.dataset.busy = ''
+    button.textContent = t('share')
+  }, 1600)
+}
+
+document.getElementById('share-app').addEventListener('click', async () => {
+  const button = document.getElementById('share-app')
+  const payload = { title: t('homeTitle'), text: t('shareAppText'), url: APP_URL }
+  if (navigator.share) {
+    try {
+      await navigator.share(payload)
+      return
+    } catch (err) {
+      if (err?.name === 'AbortError') return
+    }
+  }
+  try {
+    await navigator.clipboard.writeText(APP_URL)
+    flashShare(button, t('shareCopied'))
+    return
+  } catch {
+    /* Bilgisayar panosu kapalıysa adres kartı açılır. */
+  }
+  if (copyAppLink()) {
+    flashShare(button, t('shareCopied'))
+    return
+  }
+  showAppLink()
+})
 
 document.getElementById('q').addEventListener('input', (event) => {
   letter = ''
