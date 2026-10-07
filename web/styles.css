@@ -216,12 +216,19 @@ main { padding: 4px 16px 12px; }
 .hero-card:active, .quiet-card:active { transform: scale(0.98); }
 .hero-card:active { filter: brightness(0.94); }
 .quiet-card:active { background: var(--soft); }
+.quiet-card > div:first-child { flex: 1; min-width: 0; }
+.quiet-card strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 .hero-ar, .quiet-card .ar {
   font-family: var(--ar);
   font-size: 1.35rem;
   line-height: 1;
   direction: rtl;
 }
+.quiet-card .ar { flex: none; white-space: nowrap; }
 
 .sub {
   margin: 2px 0 0;
