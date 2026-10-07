@@ -1,5 +1,5 @@
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t } from './i18n.js?v=11'
+import { applyLang, lang, locale, t } from './i18n.js?v=12'
 import { paintQuran, stopReading } from './read.js?v=4'
 import { queryStem, wordHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
