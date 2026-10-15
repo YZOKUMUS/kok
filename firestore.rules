@@ -1,0 +1,20 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /visits/{id} {
+      allow create: if request.resource.data.keys().hasOnly(['at', 'kind', 'device', 'tag'])
+        && request.resource.data.at == request.time
+        && request.resource.data.kind in ['new', 'back']
+        && request.resource.data.device in ['phone', 'computer']
+        && request.resource.data.tag is string
+        && request.resource.data.tag.size() == 4
+        && request.resource.data.tag.matches('^[A-HJ-NP-Z2-9]+$');
+      allow read: if request.auth != null
+        && request.auth.token.email == 'ziya.okumus@gmail.com';
+      allow update, delete: if false;
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

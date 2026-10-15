@@ -1,6 +1,6 @@
 import { playVerse, playWord } from './audio.js?v=7'
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, t, tagLabel } from './i18n.js?v=10'
+import { applyLang, lang, t, tagLabel } from './i18n.js?v=13'
 import { highlightVerse } from './mark.js?v=5'
 import { shareCard } from './share.js?v=6'
 import { loadUthmani, verseText } from './verses.js'
@@ -61,28 +61,26 @@ function exampleFor(root, lemma) {
 }
 
 function cardsFromRoot(root, mode) {
-  const lemmas = [...(root.lemmas || [])].sort((a, b) => b.count - a.count)
+  const lemmas = (root.lemmas || [])
+    .map((item) => ({ form: plain(item.formArabic), count: item.count }))
+    .filter((item) => item.form)
+    .sort((a, b) => b.count - a.count)
   const meaning = (root.meanings || [])[0] || ''
-  const due = []
-  const fresh = []
-  const now = Date.now()
-  const dueSet = new Set(dueWordList().filter((word) => word.rootId === root.id).map((word) => word.lemma))
-  for (const lemma of lemmas) {
-    const form = plain(lemma.formArabic)
-    if (!form) continue
-    const card = {
-      rootId: root.id,
-      latin: root.latinName,
-      letters: root.lettersArabic,
-      meaning,
-      lemma: form,
-      count: lemma.count,
-      example: exampleFor(root, form),
-    }
-    if (dueSet.has(form)) due.push(card)
-    else if (!hasWord(root.id, form)) fresh.push(card)
-  }
+  const card = (form, count) => ({
+    rootId: root.id,
+    latin: root.latinName,
+    letters: root.lettersArabic,
+    meaning,
+    lemma: form,
+    count,
+    example: exampleFor(root, form),
+  })
+  const due = dueWordList()
+    .filter((word) => word.rootId === root.id)
+    .map((word) => card(word.lemma, lemmas.find((item) => item.form === word.lemma)?.count || 0))
+    .sort((a, b) => b.count - a.count)
   if (mode === 'review') return due.slice(0, REVIEW_LIMIT)
+  const fresh = lemmas.filter((item) => !hasWord(root.id, item.form)).map((item) => card(item.form, item.count))
   return [...due, ...fresh.slice(0, NEW_LIMIT)]
 }
 
@@ -177,7 +175,7 @@ try {
   let queue = session.cards
   let cursor = 0
   let known = 0
-  let again = 0
+  const retried = new Set()
 
   function current() {
     return queue[cursor]
@@ -192,7 +190,7 @@ try {
         <div class="lesson">
           <p class="eyebrow">${t('done')}</p>
           <h1>${t('knownCount', { n: known })}</h1>
-          <p class="sub">${again ? t('againLeft', { n: again }) : t('allKnown')}</p>
+          <p class="sub">${retried.size ? t('retried', { n: retried.size }) : t('allKnown')}</p>
           <div class="actions">
             <a class="btn btn-main wide" href="${againHref()}">${t('nextLesson')}</a>
             <a class="btn wide" href="./index.html">${t('backHome')}</a>
@@ -299,7 +297,7 @@ try {
     document.getElementById('listen')?.addEventListener('click', () => hear(document.getElementById('listen')))
     document.getElementById('again')?.addEventListener('click', () => {
       gradeWord(card.rootId, card.lemma, false)
-      again += 1
+      retried.add(`${card.rootId}\t${card.lemma}`)
       queue.push(card)
       cursor += 1
       paint()

@@ -1,11 +1,12 @@
 import { shortMeaning } from './gloss.js?v=6'
 import { applyLang, lang, locale, t } from './i18n.js?v=12'
-import { paintQuran, stopReading } from './read.js?v=4'
+import { paintQuran, stopReading } from './read.js?v=5'
 import { queryStem, wordHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
+import { watchVisits } from './visits.js?v=4'
 
 const CONTENT = '../content'
-const APP_URL = 'https://yzokumus.github.io/kok/'
+const APP_URL = 'https://kok-calis.web.app/'
 const LETTER_ORDER = 'ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي'.split(' ')
 
 function escapeHtml(value) {
@@ -506,6 +507,8 @@ document.getElementById('tabs').addEventListener('click', async (event) => {
   }
   paint(document.getElementById('q').value)
 })
+
+watchVisits()
 
 window.addEventListener('pageshow', () => {
   const fresh = readState().studied

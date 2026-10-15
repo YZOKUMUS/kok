@@ -60,7 +60,7 @@ function textAt(s, a) {
 
 function loadMeals() {
   if (!mealPromise) {
-    mealPromise = fetch('../content/meals.json')
+    mealPromise = fetch('../content/meals.json?v=2')
       .then((res) => (res.ok ? res.json() : {}))
       .then((data) => {
         meals = data
@@ -80,6 +80,8 @@ function verseHits(book, query) {
     const meal = book[key]
     if (!wordHits(meal, query)) continue
     const [suraNo, ayahNo] = key.split(':').map(Number)
+    const prev = hits.at(-1)
+    if (prev && prev.sura === suraNo && prev.meal === meal) continue
     hits.push({ sura: suraNo, ayah: ayahNo, meal })
   }
   return hits
