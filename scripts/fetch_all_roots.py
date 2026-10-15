@@ -14,6 +14,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from functools import lru_cache
 from html import unescape
 import sys
 from pathlib import Path
@@ -265,6 +266,14 @@ def field(chunk: str, name: str) -> str:
     return clean(match.group(1)) if match else ""
 
 
+@lru_cache(maxsize=1)
+def diyanet_meals() -> dict[str, str]:
+    path = ROOT / "content" / "meals.json"
+    if not path.exists():
+        raise RuntimeError("content/meals.json missing; run scripts/build_meals.py first")
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def parse_occurrences(html: str) -> list[dict]:
     parts = re.split(r'id="ContentPlaceHolder1_kurandakiyerdata_Label1_\d+"', html)
     occurrences: list[dict] = []
@@ -289,7 +298,7 @@ def parse_occurrences(html: str) -> list[dict]:
             occ["grammar"] = grammar
         verse_ar = field(chunk, "tekstLabel")
         verse_tr = field(chunk, "latinLabel")
-        verse_mean = field(chunk, "yasar_nuri_ozturkLabel")
+        verse_mean = diyanet_meals().get(f"{occ['sura']}:{occ['ayah']}", "")
         if verse_ar:
             occ["verseArabic"] = verse_ar
         if verse_tr:

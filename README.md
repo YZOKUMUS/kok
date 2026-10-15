@@ -46,6 +46,17 @@ python scripts\import_root_dump.py smw dumps\smw.txt
 
 Dosya adı, Windows’ta büyük/küçük harf çakışmasın diye kodlanır: büyük harf `_` + küçük harf olur (`Hkm` → `_hkm.json`, `rHm` → `r_hm.json`). Görüntüleyici aynı kuralı kullanır.
 
+## Meal
+
+Meal, Diyanet İşleri Başkanlığı mealidir ([kuran.diyanet.gov.tr](https://kuran.diyanet.gov.tr)). `content/meals.json` dosyasını yazar ve her kökteki ayetlerin mealini bununla değiştirir:
+
+```powershell
+python scripts\build_meals.py
+python scripts\build_verbs.py
+```
+
+Diyanet’in birlikte çevirdiği ayetlerde (ör. 70:15-16) aynı meal her ayete, başında aralıkla yazılır. Sayfalar `scripts/_diyanet_cache/` altında saklanır.
+
 ## Durum
 
 1818 kökün tamamı yüklü (`content/root-ids.json` ile `content/index.json` birebir). Her kökte sitedeki geçiş sayısı ile ayet listesi aynı uzunlukta.

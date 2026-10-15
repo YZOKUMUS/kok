@@ -22,8 +22,16 @@ def root_filename(root_id: str) -> str:
     return "".join(f"_{ch.lower()}" if ch.isupper() else ch for ch in root_id)
 
 
+def dictionary_form(lemma: str, known: set[str]) -> str:
+    """The source sometimes writes a lemma with open tā (فِئَت) when the ayah adds a suffix."""
+    if lemma in known or not lemma.endswith("ت"):
+        return lemma
+    closed = lemma[:-1] + "ة"
+    return closed if closed in known else lemma
+
+
 def record(entry: dict, data: dict, lemma: str, rows: list[dict]) -> dict:
-    sample = rows[0]
+    sample = next((row for row in rows if (row.get("gloss") or "").strip()), rows[0])
     meaning = (data.get("meanings") or [""])[0]
     return {
         "rootId": entry["id"],
@@ -49,9 +57,10 @@ def main() -> None:
     for entry in index["roots"]:
         path = ROOT / "content" / "roots" / f"{root_filename(entry['id'])}.json"
         data = json.loads(path.read_text(encoding="utf-8"))
+        known = {plain(item.get("formArabic") or "") for item in data.get("lemmas") or []}
         grouped: dict[str, list[dict]] = {}
         for occ in data.get("occurrences") or []:
-            lemma = plain(occ.get("lemmaFormArabic") or "")
+            lemma = dictionary_form(plain(occ.get("lemmaFormArabic") or ""), known)
             if not lemma:
                 continue
             grouped.setdefault(lemma, []).append(occ)
