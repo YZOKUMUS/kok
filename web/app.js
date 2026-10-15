@@ -1,5 +1,5 @@
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t } from './i18n.js?v=12'
+import { applyLang, lang, locale, t } from './i18n.js?v=14'
 import { paintQuran, stopReading } from './read.js?v=5'
 import { queryStem, wordHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
@@ -468,7 +468,7 @@ document.getElementById('share-app').addEventListener('click', async () => {
     }
   }
   try {
-    await navigator.clipboard.writeText(APP_URL)
+    await navigator.clipboard.writeText(`${payload.text}\n${APP_URL}`)
     flashShare(button, t('shareCopied'))
     return
   } catch {
