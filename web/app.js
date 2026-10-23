@@ -1,6 +1,6 @@
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t } from './i18n.js?v=16'
-import { loadMeals, paintQuran, parkReader, quranSearchBlock, startAt, stopReading } from './read.js?v=8'
+import { applyLang, lang, locale, t } from './i18n.js?v=17'
+import { loadMeals, paintQuran, parkReader, quranSearchBlock, startAt, stopReading } from './read.js?v=9'
 import { queryStem, tokenHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 import { watchVisits } from './visits.js?v=4'
@@ -15,6 +15,73 @@ function escapeHtml(value) {
     .replaceAll('<', '&lt;')
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
+}
+
+const THEME_KEY = 'kh-theme'
+const darkQuery = window.matchMedia('(prefers-color-scheme: dark)')
+
+function savedTheme() {
+  try {
+    const value = localStorage.getItem(THEME_KEY)
+    return value === 'dark' || value === 'light' ? value : ''
+  } catch {
+    return ''
+  }
+}
+
+function activeTheme() {
+  return document.documentElement.dataset.theme || (darkQuery.matches ? 'dark' : 'light')
+}
+
+function paintThemeButton() {
+  const button = document.getElementById('theme')
+  if (!button) return
+  const dark = activeTheme() === 'dark'
+  const label = t(dark ? 'themeLight' : 'themeDark')
+  button.setAttribute('aria-label', label)
+  button.setAttribute('title', label)
+  button.dataset.dark = dark ? '1' : ''
+}
+
+function applyTheme(mode, remember = true) {
+  document.documentElement.dataset.theme = mode
+  if (remember) {
+    try {
+      localStorage.setItem(THEME_KEY, mode)
+    } catch {
+      /* storage can be blocked */
+    }
+  }
+  const meta = document.querySelector('meta[name="theme-color"]')
+  if (meta) meta.setAttribute('content', mode === 'dark' ? '#0b120f' : '#0f4c38')
+  paintThemeButton()
+}
+
+function number(value) {
+  return Number(value || 0).toLocaleString(locale())
+}
+
+function progressRing(ratio) {
+  const radius = 34
+  const circumference = 2 * Math.PI * radius
+  const filled = (Math.max(0, Math.min(100, ratio)) / 100) * circumference
+  return `<div class="ring" aria-hidden="true">
+    <svg viewBox="0 0 80 80">
+      <circle class="ring-track" cx="40" cy="40" r="${radius}" />
+      <circle class="ring-fill" cx="40" cy="40" r="${radius}" style="stroke-dasharray:${filled.toFixed(1)} ${circumference.toFixed(1)};opacity:${ratio ? 1 : 0}" />
+    </svg>
+    <span class="ring-label">${ratio}%</span>
+  </div>`
+}
+
+function emptyState() {
+  const suggestions = ['rahman', 'ilim', 'kalp', 'sabır']
+  return `<span class="empty-ico" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="1.6" /><path d="m20 20-3.6-3.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" /></svg>
+    </span>
+    <p class="empty-title">${escapeHtml(t('findEmpty'))}</p>
+    <p class="sub">${escapeHtml(t('trySearch'))}</p>
+    <div class="chips">${suggestions.map((word) => `<button type="button" class="chip" data-suggest="${word}">${word}</button>`).join('')}</div>`
 }
 
 function firstLetter(root) {
@@ -51,6 +118,10 @@ const letters = [...byLetter.keys()].sort((a, b) => {
 
 let letter = ''
 let tab = 'sozluk'
+const startParams = new URLSearchParams(window.location.search)
+const startTab = startParams.get('tab') || ''
+if (['sozluk', 'fiiller', 'isimler', 'kuran'].includes(startTab)) tab = startTab
+const startQuery = startParams.get('q') || ''
 const lists = {
   fiiller: null,
   isimler: null,
@@ -428,8 +499,8 @@ function renderCombined(query, quran) {
   ].join('')
   const pending = (!verbs && !listErrors.fiiller) || (!nouns && !listErrors.isimler) || search.waiting
   const any = roots.length || (verbs && verbs.length) || (nouns && nouns.length) || search.count
-  empty.textContent = t('findEmpty')
   empty.classList.toggle('hidden', pending || Boolean(any))
+  if (!pending && !any) empty.innerHTML = emptyState()
   panel.innerHTML = html
   panel.querySelectorAll('.find-quran [data-sura]').forEach((button) => {
     button.addEventListener('click', () => openReading(Number(button.dataset.sura), Number(button.dataset.ayah || 1)))
@@ -493,17 +564,8 @@ function paint(query) {
 
   empty.classList.add('hidden')
   const due = dueWordCount()
-  const lessonCard = `
-    <a class="hero-card" href="./lesson.html">
-      <div>
-        <p class="eyebrow">${t('lessonEyebrow')}</p>
-        <strong>${due ? t('lessonDue') : t('lessonStudy')}</strong>
-        <p class="sub">${due ? t('lessonDueBlurb', { n: due.toLocaleString(locale()) }) : t('lessonStudyBlurb')}</p>
-      </div>
-      <span class="go" aria-hidden="true"></span>
-    </a>`
   const continueCard = last
-    ? `<a class="quiet-card" href="./root.html?id=${encodeURIComponent(last.id)}">
+    ? `<a class="quiet-card continue-card" href="./root.html?id=${encodeURIComponent(last.id)}">
          <div>
            <p class="eyebrow">${t('continueEyebrow')}</p>
            <strong>${escapeHtml(last.latinName)}</strong>
@@ -516,26 +578,45 @@ function paint(query) {
 
   if (!letter) {
     panel.innerHTML = `
-      ${lessonCard}
-      ${continueCard}
-      <div class="progress">
-        <span>${t('progress')}</span>
-        <span>${ratio}%</span>
-      </div>
-      <div class="bar" aria-hidden="true"><span style="width:${ratio}%"></span></div>
-      <div class="section-head"><h2>${t('letters')}</h2></div>
-      <div class="letters">
-        ${letters
-          .map(
-            (item) =>
-              `<button type="button" data-letter="${escapeHtml(item)}">${escapeHtml(item)}<small>${byLetter.get(item).length}</small></button>`,
-          )
-          .join('')}
+      <div class="home">
+        <section class="daily-card">
+          <div class="daily-copy">
+            <p class="eyebrow">${escapeHtml(t('lessonEyebrow'))}</p>
+            <h1>${escapeHtml(t('homeHeroTitle'))}</h1>
+            <p class="sub">${escapeHtml(due ? t('lessonDueBlurb', { n: number(due) }) : t('homeHeroSub'))}</p>
+            <a class="daily-cta" href="./lesson.html">
+              <span>${escapeHtml(due ? t('reviewNow') : t('startLesson'))}</span>
+              <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h13M13 7l5 5-5 5" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" /></svg>
+            </a>
+          </div>
+          ${progressRing(ratio)}
+        </section>
+        <section class="stats" aria-label="${escapeHtml(t('progress'))}">
+          <div class="stat"><strong>${number(words)}</strong><span>${escapeHtml(t('statWords'))}</span></div>
+          <div class="stat"><strong>${number(done)}</strong><span>${escapeHtml(t('statRoots'))}</span></div>
+          <div class="stat"><strong>${ratio}%</strong><span>${escapeHtml(t('statProgress'))}</span></div>
+        </section>
+        ${continueCard}
+        <section class="letters-block">
+          <div class="section-head">
+            <h2>${escapeHtml(t('letters'))}</h2>
+            <span class="hint">${escapeHtml(t('letterHint', { n: number(allRoots.length) }))}</span>
+          </div>
+          <div class="letters">
+            ${letters
+              .map(
+                (item) =>
+                  `<button type="button" data-letter="${escapeHtml(item)}">${escapeHtml(item)}<small>${byLetter.get(item).length}</small></button>`,
+              )
+              .join('')}
+          </div>
+        </section>
       </div>`
     panel.querySelectorAll('[data-letter]').forEach((button) => {
       button.addEventListener('click', () => {
         letter = button.getAttribute('data-letter') || ''
         paint('')
+        window.scrollTo({ top: 0, behavior: 'smooth' })
       })
     })
     return
@@ -554,26 +635,81 @@ function paint(query) {
   })
 }
 
+function setShareLabel(text) {
+  const button = document.getElementById('share-app')
+  if (!button) return
+  const label = button.querySelector('.share-lbl')
+  if (label) label.textContent = text
+  button.setAttribute('aria-label', text)
+  button.setAttribute('title', text)
+}
+
 function applyChrome() {
   applyLang()
   document.title = t('homeTitle')
-  const brand = document.getElementById('brand')
+  const brand = document.querySelector('#brand .brand-name')
   if (brand) brand.textContent = t('brand')
   const label = document.querySelector('.search .sr-only')
   if (label) label.textContent = t('searchLabel')
   const input = document.getElementById('q')
   if (input) input.placeholder = t('searchPlaceholder')
   const shareAppButton = document.getElementById('share-app')
-  if (shareAppButton && shareAppButton.dataset.busy !== '1') shareAppButton.textContent = t('share')
+  if (shareAppButton && shareAppButton.dataset.busy !== '1') setShareLabel(t('share'))
   const names = { sozluk: 'dict', fiiller: 'verbs', isimler: 'nouns', kuran: 'quran' }
   for (const [id, key] of Object.entries(names)) {
-    const button = document.getElementById(`tab-${id}`)
+    const button = document.querySelector(`#tab-${id} .lbl`)
     if (button) button.textContent = t(key)
   }
+  paintThemeButton()
 }
 
 applyChrome()
-paint('')
+if (startQuery) document.getElementById('q').value = startQuery
+if (tab !== 'sozluk') {
+  document.querySelectorAll('#tabs button').forEach((item) => {
+    item.classList.toggle('on', item.getAttribute('data-tab') === tab)
+  })
+}
+paint(startQuery)
+if (listTabs[tab]) {
+  ensureList(tab)
+    .then(() => paint(document.getElementById('q').value))
+    .catch(() => {})
+}
+document.getElementById('clear-q')?.classList.toggle('hidden', !startQuery)
+
+paintThemeButton()
+document.getElementById('theme')?.addEventListener('click', () => {
+  applyTheme(activeTheme() === 'dark' ? 'light' : 'dark')
+})
+darkQuery.addEventListener?.('change', () => {
+  if (!savedTheme()) applyTheme(darkQuery.matches ? 'dark' : 'light', false)
+})
+
+const clearButton = document.getElementById('clear-q')
+const searchInput = document.getElementById('q')
+
+function syncClear() {
+  if (clearButton) clearButton.classList.toggle('hidden', !searchInput.value)
+}
+
+function clearSearch(focus = true) {
+  searchInput.value = ''
+  syncClear()
+  paint('')
+  if (focus) searchInput.focus()
+}
+
+clearButton?.addEventListener('click', () => clearSearch())
+
+document.getElementById('empty').addEventListener('click', (event) => {
+  const chip = event.target.closest('[data-suggest]')
+  if (!chip) return
+  searchInput.value = chip.getAttribute('data-suggest') || ''
+  syncClear()
+  paint(searchInput.value)
+  searchInput.focus()
+})
 
 function copyAppLink() {
   const area = document.createElement('textarea')
@@ -607,10 +743,10 @@ function showAppLink() {
 
 function flashShare(button, label) {
   button.dataset.busy = '1'
-  button.textContent = label
+  setShareLabel(label)
   setTimeout(() => {
     button.dataset.busy = ''
-    button.textContent = t('share')
+    setShareLabel(t('share'))
   }, 1600)
 }
 
@@ -641,7 +777,20 @@ document.getElementById('share-app').addEventListener('click', async () => {
 
 document.getElementById('q').addEventListener('input', (event) => {
   letter = ''
+  syncClear()
   paint(event.target.value)
+})
+
+window.addEventListener('keydown', (event) => {
+  const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName || '')
+  if (event.key === '/' && !typing) {
+    event.preventDefault()
+    searchInput.focus()
+    return
+  }
+  if (event.key === 'Escape' && document.activeElement === searchInput) {
+    clearSearch()
+  }
 })
 
 function scrollToFind(name) {

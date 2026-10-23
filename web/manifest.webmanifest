@@ -2,19 +2,29 @@
   "name": "Kök çalış",
   "short_name": "Kök çalış",
   "description": "Kur’an köklerini telefonda çalışma defteri",
+  "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
   "orientation": "portrait",
-  "background_color": "#f3eee4",
-  "theme_color": "#1b4336",
+  "background_color": "#f4f1e9",
+  "theme_color": "#0f4c38",
   "lang": "tr",
+  "dir": "ltr",
+  "categories": ["education", "books", "reference"],
   "icons": [
     {
-      "src": "./icon.svg?v=4",
+      "src": "./icon.svg?v=5",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
+    },
+    {
+      "src": "./icon.svg?v=5",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
     }
   ]
 }

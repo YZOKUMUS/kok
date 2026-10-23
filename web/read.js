@@ -1,8 +1,8 @@
 import { playVerse, stopPlayback, whenEnded } from './audio.js?v=8'
-import { lang, t } from './i18n.js?v=16'
+import { lang, locale, t } from './i18n.js?v=17'
 import { SURAHS } from './surahs.js?v=1'
 import { loadUthmani } from './verses.js'
-import { tokenHits } from './words.js?v=1'
+import { tokenHits } from './words.js?v=2'
 
 const PLACE = 'kh-read'
 const VERSE_CAP = 40
@@ -273,15 +273,27 @@ function renderList(panel, query) {
   const saved = savedPlace()
   const resume =
     saved && !(saved.sura === 1 && saved.ayah === 1)
-      ? `<button type="button" class="btn read-start" id="read-resume">${t('quranResume')} · ${escapeHtml(surahLabel(saved.sura))} ${saved.ayah}</button>`
+      ? `<button type="button" class="btn" id="read-resume">${t('quranResume')} · ${escapeHtml(surahLabel(saved.sura))} ${saved.ayah}</button>`
       : ''
   const empty = document.getElementById('empty')
   empty.textContent = t('quranEmpty')
   empty.classList.toggle('hidden', rows.length > 0)
   panel.innerHTML = `
-    <button type="button" class="btn-listen read-start" id="read-start">${t('quranStart')}</button>
-    <p class="sub read-blurb">${t('quranBlurb')}</p>
-    ${resume}
+    <section class="quran-hero">
+      <div>
+        <p class="eyebrow">${escapeHtml(t('quran'))}</p>
+        <h1>${escapeHtml(t('quranRead'))}</h1>
+        <p class="sub">${escapeHtml(t('quranBlurb'))}</p>
+      </div>
+      <div class="quran-actions">
+        <button type="button" class="btn btn-main" id="read-start">${escapeHtml(t('quranStart'))}</button>
+        ${resume}
+      </div>
+    </section>
+    <div class="section-head">
+      <h2>${escapeHtml(t('quranSurahs'))}</h2>
+      <span class="hint">${rows.length.toLocaleString(locale())}</span>
+    </div>
     <ul class="list surah-list">
       ${rows
         .map((row) => {
@@ -303,24 +315,42 @@ function renderList(panel, query) {
 }
 
 function renderReader(panel) {
+  if (!meals) {
+    loadMeals().then(() => {
+      const stillReading =
+        document.body.dataset.tab === 'kuran' && view === 'read' && panel.querySelector('.reader-page')
+      if (!stillReading) return
+      panel.dataset.read = ''
+      renderReader(panel)
+    })
+  }
   const same = panel.dataset.read === String(sura) && panel.querySelector('.read-list')
   if (!same) {
     const row = surahAt(sura)
     const items = []
+    let lastMeal = ''
     for (let n = 1; n <= row.ayahs; n += 1) {
+      const meal = meals?.[`${sura}:${n}`] || ''
+      const showsMeal = meal && meal !== lastMeal
+      if (meal) lastMeal = meal
       items.push(
-        `<li><button type="button" class="read-verse" data-ayah="${n}" id="read-${sura}-${n}"><span class="n">${n}</span><span class="tx" lang="ar">${escapeHtml(textAt(sura, n))}</span></button></li>`,
+        `<li><button type="button" class="read-verse" data-ayah="${n}" id="read-${sura}-${n}"><span class="n">${n}</span><span class="verse-body"><span class="tx" lang="ar">${escapeHtml(textAt(sura, n))}</span>${showsMeal ? `<span class="tr">${escapeHtml(meal)}</span>` : ''}</span></button></li>`,
       )
     }
     panel.dataset.read = String(sura)
     panel.innerHTML = `
-      <div class="read-bar">
+      <div class="reader-head">
         <button type="button" class="text-btn" id="read-back">${t('quranSurahs')}</button>
-        <strong>${escapeHtml(surahLabel(sura))}</strong>
-        <button type="button" class="text-btn" id="read-toggle">${playing ? t('quranPause') : t('quranPlay')}</button>
+        <div class="reader-title">
+          <strong lang="ar" dir="rtl">${row.ar}</strong>
+          <span>${escapeHtml(surahLabel(sura))} · ${t('quranAyahs', { n: row.ayahs })}</span>
+        </div>
+        <button type="button" class="play-pill" id="read-toggle">${playing ? t('quranPause') : t('quranPlay')}</button>
       </div>
-      <p class="sub read-blurb" id="read-note">${done ? t('quranDone') : ''}</p>
-      <ol class="read-list">${items.join('')}</ol>`
+      <p class="sub read-note" id="read-note">${done ? t('quranDone') : ''}</p>
+      <div class="reader-page">
+        <ol class="read-list">${items.join('')}</ol>
+      </div>`
     document.getElementById('empty')?.classList.add('hidden')
     document.getElementById('read-back')?.addEventListener('click', () => {
       view = 'list'
@@ -340,6 +370,7 @@ function renderReader(panel) {
   if (toggle) toggle.textContent = playing ? t('quranPause') : t('quranPlay')
   const note = document.getElementById('read-note')
   if (note) note.textContent = done ? t('quranDone') : `${sura}:${ayah}`
+  panel.dataset.playing = playing ? '1' : ''
   panel.querySelectorAll('.read-verse.on').forEach((item) => item.classList.remove('on'))
   const current = document.getElementById(`read-${sura}-${ayah}`)
   if (current) {
