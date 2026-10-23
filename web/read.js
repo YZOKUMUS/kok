@@ -1,14 +1,16 @@
 import { playVerse, stopPlayback, whenEnded } from './audio.js?v=8'
-import { lang, t } from './i18n.js?v=10'
+import { lang, t } from './i18n.js?v=16'
 import { SURAHS } from './surahs.js?v=1'
 import { loadUthmani } from './verses.js'
-import { tokenHits, wordHits } from './words.js?v=1'
+import { tokenHits } from './words.js?v=1'
 
 const PLACE = 'kh-read'
 const VERSE_CAP = 40
 let verses = null
 let meals = null
 let mealPromise = null
+let mealIndex = null
+let mealsFailed = false
 let sura = 1
 let ayah = 1
 let playing = false
@@ -58,42 +60,71 @@ function textAt(s, a) {
   return verses && typeof verses.then !== 'function' ? verses[`${s}:${a}`] || '' : ''
 }
 
-function loadMeals() {
+export function loadMeals() {
   if (!mealPromise) {
     mealPromise = fetch('../content/meals.json?v=2')
-      .then((res) => (res.ok ? res.json() : {}))
+      .then((res) => (res.ok ? res.json() : Promise.reject(new Error('meals'))))
       .then((data) => {
         meals = data
+        mealIndex = indexMeals(data)
         return data
       })
       .catch(() => {
-        mealPromise = null
-        return {}
+        meals = {}
+        mealIndex = []
+        mealsFailed = true
+        return meals
       })
   }
   return mealPromise
 }
 
-function verseHits(book, query) {
-  const hits = []
-  for (const key of Object.keys(book)) {
-    const meal = book[key]
-    if (!wordHits(meal, query)) continue
+function foldText(value) {
+  return String(value || '')
+    .toLocaleLowerCase('tr-TR')
+    .replaceAll('â', 'a')
+    .replaceAll('î', 'i')
+    .replaceAll('û', 'u')
+}
+
+function textTokens(value) {
+  return foldText(value)
+    .split(/[^a-zçğıöşü]+/)
+    .filter(Boolean)
+}
+
+function indexMeals(book) {
+  const rows = []
+  for (const [key, meal] of Object.entries(book || {})) {
     const [suraNo, ayahNo] = key.split(':').map(Number)
+    rows.push({ sura: suraNo, ayah: ayahNo, meal, tokens: textTokens(meal) })
+  }
+  return rows
+}
+
+function verseHits(book, query) {
+  const words = textTokens(query)
+  if (!words.length) return []
+  const rows = book === meals && mealIndex ? mealIndex : indexMeals(book)
+  const hits = []
+  for (const row of rows) {
+    if (!words.every((word) => row.tokens.some((token) => tokenHits(token, word)))) continue
     const prev = hits.at(-1)
-    if (prev && prev.sura === suraNo && prev.meal === meal) continue
-    hits.push({ sura: suraNo, ayah: ayahNo, meal })
+    if (prev && prev.sura === row.sura && prev.meal === row.meal) continue
+    hits.push(row)
   }
   return hits
 }
 
 function markMeal(text, query) {
+  const words = textTokens(query)
   return text
     .split(/([^a-zA-ZçğıöşüâîûÇĞİÖŞÜÂÎÛ]+)/)
     .map((part) => {
       if (!part) return ''
       if (!/[a-zA-ZçğıöşüâîûÇĞİÖŞÜÂÎÛ]/.test(part)) return escapeHtml(part)
-      const hit = tokenHits(part.toLocaleLowerCase('tr-TR'), query)
+      const token = foldText(part)
+      const hit = words.some((word) => tokenHits(token, word))
       return hit ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part)
     })
     .join('')
@@ -166,6 +197,64 @@ export function pauseReading() {
 export function stopReading() {
   if (!playing) return
   pauseReading()
+}
+
+export function parkReader() {
+  view = 'list'
+}
+
+export function quranSearchBlock(query, cap) {
+  const needle = query.trim()
+  const folded = foldText(needle)
+  const named = folded.length >= 2
+  const surahs = SURAHS.filter(
+    (row) =>
+      (named &&
+        (foldText(row.tr).includes(folded) ||
+          row.en.toLocaleLowerCase('en').includes(folded) ||
+          row.ar.includes(needle))) ||
+      String(row.id) === needle,
+  )
+  const waiting = !meals
+  const hits = meals && named ? verseHits(meals, folded) : []
+  const shown = hits.slice(0, cap)
+  const surahHtml = surahs.length
+    ? `<ul class="list surah-list">
+        ${surahs
+          .map((row) => {
+            const name = lang() === 'en' ? row.en : row.tr
+            return `<li><button type="button" class="surah-row" data-sura="${row.id}" data-ayah="1">
+              <span class="no">${row.id}</span>
+              <span><strong>${escapeHtml(name)}</strong><small>${t('quranAyahs', { n: row.ayahs })}</small></span>
+              <span class="ar" lang="ar">${row.ar}</span>
+            </button></li>`
+          })
+          .join('')}
+      </ul>`
+    : ''
+  const verseHtml = mealsFailed
+    ? `<p class="sub">${t('quranError')}</p>`
+    : waiting
+      ? `<p class="sub">${t('quranSearching')}</p>`
+      : shown.length
+        ? `<ul class="list meal-list">
+            ${shown
+              .map(
+                (hit) => `<li><button type="button" class="meal-row" data-sura="${hit.sura}" data-ayah="${hit.ayah}">
+                  <span class="no">${hit.sura}:${hit.ayah}</span>
+                  <span class="meal">${markMeal(hit.meal, folded)}</span>
+                </button></li>`,
+              )
+              .join('')}
+          </ul>
+          ${hits.length > shown.length ? `<p class="sub">${t('findMore', { n: (hits.length - shown.length).toLocaleString(lang() === 'en' ? 'en-US' : 'tr-TR') })}</p>` : ''}`
+        : ''
+  return {
+    waiting,
+    failed: mealsFailed,
+    count: surahs.length + (waiting ? 0 : hits.length),
+    html: `${surahHtml}${verseHtml}`,
+  }
 }
 
 function renderList(panel, query) {
@@ -261,24 +350,29 @@ function renderReader(panel) {
 
 function renderSearch(panel, query, book) {
   panel.dataset.read = ''
-  const folded = query.toLocaleLowerCase('tr-TR')
+  const folded = foldText(query)
+  const named = folded.length >= 2
   const surahs = SURAHS.filter(
     (row) =>
-      row.tr.toLocaleLowerCase('tr-TR').includes(folded) ||
-      row.en.toLocaleLowerCase('en').includes(folded) ||
-      row.ar.includes(query) ||
+      (named &&
+        (foldText(row.tr).includes(folded) ||
+          row.en.toLocaleLowerCase('en').includes(folded) ||
+          row.ar.includes(query))) ||
       String(row.id) === query,
   )
-  const hits = book ? verseHits(book, folded) : []
+  const hits = book && named ? verseHits(book, folded) : []
   const shown = hits.slice(0, VERSE_CAP)
   const empty = document.getElementById('empty')
   const waiting = !book
   empty.textContent = t('quranEmpty')
   empty.classList.toggle('hidden', waiting || surahs.length > 0 || hits.length > 0)
-  const versesHtml = waiting
-    ? `<p class="sub">${t('quranSearching')}</p>`
-    : hits.length
-      ? `<p class="meal-head">${t('quranVerseHead', { n: hits.length })}</p>
+  const versesHtml =
+    mealsFailed && !waiting
+      ? `<p class="sub">${t('quranError')}</p>`
+      : waiting
+        ? `<p class="sub">${t('quranSearching')}</p>`
+        : hits.length
+          ? `<p class="meal-head">${t('quranVerseHead', { n: hits.length })}</p>
         <ul class="list meal-list">
           ${shown
             .map(
@@ -290,7 +384,7 @@ function renderSearch(panel, query, book) {
             .join('')}
         </ul>
         ${hits.length > shown.length ? `<p class="sub">${t('quranMore', { n: hits.length - shown.length })}</p>` : ''}`
-      : ''
+          : ''
   const surahHtml = surahs.length
     ? `<ul class="list surah-list">
         ${surahs

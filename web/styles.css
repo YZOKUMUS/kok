@@ -324,6 +324,16 @@ main { padding: 4px 16px 12px; }
 
 .section-head h2 { margin: 0; font-size: 0.95rem; }
 
+.find-block { margin-top: 18px; }
+.find-block h2 {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 8px;
+  font-size: 0.95rem;
+}
+.find-block h2 span { color: var(--muted); font-weight: 700; }
+
 .text-btn {
   border: 0;
   background: transparent;

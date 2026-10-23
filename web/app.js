@@ -1,7 +1,7 @@
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t } from './i18n.js?v=14'
-import { paintQuran, stopReading } from './read.js?v=5'
-import { queryStem, wordHits } from './words.js?v=2'
+import { applyLang, lang, locale, t } from './i18n.js?v=16'
+import { loadMeals, paintQuran, parkReader, quranSearchBlock, startAt, stopReading } from './read.js?v=8'
+import { queryStem, tokenHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 import { watchVisits } from './visits.js?v=4'
 
@@ -54,6 +54,14 @@ let tab = 'sozluk'
 const lists = {
   fiiller: null,
   isimler: null,
+}
+const listPromises = {
+  fiiller: null,
+  isimler: null,
+}
+const listErrors = {
+  fiiller: false,
+  isimler: false,
 }
 
 const listTabs = {
@@ -138,7 +146,7 @@ fetch(`${CONTENT}/dict.json?v=1`)
     if (!data) return
     for (const [id, row] of Object.entries(data)) rememberGloss(id, row[0], row[1])
     const input = document.getElementById('q')
-    if (tab === 'sozluk' && input && input.value.trim()) paint(input.value)
+    if (input && input.value.trim()) paint(input.value)
   })
   .catch(() => {})
 
@@ -225,13 +233,34 @@ function rootCard(root, found) {
     </li>`
 }
 
-async function ensureList(name) {
-  if (lists[name]) return lists[name]
-  const spec = listTabs[name]
-  const res = await fetch(`${CONTENT}/${spec.file}`)
-  if (!res.ok) throw new Error(t(spec.error))
-  lists[name] = (await res.json())[spec.key]
-  return lists[name]
+function ensureList(name) {
+  if (lists[name]) return Promise.resolve(lists[name])
+  if (!listPromises[name]) {
+    const spec = listTabs[name]
+    listPromises[name] = fetch(`${CONTENT}/${spec.file}`)
+      .then((res) => {
+        if (!res.ok) throw new Error(t(spec.error))
+        return res.json()
+      })
+      .then((data) => {
+        const rows = data[spec.key]
+        for (const item of rows) {
+          item.searchTokens = itemTokens(item)
+          item.searchArabic = itemArabic(item)
+        }
+        lists[name] = rows
+        listErrors[name] = false
+        return rows
+      })
+      .catch((err) => {
+        listErrors[name] = true
+        throw err
+      })
+      .finally(() => {
+        listPromises[name] = null
+      })
+  }
+  return listPromises[name]
 }
 
 function verbCard(item) {
@@ -271,12 +300,158 @@ function listBlurb(spec, count) {
   return `${formatted} ${t(spec.blurb)}`
 }
 
-function readingHits(text, query) {
-  if (query.length < 3) return false
-  return String(text || '')
-    .toLocaleLowerCase('tr-TR')
-    .split(/[^\p{L}\p{M}]+/u)
-    .some((token) => token === query || token.startsWith(query))
+const FIND_CAP = 12
+let findToken = 0
+
+const TRANSLIT = {
+  ā: 'a',
+  á: 'a',
+  ǎ: 'a',
+  ē: 'e',
+  é: 'e',
+  ě: 'e',
+  ī: 'i',
+  í: 'i',
+  ǐ: 'i',
+  ō: 'o',
+  ú: 'u',
+  ǔ: 'u',
+  ū: 'u',
+  ḍ: 'd',
+  ḏ: 'd',
+  ḥ: 'h',
+  ḣ: 'h',
+  ḳ: 'k',
+  ṣ: 's',
+  ṧ: 's',
+  š: 's',
+  ṭ: 't',
+  ṯ: 't',
+  ẓ: 'z',
+  ƶ: 'z',
+  ž: 'z',
+  ġ: 'g',
+  ǧ: 'g',
+}
+
+function latinKey(value) {
+  return foldTr(value).replace(/[^\x20-\x7E]/g, (ch) => TRANSLIT[ch] || ch)
+}
+
+function itemTokens(item) {
+  return trTokens(
+    [item.gloss, item.meaning, item.latinName, latinKey(item.transliteration)]
+      .filter(Boolean)
+      .join(' '),
+  )
+}
+
+function itemArabic(item) {
+  return arKey([item.lettersArabic, item.lemma, item.formInAyah].filter(Boolean).join(' '))
+}
+
+function sameWord(item, words, arabic) {
+  if (words.length) {
+    const tokens = item.searchTokens || itemTokens(item)
+    return words.every((part) => tokens.some((token) => tokenHits(token, part)))
+  }
+  if (arabic.length >= 2) return (item.searchArabic || itemArabic(item)).includes(arabic)
+  return false
+}
+
+function moreNote(total, shown) {
+  const rest = total - shown
+  if (rest <= 0) return ''
+  return `<p class="sub">${t('findMore', { n: rest.toLocaleString(locale()) })}</p>`
+}
+
+function findSection(title, total, inner, kind) {
+  if (!total) return ''
+  const mark = kind ? ` data-find="${kind}"` : ''
+  return `<section class="find-block"${mark}><h2>${escapeHtml(title)} <span>${total.toLocaleString(locale())}</span></h2>${inner}</section>`
+}
+
+function noteSection(title, note, kind) {
+  const mark = kind ? ` data-find="${kind}"` : ''
+  return `<section class="find-block"${mark}><h2>${escapeHtml(title)}</h2><p class="sub">${escapeHtml(note)}</p></section>`
+}
+
+function listSection(name, key, rows) {
+  if (!rows) return noteSection(t(name), listErrors[key] ? t(listTabs[key].error) : t('findWait'), key)
+  const shown = rows.slice(0, FIND_CAP)
+  return findSection(
+    t(name),
+    rows.length,
+    `<ul class="list">${shown.map(verbCard).join('')}</ul>${moreNote(rows.length, shown.length)}`,
+    key,
+  )
+}
+
+function openReading(suraNo, ayahNo) {
+  if (tab !== 'kuran') stopReading()
+  findToken += 1
+  tab = 'kuran'
+  document.body.dataset.tab = 'kuran'
+  document.querySelectorAll('#tabs button').forEach((item) => {
+    item.classList.toggle('on', item.getAttribute('data-tab') === 'kuran')
+  })
+  const input = document.getElementById('q')
+  if (input) input.value = ''
+  startAt(suraNo, ayahNo)
+}
+
+function renderCombined(query, quran) {
+  parkReader()
+  const panel = document.getElementById('panel')
+  panel.dataset.read = ''
+  const empty = document.getElementById('empty')
+  const words = trTokens(query)
+  const arabic = arKey(query)
+  const match = (item) => sameWord(item, words, arabic)
+  const roots = searchDictionary(query)
+  const verbs = lists.fiiller ? lists.fiiller.filter(match) : null
+  const nouns = lists.isimler ? lists.isimler.filter(match) : null
+  const search = quran || quranSearchBlock(query, FIND_CAP)
+  const rootShown = roots.slice(0, FIND_CAP)
+  const html = [
+    findSection(
+      t('dict'),
+      roots.length,
+      `<ul class="list">${rootShown.map((hit) => rootCard(hit.root, hit.label)).join('')}</ul>${moreNote(roots.length, rootShown.length)}`,
+      'sozluk',
+    ),
+    listSection('verbs', 'fiiller', verbs),
+    listSection('nouns', 'isimler', nouns),
+    search.count || search.waiting || search.failed
+      ? `<section class="find-block find-quran" data-find="kuran"><h2>${escapeHtml(t('quran'))}${search.waiting || search.failed ? '' : ` <span>${search.count.toLocaleString(locale())}</span>`}</h2>${search.html}</section>`
+      : '',
+  ].join('')
+  const pending = (!verbs && !listErrors.fiiller) || (!nouns && !listErrors.isimler) || search.waiting
+  const any = roots.length || (verbs && verbs.length) || (nouns && nouns.length) || search.count
+  empty.textContent = t('findEmpty')
+  empty.classList.toggle('hidden', pending || Boolean(any))
+  panel.innerHTML = html
+  panel.querySelectorAll('.find-quran [data-sura]').forEach((button) => {
+    button.addEventListener('click', () => openReading(Number(button.dataset.sura), Number(button.dataset.ayah || 1)))
+  })
+}
+
+function paintCombined(query) {
+  const mine = ++findToken
+  const quran = quranSearchBlock(query, FIND_CAP)
+  renderCombined(query, quran)
+  const jobs = []
+  if (!lists.fiiller && !listErrors.fiiller) jobs.push(ensureList('fiiller'))
+  if (!lists.isimler && !listErrors.isimler) jobs.push(ensureList('isimler'))
+  if (quran.waiting) jobs.push(loadMeals())
+  if (!jobs.length) return
+  Promise.allSettled(jobs).then(() => {
+    if (mine !== findToken) return
+    const current = document.getElementById('q')?.value.trim() || ''
+    if (current !== query.trim()) return
+    document.getElementById('error').classList.add('hidden')
+    renderCombined(current, quranSearchBlock(current, FIND_CAP))
+  })
 }
 
 function paint(query) {
@@ -288,29 +463,20 @@ function paint(query) {
   document.getElementById('count').textContent = progressLine(words, done)
   document.body.dataset.tab = tab
 
-  const q = query.trim().toLocaleLowerCase('tr-TR')
   const input = document.getElementById('q')
-  if (tab === 'kuran') {
-    if (input) input.placeholder = t('quranSearch')
-    paintQuran(panel, query)
+  if (input) input.placeholder = t('searchPlaceholder')
+  const typed = query.trim()
+  if (typed) {
+    paintCombined(typed)
     return
   }
-  if (input) input.placeholder = t('searchPlaceholder')
+  if (tab === 'kuran') {
+    paintQuran(panel, '')
+    return
+  }
   const spec = listTabs[tab]
   if (spec) {
-    const rows = (lists[tab] || []).filter((item) => {
-      if (!q) return true
-      const raw = query.trim()
-      return (
-        wordHits(item.gloss, q) ||
-        wordHits(item.meaning, q) ||
-        wordHits(item.latinName, q) ||
-        (item.lettersArabic || '').includes(raw) ||
-        (item.lemma || '').includes(raw) ||
-        (item.formInAyah || '').includes(raw) ||
-        readingHits(item.transliteration, q)
-      )
-    })
+    const rows = lists[tab] || []
     empty.textContent = t(spec.empty)
     empty.classList.toggle('hidden', rows.length > 0)
     panel.innerHTML = `
@@ -322,14 +488,6 @@ function paint(query) {
         </div>
       </a>
       <ul class="list">${rows.map(verbCard).join('')}</ul>`
-    return
-  }
-
-  empty.textContent = t('emptyRoots')
-  if (q) {
-    const found = searchDictionary(query)
-    empty.classList.toggle('hidden', found.length > 0)
-    panel.innerHTML = `<ul class="list">${found.map((hit) => rootCard(hit.root, hit.label)).join('')}</ul>`
     return
   }
 
@@ -486,12 +644,19 @@ document.getElementById('q').addEventListener('input', (event) => {
   paint(event.target.value)
 })
 
+function scrollToFind(name) {
+  const block = document.querySelector(`.find-block[data-find="${name}"]`)
+  if (!block) return
+  const head = document.querySelector('.sticky-head')
+  const top = block.getBoundingClientRect().top + window.scrollY - (head?.offsetHeight || 0) - 8
+  window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' })
+}
+
 document.getElementById('tabs').addEventListener('click', async (event) => {
   const button = event.target.closest('[data-tab]')
   if (!button) return
   const next = button.getAttribute('data-tab') || 'sozluk'
   if (tab === 'kuran' && next !== 'kuran') stopReading()
-  if (next === 'kuran') document.getElementById('q').value = ''
   tab = next
   document.querySelectorAll('#tabs button').forEach((item) => {
     item.classList.toggle('on', item === button)
@@ -505,7 +670,9 @@ document.getElementById('tabs').addEventListener('click', async (event) => {
       return
     }
   }
-  paint(document.getElementById('q').value)
+  const query = document.getElementById('q').value
+  paint(query)
+  if (query.trim()) scrollToFind(tab)
 })
 
 watchVisits()
