@@ -1,8 +1,8 @@
 import { playVerse, playWord } from './audio.js?v=7'
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t, tagLabel } from './i18n.js?v=17'
+import { applyLang, lang, locale, t, tagLabel } from './i18n.js?v=18'
 import { highlightVerse } from './mark.js?v=5'
-import { shareCard } from './share.js?v=6'
+import { shareCard } from './share.js?v=10'
 import { isStudied, remember, toggleStudied } from './study.js'
 import { loadUthmani, verseText } from './verses.js'
 

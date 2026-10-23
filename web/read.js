@@ -1,5 +1,5 @@
 import { playVerse, stopPlayback, whenEnded } from './audio.js?v=8'
-import { lang, locale, t } from './i18n.js?v=17'
+import { lang, locale, t } from './i18n.js?v=18'
 import { SURAHS } from './surahs.js?v=1'
 import { loadUthmani } from './verses.js'
 import { tokenHits } from './words.js?v=2'

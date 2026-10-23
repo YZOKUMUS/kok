@@ -1,12 +1,12 @@
 import { shortMeaning } from './gloss.js?v=6'
-import { applyLang, lang, locale, t } from './i18n.js?v=17'
+import { applyLang, lang, locale, t } from './i18n.js?v=18'
 import { loadMeals, paintQuran, parkReader, quranSearchBlock, startAt, stopReading } from './read.js?v=9'
+import { shareApp } from './share.js?v=10'
 import { queryStem, tokenHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
 import { watchVisits } from './visits.js?v=4'
 
 const CONTENT = '../content'
-const APP_URL = 'https://kok-calis.web.app/'
 const LETTER_ORDER = 'ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي'.split(' ')
 
 function escapeHtml(value) {
@@ -711,68 +711,20 @@ document.getElementById('empty').addEventListener('click', (event) => {
   searchInput.focus()
 })
 
-function copyAppLink() {
-  const area = document.createElement('textarea')
-  area.value = APP_URL
-  area.setAttribute('readonly', '')
-  area.style.position = 'fixed'
-  area.style.opacity = '0'
-  document.body.appendChild(area)
-  area.focus()
-  area.select()
-  let copied = false
-  try {
-    copied = document.execCommand('copy')
-  } catch {
-    copied = false
-  }
-  area.remove()
-  return copied
-}
-
-function showAppLink() {
-  document.getElementById('share-preview')?.remove()
-  const wrap = document.createElement('div')
-  wrap.id = 'share-preview'
-  wrap.innerHTML = `<div class="share-sheet"><p class="app-link">${APP_URL}</p><button type="button" class="share-close">${t('close')}</button></div>`
-  wrap.addEventListener('click', (event) => {
-    if (event.target === wrap || event.target.closest('.share-close')) wrap.remove()
-  })
-  document.body.appendChild(wrap)
-}
-
-function flashShare(button, label) {
-  button.dataset.busy = '1'
-  setShareLabel(label)
-  setTimeout(() => {
-    button.dataset.busy = ''
-    setShareLabel(t('share'))
-  }, 1600)
-}
-
 document.getElementById('share-app').addEventListener('click', async () => {
   const button = document.getElementById('share-app')
-  const payload = { title: t('homeTitle'), text: t('shareAppText'), url: APP_URL }
-  if (navigator.share) {
-    try {
-      await navigator.share(payload)
-      return
-    } catch (err) {
-      if (err?.name === 'AbortError') return
-    }
-  }
+  if (button.dataset.busy === '1') return
+  button.dataset.busy = '1'
+  setShareLabel(t('shareWait'))
   try {
-    await navigator.clipboard.writeText(`${payload.text}\n${APP_URL}`)
-    flashShare(button, t('shareCopied'))
-    return
+    await shareApp()
+    setShareLabel(t('share'))
   } catch {
-    /* Bilgisayar panosu kapalıysa adres kartı açılır. */
+    setShareLabel(t('shareFail'))
+    setTimeout(() => setShareLabel(t('share')), 1600)
+  } finally {
+    button.dataset.busy = ''
   }
-  if (copyAppLink()) {
-    flashShare(button, t('shareCopied'))
-    return
-  }
-  showAppLink()
 })
 
 document.getElementById('q').addEventListener('input', (event) => {

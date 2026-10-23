@@ -1,10 +1,11 @@
-import { t } from './i18n.js?v=10'
+import { t } from './i18n.js?v=18'
 import { verseParts } from './mark.js?v=5'
 
 const WIDTH = 1080
 const PAD = 72
 const AR = 'UthmanicHafs, "Noto Naskh Arabic", serif'
-const UI = 'system-ui, "Segoe UI", Roboto, sans-serif'
+const UI = 'Inter, system-ui, "Segoe UI", Roboto, sans-serif'
+const APP_URL = 'https://kok-calis.web.app/'
 
 function stripeColor(pos) {
   if (pos === 'fiil') return '#1d4e89'
@@ -263,4 +264,371 @@ export function shareCard(card) {
     showPreview(blob)
     return 'preview'
   })
+}
+
+/* ── App share card (1080×1350) ─────────────────────────── */
+
+function gradient(ctx, x0, y0, x1, y1, stops) {
+  const paint = ctx.createLinearGradient(x0, y0, x1, y1)
+  for (const [at, color] of stops) paint.addColorStop(at, color)
+  return paint
+}
+
+function rounded(ctx, x, y, w, h, r) {
+  ctx.beginPath()
+  ctx.roundRect(x, y, w, h, r)
+}
+
+export async function renderAppCard() {
+  try {
+    await document.fonts.load(`800 92px ${UI}`)
+    await document.fonts.load(`600 36px ${UI}`)
+    await document.fonts.load(`500 800px ${AR}`)
+  } catch {
+    /* fonts stay on the system fallback */
+  }
+
+  const W = 1080
+  const H = 1350
+  const canvas = document.createElement('canvas')
+  canvas.width = W
+  canvas.height = H
+  const ctx = canvas.getContext('2d')
+
+  ctx.fillStyle = '#f4f1e9'
+  ctx.fillRect(0, 0, W, H)
+
+  const glow = ctx.createRadialGradient(940, 120, 40, 940, 120, 720)
+  glow.addColorStop(0, 'rgba(44, 122, 91, 0.14)')
+  glow.addColorStop(1, 'rgba(44, 122, 91, 0)')
+  ctx.fillStyle = glow
+  ctx.fillRect(0, 0, W, H)
+
+  ctx.fillStyle = gradient(ctx, 48, 48, 1032, 840, [
+    [0, '#0c3f2e'],
+    [0.6, '#176046'],
+    [1, '#23795a'],
+  ])
+  rounded(ctx, 48, 48, 984, 792, 58)
+  ctx.fill()
+
+  ctx.save()
+  ctx.globalAlpha = 0.09
+  ctx.fillStyle = '#f7f3e8'
+  ctx.font = `500 760px ${AR}`
+  ctx.textAlign = 'right'
+  ctx.direction = 'rtl'
+  ctx.fillText('ك', 1012, 800)
+  ctx.restore()
+
+  ctx.fillStyle = 'rgba(247, 243, 232, 0.16)'
+  rounded(ctx, 112, 116, 76, 76, 22)
+  ctx.fill()
+  ctx.fillStyle = '#f7f3e8'
+  ctx.beginPath()
+  ctx.moveTo(126, 140)
+  ctx.bezierCurveTo(134, 136, 142, 136, 148, 140)
+  ctx.lineTo(148, 172)
+  ctx.bezierCurveTo(142, 168, 134, 168, 126, 172)
+  ctx.closePath()
+  ctx.fill()
+  ctx.globalAlpha = 0.78
+  ctx.beginPath()
+  ctx.moveTo(152, 140)
+  ctx.bezierCurveTo(160, 136, 168, 136, 176, 140)
+  ctx.lineTo(176, 172)
+  ctx.bezierCurveTo(168, 168, 160, 168, 152, 172)
+  ctx.closePath()
+  ctx.fill()
+  ctx.globalAlpha = 1
+  ctx.strokeStyle = '#0c3f2e'
+  ctx.lineWidth = 2.4
+  ctx.beginPath()
+  ctx.moveTo(150, 140)
+  ctx.lineTo(150, 172)
+  ctx.stroke()
+  ctx.textAlign = 'left'
+  ctx.font = `800 42px ${UI}`
+  ctx.fillText('Kök çalış', 212, 168)
+
+  ctx.fillStyle = 'rgba(247, 243, 232, 0.78)'
+  rounded(ctx, 812, 126, 170, 56, 28)
+  ctx.fill()
+  ctx.fillStyle = '#0c3f2e'
+  ctx.font = `700 24px ${UI}`
+  ctx.textAlign = 'center'
+  ctx.fillText('Ücretsiz', 897, 162)
+
+  ctx.textAlign = 'left'
+  ctx.fillStyle = 'rgba(247, 243, 232, 0.66)'
+  ctx.font = `700 23px ${UI}`
+  ctx.letterSpacing = '5px'
+  ctx.fillText(t('shareCardKicker'), 112, 288)
+  ctx.letterSpacing = '0px'
+
+  ctx.fillStyle = '#f7f3e8'
+  ctx.font = `800 92px ${UI}`
+  ctx.fillText(t('shareCardTitle1'), 112, 402)
+  ctx.fillText(t('shareCardTitle2'), 112, 500)
+
+  ctx.fillStyle = 'rgba(247, 243, 232, 0.9)'
+  ctx.font = `600 35px ${UI}`
+  ctx.fillText(t('shareCardStats'), 112, 604)
+
+  ctx.fillStyle = 'rgba(247, 243, 232, 0.68)'
+  ctx.font = `400 30px ${UI}`
+  ctx.fillText(t('shareCardLine'), 112, 660)
+
+  ctx.fillStyle = '#fffdf8'
+  rounded(ctx, 112, 896, 856, 96, 48)
+  ctx.fill()
+  ctx.strokeStyle = '#e5ded0'
+  ctx.lineWidth = 2
+  ctx.stroke()
+
+  ctx.strokeStyle = '#68736b'
+  ctx.lineWidth = 5
+  ctx.beginPath()
+  ctx.arc(176, 940, 15, 0, Math.PI * 2)
+  ctx.stroke()
+  ctx.beginPath()
+  ctx.moveTo(187, 951)
+  ctx.lineTo(199, 963)
+  ctx.stroke()
+
+  ctx.fillStyle = '#16211b'
+  ctx.font = `500 34px ${UI}`
+  ctx.fillText('rahman', 222, 955)
+
+  ctx.fillStyle = '#0f4c38'
+  rounded(ctx, 112, 1030, 856, 116, 58)
+  ctx.fill()
+  ctx.fillStyle = '#f7f3e8'
+  ctx.font = `700 35px ${UI}`
+  ctx.fillText('kok-calis.web.app', 168, 1102)
+
+  ctx.fillStyle = '#f7f3e8'
+  ctx.font = `800 28px ${UI}`
+  ctx.textAlign = 'right'
+  ctx.fillText(t('shareCardTap'), 906, 1098)
+  ctx.textAlign = 'left'
+  ctx.beginPath()
+  ctx.moveTo(915, 1090)
+  ctx.lineTo(930, 1103)
+  ctx.lineTo(915, 1116)
+  ctx.strokeStyle = '#f7f3e8'
+  ctx.lineWidth = 5
+  ctx.lineCap = 'round'
+  ctx.lineJoin = 'round'
+  ctx.stroke()
+
+  ctx.fillStyle = '#68736b'
+  ctx.font = `500 25px ${UI}`
+  ctx.textAlign = 'center'
+  ctx.fillText(t('shareCardHint'), W / 2, 1230)
+  ctx.fillText('Kök çalış · Ücretsiz web uygulaması', W / 2, 1274)
+
+  const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/png'))
+  if (!blob) throw new Error('png')
+  return blob
+}
+
+/* ── Share sheet ────────────────────────────────────────── */
+
+const ICONS = {
+  whatsapp:
+    '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.5 15.2L2 22l4.9-1.4A10 10 0 1 0 12 2Zm5.5 14.1c-.2.6-1.2 1.2-1.7 1.2-.5.1-1 .2-3.1-.7-2.5-1.1-4.1-3.7-4.2-3.9-.1-.2-1-1.4-1-2.6s.6-1.8.8-2.1c.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .6l-.4.6-.4.4c-.1.2-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.7-.1l1-1.1c.2-.3.4-.2.7-.1l2 1c.3.1.5.2.6.3.1.2.1.7-.1 1.3Z"/></svg>',
+  facebook:
+    '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M14 8.5V6.8c0-.8.2-1.3 1.5-1.3H17V2.2c-.3 0-1.3-.2-2.4-.2-2.4 0-4.1 1.5-4.1 4.2v2.3H8v3.2h2.5V22h3.4v-10.3h2.6l.4-3.2H14Z"/></svg>',
+  instagram:
+    '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.3" fill="currentColor"/></svg>',
+  share:
+    '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 15.5V3.8M8.2 7.2 12 3.4l3.8 3.8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 12.8v6.4c0 .8.6 1.4 1.4 1.4h11.2c.8 0 1.4-.6 1.4-1.4v-6.4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  link:
+    '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M10 13.5a4 4 0 0 0 5.7 0l2.6-2.6a4 4 0 0 0-5.7-5.7l-1.5 1.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M14 10.5a4 4 0 0 0-5.7 0l-2.6 2.6a4 4 0 0 0 5.7 5.7l1.5-1.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  download:
+    '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 4v11M7.5 11 12 15.5 16.5 11M5 19.5h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+}
+
+function toast(message) {
+  document.querySelector('.share-toast')?.remove()
+  const note = document.createElement('div')
+  note.className = 'share-toast'
+  note.setAttribute('role', 'status')
+  note.textContent = message
+  document.body.appendChild(note)
+  setTimeout(() => note.remove(), 2600)
+}
+
+async function copyText(text) {
+  try {
+    await navigator.clipboard.writeText(text)
+    return true
+  } catch {
+    const area = document.createElement('textarea')
+    area.value = text
+    area.setAttribute('readonly', '')
+    area.style.position = 'fixed'
+    area.style.opacity = '0'
+    document.body.appendChild(area)
+    area.select()
+    let ok = false
+    try {
+      ok = document.execCommand('copy')
+    } catch {
+      ok = false
+    }
+    area.remove()
+    return ok
+  }
+}
+
+function touchDevice() {
+  return navigator.maxTouchPoints > 0 || window.matchMedia?.('(pointer: coarse)').matches
+}
+
+function download(blob, name) {
+  const url = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+  link.href = url
+  link.download = name
+  document.body.appendChild(link)
+  link.click()
+  link.remove()
+  setTimeout(() => URL.revokeObjectURL(url), 2000)
+}
+
+export async function shareApp() {
+  let blob = null
+  try {
+    blob = await renderAppCard()
+  } catch {
+    blob = null
+  }
+  const name = 'kok-calis.png'
+  const caption = `${t('shareAppCaption')}\n${APP_URL}`
+  const file = blob ? new File([blob], name, { type: 'image/png' }) : null
+
+  document.getElementById('app-share')?.remove()
+  const wrap = document.createElement('div')
+  wrap.id = 'app-share'
+  wrap.className = 'app-share'
+  wrap.setAttribute('role', 'dialog')
+  wrap.setAttribute('aria-modal', 'true')
+  wrap.setAttribute('aria-labelledby', 'app-share-title')
+
+  const image = blob ? URL.createObjectURL(blob) : ''
+  wrap.innerHTML = `
+    <div class="app-share-panel" role="document" tabindex="-1">
+      <div class="app-share-head">
+        <h2 id="app-share-title">${t('shareTitle')}</h2>
+        <button type="button" class="sheet-x" data-share-close aria-label="${t('close')}">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m7 7 10 10M17 7 7 17" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" /></svg>
+        </button>
+      </div>
+      ${image ? `<img class="app-share-img" src="${image}" alt="${t('sharePreviewAlt')}" />` : ''}
+      <p class="app-share-note">${t('shareAppHint')}</p>
+      <div class="app-share-targets">
+        <button type="button" class="share-target" data-share-target="whatsapp">
+          <span class="share-target-ico wa">${ICONS.whatsapp}</span>
+          <span>WhatsApp</span>
+        </button>
+        <button type="button" class="share-target" data-share-target="facebook">
+          <span class="share-target-ico fb">${ICONS.facebook}</span>
+          <span>Facebook</span>
+        </button>
+        <button type="button" class="share-target" data-share-target="instagram">
+          <span class="share-target-ico ig">${ICONS.instagram}</span>
+          <span>Instagram</span>
+        </button>
+      </div>
+      <button type="button" class="btn wide app-share-primary" data-share-target="native">
+        <span class="share-mini-ico">${ICONS.share}</span>${t('shareNative')}
+      </button>
+      <div class="app-share-mini">
+        <button type="button" data-share-target="copy"><span class="share-mini-ico">${ICONS.link}</span>${t('shareCopyLink')}</button>
+        <button type="button" data-share-target="download"><span class="share-mini-ico">${ICONS.download}</span>${t('shareDownload')}</button>
+      </div>
+    </div>`
+
+  let closed = false
+  const close = () => {
+    if (closed) return
+    closed = true
+    wrap.remove()
+    if (image) URL.revokeObjectURL(image)
+    document.body.classList.remove('share-open')
+    document.removeEventListener('keydown', onKey)
+  }
+
+  const onKey = (event) => {
+    if (event.key === 'Escape') close()
+  }
+
+  const shareNative = async () => {
+    if (touchDevice() && navigator.share && file && navigator.canShare?.({ files: [file] })) {
+      try {
+        await navigator.share({ files: [file], title: t('homeTitle'), text: caption })
+        close()
+        return
+      } catch (err) {
+        if (err?.name === 'AbortError') return
+      }
+    }
+    const copied = await copyText(caption)
+    if (blob) download(blob, name)
+    toast(copied ? t('shareFallback') : t('shareFail'))
+  }
+
+  wrap.addEventListener('click', async (event) => {
+    if (event.target === wrap || event.target.closest('[data-share-close]')) {
+      close()
+      return
+    }
+    const action = event.target.closest('[data-share-target]')?.getAttribute('data-share-target')
+    if (!action) return
+    if (action === 'whatsapp') {
+      window.open(`https://wa.me/?text=${encodeURIComponent(caption)}`, '_blank', 'noopener')
+      return
+    }
+    if (action === 'facebook') {
+      window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(APP_URL)}`, '_blank', 'noopener')
+      return
+    }
+    if (action === 'instagram') {
+      if (touchDevice() && navigator.share && file && navigator.canShare?.({ files: [file] })) {
+        try {
+          await navigator.share({ files: [file], title: t('homeTitle'), text: caption })
+          close()
+          return
+        } catch (err) {
+          if (err?.name === 'AbortError') return
+        }
+      }
+      window.open('https://www.instagram.com/', '_blank', 'noopener')
+      if (blob) download(blob, name)
+      await copyText(caption)
+      toast(t('shareInstagramHint'))
+      return
+    }
+    if (action === 'copy') {
+      const copied = await copyText(caption)
+      toast(copied ? t('shareLinkCopied') : t('shareFail'))
+      return
+    }
+    if (action === 'download') {
+      if (blob) {
+        download(blob, name)
+        toast(t('shareImageSaved'))
+      }
+      return
+    }
+    if (action === 'native') await shareNative()
+  })
+
+  document.body.appendChild(wrap)
+  document.body.classList.add('share-open')
+  document.addEventListener('keydown', onKey)
+  wrap.querySelector('.app-share-panel')?.focus()
+  return { image: Boolean(blob) }
 }
