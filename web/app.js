@@ -4,7 +4,7 @@ import { loadMeals, paintQuran, parkReader, quranSearchBlock, startAt, stopReadi
 import { shareApp } from './share.js?v=10'
 import { queryStem, tokenHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
-import { watchVisits } from './visits.js?v=5'
+import { watchVisits } from './visits.js?v=6'
 
 const CONTENT = '../content'
 const LETTER_ORDER = 'ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي'.split(' ')

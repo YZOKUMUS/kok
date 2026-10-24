@@ -1,7 +1,9 @@
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js'
 import {
+  browserLocalPersistence,
   getAuth,
   onAuthStateChanged,
+  setPersistence,
   signInWithEmailAndPassword,
   signOut,
 } from 'https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js'
@@ -122,8 +124,7 @@ async function openList(auth, db) {
       ${lines ? `<ul class="visit-list">${lines}</ul>` : '<p>Henüz giriş yok.</p>'}
       <button type="button" class="share-close" id="visits-close">Kapat</button>
       <button type="button" class="text-btn visits-out" id="visits-out">Bu cihazdan çık</button>`
-  } catch (err) {
-    if (err?.code === 'permission-denied') signOut(auth).catch(() => {})
+  } catch {
     sheet.innerHTML = `
       <h2>Girenler</h2>
       <p>Liste açılamadı.</p>
@@ -163,13 +164,29 @@ function openLogin(auth, db) {
   wrap.querySelector('input')?.focus()
 }
 
+async function openOwner(auth, db) {
+  const wrap = openSheet('<div class="share-sheet visits-sheet"><p>Yükleniyor…</p></div>')
+  try {
+    await auth.authStateReady()
+  } catch {
+    /* Oturum okunamazsa şifre sorulur. */
+  }
+  if (!document.body.contains(wrap)) return
+  if (isOwner(auth.currentUser)) {
+    closeSheet()
+    openList(auth, db)
+    return
+  }
+  closeSheet()
+  openLogin(auth, db)
+}
+
 function bindOpen(auth, db) {
   const brand = document.getElementById('brand')
   if (!brand) return
   brand.addEventListener('click', (event) => {
     event.preventDefault()
-    if (isOwner(getAuth(app).currentUser)) openList(auth, db)
-    else openLogin(auth, db)
+    openOwner(auth, db)
   })
 }
 
@@ -180,6 +197,7 @@ function isOwner(user) {
 export function watchVisits() {
   const auth = getAuth(app)
   const db = getFirestore(app)
+  setPersistence(auth, browserLocalPersistence).catch(() => {})
   noteVisit(db)
   onAuthStateChanged(auth, (user) => {
     if (user && !isOwner(user)) signOut(auth).catch(() => {})
