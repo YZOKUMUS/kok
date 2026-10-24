@@ -150,7 +150,14 @@ a { color: inherit; }
   align-items: center;
   gap: 10px;
   min-width: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: start;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .brand-mark {
@@ -1592,7 +1599,7 @@ button.ar-lg {
 #visits-sheet {
   position: fixed;
   inset: 0;
-  z-index: 40;
+  z-index: 70;
   display: grid;
   place-items: center;
   padding: 16px;

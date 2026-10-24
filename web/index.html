@@ -32,7 +32,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=26" />
+  <link rel="stylesheet" href="./styles.css?v=27" />
   <script>
     try {
       const saved = localStorage.getItem('kh-theme')
@@ -47,7 +47,7 @@
   <div class="sticky-head">
     <div class="head-inner">
       <header class="topbar">
-        <a class="brand" id="brand" href="./index.html" aria-label="Kök çalış">
+        <button type="button" class="brand" id="brand" aria-label="Kök çalış">
           <span class="brand-mark" aria-hidden="true">
             <svg viewBox="0 0 24 24" fill="none">
               <path d="M4 5.5c2.6-1.4 5.3-1.4 8 0v13c-2.7-1.4-5.4-1.4-8 0v-13Z" fill="currentColor" opacity=".2" />
@@ -59,7 +59,7 @@
             <span class="brand-name">Kök</span>
             <span id="count" class="meta">Yükleniyor…</span>
           </span>
-        </a>
+        </button>
         <div class="top-actions">
           <button type="button" class="icon-btn" id="theme" aria-label="Koyu tema">
             <svg class="icon-sun" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -92,10 +92,6 @@
       </div>
     </div>
     <nav class="seg" id="tabs" aria-label="Bölümler">
-      <button type="button" data-tab="sozluk" class="on" id="tab-sozluk">
-        <svg class="ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 5.5c2.6-1.4 5.3-1.4 8 0v13c-2.7-1.4-5.4-1.4-8 0v-13Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" /><path d="M20 5.5c-2.6-1.4-5.3-1.4-8 0v13c2.7-1.4 5.4-1.4 8 0v-13Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" /><path d="M12 5.5v13" stroke="currentColor" stroke-width="1.4" /></svg>
-        <span class="lbl">Sözlük</span>
-      </button>
       <button type="button" data-tab="fiiller" id="tab-fiiller">
         <svg class="ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M13 2 5.5 13.4h5L10 22l8-11.6h-5.2L13 2Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" /></svg>
         <span class="lbl">Fiiller</span>
@@ -108,11 +104,15 @@
         <svg class="ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3.2c-4.9 0-8.8 3.9-8.8 8.8S7.1 20.8 12 20.8s8.8-3.9 8.8-8.8S16.9 3.2 12 3.2Z" stroke="currentColor" stroke-width="1.6" /><path d="M12 7.4c-1.4 1.2-2.1 2.8-2.1 4.6 0 1.9.7 3.4 2.1 4.6 1.4-1.2 2.1-2.7 2.1-4.6 0-1.8-.7-3.4-2.1-4.6Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" /></svg>
         <span class="lbl">Kur’an</span>
       </button>
+      <button type="button" data-tab="sozluk" class="on" id="tab-sozluk">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 5.5c2.6-1.4 5.3-1.4 8 0v13c-2.7-1.4-5.4-1.4-8 0v-13Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" /><path d="M20 5.5c-2.6-1.4-5.3-1.4-8 0v13c2.7-1.4 5.4-1.4 8 0v-13Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" /><path d="M12 5.5v13" stroke="currentColor" stroke-width="1.4" /></svg>
+        <span class="lbl">Sözlük</span>
+      </button>
     </nav>
   </div>
   <main id="panel"></main>
   <div id="empty" class="empty hidden"></div>
   <p id="error" class="error hidden"></p>
-  <script type="module" src="./app.js?v=30"></script>
+  <script type="module" src="./app.js?v=32"></script>
 </body>
 </html>

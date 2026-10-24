@@ -75,7 +75,9 @@ function openSheet(html) {
   const wrap = document.createElement('div')
   wrap.id = 'visits-sheet'
   wrap.innerHTML = html
+  const openedAt = Date.now()
   wrap.addEventListener('click', (event) => {
+    if (Date.now() - openedAt < 500) return
     if (event.target === wrap) wrap.remove()
   })
   document.body.appendChild(wrap)
@@ -164,7 +166,8 @@ function openLogin(auth, db) {
 function bindOpen(auth, db) {
   const brand = document.getElementById('brand')
   if (!brand) return
-  brand.addEventListener('click', () => {
+  brand.addEventListener('click', (event) => {
+    event.preventDefault()
     if (isOwner(getAuth(app).currentUser)) openList(auth, db)
     else openLogin(auth, db)
   })

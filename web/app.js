@@ -4,7 +4,7 @@ import { loadMeals, paintQuran, parkReader, quranSearchBlock, startAt, stopReadi
 import { shareApp } from './share.js?v=10'
 import { queryStem, tokenHits } from './words.js?v=2'
 import { dueWordCount, knownWordCount, readState, studiedCount } from './study.js'
-import { watchVisits } from './visits.js?v=4'
+import { watchVisits } from './visits.js?v=5'
 
 const CONTENT = '../content'
 const LETTER_ORDER = 'ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي'.split(' ')
@@ -485,17 +485,17 @@ function renderCombined(query, quran) {
   const search = quran || quranSearchBlock(query, FIND_CAP)
   const rootShown = roots.slice(0, FIND_CAP)
   const html = [
+    listSection('verbs', 'fiiller', verbs),
+    listSection('nouns', 'isimler', nouns),
+    search.count || search.waiting || search.failed
+      ? `<section class="find-block find-quran" data-find="kuran"><h2>${escapeHtml(t('quran'))}${search.waiting || search.failed ? '' : ` <span>${search.count.toLocaleString(locale())}</span>`}</h2>${search.html}</section>`
+      : '',
     findSection(
       t('dict'),
       roots.length,
       `<ul class="list">${rootShown.map((hit) => rootCard(hit.root, hit.label)).join('')}</ul>${moreNote(roots.length, rootShown.length)}`,
       'sozluk',
     ),
-    listSection('verbs', 'fiiller', verbs),
-    listSection('nouns', 'isimler', nouns),
-    search.count || search.waiting || search.failed
-      ? `<section class="find-block find-quran" data-find="kuran"><h2>${escapeHtml(t('quran'))}${search.waiting || search.failed ? '' : ` <span>${search.count.toLocaleString(locale())}</span>`}</h2>${search.html}</section>`
-      : '',
   ].join('')
   const pending = (!verbs && !listErrors.fiiller) || (!nouns && !listErrors.isimler) || search.waiting
   const any = roots.length || (verbs && verbs.length) || (nouns && nouns.length) || search.count
