@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="refresh" content="0; url=web/" />
   <title>Kök çalış</title>
   <meta name="description" content="1.818 kök, 1.472 fiil, 3.175 isim. Kur’an kelimelerinin %61’i bu köklerden türer. Anlamı yaz, kökü bul, ayeti dinle." />
   <meta property="og:type" content="website" />
@@ -22,9 +21,34 @@
   <meta name="twitter:description" content="1.818 kök, 1.472 fiil, 3.175 isim. Anlamı yaz, kökü bul, ayeti dinle. Dokun ve aç." />
   <meta name="twitter:image" content="https://kok-calis.web.app/web/og.png?v=3" />
   <meta name="twitter:image:alt" content="Kök çalış: Kökleri öğren, Kur’an’ı anla. Dokun ve aç." />
-  <script>location.replace("web/")</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script>
+    (function () {
+      var url = 'https://kok-calis.web.app/web/'
+      var ua = navigator.userAgent || ''
+      var inApp = /FBAN|FBAV|FB_IAB|FBIOS|Instagram|Line\/|Twitter|TikTok|Snapchat|WhatsApp|MessengerLite|Messenger/i.test(ua)
+      function openApp() {
+        if (inApp && /Android/i.test(ua)) {
+          location.href = 'intent://kok-calis.web.app/web/#Intent;scheme=https;action=android.intent.action.VIEW;S.browser_fallback_url=' + encodeURIComponent(url) + ';end'
+          return
+        }
+        if (inApp && /iPhone|iPad|iPod/i.test(ua)) {
+          location.href = 'x-safari-' + url
+          return
+        }
+        location.replace(url)
+      }
+      window.kokOpen = openApp
+      if (!inApp) openApp()
+    })()
+  </script>
 </head>
-<body>
-  <p><a href="web/">Kök çalış</a></p>
+<body style="font-family: system-ui, sans-serif; background: #ecfdf5; color: #064e3b; text-align: center; padding: 3rem 1rem">
+  <p style="font-size: 1.5rem; font-weight: 800">Kök çalış</p>
+  <p>Kökleri öğren, Kur’an’ı anla</p>
+  <p>
+    <a href="https://kok-calis.web.app/web/" onclick="event.preventDefault(); window.kokOpen();" style="display:inline-block;margin-top:1.5rem;padding:0.9rem 1.4rem;border-radius:999px;background:#0f4c38;color:#fff;font-weight:800;text-decoration:none">Uygulamayı aç</a>
+  </p>
+  <p style="margin-top:1rem;font-size:0.9rem">WhatsApp, Instagram veya Facebook içindeysen bu düğme tarayıcıda açar.</p>
 </body>
 </html>

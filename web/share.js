@@ -1,4 +1,4 @@
-import { t } from './i18n.js?v=18'
+import { t } from './i18n.js?v=19'
 import { verseParts } from './mark.js?v=5'
 
 const WIDTH = 1080
@@ -279,6 +279,43 @@ function rounded(ctx, x, y, w, h, r) {
   ctx.roundRect(x, y, w, h, r)
 }
 
+function drawTapHand(ctx, tipX, tipY) {
+  ctx.save()
+  ctx.translate(tipX, tipY)
+  ctx.fillStyle = '#fffdf8'
+  ctx.strokeStyle = '#e0b15a'
+  ctx.lineWidth = 6
+  ctx.lineJoin = 'round'
+  ctx.lineCap = 'round'
+
+  ctx.globalAlpha = 0.55
+  ctx.beginPath()
+  ctx.arc(0, 8, 22, 0.15 * Math.PI, 0.85 * Math.PI)
+  ctx.stroke()
+  ctx.globalAlpha = 1
+
+  ctx.beginPath()
+  ctx.roundRect(-18, -108, 36, 96, 18)
+  ctx.fill()
+  ctx.stroke()
+
+  ctx.beginPath()
+  ctx.roundRect(-42, -168, 102, 74, 28)
+  ctx.fill()
+  ctx.stroke()
+
+  ctx.beginPath()
+  ctx.ellipse(52, -108, 18, 24, 0.7, 0, Math.PI * 2)
+  ctx.fill()
+  ctx.stroke()
+
+  ctx.fillStyle = '#e7d7b4'
+  ctx.beginPath()
+  ctx.ellipse(0, -86, 8, 11, 0, 0, Math.PI * 2)
+  ctx.fill()
+  ctx.restore()
+}
+
 export async function renderAppCard() {
   try {
     await document.fonts.load(`800 92px ${UI}`)
@@ -406,27 +443,15 @@ export async function renderAppCard() {
   ctx.fillStyle = '#f7f3e8'
   ctx.font = `700 35px ${UI}`
   ctx.fillText('kok-calis.web.app', 168, 1102)
+  drawTapHand(ctx, 860, 1048)
 
-  ctx.fillStyle = '#f7f3e8'
-  ctx.font = `800 28px ${UI}`
-  ctx.textAlign = 'right'
-  ctx.fillText(t('shareCardTap'), 906, 1098)
-  ctx.textAlign = 'left'
-  ctx.beginPath()
-  ctx.moveTo(915, 1090)
-  ctx.lineTo(930, 1103)
-  ctx.lineTo(915, 1116)
-  ctx.strokeStyle = '#f7f3e8'
-  ctx.lineWidth = 5
-  ctx.lineCap = 'round'
-  ctx.lineJoin = 'round'
-  ctx.stroke()
-
-  ctx.fillStyle = '#68736b'
-  ctx.font = `500 25px ${UI}`
+  ctx.fillStyle = '#0f4c38'
+  ctx.font = `800 36px ${UI}`
   ctx.textAlign = 'center'
-  ctx.fillText(t('shareCardHint'), W / 2, 1230)
-  ctx.fillText('Kök çalış · Ücretsiz web uygulaması', W / 2, 1274)
+  ctx.fillText(t('shareCardTap'), W / 2, 1228)
+  ctx.fillStyle = '#68736b'
+  ctx.font = `500 24px ${UI}`
+  ctx.fillText(t('shareCardHint'), W / 2, 1276)
 
   const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/png'))
   if (!blob) throw new Error('png')
@@ -566,9 +591,9 @@ export async function shareApp() {
   }
 
   const shareNative = async () => {
-    if (touchDevice() && navigator.share && file && navigator.canShare?.({ files: [file] })) {
+    if (navigator.share) {
       try {
-        await navigator.share({ files: [file], title: t('homeTitle'), text: caption })
+        await navigator.share({ title: t('homeTitle'), text: caption, url: APP_URL })
         close()
         return
       } catch (err) {
@@ -576,8 +601,7 @@ export async function shareApp() {
       }
     }
     const copied = await copyText(caption)
-    if (blob) download(blob, name)
-    toast(copied ? t('shareFallback') : t('shareFail'))
+    toast(copied ? t('shareLinkCopied') : t('shareFail'))
   }
 
   wrap.addEventListener('click', async (event) => {
@@ -596,19 +620,9 @@ export async function shareApp() {
       return
     }
     if (action === 'instagram') {
-      if (touchDevice() && navigator.share && file && navigator.canShare?.({ files: [file] })) {
-        try {
-          await navigator.share({ files: [file], title: t('homeTitle'), text: caption })
-          close()
-          return
-        } catch (err) {
-          if (err?.name === 'AbortError') return
-        }
-      }
+      const copied = await copyText(caption)
       window.open('https://www.instagram.com/', '_blank', 'noopener')
-      if (blob) download(blob, name)
-      await copyText(caption)
-      toast(t('shareInstagramHint'))
+      toast(copied ? t('shareInstagramHint') : t('shareFail'))
       return
     }
     if (action === 'copy') {
