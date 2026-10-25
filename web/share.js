@@ -1,4 +1,4 @@
-import { t } from './i18n.js?v=19'
+import { t } from './i18n.js?v=20'
 import { verseParts } from './mark.js?v=5'
 
 const WIDTH = 1080
@@ -225,45 +225,26 @@ function showPreview(blob) {
   document.body.appendChild(wrap)
 }
 
-function canShareFiles(name) {
-  if (!navigator.canShare) return false
-  const probe = new File([new Blob()], name, { type: 'image/png' })
-  try {
-    return navigator.canShare({ files: [probe] })
-  } catch {
-    return false
-  }
+function cardCaption(card) {
+  const bits = [card.word, card.meaning, card.ref].filter(Boolean)
+  const lead = bits.join(' · ')
+  return lead ? `${lead}\n${APP_URL}` : APP_URL
 }
 
-export function shareCard(card) {
-  const blobPromise = renderCard(card)
-  const name = `${String(card.ref || 'ayet').replace(':', '-')}.png`
-  if (canShareFiles(name)) {
-    return blobPromise.then(async (blob) => {
-      const file = new File([blob], name, { type: 'image/png' })
-      try {
-        await navigator.share({ files: [file], title: card.ref || '' })
-        return 'shared'
-      } catch (err) {
-        if (err?.name === 'AbortError') throw err
-        showPreview(blob)
-        return 'preview'
-      }
-    })
+export async function shareCard(card) {
+  const caption = cardCaption(card)
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: card.ref || t('homeTitle'), text: caption, url: APP_URL })
+      return 'shared'
+    } catch (err) {
+      if (err?.name === 'AbortError') throw err
+    }
   }
-  if (navigator.clipboard?.write && typeof ClipboardItem !== 'undefined') {
-    return navigator.clipboard
-      .write([new ClipboardItem({ 'image/png': blobPromise })])
-      .then(() => 'copied')
-      .catch(async () => {
-        showPreview(await blobPromise)
-        return 'preview'
-      })
-  }
-  return blobPromise.then((blob) => {
-    showPreview(blob)
-    return 'preview'
-  })
+  const copied = await copyText(caption)
+  if (copied) return 'copied'
+  showPreview(await renderCard(card))
+  return 'preview'
 }
 
 /* ── App share card (1080×1350) ─────────────────────────── */
@@ -508,10 +489,6 @@ async function copyText(text) {
   }
 }
 
-function touchDevice() {
-  return navigator.maxTouchPoints > 0 || window.matchMedia?.('(pointer: coarse)').matches
-}
-
 function download(blob, name) {
   const url = URL.createObjectURL(blob)
   const link = document.createElement('a')
@@ -532,7 +509,6 @@ export async function shareApp() {
   }
   const name = 'kok-calis.png'
   const caption = `${t('shareAppCaption')}\n${APP_URL}`
-  const file = blob ? new File([blob], name, { type: 'image/png' }) : null
 
   document.getElementById('app-share')?.remove()
   const wrap = document.createElement('div')
