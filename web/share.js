@@ -1,4 +1,4 @@
-import { t } from './i18n.js?v=20'
+import { t } from './i18n.js?v=21'
 import { verseParts } from './mark.js?v=5'
 
 const WIDTH = 1080
@@ -228,7 +228,8 @@ function showPreview(blob) {
 function cardCaption(card) {
   const bits = [card.word, card.meaning, card.ref].filter(Boolean)
   const lead = bits.join(' · ')
-  return lead ? `${lead}\n${APP_URL}` : APP_URL
+  const pitch = t('shareAppCaption')
+  return lead ? `${lead}\n\n${pitch}\n${APP_URL}` : `${pitch}\n${APP_URL}`
 }
 
 export async function shareCard(card) {
@@ -592,7 +593,11 @@ export async function shareApp() {
       return
     }
     if (action === 'facebook') {
-      window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(APP_URL)}`, '_blank', 'noopener')
+      window.open(
+        `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(APP_URL)}&quote=${encodeURIComponent(caption)}`,
+        '_blank',
+        'noopener',
+      )
       return
     }
     if (action === 'instagram') {
